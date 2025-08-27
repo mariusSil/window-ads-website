@@ -45,11 +45,11 @@ export class RateLimiter {
   
   private cleanup(now: number) {
     // Remove expired entries to prevent memory leaks
-    for (const [ip, entry] of this.store.entries()) {
+    Array.from(this.store.entries()).forEach(([ip, entry]) => {
       if (now > entry.resetTime + this.WINDOW_MS) {
         this.store.delete(ip);
       }
-    }
+    });
   }
   
   // Get current status for an IP

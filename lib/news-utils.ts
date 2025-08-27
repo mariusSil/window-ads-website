@@ -83,12 +83,9 @@ export async function getRelatedArticles(
   limit: number = 6
 ): Promise<NewsArticle[]> {
   try {
-    console.log(`Loading collection items for news...`);
     const allArticles = await loadCollectionItems('news');
-    console.log(`Loaded ${allArticles.length} total articles`);
     
     if (!allArticles || allArticles.length === 0) {
-      console.warn('No articles found in collection');
       return [];
     }
 
@@ -97,22 +94,17 @@ export async function getRelatedArticles(
       .filter(article => {
         const articleSlug = article.slugs?.[locale];
         const isCurrentArticle = articleSlug === currentArticleSlug;
-        if (isCurrentArticle) {
-          console.log(`Filtering out current article: ${articleSlug}`);
-        }
         return !isCurrentArticle;
       })
       .map(article => convertToNewsArticle(article, locale))
       .filter(article => article !== null) as NewsArticle[];
 
-    console.log(`Found ${otherArticles.length} other articles after filtering`);
 
     // Get current article for comparison
     const currentArticle = allArticles
       .find(article => article.slugs?.[locale] === currentArticleSlug);
     
     if (!currentArticle) {
-      console.warn(`Current article not found with slug: ${currentArticleSlug}`);
       return otherArticles.slice(0, limit);
     }
 
@@ -158,7 +150,6 @@ export async function getRelatedArticles(
       .slice(0, limit);
       
   } catch (error) {
-    console.error('Error loading related articles:', error);
     return [];
   }
 }
@@ -192,7 +183,6 @@ export async function getPreviousNextArticles(
     };
     
   } catch (error) {
-    console.error('Error loading previous/next articles:', error);
     return {};
   }
 }
@@ -227,7 +217,6 @@ export async function getFeaturedArticles(
       .slice(0, limit);
       
   } catch (error) {
-    console.error('Error loading featured articles:', error);
     return [];
   }
 }
@@ -244,7 +233,6 @@ function convertToNewsArticle(
     const localizedSEO = item.seo?.[locale] || item.seo?.en || {};
     
     if (!localizedContent.title && !localizedSEO.title) {
-      console.warn(`Skipping article without title: ${(item as any).itemId || 'unknown'}`);
       return null; // Skip articles without titles
     }
 
@@ -261,10 +249,8 @@ function convertToNewsArticle(
       featured: (item as any).featured || false
     };
 
-    console.log(`Converted article: ${article.title} (${article.slug})`);
     return article;
   } catch (error) {
-    console.error('Error converting article:', error, item);
     return null;
   }
 }

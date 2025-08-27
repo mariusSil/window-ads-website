@@ -101,7 +101,6 @@ export async function loadRoutesConfig(): Promise<RoutesConfig> {
     routesConfigCache.set(cacheKey, routesConfig);
     return routesConfig;
   } catch (error) {
-    console.error('Failed to load routes configuration:', error);
     throw new Error('Routes configuration not found');
   }
 }
@@ -118,7 +117,6 @@ export async function loadPageContent(pageId: string): Promise<PageContent | nul
     pageContentCache.set(pageId, pageContent);
     return pageContent;
   } catch (error) {
-    console.warn(`Page content not found: ${pageId}`);
     return null;
   }
 }
@@ -137,7 +135,6 @@ export async function loadSharedContent(contentType: string): Promise<any> {
     sharedContentCache.set(cacheKey, sharedContent);
     return sharedContent;
   } catch (error) {
-    console.warn(`Shared content not found: ${contentType}`);
     return {};
   }
 }
@@ -162,7 +159,6 @@ export function getLocalizedNewsLabels(newsLabels: any, locale: Locale): any {
 export async function loadCollectionItem(collection: string, itemId: string): Promise<CollectionItem | null> {
   // Only run on server-side
   if (typeof window !== 'undefined') {
-    console.warn('loadCollectionItem should only be called on server-side');
     return null;
   }
 
@@ -182,7 +178,6 @@ export async function loadCollectionItem(collection: string, itemId: string): Pr
     collectionItemCache.set(cacheKey, content);
     return content;
   } catch (error) {
-    console.error(`Error loading collection item ${collection}/${itemId}:`, error);
     return null;
   }
 }
@@ -191,7 +186,6 @@ export async function loadCollectionItem(collection: string, itemId: string): Pr
 export async function getCollectionItems(collection: string): Promise<CollectionItem[]> {
   // Only run on server-side
   if (typeof window !== 'undefined') {
-    console.warn('getCollectionItems should only be called on server-side');
     return [];
   }
 
@@ -213,38 +207,29 @@ export async function getCollectionItems(collection: string): Promise<Collection
     
     return items;
   } catch (error) {
-    console.error(`Error loading collection items for ${collection}:`, error);
+    // Error loading collection items
     return [];
   }
 }
 
 // Find collection item by localized slug
 export async function findCollectionItemBySlug(collection: string, locale: Locale, slug: string): Promise<CollectionItem | null> {
-  console.log(`[DEBUG] Finding collection item - collection: "${collection}", locale: "${locale}", slug: "${slug}"`);
-  
   // Decode URL-encoded slug to handle special characters
   const decodedSlug = decodeURIComponent(slug);
-  console.log(`[DEBUG] Decoded slug: "${decodedSlug}"`);
   
   const items = await getCollectionItems(collection);
-  console.log(`[DEBUG] Loaded ${items.length} items from collection "${collection}"`);
   
   for (const item of items) {
-    console.log(`[DEBUG] Checking item: ${item.itemId}, slugs:`, item.slugs);
-    
     // Check if item has localized slugs - try both original and decoded slug
     if (item.slugs && (item.slugs[locale] === slug || item.slugs[locale] === decodedSlug)) {
-      console.log(`[DEBUG] MATCH FOUND: ${item.itemId} matches slug "${decodedSlug}" for locale "${locale}"`);
       return item;
     }
     // Fallback to itemId if no localized slugs - try both original and decoded
     if (!item.slugs && (item.itemId === slug || item.itemId === decodedSlug)) {
-      console.log(`[DEBUG] FALLBACK MATCH: ${item.itemId} matches slug "${decodedSlug}"`);
       return item;
     }
   }
   
-  console.log(`[DEBUG] NO MATCH FOUND for slug "${decodedSlug}" in collection "${collection}"`);
   return null;
 }
 
@@ -268,14 +253,11 @@ export async function resolveCollectionItem(locale: Locale, category: string, sl
 
 // Enhanced page resolution that handles both regular pages and collection items
 export async function resolvePageBySlug(locale: Locale, slug: string): Promise<PageContent | CollectionItem | null> {
-  console.log(`[DEBUG] Resolving slug: "${slug}" for locale: ${locale}`);
-  
   const routesConfig = await loadRoutesConfig();
   
   // First, try to resolve as a regular page
   const route = routesConfig.routes.find(r => r.urls[locale] === slug);
   if (route) {
-    console.log(`[DEBUG] Found regular page: ${route.pageId}`);
     return await loadPageContent(route.pageId);
   }
   
@@ -285,22 +267,17 @@ export async function resolvePageBySlug(locale: Locale, slug: string): Promise<P
     const category = slugParts[0];
     const itemSlug = slugParts.slice(1).join('/'); // Handle multi-part slugs
     
-    console.log(`[DEBUG] Checking collection - category: "${category}", itemSlug: "${itemSlug}"`);
-    
     // Find the collection that matches this category
     for (const [collectionName, collectionConfig] of Object.entries(routesConfig.collections)) {
       const basePath = collectionConfig.basePath[locale];
-      console.log(`[DEBUG] Comparing "${basePath}" with "${category}" for collection: ${collectionName}`);
       
       if (basePath === category) {
         const result = await resolveCollectionItem(locale, collectionName, itemSlug);
-        console.log(`[DEBUG] Collection resolution result:`, result ? 'FOUND' : 'NOT FOUND');
         return result;
       }
     }
   }
   
-  console.log(`[DEBUG] No resolution found for slug: "${slug}"`);
   return null;
 }
 
@@ -498,7 +475,7 @@ export async function generateCollectionUrls(): Promise<Array<{ locale: Locale; 
         }
       }
     } catch (error) {
-      console.warn(`Error processing collection ${collectionName}:`, error);
+      // Skip collection on error
     }
   }
   
@@ -678,7 +655,6 @@ export async function getLocalizedCollectionURL(
 
     return `/${targetLocale}/${basePath}/${localizedSlug}`;
   } catch (error) {
-    console.error('Error getting localized collection URL:', error);
     return null;
   }
 }
@@ -720,7 +696,6 @@ export async function parseCollectionURL(
 
     return null;
   } catch (error) {
-    console.error('Error parsing collection URL:', error);
     return null;
   }
 }
@@ -754,7 +729,6 @@ async function findItemIdBySlug(
 
     return null;
   } catch (error) {
-    console.error('Error finding item by slug:', error);
     return null;
   }
 }
@@ -786,7 +760,6 @@ export async function loadCollectionItems(collection: string): Promise<any[]> {
     const collectionDir = path.join(process.cwd(), 'content', 'collections', collection);
     
     if (!fs.existsSync(collectionDir)) {
-      console.warn(`Collection directory not found: ${collectionDir}`);
       return [];
     }
 
@@ -799,13 +772,13 @@ export async function loadCollectionItems(collection: string): Promise<any[]> {
         const content = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
         items.push(content);
       } catch (error) {
-        console.warn(`Error loading collection item ${file}:`, error);
+        // Skip item on error
       }
     }
 
     return items;
   } catch (error) {
-    console.error(`Error loading collection items for ${collection}:`, error);
+    // Error loading collection items
     return [];
   }
 }
@@ -833,7 +806,6 @@ export async function getLocalizedStaticPageURL(
 
     return null;
   } catch (error) {
-    console.error('Error getting localized static page URL:', error);
     return null;
   }
 }

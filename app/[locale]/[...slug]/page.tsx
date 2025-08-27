@@ -221,11 +221,9 @@ export default async function DynamicPage({ params }: PageProps) {
         
         // Get current article slug
         const currentSlug = content.slugs?.[locale] || content.itemId;
-        console.log(`Loading navigation for article: ${currentSlug}, locale: ${locale}`);
         
         // Load related articles
         relatedArticles = await getRelatedArticles(currentSlug, locale, 6);
-        console.log(`Found ${relatedArticles.length} related articles`);
         
         // Load previous/next navigation
         const navigation = await getPreviousNextArticles(currentSlug, locale);
@@ -241,10 +239,8 @@ export default async function DynamicPage({ params }: PageProps) {
           featuredImage: navigation.next.featuredImage
         } : undefined;
         
-        console.log(`Navigation loaded - Previous: ${previousArticle?.title || 'None'}, Next: ${nextArticle?.title || 'None'}`);
         
       } catch (e) {
-        console.error('Failed to load navigation data:', e);
         relatedArticles = [];
         previousArticle = undefined;
         nextArticle = undefined;
@@ -256,7 +252,6 @@ export default async function DynamicPage({ params }: PageProps) {
           const content = await loadSharedContent(`components/${componentKey}`);
           return getLocalizedSharedContent(content, locale);
         } catch (error) {
-          console.warn(`Failed to load shared component ${componentKey}:`, error);
           return {};
         }
       };
@@ -375,13 +370,6 @@ export default async function DynamicPage({ params }: PageProps) {
     const { getFinalCollectionComponents } = await import('@/content/lib/content-resolver');
     const finalComponents = getFinalCollectionComponents(content);
 
-    console.log('Collection item processing:', {
-      itemId: content.itemId,
-      collection: content.collection,
-      locale: locale,
-      finalComponents: finalComponents.map(c => ({ type: c.type, contentKey: c.contentKey })),
-      localizedContentKeys: Object.keys(localizedContent)
-    });
 
     // Process components similar to regular pages
     const components = await Promise.all(finalComponents.map(async (component: any) => {
@@ -405,11 +393,6 @@ export default async function DynamicPage({ params }: PageProps) {
         contentData = getLocalizedSharedContent(sharedContent, locale);
       }
       
-      console.log(`Processing component ${component.type} with contentKey ${component.contentKey}:`, {
-        hasContentData: !!contentData,
-        contentDataKeys: typeof contentData === 'object' ? Object.keys(contentData) : 'not object',
-        contentDataType: typeof contentData
-      });
       
       // Handle specific component types with custom processing
       switch (component.type) {

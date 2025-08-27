@@ -63,7 +63,7 @@ function logRequest(data: {
   };
   
   // In production, you might want to use a proper logging service
-  console.log('Email API Request:', JSON.stringify(logEntry));
+  // Email API Request logged
 }
 
 export async function POST(request: NextRequest) {
@@ -214,7 +214,7 @@ export async function POST(request: NextRequest) {
       customerEmailResult = await sendCustomerConfirmation(validatedData);
       // Don't fail the request if customer confirmation fails
       if (!customerEmailResult?.success) {
-        console.warn('Customer confirmation email failed:', customerEmailResult?.error);
+        // Customer confirmation email failed
       }
     }
     

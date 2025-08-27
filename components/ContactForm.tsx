@@ -26,7 +26,7 @@ export function ContactForm({
     // Handle form submission here
     const formData = new FormData(e.target as HTMLFormElement)
     const data = Object.fromEntries(formData.entries())
-    console.log('Form submitted:', data)
+    // Form data processed
 
     // In a real app, you might send this to an API endpoint
     alert('Form submitted! Check console for data.')
