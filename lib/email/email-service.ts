@@ -32,7 +32,7 @@ function createTransporter() {
     path: '/usr/sbin/sendmail'
   };
 
-  return nodemailer.createTransporter(config);
+  return nodemailer.createTransport(config);
 }
 
 export async function sendEmail(options: EmailOptions): Promise<EmailResult> {
@@ -179,17 +179,17 @@ function generateBusinessEmailTemplate(data: UnifiedEmailData): {
           </div>
           ` : ''}
           
-          ${data.city ? `
+          ${data.formType === 'technician' && (data as any).city ? `
           <div class="field">
             <div class="label">📍 City:</div>
-            <div class="value">${data.city}</div>
+            <div class="value">${(data as any).city}</div>
           </div>
           ` : ''}
           
-          ${data.service ? `
+          ${data.formType === 'contact' && (data as any).service ? `
           <div class="field">
             <div class="label">🔧 Service Requested:</div>
-            <div class="value">${getServiceLabel(data.service, data.locale)}</div>
+            <div class="value">${getServiceLabel((data as any).service, data.locale)}</div>
           </div>
           ` : ''}
           
@@ -235,8 +235,8 @@ Customer Details:
 - Name: ${data.name}
 ${data.phone ? `- Phone: ${data.phone}` : ''}
 ${data.email ? `- Email: ${data.email}` : ''}
-${data.city ? `- City: ${data.city}` : ''}
-${data.service ? `- Service: ${getServiceLabel(data.service, data.locale)}` : ''}
+${data.formType === 'technician' && (data as any).city ? `- City: ${(data as any).city}` : ''}
+${data.formType === 'contact' && (data as any).service ? `- Service: ${getServiceLabel((data as any).service, data.locale)}` : ''}
 
 ${data.message ? `Message:\n${data.message}` : ''}
 
