@@ -1,4 +1,4 @@
-import nodemailer from 'nodemailer';
+import * as nodemailer from 'nodemailer';
 import { type Locale } from '@/lib/i18n';
 import { type UnifiedEmailData } from './validation';
 
