@@ -1,0 +1,154 @@
+{
+  "en": {
+    "title": "FREE DIAGNOSTICS & TECHNICIAN VISIT | Work Guarantee",
+    "subtitle": "Serving Warsaw, Łódź, Kraków, Katowice & surrounding areas",
+    "items": [
+      {
+        "icon": "BadgeCheck",
+        "title": "Expert Certified Technicians",
+        "description": "Professional expertise you can trust"
+      },
+      {
+        "icon": "Clock",
+        "title": "Same-Day Service",
+        "description": "Quick response when you need it most"
+      },
+      {
+        "icon": "ShieldHalf",
+        "title": "Work Guarantee",
+        "description": "Comprehensive warranty on all services"
+      },
+      {
+        "icon": "CircleDollarSign",
+        "title": "Transparent Pricing",
+        "description": "No hidden costs, competitive rates"
+      }
+    ],
+    "cta": [
+      {
+        "text": "CALL A TECHNICIAN",
+        "action": "modal",
+        "variant": "default"
+      },
+      {
+        "text": "CONSULTATION",
+        "link": "/contact",
+        "variant": "outline-red"
+      }
+    ]
+  },
+  "lt": {
+    "title": "NEMOKAMA DIAGNOSTIKA IR TECHNIKO VIZITAS | Darbo Garantija",
+    "subtitle": "Aptarnaujame Vilnių, Kauną, Klaipėdą, Šiaulius ir aplinkinius rajonus",
+    "items": [
+      {
+        "icon": "BadgeCheck",
+        "title": "Ekspertai Sertifikuoti Technikai",
+        "description": "Profesionalus patikimumas, kuriam galite pasitikėti"
+      },
+      {
+        "icon": "Clock",
+        "title": "Tos Pačios Dienos Paslaugos",
+        "description": "Greitas atsiliepimas, kai jums to reikia labiausiai"
+      },
+      {
+        "icon": "ShieldHalf",
+        "title": "Darbo Garantija",
+        "description": "Išsami garantija visoms paslaugoms"
+      },
+      {
+        "icon": "CircleDollarSign",
+        "title": "Skaidrūs Kainos",
+        "description": "Jokių paslėptų išlaidų, konkurencingi tarifai"
+      }
+    ],
+    "cta": [
+      {
+        "text": "KVIESTI MEISTRĄ",
+        "action": "modal",
+        "variant": "default"
+      },
+      {
+        "text": "KONSULTACIJA",
+        "link": "/contact",
+        "variant": "outline-red"
+      }
+    ]
+  },
+  "pl": {
+    "title": "DARMOWA DIAGNOSTYKA I WIZYTA TECHNIKA | Gwarancja Pracy",
+    "subtitle": "Obsługujemy Warszawę, Łódź, Kraków, Katowice i okoliczne obszary",
+    "items": [
+      {
+        "icon": "BadgeCheck",
+        "title": "Eksperci Certyfikowani Technicy",
+        "description": "Profesjonalna wiedza, której możesz zaufać"
+      },
+      {
+        "icon": "Clock",
+        "title": "Serwis Tego Samego Dnia",
+        "description": "Szybki czas reakcji, gdy najbardziej tego potrzebujesz"
+      },
+      {
+        "icon": "ShieldHalf",
+        "title": "Gwarancja Pracy",
+        "description": "Kompleksowa gwarancja na wszystkie usługi"
+      },
+      {
+        "icon": "CircleDollarSign",
+        "title": "Przejrzyste Ceny",
+        "description": "Bez ukrytych kosztów, konkurencyjne stawki"
+      }
+    ],
+    "cta": [
+      {
+        "text": "WEZWAĆ TECHNIKA",
+        "action": "modal",
+        "variant": "default"
+      },
+      {
+        "text": "KONSULTACJA",
+        "link": "/contact",
+        "variant": "outline-red"
+      }
+    ]
+  },
+  "uk": {
+    "title": "БЕЗКОШТОВНА ДІАГНОСТИКА ТА ВІЗИТ ТЕХНІКА | Гарантія Роботи",
+    "subtitle": "Обслуговуємо Київ, Харків, Одесу, Дніпро та прилеглі райони",
+    "items": [
+      {
+        "icon": "BadgeCheck",
+        "title": "Експерти Сертифіковані Техніки",
+        "description": "Професійна експертиза, якій ви можете довіряти"
+      },
+      {
+        "icon": "Clock",
+        "title": "Сервіс Того Ж Дня",
+        "description": "Швидке реагування, коли вам це найбільше потрібно"
+      },
+      {
+        "icon": "ShieldHalf",
+        "title": "Гарантія Роботи",
+        "description": "Комплексна гарантія на всі послуги"
+      },
+      {
+        "icon": "CircleDollarSign",
+        "title": "Прозорі Ціни",
+        "description": "Без прихованих витрат, конкурентні тарифи"
+      }
+    ],
+    "cta": [
+      {
+        "text": "ВИКЛИКАТИ ТЕХНІКА",
+        "action": "modal",
+        "variant": "default"
+      },
+      {
+        "text": "КОНСУЛЬТАЦІЯ",
+        "link": "/contact",
+        "variant": "outline-red"
+      }
+    ]
+  }
+}

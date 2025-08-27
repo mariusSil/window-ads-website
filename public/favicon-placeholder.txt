@@ -1,0 +1,35 @@
+# Favicon Placeholder Files Needed
+
+Please add the following favicon files to complete the SEO setup:
+
+## Required Files:
+
+1. **favicon.ico** (32x32 pixels)
+   - Legacy favicon for older browsers
+   - Should be in ICO format
+
+2. **apple-touch-icon.png** (180x180 pixels)
+   - Apple device home screen icon
+   - Should have rounded corners and padding
+   - PNG format with transparent background
+
+3. **icon-192.png** (192x192 pixels)
+   - PWA icon for Android devices
+   - PNG format with transparent background
+
+4. **icon-512.png** (512x512 pixels)
+   - Large PWA icon for high-resolution displays
+   - PNG format with transparent background
+
+5. **icon-mask.png** (512x512 pixels)
+   - Maskable PWA icon with safe zone padding
+   - Should have content within 409x409 circle (safe zone)
+   - Use https://maskable.app to test
+
+## Design Guidelines:
+- Use your brand colors (primary: #4CAF50, secondary: #2196F3)
+- Keep design simple and recognizable at small sizes
+- Ensure good contrast for visibility
+- Test on different backgrounds (light/dark)
+
+Once you add these files, the favicon setup will be complete!

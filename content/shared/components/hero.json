@@ -1,0 +1,178 @@
+{
+  "en": {
+    "badge": "Serving Poland & Eastern Europe",
+    "title": "Expert Window & Door Solutions for Your Home",
+    "subtitle": "Professional repair services with guaranteed quality and fast response times. Trusted by thousands of families across Warsaw, Kraków, and beyond.",
+    "features": [
+      {
+        "icon": "Wrench",
+        "title": "FREE Diagnostics",
+        "subtitle": "No hidden costs"
+      },
+      {
+        "icon": "Clock",
+        "title": "Same-Day Service",
+        "subtitle": "Quick response"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Work Guarantee",
+        "subtitle": "Quality assured"
+      }
+    ],
+    "rating": {
+      "stars": 4.9,
+      "reviews": "2,500+ satisfied customers"
+    },
+    "image": {
+      "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/d13f0792a2-b2486b2cccf0c1039aa4.png",
+      "alt": "modern apartment building exterior with traditional european architecture, large windows, professional photography style, eastern europe residential area"
+    },
+    "cta": [
+      {
+        "text": "CALL A TECHNICIAN",
+        "action": "modal",
+        "variant": "default",
+        "icon": "Phone"
+      },
+      {
+        "text": "CONSULTATION",
+        "link": "/services",
+        "variant": "outline-red",
+        "icon": "Info"
+      }
+    ]
+  },
+  "lt": {
+    "badge": "Aptarnaujame Lenkiją ir Rytų Europą",
+    "title": "Ekspertų Langų ir Durų Sprendimai Namams",
+    "subtitle": "Profesionalios remonto paslaugos su kokybės garantija ir greitu atsaku. Patikimi šeimų Varšuvoje, Krokuvoje ir visoje regione.",
+    "features": [
+      {
+        "icon": "Wrench",
+        "title": "NEMOKAMA Diagnostika",
+        "subtitle": "Jokių paslėptų išlaidų"
+      },
+      {
+        "icon": "Clock",
+        "title": "Tos Pačios Dienos Paslauga",
+        "subtitle": "Greitas atsakymas"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Darbo Garantija",
+        "subtitle": "Užtikrinta kokybė"
+      }
+    ],
+    "rating": {
+      "stars": 4.9,
+      "reviews": "2,500+ patenkintų klientų"
+    },
+    "image": {
+      "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/d13f0792a2-b2486b2cccf0c1039aa4.png",
+      "alt": "šiuolaikinis daugiabučio namo išorė su tradiciniu europos architektūra, dideli langai, profesionalios fotografijos stilius, rytų europos gyvenamasis rajonas"
+    },
+    "cta": [
+      {
+        "text": "KVIESTI MEISTRĄ",
+        "action": "modal",
+        "variant": "default",
+        "icon": "Phone"
+      },
+      {
+        "text": "KONSULTACIJA",
+        "link": "/services",
+        "variant": "outline-red",
+        "icon": "Info"
+      }
+    ]
+  },
+  "pl": {
+    "badge": "Obsługujemy Polskę i Europę Wschodnią",
+    "title": "Eksperckie Rozwiązania Okien i Drzwi dla Domu",
+    "subtitle": "Profesjonalne usługi naprawy z gwarancją jakości i szybką reakcją. Zaufały nam tysiące rodzin w Warszawie, Krakowie i regionie.",
+    "features": [
+      {
+        "icon": "Wrench",
+        "title": "DARMOWA Diagnostyka",
+        "subtitle": "Bez ukrytych kosztów"
+      },
+      {
+        "icon": "Clock",
+        "title": "Serwis Tego Samego Dnia",
+        "subtitle": "Szybka reakcja"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Gwarancja Pracy",
+        "subtitle": "Zapewniona jakość"
+      }
+    ],
+    "rating": {
+      "stars": 4.9,
+      "reviews": "2,500+ zadowolonych klientów"
+    },
+    "image": {
+      "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/d13f0792a2-b2486b2cccf0c1039aa4.png",
+      "alt": "nowoczesny budynek mieszkalny z tradycyjną europejską architekturą, duże okna, styl fotografii profesjonalnej, dzielnica mieszkaniowa w Europie Wschodniej"
+    },
+    "cta": [
+      {
+        "text": "WEZWAĆ TECHNIKA",
+        "action": "modal",
+        "variant": "default",
+        "icon": "Phone"
+      },
+      {
+        "text": "KONSULTACJA",
+        "link": "/services",
+        "variant": "outline-red",
+        "icon": "Info"
+      }
+    ]
+  },
+  "uk": {
+    "badge": "Обслуговуємо Польщу та Східну Європу",
+    "title": "Експертні Рішення для Вікон та Дверей Дому",
+    "subtitle": "Професійні послуги з ремонту з гарантованою якістю та швидким реагуванням. Нам довіряють тисячі сімей у Варшаві, Кракові та регіоні.",
+    "features": [
+      {
+        "icon": "Wrench",
+        "title": "БЕЗКОШТОВНА Діагностика",
+        "subtitle": "Без прихованих витрат"
+      },
+      {
+        "icon": "Clock",
+        "title": "Сервіс У Той Же День",
+        "subtitle": "Швидке реагування"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Гарантія Роботи",
+        "subtitle": "Забезпечена якість"
+      }
+    ],
+    "rating": {
+      "stars": 4.9,
+      "reviews": "2,500+ задоволених клієнтів"
+    },
+    "image": {
+      "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/d13f0792a2-b2486b2cccf0c1039aa4.png",
+      "alt": "сучасний житловий будинок із традиційною європейською архітектурою, великі вікна, професійний фотографічний стиль, житловий район Східної Європи"
+    },
+    "cta": [
+      {
+        "text": "ВИКЛИКАТИ ТЕХНІКА",
+        "action": "modal",
+        "variant": "default",
+        "icon": "Phone"
+      },
+      {
+        "text": "КОНСУЛЬТАЦІЯ",
+        "link": "/services",
+        "variant": "outline-red",
+        "icon": "Info"
+      }
+    ]
+  }
+}

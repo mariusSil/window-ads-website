@@ -1,0 +1,414 @@
+{
+  "en": {
+    "sectionTitle": "Comprehensive Window & Door Repair Services",
+    "sectionSubtitle": "Professional solutions for all your window and door needs",
+    "buttonText": "CALL A TECHNICIAN",
+    "services": [
+      {
+        "id": "window-adjustment",
+        "title": "Window Adjustment",
+        "description": "Precise window alignment and mechanism adjustment for smooth operation.",
+        "priceFrom": "From €45",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+          "alt": "Professional technician adjusting window hinges with tools, close-up repair work"
+        },
+        "isEmergency": false,
+        "prefillText": "I need window adjustment service. My windows are not closing properly and need professional alignment."
+      },
+      {
+        "id": "gasket-replacement",
+        "title": "Gasket Replacement",
+        "description": "Professional weatherproofing seal renewal for energy efficiency.",
+        "priceFrom": "From €35",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+          "alt": "Technician replacing rubber gasket seal on window frame, detailed repair work"
+        },
+        "isEmergency": false,
+        "prefillText": "I need gasket replacement service. My window seals are worn out and letting in drafts."
+      },
+      {
+        "id": "mechanism-replacement",
+        "title": "Mechanism Replacement",
+        "description": "Complete hardware component replacement for optimal functionality.",
+        "priceFrom": "From €65",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+          "alt": "Window mechanism parts and tools on workbench, replacement hardware ready for installation"
+        },
+        "isEmergency": false,
+        "prefillText": "I need mechanism replacement service. My window handle is broken and the opening mechanism doesn't work properly."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Window Sealing",
+        "description": "Professional weatherproofing application for energy savings.",
+        "priceFrom": "From €30",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+          "alt": "Technician applying weatherproof sealant around window frame edges, precision sealing work"
+        },
+        "isEmergency": false,
+        "prefillText": "I need window sealing service. There are gaps around my windows that need professional weatherproofing."
+      },
+      {
+        "id": "cleaning-lubrication",
+        "title": "Cleaning & Lubrication",
+        "description": "Maintenance service for smooth operation and longevity.",
+        "priceFrom": "From €40",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+          "alt": "Technician cleaning and lubricating window track mechanism, maintenance service work"
+        },
+        "isEmergency": false,
+        "prefillText": "I need cleaning and lubrication service. My windows are difficult to open and close and need maintenance."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Glass Unit Replacement",
+        "description": "Complete glass panel replacement with energy-efficient options.",
+        "priceFrom": "From €120",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+          "alt": "Technicians installing new double-glazed glass unit into window frame, professional glass replacement"
+        },
+        "isEmergency": false,
+        "prefillText": "I need glass unit replacement service. My window glass is damaged/broken and needs professional replacement."
+      },
+      {
+        "id": "geometry-restoration",
+        "title": "Geometry Restoration",
+        "description": "Frame alignment and structural repair for proper function.",
+        "priceFrom": "From €75",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/c8c69828a1-d8edbc2ff80d41521467.png",
+          "alt": "Technician using level tool to check window frame alignment, geometry correction repair work"
+        },
+        "isEmergency": false,
+        "prefillText": "I need geometry restoration service. My window frame is misaligned and needs structural repair."
+      },
+      {
+        "id": "emergency-opening",
+        "title": "Emergency Opening",
+        "description": "24/7 urgent access service for stuck windows and doors.",
+        "priceFrom": "From €95",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/092074e752-1185ce1516e031aa1a73.png",
+          "alt": "Emergency service van with tools, technician responding to urgent window door repair call"
+        },
+        "isEmergency": true,
+        "prefillText": "I have an emergency situation - my window/door is stuck and I cannot open it. Please provide urgent assistance as soon as possible."
+      }
+    ]
+  },
+  "lt": {
+    "sectionTitle": "Išsamūs langų ir durų remonto paslaugos",
+    "sectionSubtitle": "Profesionalūs sprendimai visiems jūsų langų ir durų poreikiams",
+    "buttonText": "KVIESTI MEISTRĄ",
+    "services": [
+      {
+        "id": "window-adjustment",
+        "title": "Langų reguliavimas",
+        "description": "Tikslus langų išlygiavimas ir mechanizmo reguliavimas sklandžiam veikimui.",
+        "priceFrom": "Nuo €45",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+          "alt": "Profesionalus langų reguliavimo paslaugos"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia langų reguliavimo paslaugos. Mano langai tinkamai neužsidaro ir reikia profesionalaus išlygiavimo."
+      },
+      {
+        "id": "gasket-replacement",
+        "title": "Tarpiklių keitimas",
+        "description": "Profesionalus sandarinimo elementų atnaujinimas energijos taupymui.",
+        "priceFrom": "Nuo €35",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+          "alt": "Langų tarpiklių keitimo paslauga"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia tarpiklių keitimo paslaugos. Mano langų sandarikliai susidėvėję ir praleidžia šaltį."
+      },
+      {
+        "id": "mechanism-replacement",
+        "title": "Mechanizmų keitimas",
+        "description": "Visų techninių komponentų keitimas optimaliam funkcionalumui.",
+        "priceFrom": "Nuo €65",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+          "alt": "Langų mechanizmų keitimo paslauga"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia mechanizmų keitimo paslaugos. Mano lango rankena sugedusi ir atidarymo mechanizmas neveikia tinkamai."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Langų sandarinimas",
+        "description": "Profesionalus apsaugos nuo oro sąlygų taikymas energijos taupymui.",
+        "priceFrom": "Nuo €30",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+          "alt": "Profesionalus langų sandarinimo paslauga"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia langų sandarinimo paslaugos. Aplink langus yra plyšių, kuriuos reikia profesionaliai užsandarinti."
+      },
+      {
+        "id": "cleaning-lubrication",
+        "title": "Valymas ir tepimas",
+        "description": "Priežiūros paslauga sklandžiam veikimui ir ilgaamžiškumui.",
+        "priceFrom": "Nuo €40",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+          "alt": "Langų valymo ir tepimo paslauga"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia valymo ir tepimo paslaugos. Mano langus sunku atidaryti ir uždaryti, reikia priežiūros."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Stiklo paketo keitimas",
+        "description": "Visiškas stiklo plokštės keitimas su energijos taupymo variantais.",
+        "priceFrom": "Nuo €120",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+          "alt": "Stiklo paketo keitimo paslauga"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia stiklo paketo keitimo paslaugos. Mano lango stiklas pažeistas/sudužęs ir reikia profesionalaus keitimo."
+      },
+      {
+        "id": "geometry-restoration",
+        "title": "Geometrijos atkūrimas",
+        "description": "Rėmo išlygiavimas ir struktūrinis remontas tinkamam veikimui.",
+        "priceFrom": "Nuo €75",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/c8c69828a1-d8edbc2ff80d41521467.png",
+          "alt": "Langų geometrijos atkūrimo paslauga"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia geometrijos atkūrimo paslaugos. Mano lango rėmas išsikraipęs ir reikia struktūrinio remonto."
+      },
+      {
+        "id": "emergency-opening",
+        "title": "Skubaus atidarymo",
+        "description": "24/7 skubios pagalbos paslauga užstrigusiems langams ir durims.",
+        "priceFrom": "Nuo €95",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/092074e752-1185ce1516e031aa1a73.png",
+          "alt": "Skubaus langų atidarymo paslauga"
+        },
+        "isEmergency": true,
+        "prefillText": "Turiu skubią situaciją - mano langas/durys užstrigo ir negaliu atidaryti. Prašau suteikti skubią pagalbą kuo greičiau."
+      }
+    ]
+  },
+  "pl": {
+    "sectionTitle": "Kompleksowe usługi naprawy okien i drzwi",
+    "sectionSubtitle": "Profesjonalne rozwiązania dla wszystkich potrzeb okien i drzwi",
+    "buttonText": "WEZWAĆ TECHNIKA",
+    "services": [
+      {
+        "id": "window-adjustment",
+        "title": "Regulacja okien",
+        "description": "Precyzyjne wyrównanie okien i regulacja mechanizmów dla płynnego działania.",
+        "priceFrom": "Od €45",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+          "alt": "Profesjonalna usługa regulacji okien"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi regulacji okien. Moje okna nie zamykają się prawidłowo i wymagają profesjonalnego wyrównania."
+      },
+      {
+        "id": "gasket-replacement",
+        "title": "Wymiana uszczelek",
+        "description": "Profesjonalna wymiana uszczelek pogodowych dla efektywności energetycznej.",
+        "priceFrom": "Od €35",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+          "alt": "Usługa wymiany uszczelek okiennych"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi wymiany uszczelek. Uszczelki w moich oknach są zużyte i przepuszczają przeciągi."
+      },
+      {
+        "id": "mechanism-replacement",
+        "title": "Wymiana mechanizmów",
+        "description": "Kompletna wymiana komponentów sprzętowych dla optymalnej funkcjonalności.",
+        "priceFrom": "Od €65",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+          "alt": "Usługa wymiany mechanizmów okiennych"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi wymiany mechanizmów. Klamka w moim oknie jest zepsuta i mechanizm otwierania nie działa prawidłowo."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Uszczelnianie okien",
+        "description": "Profesjonalne zastosowanie uszczelnień pogodowych dla oszczędności energii.",
+        "priceFrom": "Od €30",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+          "alt": "Profesjonalna usługa uszczelniania okien"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi uszczelniania okien. Wokół moich okien są szczeliny, które wymagają profesjonalnego uszczelnienia."
+      },
+      {
+        "id": "cleaning-lubrication",
+        "title": "Czyszczenie i smarowanie",
+        "description": "Usługa konserwacji dla płynnego działania i trwałości.",
+        "priceFrom": "Od €40",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+          "alt": "Usługa czyszczenia i smarowania okien"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi czyszczenia i smarowania. Moje okna są trudne do otwierania i zamykania i wymagają konserwacji."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Wymiana szyb",
+        "description": "Kompletna wymiana paneli szklanych z opcjami energooszczędnymi.",
+        "priceFrom": "Od €120",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+          "alt": "Usługa wymiany szyb"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi wymiany szyb. Szkło w moim oknie jest uszkodzone/rozbite i wymaga profesjonalnej wymiany."
+      },
+      {
+        "id": "geometry-restoration",
+        "title": "Przywracanie geometrii",
+        "description": "Wyrównanie ram i naprawa strukturalna dla prawidłowego funkcjonowania.",
+        "priceFrom": "Od €75",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/c8c69828a1-d8edbc2ff80d41521467.png",
+          "alt": "Usługa przywracania geometrii okien"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi przywracania geometrii. Rama mojego okna jest przekrzywiona i wymaga naprawy strukturalnej."
+      },
+      {
+        "id": "emergency-opening",
+        "title": "Awaryjne otwieranie",
+        "description": "24/7 pilna usługa dostępu do zablokowanych okien i drzwi.",
+        "priceFrom": "Od €95",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/092074e752-1185ce1516e031aa1a73.png",
+          "alt": "Awaryjna usługa otwierania okien"
+        },
+        "isEmergency": true,
+        "prefillText": "Mam sytuację awaryjną - moje okno/drzwi są zablokowane i nie mogę ich otworzyć. Proszę o pilną pomoc jak najszybciej."
+      }
+    ]
+  },
+  "uk": {
+    "sectionTitle": "Комплексні послуги ремонту вікон і дверей",
+    "sectionSubtitle": "Професійні рішення для всіх ваших потреб щодо вікон і дверей",
+    "buttonText": "ВИКЛИКАТИ ТЕХНІКА",
+    "services": [
+      {
+        "id": "window-adjustment",
+        "title": "Регулювання вікон",
+        "description": "Точне вирівнювання вікон і регулювання механізмів для плавної роботи.",
+        "priceFrom": "Від €45",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+          "alt": "Професійна послуга регулювання вікон"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга регулювання вікон. Мої вікна не закриваються належним чином і потребують професійного вирівнювання."
+      },
+      {
+        "id": "gasket-replacement",
+        "title": "Заміна ущільнювачів",
+        "description": "Професійне оновлення ущільнювачів для енергоефективності.",
+        "priceFrom": "Від €35",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+          "alt": "Послуга заміни віконних ущільнювачів"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга заміни ущільнювачів. Ущільнювачі моїх вікон зношені і пропускають протяги."
+      },
+      {
+        "id": "mechanism-replacement",
+        "title": "Заміна механізмів",
+        "description": "Повна заміна апаратних компонентів для оптимальної функціональності.",
+        "priceFrom": "Від €65",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+          "alt": "Послуга заміни віконних механізмів"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга заміни механізмів. Ручка мого вікна зламана і механізм відкривання не працює належним чином."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Герметизація вікон",
+        "description": "Професійне застосування герметизації для економії енергії.",
+        "priceFrom": "Від €30",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+          "alt": "Професійна послуга герметизації вікон"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга герметизації вікон. Навколо моїх вікон є щілини, які потребують професійної герметизації."
+      },
+      {
+        "id": "cleaning-lubrication",
+        "title": "Чищення та змащування",
+        "description": "Послуга обслуговування для плавної роботи та довговічності.",
+        "priceFrom": "Від €40",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+          "alt": "Послуга чищення та змащування вікон"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга чищення та змащування. Мої вікна важко відкривати і закривати, потрібне обслуговування."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Заміна склопакетів",
+        "description": "Повна заміна скляних панелей з енергоефективними варіантами.",
+        "priceFrom": "Від €120",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+          "alt": "Послуга заміни склопакетів"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга заміни склопакетів. Скло мого вікна пошкоджене/розбите і потребує професійної заміни."
+      },
+      {
+        "id": "geometry-restoration",
+        "title": "Відновлення геометрії",
+        "description": "Вирівнювання рам і структурний ремонт для правильної роботи.",
+        "priceFrom": "Від €75",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/c8c69828a1-d8edbc2ff80d41521467.png",
+          "alt": "Послуга відновлення геометрії вікон"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга відновлення геометрії. Рама мого вікна перекошена і потребує структурного ремонту."
+      },
+      {
+        "id": "emergency-opening",
+        "title": "Екстрене відкриття",
+        "description": "24/7 термінова послуга доступу до заблокованих вікон і дверей.",
+        "priceFrom": "Від €95",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/092074e752-1185ce1516e031aa1a73.png",
+          "alt": "Екстрена послуга відкриття вікон"
+        },
+        "isEmergency": true,
+        "prefillText": "У мене екстрена ситуація - моє вікно/двері заблоковані і я не можу їх відкрити. Будь ласка, надайте термінову допомогу якнайшвидше."
+      }
+    ]
+  }
+}

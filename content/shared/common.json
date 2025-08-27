@@ -1,0 +1,1006 @@
+{
+  "en": {
+    "site": {
+      "name": "AI Website Template",
+      "shortName": "AI Template",
+      "description": "Modern website template built with Next.js, React, and AI-powered features for fast, SEO-optimized web development.",
+      "keywords": "website template, Next.js, React, TypeScript, AI, modern web development, SEO optimization"
+    },
+    "logoText": "Professional Window & Door Repair Services",
+    "buttons": {
+      "learnMore": "Learn More",
+      "getStarted": "Get Started",
+      "readMore": "Read More",
+      "viewAll": "View All",
+      "backToTop": "Back to Top",
+      "request_technician": "CALL A TECHNICIAN",
+      "free_consultation": "CONSULTATION"
+    },
+    "prefillTemplates": {
+      "interestedIn": "I'm interested in: {itemName}",
+      "inquiryAbout": "I have an inquiry about: {itemName}",
+      "requestQuote": "I would like a quote for: {itemName}"
+    },
+    "forms": {
+      "required": "Required field",
+      "invalidEmail": "Please enter a valid email address",
+      "loading": "Loading...",
+      "submit": "Submit",
+      "cancel": "Cancel"
+    },
+    "accessibility": {
+      "skipToContent": "Skip to main content",
+      "openMenu": "Open navigation menu",
+      "closeMenu": "Close navigation menu",
+      "toggleTheme": "Toggle theme"
+    },
+    "phone": "+370 644 45403",
+    "telegram": "your-telegram-username",
+    "whatsapp": "37064445403",
+    "redesign": {
+      "logoText": "Professional Window & Door Repair Services",
+      "servingArea": "Serving Poland & Eastern Europe",
+      "header": {
+        "contactIcons": {
+          "telegram": "languremontas",
+          "whatsapp": "37064445403"
+        }
+      },
+      "hero": {
+        "title": "Expert Window & Door Solutions for Your Home",
+        "subtitle": "Professional repair services with guaranteed quality and fast response times. Trusted by thousands of families across Warsaw, Kraków, and beyond.",
+        "trustBadges": {
+          "diagnostics": {
+            "title": "FREE Diagnostics",
+            "subtitle": "No hidden costs"
+          },
+          "sameday": {
+            "title": "Same-Day Service",
+            "subtitle": "Quick response"
+          },
+          "guarantee": {
+            "title": "Work Guarantee",
+            "subtitle": "Quality assured"
+          }
+        },
+        "rating": "4.9/5 rating",
+        "reviewsCount": "2,500+ satisfied customers"
+      },
+      "valueProposition": {
+        "title": "FREE DIAGNOSTICS & TECHNICIAN VISIT | Work Guarantee",
+        "subtitle": "Serving Warsaw, Łódź, Kraków, Katowice & surrounding areas",
+        "points": [
+          {
+            "icon": "certificate",
+            "title": "Expert Certified Technicians",
+            "description": "Professional expertise you can trust"
+          },
+          {
+            "icon": "clock",
+            "title": "Same-Day Service",
+            "description": "Quick response when you need it most"
+          },
+          {
+            "icon": "shield-halved",
+            "title": "Work Guarantee",
+            "description": "Comprehensive warranty on all services"
+          },
+          {
+            "icon": "dollar-sign",
+            "title": "Transparent Pricing",
+            "description": "No hidden costs, competitive rates"
+          }
+        ]
+      },
+      "serviceCards": {
+        "title": "Our Services",
+        "subtitle": "High-quality solutions for all your window and door needs.",
+        "items": [
+          {
+            "id": "service-1",
+            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+            "title": "Window Repair",
+            "description": "Comprehensive repair for all types of windows, restoring functionality and appearance.",
+            "price": "From €50",
+            "cta": {
+              "text": "Get Service",
+              "href": "/en/services/window-repair"
+            }
+          },
+          {
+            "id": "service-2",
+            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+            "title": "Door Adjustment",
+            "description": "Expert adjustment for misaligned or difficult-to-close doors.",
+            "price": "From €40",
+            "cta": {
+              "text": "Get Service",
+              "href": "/en/services/door-adjustment"
+            }
+          },
+          {
+            "id": "service-3",
+            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/1219efa6c2-1eebe76d8698624cc69b.png",
+            "title": "Seal Replacement",
+            "description": "Improve insulation and prevent drafts with new, high-quality seals.",
+            "price": "From €30",
+            "cta": {
+              "text": "Get Service",
+              "href": "/en/services/seal-replacement"
+            }
+          }
+        ]
+      },
+      "testimonials": {
+        "title": "What Our Customers Say",
+        "subtitle": "Trusted by homeowners across the region for our commitment to quality.",
+        "items": [
+          {
+            "quote": "The team was professional and fixed our windows in no time. Highly recommended!",
+            "name": "John Doe",
+            "location": "Warsaw, Poland",
+            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+            "rating": 5
+          },
+          {
+            "quote": "Excellent service from start to finish. Our doors work perfectly now.",
+            "name": "Jane Smith",
+            "location": "Kraków, Poland",
+            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+            "rating": 5
+          },
+          {
+            "quote": "A very reliable and transparent company. The quality of work is exceptional.",
+            "name": "Peter Jones",
+            "location": "Łódź, Poland",
+            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+            "rating": 5
+          }
+        ]
+      },
+      "footer": {
+        "logoText": "Langu Remontas",
+        "description": "Your trusted partner for professional window and door repair services. Quality and customer satisfaction are our top priorities.",
+        "navigationTitle": "Navigation",
+        "servicesTitle": "Our Services",
+        "contactTitle": "Contact Us",
+        "legalTitle": "Legal Information",
+        "copyright": " Langu Remontas. All rights reserved.",
+        "contactInfo": {
+          "address": "123 Window Repair St, Warsaw, Poland",
+          "phone": "+48 123 456 789",
+          "email": "contact@languremontas.com",
+          "telegram": "languremontas",
+          "whatsapp": "48123456789"
+        },
+        "workingHours": {
+          "title": "Working Hours",
+          "schedule": "Mon-Fri: 8:00-18:00, Sat: 9:00-15:00",
+          "emergency": "24/7 Emergency Service Available"
+        },
+        "trustBadges": {
+          "certified": "Certified Technicians",
+          "sameDay": "Same-Day Service"
+        },
+        "legal": {
+          "privacyPolicy": "Privacy Policy",
+          "termsOfService": "Terms of Service",
+          "cookiePolicy": "Cookie Policy"
+        },
+        "business": {
+          "title": "Business Information",
+          "companyName": "Langu Remontas UAB",
+          "registrationNumber": "Company Code: 123456789",
+          "vatNumber": "VAT: LT123456789012",
+          "registeredAddress": "Business Address, Vilnius, Lithuania"
+        },
+        "certifications": [
+          {
+            "name": "ISO 9001",
+            "icon": "Award"
+          },
+          {
+            "name": "Licensed",
+            "icon": "ShieldCheck"
+          }
+        ],
+        "socialLinks": [
+          {
+            "name": "Facebook",
+            "icon": "facebook",
+            "href": "https://facebook.com"
+          },
+          {
+            "name": "Instagram",
+            "icon": "instagram",
+            "href": "https://instagram.com"
+          },
+          {
+            "name": "LinkedIn",
+            "icon": "linkedin",
+            "href": "https://linkedin.com"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "How It Works",
+        "subtitle": "Our process is designed for your convenience and peace of mind.",
+        "steps": [
+          {
+            "id": "step-1",
+            "title": "Request a Service",
+            "description": "Contact us via phone or our online form to schedule a free consultation and diagnostics."
+          },
+          {
+            "id": "step-2",
+            "title": "Technician Visit",
+            "description": "Our certified technician arrives on time, assesses the issue, and provides a transparent quote."
+          },
+          {
+            "id": "step-3",
+            "title": "Expert Repair",
+            "description": "We complete the repair efficiently using high-quality parts and professional techniques."
+          },
+          {
+            "id": "step-4",
+            "title": "Quality Check & Guarantee",
+            "description": "We ensure everything works perfectly and provide a comprehensive warranty for the work done."
+          }
+        ]
+      }
+    }
+  },
+  "lt": {
+    "site": {
+      "name": "AI Svetainės Šablonas",
+      "shortName": "AI Šablonas",
+      "description": "Šiuolaikinis svetainės šablonas sukurtas su Next.js, React ir AI technologijomis greitam, SEO optimizuotam web kūrimui.",
+      "keywords": "svetainės šablonas, Next.js, React, TypeScript, AI, šiuolaikinis web kūrimas, SEO optimizavimas"
+    },
+    "logoText": "Profesionalus langų ir durų remontas",
+    "buttons": {
+      "learnMore": "Sužinoti daugiau",
+      "getStarted": "Pradėti",
+      "readMore": "Skaityti daugiau",
+      "viewAll": "Žiūrėti visus",
+      "backToTop": "Grįžti į viršų",
+      "request_technician": "KVIESTI MEISTRĄ",
+      "free_consultation": "KONSULTACIJA"
+    },
+    "prefillTemplates": {
+      "interestedIn": "Domina: {itemName}",
+      "inquiryAbout": "Turiu klausimą dėl: {itemName}",
+      "requestQuote": "Norėčiau gauti pasiūlymą dėl: {itemName}"
+    },
+    "forms": {
+      "required": "Privalomas laukas",
+      "invalidEmail": "Įveskite galiojantį el. pašto adresą",
+      "loading": "Kraunama...",
+      "submit": "Pateikti",
+      "cancel": "Atšaukti"
+    },
+    "accessibility": {
+      "skipToContent": "Pereiti prie pagrindinio turinio",
+      "openMenu": "Atidaryti navigacijos meniu",
+      "closeMenu": "Uždaryti navigacijos meniu",
+      "toggleTheme": "Perjungti temą"
+    },
+    "phone": "+370 644 45403",
+    "telegram": "your-telegram-username",
+    "whatsapp": "37064445403",
+    "redesign": {
+      "logoText": "Profesionalus langų ir durų remontas",
+      "servingArea": "Tarnaujame Lietuvą ir Rytų Europą",
+      "header": {
+        "contactIcons": {
+          "telegram": "languremontas",
+          "whatsapp": "37064445403"
+        }
+      },
+      "hero": {
+        "title": "Ekspertiniai langų ir durų sprendimai Jūsų namams",
+        "subtitle": "Profesionalūs remonto paslaugos su garantuotu kokybe ir greitu atsakyimu. Patikėję tūkstančiai šeimų Vilniuje, Kaune ir kitur.",
+        "trustBadges": {
+          "diagnostics": {
+            "title": "NEMOKAMAS DIAGNOSTIKOS",
+            "subtitle": "Nėra paslėptų sąnaudų"
+          },
+          "sameday": {
+            "title": "TŲS PAČIOS DIENOS PASLAUGA",
+            "subtitle": "Greitas atsakyimas"
+          },
+          "guarantee": {
+            "title": "DARBO GARANTIJOS",
+            "subtitle": "Kokybė garantuota"
+          }
+        },
+        "rating": "4.9/5 reitingas",
+        "reviewsCount": "2,500+ patenkintų klientų"
+      },
+      "valueProposition": {
+        "title": "NEMOKAMAS DIAGNOSTIKOS & MEISTRO APsilankymas | Darbo garantija",
+        "subtitle": "Tarnaujame Vilnių, Kauną, Klaipėdą, Šiaulius ir aplinkines teritorijas",
+        "points": [
+          {
+            "icon": "certificate",
+            "title": "Ekspertiniai sertifikuoti meistrai",
+            "description": "Profesionali ekspertizė, kurią galite pasitikėti"
+          },
+          {
+            "icon": "clock",
+            "title": "TŲS PAČIOS DIENOS PASLAUGA",
+            "description": "Greitas atsakyimas, kai jums reikia"
+          },
+          {
+            "icon": "shield-halved",
+            "title": "Darbo garantija",
+            "description": "Visų paslaugų garantija"
+          },
+          {
+            "icon": "dollar-sign",
+            "title": "Transparenčios kainos",
+            "description": "Nėra paslėptų sąnaudų, konkurencingos kainos"
+          }
+        ]
+      },
+      "serviceCards": {
+        "title": "Mūsų Paslaugos",
+        "subtitle": "Aukštos kokybės sprendimai visiems jūsų langų ir durų poreikiams.",
+        "items": [
+          {
+            "id": "service-1",
+            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+            "title": "Langų Remontas",
+            "description": "Išsamus visų tipų langų remontas, atkuriant funkcionalumą ir išvaizdą.",
+            "price": "Nuo 50 €",
+            "cta": {
+              "text": "Gauti Paslaugą",
+              "href": "/lt/paslaugos/langu-remontas"
+            }
+          },
+          {
+            "id": "service-2",
+            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+            "title": "Durų Reguliavimas",
+            "description": "Profesionalus netinkamai suderintų ar sunkiai užsidarančių durų reguliavimas.",
+            "price": "Nuo 40 €",
+            "cta": {
+              "text": "Gauti Paslaugą",
+              "href": "/lt/paslaugos/duru-reguliavimas"
+            }
+          },
+          {
+            "id": "service-3",
+            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/1219efa6c2-1eebe76d8698624cc69b.png",
+            "title": "Tarpinių Keitimas",
+            "description": "Pagerinkite izoliaciją ir išvenkite skersvėjų su naujomis, aukštos kokybės tarpinėmis.",
+            "price": "Nuo 30 €",
+            "cta": {
+              "text": "Gauti Paslaugą",
+              "href": "/lt/paslaugos/tarpiniu-keitimas"
+            }
+          }
+        ]
+      },
+      "testimonials": {
+        "title": "Ką Sako Mūsų Klientai",
+        "subtitle": "Regiono namų savininkų pasitikėjimas dėl mūsų įsipareigojimo kokybei.",
+        "items": [
+          {
+            "quote": "Komanda buvo profesionali ir greitai sutvarkė mūsų langus. Labai rekomenduoju!",
+            "name": "Jonas Jonaitis",
+            "location": "Vilnius, Lietuva",
+            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+            "rating": 5
+          },
+          {
+            "quote": "Puikus aptarnavimas nuo pradžios iki pabaigos. Mūsų durys dabar veikia puikiai.",
+            "name": "Ona Onaitė",
+            "location": "Kaunas, Lietuva",
+            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+            "rating": 5
+          },
+          {
+            "quote": "Labai patikima ir skaidri įmonė. Darbų kokybė išskirtinė.",
+            "name": "Petras Petraitis",
+            "location": "Klaipėda, Lietuva",
+            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+            "rating": 5
+          }
+        ]
+      },
+      "footer": {
+        "logoText": "Langu Remontas",
+        "description": "Jūsų patikimas partneris profesionaliam langų ir durų remontui. Kokybė ir klientų pasitenkinimas yra mūsų prioritetai.",
+        "navigationTitle": "Navigacija",
+        "servicesTitle": "Mūsų Paslaugos",
+        "contactTitle": "Susisiekite su Mumis",
+        "legalTitle": "Teisinė Informacija",
+        "copyright": " Langu Remontas. Visos teisės saugomos.",
+        "contactInfo": {
+          "address": "Langų Remonto g. 123, Vilnius, Lietuva",
+          "phone": "+370 123 45678",
+          "email": "kontaktai@languremontas.lt",
+          "telegram": "languremontas",
+          "whatsapp": "37012345678"
+        },
+        "workingHours": {
+          "title": "Darbo Laikas",
+          "schedule": "Pr-Pn: 8:00-18:00, Št: 9:00-15:00",
+          "emergency": "24/7 Skubios Pagalbos Paslauga"
+        },
+        "trustBadges": {
+          "certified": "Sertifikuoti Meistrai",
+          "sameDay": "Tos Pačios Dienos Paslauga"
+        },
+        "legal": {
+          "privacyPolicy": "Privatumo Politika",
+          "termsOfService": "Paslaugų Teikimo Sąlygos",
+          "cookiePolicy": "Slapukų Politika"
+        },
+        "business": {
+          "title": "Įmonės Informacija",
+          "companyName": "Langu Remontas UAB",
+          "registrationNumber": "Įmonės kodas: 123456789",
+          "vatNumber": "PVM: LT123456789012",
+          "registeredAddress": "Verslo adresas, Vilnius, Lietuva"
+        },
+        "certifications": [
+          {
+            "name": "ISO 9001",
+            "icon": "Award"
+          },
+          {
+            "name": "Licencijuota",
+            "icon": "ShieldCheck"
+          }
+        ],
+        "socialLinks": [
+          {
+            "name": "Facebook",
+            "icon": "facebook",
+            "href": "https://facebook.com"
+          },
+          {
+            "name": "Instagram",
+            "icon": "instagram",
+            "href": "https://instagram.com"
+          },
+          {
+            "name": "LinkedIn",
+            "icon": "linkedin",
+            "href": "https://linkedin.com"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Kaip Tai Veikia",
+        "subtitle": "Mūsų procesas sukurtas jūsų patogumui ir ramybei.",
+        "steps": [
+          {
+            "id": "step-1",
+            "title": "Užsisakykite Paslaugą",
+            "description": "Susisiekite su mumis telefonu arba internetu, kad suplanuotumėte nemokamą konsultaciją ir diagnostiką."
+          },
+          {
+            "id": "step-2",
+            "title": "Meistro Apsilankymas",
+            "description": "Mūsų sertifikuotas meistras atvyksta laiku, įvertina problemą ir pateikia skaidrią kainą."
+          },
+          {
+            "id": "step-3",
+            "title": "Ekspertinis Remontas",
+            "description": "Efektyviai atliekame remontą, naudodami aukštos kokybės dalis ir profesionalias technikas."
+          },
+          {
+            "id": "step-4",
+            "title": "Kokybės Patikrinimas ir Garantija",
+            "description": "Užtikriname, kad viskas veiktų nepriekaištingai, ir suteikiame išsamią garantiją atliktiems darbams."
+          }
+        ]
+      }
+    }
+  },
+  "pl": {
+    "site": {
+      "name": "Szablon Strony AI",
+      "shortName": "AI Szablon",
+      "description": "Nowoczesny szablon strony zbudowany z Next.js, React i funkcjami AI dla szybkiego, zoptymalizowanego SEO tworzenia stron.",
+      "keywords": "szablon strony, Next.js, React, TypeScript, AI, nowoczesne tworzenie stron, optymalizacja SEO"
+    },
+    "logoText": "Profesjonalna naprawa okien i drzwi",
+    "buttons": {
+      "learnMore": "Dowiedz się więcej",
+      "getStarted": "Rozpocznij",
+      "readMore": "Czytaj więcej",
+      "viewAll": "Zobacz wszystkie",
+      "backToTop": "Wróć na górę",
+      "request_technician": "WEZWAĆ TECHNIKA",
+      "free_consultation": "KONSULTACJA"
+    },
+    "prefillTemplates": {
+      "interestedIn": "Interesuje mnie: {itemName}",
+      "inquiryAbout": "Mam pytanie dotyczące: {itemName}",
+      "requestQuote": "Chciałbym otrzymać wycenę dla: {itemName}"
+    },
+    "forms": {
+      "required": "Pole wymagane",
+      "invalidEmail": "Wprowadź prawidłowy adres email",
+      "loading": "Ładowanie...",
+      "submit": "Wyślij",
+      "cancel": "Anuluj"
+    },
+    "accessibility": {
+      "skipToContent": "Przejdź do głównej treści",
+      "openMenu": "Otwórz menu nawigacji",
+      "closeMenu": "Zamknij menu nawigacji",
+      "toggleTheme": "Zmień motyw"
+    },
+    "phone": "+370 644 45403",
+    "telegram": "your-telegram-username",
+    "whatsapp": "37064445403",
+    "redesign": {
+      "logoText": "Profesjonalna naprawa okien i drzwi",
+      "servingArea": "Obsługujemy Polskę i Europę Wschodnią",
+      "header": {
+        "contactIcons": {
+          "telegram": "languremontas",
+          "whatsapp": "37064445403"
+        }
+      },
+      "hero": {
+        "title": "Ekspertowe rozwiązania okien i drzwi dla Twojego domu",
+        "subtitle": "Profesjonalne usługi naprawcze z gwarancją jakości i szybkim czasem reakcji. Zaufane przez tysiące rodzin w Warszawie, Krakowie i innych miastach.",
+        "trustBadges": {
+          "diagnostics": {
+            "title": "BEZPŁATNA DIAGNOSTYKA",
+            "subtitle": "Brak ukrytych kosztów"
+          },
+          "sameday": {
+            "title": "USŁUGA W TEN SAM DZIEŃ",
+            "subtitle": "Szybka reakcja"
+          },
+          "guarantee": {
+            "title": "GWARANCJA PRACY",
+            "subtitle": "Jakość gwarantowana"
+          }
+        },
+        "rating": "4.9/5 ocena",
+        "reviewsCount": "2,500+ zadowolonych klientów"
+      },
+      "valueProposition": {
+        "title": "BEZPŁATNA DIAGNOSTYKA & WIZYTA TECHNIKA | GWARANCJA PRACY",
+        "subtitle": "Obsługujemy Warszawę, Łódź, Kraków, Katowice i okoliczne tereny",
+        "points": [
+          {
+            "icon": "certificate",
+            "title": "Ekspertowi certyfikowani technicy",
+            "description": "Profesjonalna ekspertyza, którą możesz zaufać"
+          },
+          {
+            "icon": "clock",
+            "title": "USŁUGA W TEN SAM DZIEŃ",
+            "description": "Szybka reakcja, kiedy jej potrzebujesz"
+          },
+          {
+            "icon": "shield-halved",
+            "title": "GWARANCJA PRACY",
+            "description": "Kompleksowa gwarancja na wszystkie usługi"
+          },
+          {
+            "icon": "dollar-sign",
+            "title": "Przejrzyste ceny",
+            "description": "Brak ukrytych kosztów, konkurencyjne ceny"
+          }
+        ]
+      },
+      "serviceCards": {
+        "title": "Nasze Usługi",
+        "subtitle": "Wysokiej jakości rozwiązania dla wszystkich Twoich potrzeb związanych z oknami i drzwiami.",
+        "items": [
+          {
+            "id": "service-1",
+            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+            "title": "Naprawa Okien",
+            "description": "Kompleksowa naprawa wszystkich typów okien, przywracająca funkcjonalność i wygląd.",
+            "price": "Od 200 zł",
+            "cta": {
+              "text": "Skorzystaj z Usługi",
+              "href": "/pl/uslugi/naprawa-okien"
+            }
+          },
+          {
+            "id": "service-2",
+            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+            "title": "Regulacja Drzwi",
+            "description": "Ekspercka regulacja źle dopasowanych lub trudno zamykających się drzwi.",
+            "price": "Od 150 zł",
+            "cta": {
+              "text": "Skorzystaj z Usługi",
+              "href": "/pl/uslugi/regulacja-drzwi"
+            }
+          },
+          {
+            "id": "service-3",
+            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/1219efa6c2-1eebe76d8698624cc69b.png",
+            "title": "Wymiana Uszczelek",
+            "description": "Popraw izolację i zapobiegaj przeciągom dzięki nowym, wysokiej jakości uszczelkom.",
+            "price": "Od 120 zł",
+            "cta": {
+              "text": "Skorzystaj z Usługi",
+              "href": "/pl/uslugi/wymiana-uszczelek"
+            }
+          }
+        ]
+      },
+      "testimonials": {
+        "title": "Co Mówią Nasi Klienci",
+        "subtitle": "Zaufanie właścicieli domów w całym regionie dzięki naszemu zaangażowaniu w jakość.",
+        "items": [
+          {
+            "quote": "Zespół był profesjonalny i naprawił nasze okna w mgnieniu oka. Gorąco polecam!",
+            "name": "Jan Kowalski",
+            "location": "Warszawa, Polska",
+            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+            "rating": 5
+          },
+          {
+            "quote": "Doskonała obsługa od początku do końca. Nasze drzwi działają teraz idealnie.",
+            "name": "Anna Nowak",
+            "location": "Kraków, Polska",
+            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+            "rating": 5
+          },
+          {
+            "quote": "Bardzo rzetelna i przejrzysta firma. Jakość pracy jest wyjątkowa.",
+            "name": "Piotr Wiśniewski",
+            "location": "Łódź, Polska",
+            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+            "rating": 5
+          }
+        ]
+      },
+      "footer": {
+        "logoText": "Langu Remontas",
+        "description": "Twój zaufany partner w profesjonalnej naprawie okien i drzwi. Jakość i zadowolenie klienta to nasze priorytety.",
+        "navigationTitle": "Nawigacja",
+        "servicesTitle": "Nasze Usługi",
+        "contactTitle": "Skontaktuj się z Nami",
+        "legalTitle": "Informacje Prawne",
+        "copyright": " Langu Remontas. Wszelkie prawa zastrzeżone.",
+        "contactInfo": {
+          "address": "ul. Naprawy Okien 123, Warszawa, Polska",
+          "phone": "+48 123 456 789",
+          "email": "kontakt@languremontas.pl",
+          "telegram": "languremontas",
+          "whatsapp": "48123456789"
+        },
+        "workingHours": {
+          "title": "Godziny Pracy",
+          "schedule": "Pn-Pt: 8:00-18:00, Sb: 9:00-15:00",
+          "emergency": "Usługa Awaryjna 24/7"
+        },
+        "trustBadges": {
+          "certified": "Certyfikowani Technicy",
+          "sameDay": "Usługa w Ten Sam Dzień"
+        },
+        "legal": {
+          "privacyPolicy": "Polityka Prywatności",
+          "termsOfService": "Regulamin Usług",
+          "cookiePolicy": "Polityka Cookies"
+        },
+        "business": {
+          "title": "Informacje o Firmie",
+          "companyName": "Langu Remontas Sp. z o.o.",
+          "registrationNumber": "NIP: 1234567890",
+          "vatNumber": "REGON: 123456789",
+          "registeredAddress": "Adres firmy, Warszawa, Polska"
+        },
+        "certifications": [
+          {
+            "name": "ISO 9001",
+            "icon": "Award"
+          },
+          {
+            "name": "Licencjonowana",
+            "icon": "ShieldCheck"
+          }
+        ],
+        "socialLinks": [
+          {
+            "name": "Facebook",
+            "icon": "facebook",
+            "href": "https://facebook.com"
+          },
+          {
+            "name": "Instagram",
+            "icon": "instagram",
+            "href": "https://instagram.com"
+          },
+          {
+            "name": "LinkedIn",
+            "icon": "linkedin",
+            "href": "https://linkedin.com"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Jak To Działa",
+        "subtitle": "Nasz proces został zaprojektowany z myślą o Twojej wygodzie i spokoju.",
+        "steps": [
+          {
+            "id": "step-1",
+            "title": "Zamów Usługę",
+            "description": "Skontaktuj się z nami telefonicznie lub przez formularz online, aby umówić się na bezpłatną konsultację i diagnostykę."
+          },
+          {
+            "id": "step-2",
+            "title": "Wizyta Technika",
+            "description": "Nasz certyfikowany technik przyjeżdża na czas, ocenia problem i przedstawia przejrzystą wycenę."
+          },
+          {
+            "id": "step-3",
+            "title": "Ekspercka Naprawa",
+            "description": "Sprawnie wykonujemy naprawę, używając wysokiej jakości części i profesjonalnych technik."
+          },
+          {
+            "id": "step-4",
+            "title": "Kontrola Jakości i Gwarancja",
+            "description": "Zapewniamy, że wszystko działa idealnie i udzielamy kompleksowej gwarancji na wykonane prace."
+          }
+        ]
+      }
+    }
+  },
+  "uk": {
+    "site": {
+      "name": "Шаблон AI Веб-сайту",
+      "shortName": "AI Шаблон",
+      "description": "Сучасний шаблон веб-сайту створений з Next.js, React та функціями на основі AI для швидкої, SEO-оптимізованої веб-розробки.",
+      "keywords": "шаблон веб-сайту, Next.js, React, TypeScript, AI, сучасна веб-розробка, SEO оптимізація"
+    },
+    "logoText": "Професійний ремонт вікон та дверей",
+    "buttons": {
+      "learnMore": "Дізнатися більше",
+      "getStarted": "Почати",
+      "readMore": "Читати далі",
+      "viewAll": "Переглянути всі",
+      "backToTop": "Повернутися до верху",
+      "request_technician": "ВИКЛИКАТИ ТЕХНІКА",
+      "free_consultation": "КОНСУЛЬТАЦІЯ"
+    },
+    "prefillTemplates": {
+      "interestedIn": "Мене цікавить: {itemName}",
+      "inquiryAbout": "У мене є запитання щодо: {itemName}",
+      "requestQuote": "Я хотів би отримати пропозицію для: {itemName}"
+    },
+    "forms": {
+      "required": "Обов'язкове поле",
+      "invalidEmail": "Введіть дійсну електронну адресу",
+      "loading": "Завантаження...",
+      "submit": "Надіслати",
+      "cancel": "Скасувати"
+    },
+    "accessibility": {
+      "skipToContent": "Перейти до основного вмісту",
+      "openMenu": "Відкрити меню навігації",
+      "closeMenu": "Закрити меню навігації",
+      "toggleTheme": "Змінити тему"
+    },
+    "phone": "+370 644 45403",
+    "telegram": "your-telegram-username",
+    "whatsapp": "37064445403",
+    "redesign": {
+      "logoText": "Професійний ремонт вікон та дверей",
+      "servingArea": "Обслуговуємо Україну та Східну Європу",
+      "header": {
+        "contactIcons": {
+          "telegram": "languremontas",
+          "whatsapp": "37064445403"
+        }
+      },
+      "hero": {
+        "title": "Експертні рішення для вікон та дверей для вашого будинку",
+        "subtitle": "Професійні послуги ремонту з гарантією якості та швидким часом реакції. Довіряють тисячі сімей у Києві, Львові та інших містах.",
+        "trustBadges": {
+          "diagnostics": {
+            "title": "БЕЗКОШТОВНА ДІАГНОСТИКА",
+            "subtitle": "Немає прихованих витрат"
+          },
+          "sameday": {
+            "title": "ПОСЛУГА В ТЕН САМ ДЕНЬ",
+            "subtitle": "Швидка реакція"
+          },
+          "guarantee": {
+            "title": "ГАРАНТІЯ РОБОТИ",
+            "subtitle": "Якість гарантована"
+          }
+        },
+        "rating": "4.9/5 рейтинг",
+        "reviewsCount": "2,500+ задоволених клієнтів"
+      },
+      "valueProposition": {
+        "title": "БЕЗКОШТОВНА ДІАГНОСТИКА & ВІЗИТ ТЕХНІКА | ГАРАНТІЯ РОБОТИ",
+        "subtitle": "Обслуговуємо Київ, Львів, Харків, Одесу та навколишні території",
+        "points": [
+          {
+            "icon": "certificate",
+            "title": "Експертні сертифіковані техніки",
+            "description": "Професійна експертиза, якій можна довіряти"
+          },
+          {
+            "icon": "clock",
+            "title": "ПОСЛУГА В ТЕН САМ ДЕНЬ",
+            "description": "Швидка реакція, коли її потрібна"
+          },
+          {
+            "icon": "shield-halved",
+            "title": "ГАРАНТІЯ РОБОТИ",
+            "description": "Комплексна гарантія на всі послуги"
+          },
+          {
+            "icon": "dollar-sign",
+            "title": "Прозорі ціни",
+            "description": "Немає прихованих витрат, конкурентоспроможні ціни"
+          }
+        ]
+      },
+      "serviceCards": {
+        "title": "Наші Послуги",
+        "subtitle": "Високоякісні рішення для всіх ваших потреб у вікнах та дверях.",
+        "items": [
+          {
+            "id": "service-1",
+            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+            "title": "Ремонт Вікон",
+            "description": "Комплексний ремонт усіх типів вікон, відновлення функціональності та зовнішнього вигляду.",
+            "price": "Від 1500 грн",
+            "cta": {
+              "text": "Отримати Послугу",
+              "href": "/uk/poslugi/remont-vikon"
+            }
+          },
+          {
+            "id": "service-2",
+            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+            "title": "Регулювання Дверей",
+            "description": "Експертне регулювання неправильно виставлених або важко закриваються дверей.",
+            "price": "Від 1200 грн",
+            "cta": {
+              "text": "Отримати Послугу",
+              "href": "/uk/poslugi/regulyuvannya-dverey"
+            }
+          },
+          {
+            "id": "service-3",
+            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/1219efa6c2-1eebe76d8698624cc69b.png",
+            "title": "Заміна Ущільнювачів",
+            "description": "Покращіть ізоляцію та запобігайте протягам за допомогою нових, високоякісних ущільнювачів.",
+            "price": "Від 900 грн",
+            "cta": {
+              "text": "Отримати Послугу",
+              "href": "/uk/poslugi/zamina-ushchilnyuvachiv"
+            }
+          }
+        ]
+      },
+      "testimonials": {
+        "title": "Що Кажуть Наші Клієнти",
+        "subtitle": "Нам довіряють власники будинків по всьому регіону за нашу прихильність до якості.",
+        "items": [
+          {
+            "quote": "Команда була професійною і швидко полагодила наші вікна. Дуже рекомендую!",
+            "name": "Іван Петренко",
+            "location": "Київ, Україна",
+            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+            "rating": 5
+          },
+          {
+            "quote": "Відмінний сервіс від початку до кінця. Наші двері тепер працюють ідеально.",
+            "name": "Марія Коваленко",
+            "location": "Львів, Україна",
+            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+            "rating": 5
+          },
+          {
+            "quote": "Дуже надійна та прозора компанія. Якість роботи виняткова.",
+            "name": "Олександр Мельник",
+            "location": "Харків, Україна",
+            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+            "rating": 5
+          }
+        ]
+      },
+      "footer": {
+        "logoText": "Langu Remontas",
+        "description": "Ваш надійний партнер для професійного ремонту вікон та дверей. Якість та задоволеність клієнтів - наші головні пріоритети.",
+        "navigationTitle": "Навігація",
+        "servicesTitle": "Наші Послуги",
+        "contactTitle": "Зв'яжіться з Нами",
+        "legalTitle": "Правова Інформація",
+        "copyright": " Langu Remontas. Всі права захищені.",
+        "contactInfo": {
+          "address": "вул. Ремонту Вікон 123, Київ, Україна",
+          "phone": "+380 12 345 6789",
+          "email": "kontakt@languremontas.com.ua",
+          "telegram": "languremontas",
+          "whatsapp": "380123456789"
+        },
+        "workingHours": {
+          "title": "Робочі Години",
+          "schedule": "Пн-Пт: 8:00-18:00, Сб: 9:00-15:00",
+          "emergency": "Аварійна Служба 24/7"
+        },
+        "trustBadges": {
+          "certified": "Сертифіковані Техніки",
+          "sameDay": "Послуга в Той Же День"
+        },
+        "legal": {
+          "privacyPolicy": "Політика Конфіденційності",
+          "termsOfService": "Умови Надання Послуг",
+          "cookiePolicy": "Політика Файлів Cookie"
+        },
+        "business": {
+          "title": "Інформація про Компанію",
+          "companyName": "Langu Remontas ТОВ",
+          "registrationNumber": "Код ЄДРПОУ: 12345678",
+          "vatNumber": "ПДВ: UA123456789",
+          "registeredAddress": "Адреса компанії, Київ, Україна"
+        },
+        "certifications": [
+          {
+            "name": "ISO 9001",
+            "icon": "Award"
+          },
+          {
+            "name": "Ліцензована",
+            "icon": "ShieldCheck"
+          }
+        ],
+        "socialLinks": [
+          {
+            "name": "Facebook",
+            "icon": "facebook",
+            "href": "https://facebook.com"
+          },
+          {
+            "name": "Instagram",
+            "icon": "instagram",
+            "href": "https://instagram.com"
+          },
+          {
+            "name": "LinkedIn",
+            "icon": "linkedin",
+            "href": "https://linkedin.com"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Як Це Працює",
+        "subtitle": "Наш процес розроблений для вашої зручності та спокою.",
+        "steps": [
+          {
+            "id": "step-1",
+            "title": "Замовте Послугу",
+            "description": "Зв'яжіться з нами по телефону або через онлайн-форму, щоб запланувати безкоштовну консультацію та діагностику."
+          },
+          {
+            "id": "step-2",
+            "title": "Візит Техніка",
+            "description": "Наш сертифікований технік приїжджає вчасно, оцінює проблему та надає прозорий кошторис."
+          },
+          {
+            "id": "step-3",
+            "title": "Експертний Ремонт",
+            "description": "Ми ефективно виконуємо ремонт, використовуючи високоякісні деталі та професійні техніки."
+          },
+          {
+            "id": "step-4",
+            "title": "Перевірка Якості та Гарантія",
+            "description": "Ми гарантуємо, що все працює ідеально, і надаємо повну гарантію на виконані роботи."
+          }
+        ]
+      }
+    }
+  }
+}

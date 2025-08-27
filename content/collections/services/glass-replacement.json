@@ -1,0 +1,441 @@
+{
+  "itemId": "glass-replacement",
+  "collection": "services",
+  "template": "service-item",
+  "slugs": {
+    "en": "glass-replacement",
+    "lt": "stiklu-keitimas",
+    "pl": "wymiana-szkla",
+    "uk": "zamina-skla"
+  },
+  "seo": {
+    "en": {
+      "title": "Window Glass Replacement | From €85 | Same Day Service",
+      "description": "Professional window glass replacement service. Double glazing, safety glass, energy-efficient options. Same day installation available.",
+      "keywords": "glass replacement, double glazing, window glass repair, safety glass, energy glass",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
+      "ogImageAlt": "Professional window glass replacement service"
+    },
+    "lt": {
+      "title": "Langų stiklų keitimas | Nuo €85 | Tos pačios dienos paslauga",
+      "description": "Profesionalus langų stiklų keitimo aptarnavimas. Dvigubi stiklai, saugos stiklai, energijos efektyvūs sprendimai. Tos pačios dienos montavimas.",
+      "keywords": "stiklų keitimas, dvigubi stiklai, langų stiklų remontas, saugos stiklai, energijos stiklai",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/092074e752-1185ce1516e031aa1a73.png",
+      "ogImageAlt": "Profesionalus langų stiklų keitimo aptarnavimas"
+    },
+    "pl": {
+      "title": "Wymiana szkła okiennego | Od €85 | Usługa tego samego dnia",
+      "description": "Profesjonalny serwis wymiany szkła okiennego. Szyby zespolone, szkło bezpieczne, opcje energooszczędne. Montaż tego samego dnia.",
+      "keywords": "wymiana szkła, szyby zespolone, naprawa szkła okiennego, szkło bezpieczne, szkło energooszczędne",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b6c70e45f0-2c1b36f8da0dcd3867f4.png",
+      "ogImageAlt": "Profesjonalny serwis wymiany szkła okiennego"
+    },
+    "uk": {
+      "title": "Заміна віконного скла | Від €85 | Послуга того ж дня",
+      "description": "Професійний сервіс заміни віконного скла. Подвійне скління, безпечне скло, енергоефективні варіанти. Встановлення того ж дня.",
+      "keywords": "заміна скла, подвійне скління, ремонт віконного скла, безпечне скло, енергетичне скло",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+      "ogImageAlt": "Професійний сервіс заміни віконного скла"
+    }
+  },
+  "content": {
+    "en": {
+      "hero": {
+        "title": "Window Glass Replacement",
+        "subtitle": "Expert glass replacement with premium materials. Double glazing, safety glass, and energy-efficient options. Same day service available for urgent repairs.",
+        "priceFrom": "From €85",
+        "features": [
+          "Same day installation",
+          "Premium glass options",
+          "Energy-efficient glazing",
+          "Safety & security glass"
+        ],
+        "emergencyNote": "Emergency glass replacement for broken windows available 24/7"
+      },
+      "serviceDetails": {
+        "title": "Professional Glass Solutions",
+        "subtitle": "Complete range of glass types and installation services",
+        "services": [
+          {
+            "title": "Double Glazing",
+            "description": "Energy-efficient double glazed units with argon gas filling",
+            "icon": "Layers",
+            "duration": "60-90 minutes",
+            "warranty": "10 years"
+          },
+          {
+            "title": "Triple Glazing",
+            "description": "Maximum insulation with triple glazed units for extreme efficiency",
+            "icon": "Layers3",
+            "duration": "75-105 minutes",
+            "warranty": "12 years"
+          },
+          {
+            "title": "Safety Glass",
+            "description": "Tempered and laminated safety glass for enhanced protection",
+            "icon": "Shield",
+            "duration": "45-75 minutes",
+            "warranty": "8 years"
+          },
+          {
+            "title": "Security Glass",
+            "description": "Multi-layered security glazing for maximum protection",
+            "icon": "Lock",
+            "duration": "90-120 minutes",
+            "warranty": "10 years"
+          },
+          {
+            "title": "Low-E Glass",
+            "description": "Low-emissivity coating for superior energy performance",
+            "icon": "Sun",
+            "duration": "60-85 minutes",
+            "warranty": "15 years"
+          },
+          {
+            "title": "Acoustic Glass",
+            "description": "Sound-reducing glass for noise control and comfort",
+            "icon": "Volume",
+            "duration": "70-95 minutes",
+            "warranty": "10 years"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Expert Installation Process",
+        "subtitle": "Precise measurement, cutting, and installation for perfect results",
+        "steps": [
+          {
+            "title": "Precise Measurement",
+            "description": "Accurate measurement of existing frame dimensions and glass specifications",
+            "icon": "Ruler",
+            "duration": "15-25 minutes"
+          },
+          {
+            "title": "Glass Preparation",
+            "description": "Professional cutting and edge finishing of replacement glass",
+            "icon": "Scissors",
+            "duration": "30-45 minutes"
+          },
+          {
+            "title": "Safe Installation",
+            "description": "Expert installation with proper sealing and weatherproofing",
+            "icon": "Settings",
+            "duration": "45-75 minutes"
+          },
+          {
+            "title": "Quality Inspection",
+            "description": "Thorough inspection and testing of seal integrity and performance",
+            "icon": "CheckCircle",
+            "duration": "10-15 minutes"
+          }
+        ]
+      }
+    },
+    "lt": {
+      "hero": {
+        "title": "Langų stiklų keitimas",
+        "subtitle": "Ekspertų stiklų keitimas su aukščiausios kokybės medžiagomis. Dvigubi stiklai, saugos stiklai ir energijos efektyvūs sprendimai. Tos pačios dienos paslauga.",
+        "priceFrom": "Nuo €85",
+        "features": [
+          "Tos pačios dienos montavimas",
+          "Aukščiausios kokybės stiklai",
+          "Energijos efektyvūs stiklai",
+          "Saugos ir apsaugos stiklai"
+        ],
+        "emergencyNote": "Skubūs stiklų keitimo darbai sudužusiems langams prieinami 24/7"
+      },
+      "serviceDetails": {
+        "title": "Profesionalūs stiklų sprendimai",
+        "subtitle": "Pilnas stiklų tipų ir montavimo paslaugų spektras",
+        "services": [
+          {
+            "title": "Dvigubi stiklai",
+            "description": "Energijos efektyvūs dvigubi stiklo paketai su argono dujų užpildu",
+            "icon": "Layers",
+            "duration": "60-90 minučių",
+            "warranty": "10 metų"
+          },
+          {
+            "title": "Trigubi stiklai",
+            "description": "Maksimali izoliacija su trigubais stiklo paketais ekstremaliam efektyvumui",
+            "icon": "Layers3",
+            "duration": "75-105 minutės",
+            "warranty": "12 metų"
+          },
+          {
+            "title": "Saugos stiklai",
+            "description": "Grūdinti ir laminuoti saugos stiklai sustiprintai apsaugai",
+            "icon": "Shield",
+            "duration": "45-75 minutės",
+            "warranty": "8 metai"
+          },
+          {
+            "title": "Apsaugos stiklai",
+            "description": "Daugiasluoksniai apsaugos stiklai maksimaliai apsaugai",
+            "icon": "Lock",
+            "duration": "90-120 minučių",
+            "warranty": "10 metų"
+          },
+          {
+            "title": "Mažo emisijos stiklai",
+            "description": "Mažo emisijos dangos aukščiausiam energijos efektyvumui",
+            "icon": "Sun",
+            "duration": "60-85 minutės",
+            "warranty": "15 metų"
+          },
+          {
+            "title": "Akustiniai stiklai",
+            "description": "Garsą mažinantys stiklai triukšmo kontrolei ir komfortui",
+            "icon": "Volume",
+            "duration": "70-95 minutės",
+            "warranty": "10 metų"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Ekspertų montavimo procesas",
+        "subtitle": "Tikslus matavimas, pjovimas ir montavimas tobulam rezultatui",
+        "steps": [
+          {
+            "title": "Tikslus matavimas",
+            "description": "Tikslus esamo rėmo matmenų ir stiklo specifikacijų matavimas",
+            "icon": "Ruler",
+            "duration": "15-25 minutės"
+          },
+          {
+            "title": "Stiklo paruošimas",
+            "description": "Profesionalus keičiamo stiklo pjovimas ir kraštų apdorojimas",
+            "icon": "Scissors",
+            "duration": "30-45 minutės"
+          },
+          {
+            "title": "Saugus montavimas",
+            "description": "Ekspertų montavimas su tinkamu sandarimu ir oro apsauga",
+            "icon": "Settings",
+            "duration": "45-75 minutės"
+          },
+          {
+            "title": "Kokybės patikra",
+            "description": "Išsamus sandarumo vientisumo ir veikimo patikrinimas",
+            "icon": "CheckCircle",
+            "duration": "10-15 minučių"
+          }
+        ]
+      }
+    },
+    "pl": {
+      "hero": {
+        "title": "Wymiana szkła okiennego",
+        "subtitle": "Ekspercka wymiana szkła z materiałami premium. Szyby zespolone, szkło bezpieczne i opcje energooszczędne. Usługa tego samego dnia.",
+        "priceFrom": "Od €85",
+        "features": [
+          "Montaż tego samego dnia",
+          "Szkło opcje premium",
+          "Energooszczędne szyby",
+          "Szkło bezpieczne i ochronne"
+        ],
+        "emergencyNote": "Awaryjna wymiana szkła dla rozbitych okien dostępna 24/7"
+      },
+      "serviceDetails": {
+        "title": "Profesjonalne rozwiązania szklarskie",
+        "subtitle": "Pełna gama typów szkła i usług montażowych",
+        "services": [
+          {
+            "title": "Szyby zespolone",
+            "description": "Energooszczędne pakiety szybowe z wypełnieniem gazem argonowym",
+            "icon": "Layers",
+            "duration": "60-90 minut",
+            "warranty": "10 lat"
+          },
+          {
+            "title": "Szyby potrójne",
+            "description": "Maksymalna izolacja z potrójnymi pakietami szybowymi dla ekstremalnej wydajności",
+            "icon": "Layers3",
+            "duration": "75-105 minut",
+            "warranty": "12 lat"
+          },
+          {
+            "title": "Szkło bezpieczne",
+            "description": "Hartowane i laminowane szkło bezpieczne dla zwiększonej ochrony",
+            "icon": "Shield",
+            "duration": "45-75 minut",
+            "warranty": "8 lat"
+          },
+          {
+            "title": "Szkło ochronne",
+            "description": "Wielowarstwowe szkło ochronne dla maksymalnej ochrony",
+            "icon": "Lock",
+            "duration": "90-120 minut",
+            "warranty": "10 lat"
+          },
+          {
+            "title": "Szkło Low-E",
+            "description": "Powłoka niskoemisyjna dla doskonałej wydajności energetycznej",
+            "icon": "Sun",
+            "duration": "60-85 minut",
+            "warranty": "15 lat"
+          },
+          {
+            "title": "Szkło akustyczne",
+            "description": "Szkło redukujące dźwięk dla kontroli hałasu i komfortu",
+            "icon": "Volume",
+            "duration": "70-95 minut",
+            "warranty": "10 lat"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Ekspercki proces montażu",
+        "subtitle": "Precyzyjny pomiar, cięcie i montaż dla idealnych rezultatów",
+        "steps": [
+          {
+            "title": "Precyzyjny pomiar",
+            "description": "Dokładny pomiar wymiarów istniejącej ramy i specyfikacji szkła",
+            "icon": "Ruler",
+            "duration": "15-25 minut"
+          },
+          {
+            "title": "Przygotowanie szkła",
+            "description": "Profesjonalne cięcie i wykończenie krawędzi szkła zastępczego",
+            "icon": "Scissors",
+            "duration": "30-45 minut"
+          },
+          {
+            "title": "Bezpieczny montaż",
+            "description": "Ekspercki montaż z odpowiednim uszczelnieniem i zabezpieczeniem pogodowym",
+            "icon": "Settings",
+            "duration": "45-75 minut"
+          },
+          {
+            "title": "Kontrola jakości",
+            "description": "Dokładna inspekcja i testowanie integralności uszczelnienia i wydajności",
+            "icon": "CheckCircle",
+            "duration": "10-15 minut"
+          }
+        ]
+      }
+    },
+    "uk": {
+      "hero": {
+        "title": "Заміна віконного скла",
+        "subtitle": "Експертна заміна скла з преміум матеріалами. Подвійне скління, безпечне скло та енергоефективні варіанти. Послуга того ж дня.",
+        "priceFrom": "Від €85",
+        "features": [
+          "Встановлення того ж дня",
+          "Преміум варіанти скла",
+          "Енергоефективне скління",
+          "Безпечне та захисне скло"
+        ],
+        "emergencyNote": "Екстрена заміна скла для розбитих вікон доступна 24/7"
+      },
+      "serviceDetails": {
+        "title": "Професійні скляні рішення",
+        "subtitle": "Повний спектр типів скла та послуг встановлення",
+        "services": [
+          {
+            "title": "Подвійне скління",
+            "description": "Енергоефективні подвійні склопакети з наповненням газом аргон",
+            "icon": "Layers",
+            "duration": "60-90 хвилин",
+            "warranty": "10 років"
+          },
+          {
+            "title": "Потрійне скління",
+            "description": "Максимальна ізоляція з потрійними склопакетами для екстремальної ефективності",
+            "icon": "Layers3",
+            "duration": "75-105 хвилин",
+            "warranty": "12 років"
+          },
+          {
+            "title": "Безпечне скло",
+            "description": "Загартоване та ламіноване безпечне скло для посиленого захисту",
+            "icon": "Shield",
+            "duration": "45-75 хвилин",
+            "warranty": "8 років"
+          },
+          {
+            "title": "Захисне скло",
+            "description": "Багатошарове захисне скління для максимального захисту",
+            "icon": "Lock",
+            "duration": "90-120 хвилин",
+            "warranty": "10 років"
+          },
+          {
+            "title": "Low-E скло",
+            "description": "Низькоемісійне покриття для чудової енергетичної продуктивності",
+            "icon": "Sun",
+            "duration": "60-85 хвилин",
+            "warranty": "15 років"
+          },
+          {
+            "title": "Акустичне скло",
+            "description": "Звукозменшуюче скло для контролю шуму та комфорту",
+            "icon": "Volume",
+            "duration": "70-95 хвилин",
+            "warranty": "10 років"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Експертний процес встановлення",
+        "subtitle": "Точні вимірювання, різання та встановлення для ідеальних результатів",
+        "steps": [
+          {
+            "title": "Точні вимірювання",
+            "description": "Точне вимірювання розмірів існуючої рами та специфікацій скла",
+            "icon": "Ruler",
+            "duration": "15-25 хвилин"
+          },
+          {
+            "title": "Підготовка скла",
+            "description": "Професійне різання та обробка країв замінного скла",
+            "icon": "Scissors",
+            "duration": "30-45 хвилин"
+          },
+          {
+            "title": "Безпечне встановлення",
+            "description": "Експертне встановлення з правильним ущільненням та захистом від погоди",
+            "icon": "Settings",
+            "duration": "45-75 хвилин"
+          },
+          {
+            "title": "Контроль якості",
+            "description": "Ретельна інспекція та тестування цілісності ущільнення та продуктивності",
+            "icon": "CheckCircle",
+            "duration": "10-15 хвилин"
+          }
+        ]
+      }
+    }
+  },
+  "components": [
+    {
+      "type": "ServiceHero",
+      "contentKey": "hero",
+      "required": true
+    },
+    {
+      "type": "ServiceDetails",
+      "contentKey": "serviceDetails",
+      "required": true
+    },
+    {
+      "type": "ProcessSteps",
+      "contentKey": "processSteps",
+      "required": true
+    }
+  ],
+  "componentOverrides": {
+    "ServiceCards": {
+      "contentKey": "shared:glass-services"
+    },
+    "Testimonials": {
+      "contentKey": "shared:glass-testimonials"
+    },
+    "Faq": {
+      "contentKey": "shared:glass-faq"
+    }
+  },
+  "publishDate": "2024-01-25",
+  "author": "Langu Remontas Team"
+}

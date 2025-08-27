@@ -1,0 +1,249 @@
+{
+  "itemId": "winter-window-care",
+  "collection": "news",
+  "template": "news-article",
+  "slugs": {
+    "en": "winter-window-care-protecting-windows-from-cold-weather-damage",
+    "lt": "ziemos-langu-prieziura-apsauga-nuo-salcio-pazeidimo",
+    "pl": "zimowa-pielegnacja-okien-ochrona-przed-uszkodzeniami-zimowymi",
+    "uk": "zymovyy-doglyad-za-viknamy-zakhyst-vid-kholodnykh-ushkodzhen"
+  },
+  "publishDate": "2024-01-25",
+  "author": "Langu-Remontas Expert Team",
+  "category": "seasonal",
+  "readingTime": 7,
+  "featured": true,
+  "seo": {
+    "en": {
+      "title": "Winter Window Care: Protecting Your Windows from Cold Weather Damage",
+      "description": "Essential winter window care guide. Learn how to protect your windows from cold weather damage, prevent ice formation, and maintain efficiency during winter months.",
+      "keywords": "winter window care, cold weather window protection, window winterizing, prevent window ice damage, winter window maintenance",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImageAlt": "Winter Window Care Protection Guide",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Winter Window Care: Protecting Your Windows from Cold Weather Damage",
+        "description": "Comprehensive guide to protecting windows from cold weather damage and maintaining efficiency during winter.",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+        "datePublished": "2024-01-25",
+        "dateModified": "2024-01-25",
+        "author": {
+          "@type": "Organization",
+          "name": "Langu-Remontas Expert Team"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Langu-Remontas",
+          "logo": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png"
+        }
+      }
+    },
+    "lt": {
+      "title": "Žiemos Langų Priežiūra: Apsauga nuo Šalčio Pažeidimų",
+      "description": "Būtinas žiemos langų priežiūros vadovas. Sužinokite, kaip apsaugoti langus nuo šalčio pažeidimų ir išlaikyti efektyvumą žiemos mėnesiais.",
+      "keywords": "žiemos langų priežiūra, langų apsauga nuo šalčio, langų paruošimas žiemai, apsauga nuo ledo pažeidimų",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImageAlt": "Žiemos Langų Priežiūros Vadovas"
+    },
+    "pl": {
+      "title": "Zimowa Pielęgnacja Okien: Ochrona przed Uszkodzeniami Zimowymi",
+      "description": "Niezbędny przewodnik zimowej pielęgnacji okien. Dowiedz się, jak chronić okna przed uszkodzeniami zimowymi i utrzymać efektywność w miesiącach zimowych.",
+      "keywords": "zimowa pielęgnacja okien, ochrona okien przed zimnem, przygotowanie okien na zimę, ochrona przed uszkodzeniami lodem",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImageAlt": "Przewodnik Zimowej Pielęgnacji Okien"
+    },
+    "uk": {
+      "title": "Зимовий Догляд за Вікнами: Захист від Холодних Ушкоджень",
+      "description": "Важливий посібник зимового догляду за вікнами. Дізнайтеся, як захистити вікна від холодних ушкоджень та підтримати ефективність взимку.",
+      "keywords": "зимовий догляд за вікнами, захист вікон від холоду, підготовка вікон до зими, захист від льодових ушкоджень",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImageAlt": "Посібник Зимового Догляду за Вікнами"
+    }
+  },
+  "content": {
+    "en": {
+      "title": "Winter Window Care: Protecting Your Windows from Cold Weather Damage",
+      "excerpt": "Winter weather poses unique challenges for window maintenance. Learn essential protection strategies, prevention techniques, and emergency care to keep your windows functioning optimally through the coldest months.",
+      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "featuredImageAlt": "Professional window sealing application for winter protection",
+      "introduction": "Winter weather can be particularly harsh on windows, causing everything from condensation problems to ice damage and thermal stress. In Lithuania's continental climate, where temperatures can drop well below freezing for extended periods, proper winter window care isn't just about maintenance—it's about protecting your investment and ensuring your home remains comfortable and energy-efficient throughout the cold season.",
+      "sections": [
+        {
+          "id": "winter-preparation",
+          "title": "Pre-Winter Window Preparation",
+          "content": "**Essential Fall Preparations (September-November)**\n\n**Weatherstripping Inspection and Replacement**\n- Check all weatherstripping for cracks, gaps, or deterioration\n- Replace damaged sections before first freeze\n- Use appropriate materials for your climate zone\n- Test seal effectiveness with smoke pencil or incense\n\n**Caulking and Sealing**\n- Inspect exterior caulking around window frames\n- Remove old, cracked caulk and apply fresh sealant\n- Use cold-weather rated caulk for lasting protection\n- Pay special attention to corners and joints\n\n**Hardware Lubrication**\n- Apply cold-weather lubricant to all moving parts\n- Use silicone-based products that won't freeze\n- Test all locks and mechanisms before cold weather\n- Ensure smooth operation throughout temperature range\n\n**Glass and Frame Cleaning**\n- Deep clean all surfaces before winter\n- Remove dirt and debris that can cause ice buildup\n- Apply protective coatings if recommended\n- Clear drainage channels and weep holes",
+          "tips": [
+            "Complete preparations before first hard freeze",
+            "Keep spare weatherstripping for emergency repairs",
+            "Document any issues for spring follow-up"
+          ]
+        },
+        {
+          "id": "cold-weather-protection",
+          "title": "Cold Weather Protection Strategies",
+          "content": "**Temperature Management**\n\n**Indoor Climate Control**\n- Maintain consistent indoor temperature (18-22°C)\n- Use proper humidity levels (30-50% relative humidity)\n- Avoid extreme temperature fluctuations\n- Ensure adequate air circulation around windows\n\n**Condensation Prevention**\n- Monitor for condensation buildup\n- Improve ventilation in high-moisture areas\n- Use dehumidifiers if necessary\n- Address condensation immediately to prevent ice formation\n\n**Ice Prevention Measures**\n- Keep windows clear of snow accumulation\n- Ensure proper drainage away from window wells\n- Never use salt or harsh chemicals on window surfaces\n- Install storm windows for additional protection\n\n**Emergency Protection**\n- Keep emergency supplies (plastic sheeting, tape)\n- Know how to temporarily seal damaged windows\n- Have professional contact information readily available\n- Understand when to call for emergency service",
+          "callout": "Professional tip: Never attempt to force open a frozen window. Allow natural thawing or use gentle warming techniques to prevent damage."
+        },
+        {
+          "id": "winter-maintenance-routine",
+          "title": "Winter Maintenance Routine",
+          "content": "**Daily Monitoring**\n- Check for condensation or ice buildup\n- Ensure windows open and close properly\n- Monitor for drafts or air leaks\n- Clear snow from window wells and sills\n\n**Weekly Inspections**\n- Test window operation in cold weather\n- Check weatherstripping condition\n- Inspect for any new cracks or damage\n- Clean interior surfaces as needed\n\n**Monthly Deep Checks**\n- Examine exterior caulking and seals\n- Test all locking mechanisms\n- Check for ice dam formation\n- Assess overall window performance\n\n**Storm Response Protocol**\n- Secure windows before severe weather\n- Check for damage after storms\n- Clear ice and snow safely\n- Document any issues for repair",
+          "benefits": [
+            "Prevents costly winter damage",
+            "Maintains energy efficiency",
+            "Ensures emergency egress capability",
+            "Extends window lifespan"
+          ]
+        },
+        {
+          "id": "common-winter-problems",
+          "title": "Common Winter Window Problems",
+          "content": "**Ice and Frost Issues**\n\n**Symptoms and Solutions**\n- **Ice on glass**: Usually indicates humidity problems or poor insulation\n- **Frozen mechanisms**: Apply gentle heat, never force operation\n- **Ice dams**: Address roof and gutter issues, improve insulation\n- **Frost patterns**: May indicate air leaks or thermal bridging\n\n**Condensation Problems**\n- **Between panes**: Indicates seal failure, requires professional repair\n- **Interior condensation**: Improve ventilation and humidity control\n- **Exterior condensation**: Normal in certain conditions, monitor for excess\n\n**Operational Issues**\n- **Sticking windows**: Often due to swelling or ice formation\n- **Draft problems**: Check weatherstripping and caulking\n- **Locking difficulties**: Lubricate mechanisms with cold-weather products\n- **Thermal stress cracks**: Require immediate professional attention",
+          "warning": "Never use hot water or direct heat sources to remove ice from windows. Thermal shock can cause glass to crack or shatter."
+        },
+        {
+          "id": "energy-efficiency-winter",
+          "title": "Maximizing Energy Efficiency in Winter",
+          "content": "**Insulation Strategies**\n- Use thermal curtains or cellular shades\n- Apply window film for additional insulation\n- Install storm windows for extra protection\n- Seal any air leaks immediately\n\n**Heat Retention Techniques**\n- Close curtains at night for insulation\n- Open them during sunny days for solar gain\n- Use window treatments strategically\n- Maintain proper indoor humidity levels\n\n**Cost-Saving Measures**\n- Regular maintenance prevents energy loss\n- Proper sealing reduces heating costs\n- Strategic use of natural light reduces artificial lighting needs\n- Preventive care avoids expensive emergency repairs\n\n**Professional Optimization**\n- Annual energy audits\n- Thermal imaging assessments\n- Professional weatherization services\n- Upgrade recommendations for older windows",
+          "benefits": [
+            "Reduces heating costs by up to 25%",
+            "Improves indoor comfort",
+            "Prevents moisture and mold issues",
+            "Increases home value"
+          ]
+        }
+      ],
+      "conclusion": "Proper winter window care is essential for maintaining comfort, efficiency, and preventing costly damage during Lithuania's harsh winter months. By following a systematic approach to preparation, maintenance, and monitoring, you can ensure your windows perform optimally throughout the cold season. Remember that prevention is always more cost-effective than emergency repairs, and professional maintenance can provide peace of mind during the most challenging weather conditions.",
+      "ctaSection": {
+        "title": "Professional Winter Window Services",
+        "description": "Prepare your windows for winter with our comprehensive winterization services. From weatherproofing to emergency repairs, we keep your windows functioning perfectly all season long.",
+        "benefits": [
+          "Complete winter preparation services",
+          "Emergency repair availability",
+          "Energy efficiency assessments",
+          "Seasonal maintenance packages"
+        ]
+      },
+      "faq": [
+        {
+          "question": "When should I start preparing my windows for winter?",
+          "answer": "Begin winter preparations in early fall (September-October) before the first hard freeze. This gives you time to complete all necessary maintenance and repairs while weather conditions are still favorable."
+        },
+        {
+          "question": "How do I prevent condensation on my windows in winter?",
+          "answer": "Maintain proper indoor humidity (30-50%), ensure adequate ventilation, and keep consistent temperatures. If condensation persists, consider upgrading ventilation or consulting professionals about window efficiency."
+        },
+        {
+          "question": "What should I do if my windows freeze shut?",
+          "answer": "Never force frozen windows open. Allow natural thawing, use gentle warming techniques like a hair dryer on low heat, or contact professionals. Forcing can cause permanent damage to mechanisms."
+        }
+      ]
+    },
+    "lt": {
+      "title": "Žiemos Langų Priežiūra: Apsauga nuo Šalčio Pažeidimų",
+      "excerpt": "Žiemos orai kelia unikalius iššūkius langų priežiūrai. Sužinokite esminius apsaugos metodus ir prevencijos technikas, kad langai veiktų optimaliai šalčiausiais mėnesiais.",
+      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "featuredImageAlt": "Profesionalus langų sandarinimas žiemos apsaugai",
+      "introduction": "Žiemos orai gali būti ypač žalingi langams, sukeliant viską nuo kondensacijos problemų iki ledo pažeidimų ir šiluminio streso. Lietuvos kontinentiniame klimate, kur temperatūros gali kristi žymiai žemiau nulio ilgiems laikotarpiams, tinkama žiemos langų priežiūra yra ne tik apie priežiūrą - tai apie investicijos apsaugą.",
+      "sections": [
+        {
+          "id": "ziemos-paruosimas",
+          "title": "Žiemos Paruošimas ir Prevencija",
+          "content": "**Esminiai Žiemos Paruošimo Žingsniai**\n\n**Sandarinimo Patikrinimas**\n- Patikrinkite visas sandarinimo juostas aplink langų rėmus\n- Pakeiskite nusidėvėjusias ar sutrūkusias sandarinimo medžiagas\n- Užtikrinkite hermetišką uždarymo mechanizmą\n- Patikrinkite stiklo sandarinimo būklę\n\n**Kondensacijos Prevencija**\n- Užtikrinkite tinkamą ventiliaciją patalpose\n- Kontroliuokite drėgmės lygį namuose (40-60%)\n- Valykite langų paviršius nuo dulkių ir nešvarumų\n- Patikrinkite šildymo sistemų veikimą prie langų\n\n**Ledo Formavimosi Prevencija**\n- Reguliariai valykite sniegą nuo palangių\n- Užtikrinkite tinkamą vandens nutekėjimą\n- Patikrinkite lietaus nuvedimo sistemų būklę\n- Apsaugokite langų mechanizmus nuo užšalimo"
+        },
+        {
+          "id": "ziemos-prieziura",
+          "title": "Žiemos Priežiūros Rutina",
+          "content": "**Kasdienė ir Savaitinė Priežiūra**\n\n**Reguliarūs Patikrinimai**\n- Kasdien tikrinkite kondensacijos požymius\n- Savaitę kartą valykite langų paviršius\n- Stebėkite oro pratėkimų požymius\n- Tikrinkite užrakto ir atidarymo mechanizmų veikimą\n\n**Valymo Procedūros**\n- Naudokite švelnius valymo produktus žiemos metu\n- Vengkite karštų vandens temperatūrų šaltomis dienomis\n- Išdžiovinkite langus kruopščiai po valymo\n- Ypatingai dėmesį skirkite kampams ir sąnariams\n\n**Mechanizmų Priežiūra**\n- Tepkite langų mechanizmus specialiais žiemos tepalu\n- Tikrinkite rankenų ir užraktų veikimą\n- Valykite dulkes ir nešvarumus iš mechanizmų\n- Reguliariai tikrinkite langų atidarymo/uždarymo funkcijas"
+        },
+        {
+          "id": "problemu-sprendimas",
+          "title": "Dažnų Žiemos Problemų Sprendimas",
+          "content": "**Kondensacijos Problemos**\n\n**Priežastys ir Sprendimai**\n- **Vidaus kondensacija**: Sumažinkite drėgmės lygį, pagerinkite ventiliaciją\n- **Tarp stiklų kondensacija**: Hermetikos gedimas, reikalingas profesionalus remontas\n- **Išorės kondensacija**: Normalus reiškinys, rodo gerą izoliaciją\n\n**Užšalimo Problemos**\n\n**Prevencija ir Sprendimas**\n- **Užšalę mechanizmai**: Naudokite specialius atšildymo produktus\n- **Ledo formavimasis**: Pašalinkite ledą atsargiai, nepažeisdami sandarinimo\n- **Užšalę užraktai**: Tepkite specialiais žiemos tepalais\n\n**Energijos Nuostoliai**\n\n**Efektyvumo Didinimas**\n- Naudokite papildomas izoliacines priemones\n- Įrenkite šilumą atspindinčias plėveles\n- Apsvarstykite langų uždangalų naudojimą naktį\n- Patikrinkite šildymo sistemų efektyvumą prie langų"
+        }
+      ],
+      "conclusion": "Tinkama žiemos langų priežiūra yra būtina komfortui, efektyvumui palaikyti ir brangių pažeidimų prevencijai Lietuvos šaltų žiemos mėnesių metu. Reguliari priežiūra ir prevencijos priemonės padės išvengti didžiųjų problemų.",
+      "ctaSection": {
+        "title": "Profesionalios Žiemos Langų Paslaugos",
+        "description": "Paruoškite langus žiemai su mūsų išsamiomis žiemos paruošimo paslaugomis.",
+        "benefits": [
+          "Pilnos žiemos paruošimo paslaugos",
+          "Skubūs remonto darbai",
+          "Energijos efektyvumo vertinimai",
+          "Sezoniniai priežiūros paketai"
+        ]
+      },
+      "faq": [
+        {
+          "question": "Kaip dažnai reikia tikrinti langus žiemos metu?",
+          "answer": "Rekomenduojame tikrinti langus bent kartą per savaitę žiemos metu, ypač po stiprių šalčių ar sniego audrų. Kasdieniai kondensacijos patikrinimai taip pat yra svarbūs."
+        }
+      ]
+    },
+    "pl": {
+      "title": "Zimowa Pielęgnacja Okien: Ochrona przed Uszkodzeniami Zimowymi",
+      "excerpt": "Zimowa pogoda stwarza unikalne wyzwania dla pielęgnacji okien. Poznaj podstawowe strategie ochrony i techniki zapobiegania, aby okna działały optymalnie przez najzimniejsze miesiące.",
+      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "featuredImageAlt": "Profesjonalne uszczelnianie okien na ochronę zimową",
+      "introduction": "Zimowa pogoda może być szczególnie surowa dla okien, powodując wszystko od problemów z kondensacją po uszkodzenia lodem i stres termiczny.",
+      "conclusion": "Właściwa zimowa pielęgnacja okien jest niezbędna dla utrzymania komfortu, efektywności i zapobiegania kosztownym uszkodzeniom podczas surowych zimowych miesięcy.",
+      "ctaSection": {
+        "title": "Profesjonalne Zimowe Usługi Okienne",
+        "description": "Przygotuj okna na zimę dzięki naszym kompleksowym usługom zimowym.",
+        "benefits": [
+          "Kompletne usługi przygotowania zimowego",
+          "Dostępność napraw awaryjnych",
+          "Oceny efektywności energetycznej",
+          "Pakiety konserwacji sezonowej"
+        ]
+      }
+    },
+    "uk": {
+      "title": "Зимовий Догляд за Вікнами: Захист від Холодних Ушкоджень",
+      "excerpt": "Зимова погода створює унікальні виклики для догляду за вікнами. Вивчіть основні стратегії захисту та техніки запобігання, щоб вікна працювали оптимально протягом найхолодніших місяців.",
+      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "featuredImageAlt": "Професійне ущільнення вікон для зимового захисту",
+      "introduction": "Зимова погода може бути особливо суворою для вікон, викликаючи все від проблем з конденсацією до льодових пошкоджень та теплового стресу.",
+      "conclusion": "Правильний зимовий догляд за вікнами є важливим для підтримання комфорту, ефективності та запобігання дорогим пошкодженням протягом суворих зимових місяців.",
+      "ctaSection": {
+        "title": "Професійні Зимові Віконні Послуги",
+        "description": "Підготуйте вікна до зими з нашими комплексними зимовими послугами.",
+        "benefits": [
+          "Повні послуги зимової підготовки",
+          "Доступність аварійних ремонтів",
+          "Оцінки енергоефективності",
+          "Пакети сезонного обслуговування"
+        ]
+      }
+    }
+  },
+  "components": [
+    {
+      "type": "ArticleHeader",
+      "contentKey": "header",
+      "required": true
+    },
+    {
+      "type": "ArticleContent",
+      "contentKey": "content",
+      "required": true
+    },
+    {
+      "type": "CtaBanner",
+      "contentKey": "ctaSection",
+      "required": true
+    },
+    {
+      "type": "Faq",
+      "contentKey": "faq",
+      "required": false
+    },
+    {
+      "type": "RelatedArticles",
+      "contentKey": "relatedTopics",
+      "required": false
+    }
+  ],
+  "defaultComponentsDisabled": true
+}

@@ -1,0 +1,518 @@
+{
+  "en": {
+    "sectionTitle": "Completed Window Repair Projects",
+    "sectionSubtitle": "See the quality of our work through real transformations",
+    "beforeLabel": "BEFORE",
+    "afterLabel": "AFTER",
+    "clientLabel": "Client:",
+    "cases": [
+      {
+        "id": "double-glazing-lodz",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png",
+          "alt": "Old window with damaged frame and poor insulation before repair",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png", 
+          "alt": "Modern double-glazed window with new frame after professional repair",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Double Glazing Replacement",
+        "description": "Energy-efficient glass upgrade in Łódź residence with improved thermal insulation",
+        "client": "Anna P.",
+        "location": "Łódź",
+        "serviceType": "glass-replacement"
+      },
+      {
+        "id": "frame-modernization-warsaw",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+          "alt": "Old window frame with worn hardware before modernization",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+          "alt": "Modern window frame with new insulation and hardware after upgrade",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Frame Modernization",
+        "description": "Complete frame replacement with insulation upgrade and modern hardware",
+        "client": "Tomasz M.",
+        "location": "Warsaw",
+        "serviceType": "frame-replacement"
+      },
+      {
+        "id": "balcony-door-sealing",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+          "alt": "Balcony door with poor sealing and weather damage before repair",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+          "alt": "Properly sealed balcony door with new weatherproofing after repair",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Balcony Door Sealing",
+        "description": "Weatherproofing and hardware upgrade for improved security and insulation",
+        "client": "Katowice Apt.",
+        "location": "Katowice",
+        "serviceType": "sealing-repair"
+      },
+      {
+        "id": "window-hardware-upgrade",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+          "alt": "Window with old, malfunctioning hardware before upgrade",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/4fd55c0734-cf15265bac353682e426.png",
+          "alt": "Window with modern multi-point locking system after hardware upgrade",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Window Hardware Upgrade",
+        "description": "Complete mechanism replacement with modern multi-point locking system",
+        "client": "Marek K.",
+        "location": "Kraków",
+        "serviceType": "hardware-upgrade"
+      },
+      {
+        "id": "emergency-glass-repair",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/72193ccad7-2f88b0d6ca955b0727e7.png",
+          "alt": "Broken window glass after storm damage before emergency repair",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "alt": "New reinforced safety glass installed after emergency repair",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Emergency Glass Repair",
+        "description": "Same-day glass replacement after storm damage with reinforced safety glass",
+        "client": "Elena S.",
+        "location": "Gdańsk",
+        "serviceType": "emergency-repair"
+      },
+      {
+        "id": "historic-window-restoration",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "alt": "Historic wooden window with deteriorated frame before restoration",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "alt": "Beautifully restored historic window maintaining original character",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Historic Window Restoration",
+        "description": "Careful restoration of original wooden frames while maintaining historic character",
+        "client": "Old Town Museum",
+        "location": "Vilnius",
+        "serviceType": "restoration"
+      }
+    ]
+  },
+  "lt": {
+    "sectionTitle": "Atlikti langų remonto darbai",
+    "sectionSubtitle": "Įsitikinkite mūsų darbo kokybe per realius transformacijos pavyzdžius",
+    "beforeLabel": "PRIEŠ",
+    "afterLabel": "PO",
+    "clientLabel": "Klientas:",
+    "cases": [
+      {
+        "id": "double-glazing-lodz",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png",
+          "alt": "Senas langas su pažeista rama ir prasta izoliacija prieš remontą",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+          "alt": "Šiuolaikiškas dvigubų stiklų langas su nauja rama po profesionalaus remonto",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Dvigubų stiklų keitimas",
+        "description": "Energijos taupymo stiklų atnaujinimas Lodzės gyvenamajame name su pagerinta šiluminė izoliacija",
+        "client": "Anna P.",
+        "location": "Lodzė",
+        "serviceType": "glass-replacement"
+      },
+      {
+        "id": "frame-modernization-warsaw",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+          "alt": "Sena lango rama su nusidėvėjusia furnitūra prieš modernizavimą",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+          "alt": "Šiuolaikinė lango rama su nauja izoliacija ir furnitūra po atnaujinimo",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Rėmų modernizavimas",
+        "description": "Visiškas rėmų keitimas su izoliacijos atnaujinimu ir šiuolaikine furnitūra",
+        "client": "Tomasz M.",
+        "location": "Varšuva",
+        "serviceType": "frame-replacement"
+      },
+      {
+        "id": "balcony-door-sealing",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+          "alt": "Balkono durys su prasta sandara ir oro pažeidimais prieš remontą",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+          "alt": "Tinkamai sandarintos balkono durys su nauja apsauga nuo oro po remonto",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Balkono durų sandarinimas",
+        "description": "Apsauga nuo oro sąlygų ir furnitūros atnaujinimas saugumo ir izoliacijos gerinimui",
+        "client": "Katovicų but.",
+        "location": "Katovicai",
+        "serviceType": "sealing-repair"
+      },
+      {
+        "id": "window-hardware-upgrade",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+          "alt": "Langas su sena, neveikiančia furnitūra prieš atnaujinimą",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/4fd55c0734-cf15265bac353682e426.png",
+          "alt": "Langas su šiuolaikine daugiataške užrakto sistema po furnitūros atnaujinimo",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Langų furnitūros atnaujinimas",
+        "description": "Visiškas mechanizmo keitimas su šiuolaikine daugiataškės užrakto sistema",
+        "client": "Marek K.",
+        "location": "Krokuva",
+        "serviceType": "hardware-upgrade"
+      },
+      {
+        "id": "emergency-glass-repair",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/72193ccad7-2f88b0d6ca955b0727e7.png",
+          "alt": "Sudužęs lango stiklas po audros žalos prieš skubų remontą",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "alt": "Naujas sustiprintas saugos stiklas įstatytas po skubaus remonto",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Skubus stiklo remontas",
+        "description": "Tos pačios dienos stiklo keitimas po audros žalos su sustiprintu saugos stiklu",
+        "client": "Elena S.",
+        "location": "Gdanskas",
+        "serviceType": "emergency-repair"
+      },
+      {
+        "id": "historic-window-restoration",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "alt": "Istorinis medinis langas su pablogėjusia rama prieš restauravimą",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "alt": "Gražiai restauruotas istorinis langas išlaikant originalų charakterį",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Istorinių langų restauravimas",
+        "description": "Atsargus originalių medinių rėmų restauravimas išlaikant istorinį charakterį",
+        "client": "Senamiesčio muziejus",
+        "location": "Vilnius",
+        "serviceType": "restoration"
+      }
+    ]
+  },
+  "pl": {
+    "sectionTitle": "Zrealizowane Projekty Napraw Okien",
+    "sectionSubtitle": "Zobacz jakość naszej pracy poprzez rzeczywiste transformacje",
+    "beforeLabel": "PRZED",
+    "afterLabel": "PO",
+    "clientLabel": "Klient:",
+    "cases": [
+      {
+        "id": "double-glazing-lodz",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png",
+          "alt": "Stare okno z uszkodzoną ramą i słabą izolacją przed naprawą",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+          "alt": "Nowoczesne okno z podwójnymi szybami i nową ramą po profesjonalnej naprawie",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Wymiana Szyb Podwójnych",
+        "description": "Modernizacja energooszczędnych szyb w domu mieszkalnym w Łodzi z ulepszoną izolacją termiczną",
+        "client": "Anna P.",
+        "location": "Łódź",
+        "serviceType": "glass-replacement"
+      },
+      {
+        "id": "frame-modernization-warsaw",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+          "alt": "Stara rama okienna z zużytą armaturą przed modernizacją",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+          "alt": "Nowoczesna rama okienna z nową izolacją i armaturą po modernizacji",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Modernizacja Ram",
+        "description": "Kompletna wymiana ram z modernizacją izolacji i nowoczesną armaturą",
+        "client": "Tomasz M.",
+        "location": "Warszawa",
+        "serviceType": "frame-replacement"
+      },
+      {
+        "id": "balcony-door-sealing",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+          "alt": "Drzwi balkonowe ze słabym uszczelnieniem i uszkodzeniami pogodowymi przed naprawą",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+          "alt": "Prawidłowo uszczelnione drzwi balkonowe z nową ochroną przed warunkami atmosferycznymi po naprawie",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Uszczelnienie Drzwi Balkonowych",
+        "description": "Uszczelnienie przeciw warunkom atmosferycznym i modernizacja okuć dla lepszego bezpieczeństwa i izolacji",
+        "client": "Mieszkanie Katowice",
+        "location": "Katowice",
+        "serviceType": "sealing-repair"
+      },
+      {
+        "id": "window-hardware-upgrade",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+          "alt": "Okno ze starą, niesprawnie działającą armaturą przed modernizacją",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/4fd55c0734-cf15265bac353682e426.png",
+          "alt": "Okno z nowoczesnym wielopunktowym systemem zamkowym po modernizacji armatury",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Modernizacja Okuć Okiennych",
+        "description": "Kompletna wymiana mechanizmu z nowoczesnym systemem zamków wielopunktowych",
+        "client": "Marek K.",
+        "location": "Kraków",
+        "serviceType": "hardware-upgrade"
+      },
+      {
+        "id": "emergency-glass-repair",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/72193ccad7-2f88b0d6ca955b0727e7.png",
+          "alt": "Rozbita szyba okienna po uszkodzeniach burzowych przed naprawą awaryjną",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "alt": "Nowe wzmocnione szkło bezpieczne zainstalowane po naprawie awaryjnej",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Naprawa Awaryjna Szyby",
+        "description": "Wymiana szyby tego samego dnia po uszkodzeniach burzowych z wzmocnionym szkłem bezpiecznym",
+        "client": "Elena S.",
+        "location": "Gdańsk",
+        "serviceType": "emergency-repair"
+      },
+      {
+        "id": "historic-window-restoration",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "alt": "Zabytkowe drewniane okno z pogorszoną ramą przed restauracją",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "alt": "Pięknie odrestaurowane zabytkowe okno zachowujące oryginalny charakter",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Restauracja Zabytkowych Okien",
+        "description": "Ostrożna restauracja oryginalnych drewnianych ram z zachowaniem historycznego charakteru",
+        "client": "Muzeum Starego Miasta",
+        "location": "Wilno",
+        "serviceType": "restoration"
+      }
+    ]
+  },
+  "uk": {
+    "sectionTitle": "Завершені Проекти Ремонту Вікон",
+    "sectionSubtitle": "Переконайтеся в якості нашої роботи через реальні трансформації",
+    "beforeLabel": "ДО",
+    "afterLabel": "ПІСЛЯ",
+    "clientLabel": "Клієнт:",
+    "cases": [
+      {
+        "id": "double-glazing-lodz",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png",
+          "alt": "Старе вікно з пошкодженою рамою та поганою ізоляцією до ремонту",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+          "alt": "Сучасне вікно з подвійним склінням та новою рамою після професійного ремонту",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Заміна Подвійного Скління",
+        "description": "Модернізація енергоефективного скла в житловому будинку в Лодзі з покращеною теплоізоляцією",
+        "client": "Анна П.",
+        "location": "Лодзь",
+        "serviceType": "glass-replacement"
+      },
+      {
+        "id": "frame-modernization-warsaw",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+          "alt": "Стара віконна рама зі зношеною фурнітурою до модернізації",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+          "alt": "Сучасна віконна рама з новою ізоляцією та фурнітурою після модернізації",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Модернізація Рам",
+        "description": "Повна заміна рам з модернізацією ізоляції та сучасною фурнітурою",
+        "client": "Томаш М.",
+        "location": "Варшава",
+        "serviceType": "frame-replacement"
+      },
+      {
+        "id": "balcony-door-sealing",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+          "alt": "Балконні двері з поганою герметизацією та погодними пошкодженнями до ремонту",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+          "alt": "Правильно герметизовані балконні двері з новим захистом від погодних умов після ремонту",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Герметизація Балконних Дверей",
+        "description": "Захист від погодних умов та модернізація фурнітури для покращення безпеки та ізоляції",
+        "client": "Квартира Катовіце",
+        "location": "Катовіце",
+        "serviceType": "sealing-repair"
+      },
+      {
+        "id": "window-hardware-upgrade",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+          "alt": "Вікно зі старою, несправною фурнітурою до модернізації",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/4fd55c0734-cf15265bac353682e426.png",
+          "alt": "Вікно з сучасною багатоточковою системою замків після модернізації фурнітури",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Модернізація Віконної Фурнітури",
+        "description": "Повна заміна механізму з сучасною багатоточковою системою замків",
+        "client": "Марек К.",
+        "location": "Краків",
+        "serviceType": "hardware-upgrade"
+      },
+      {
+        "id": "emergency-glass-repair",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/72193ccad7-2f88b0d6ca955b0727e7.png",
+          "alt": "Розбите віконне скло після пошкоджень бурею до екстреного ремонту",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "alt": "Нове посилене безпечне скло встановлене після екстреного ремонту",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Екстрений Ремонт Скла",
+        "description": "Заміна скла в той же день після пошкоджень бурею з посиленим безпечним склом",
+        "client": "Олена С.",
+        "location": "Гданськ",
+        "serviceType": "emergency-repair"
+      },
+      {
+        "id": "historic-window-restoration",
+        "beforeImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "alt": "Історичне дерев'яне вікно з погіршеною рамою до реставрації",
+          "width": 800,
+          "height": 600
+        },
+        "afterImage": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "alt": "Красиво відреставроване історичне вікно зі збереженням оригінального характеру",
+          "width": 800,
+          "height": 600
+        },
+        "title": "Реставрація Історичних Вікон",
+        "description": "Обережна реставрація оригінальних дерев'яних рам зі збереженням історичного характеру",
+        "client": "Музей Старого Міста",
+        "location": "Вільнюс",
+        "serviceType": "restoration"
+      }
+    ]
+  }
+}

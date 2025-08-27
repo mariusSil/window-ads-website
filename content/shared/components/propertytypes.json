@@ -1,0 +1,334 @@
+{
+  "en": {
+    "sectionTitle": "Property Types We Serve",
+    "sectionSubtitle": "Specialized solutions for every type of property",
+    "prefillTemplates": {
+      "interestedIn": "I'm interested in learning more about {subject}.",
+      "inquiryAbout": "I have an inquiry about {subject}.",
+      "requestQuote": "I would like to request a quote for {subject}."
+    },
+    "propertyTypes": [
+      {
+        "id": "residential",
+        "title": "Residential",
+        "description": "Apartments, houses, condominiums, and residential complexes",
+        "icon": "House",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "alt": "modern residential apartment building, home windows and doors, family housing",
+          "placeholder": "Residential Property - Modern apartment building"
+        },
+        "features": [
+          "Private homes",
+          "Apartment buildings", 
+          "Condominiums",
+          "Residential complexes"
+        ],
+        "ctaText": "Learn More"
+      },
+      {
+        "id": "commercial",
+        "title": "Commercial",
+        "description": "Office buildings, retail spaces, restaurants, and business centers",
+        "icon": "Building",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "alt": "modern office building, commercial property, business district windows",
+          "placeholder": "Commercial Property - Modern office building"
+        },
+        "features": [
+          "Office buildings",
+          "Retail stores",
+          "Restaurants",
+          "Shopping centers"
+        ],
+        "ctaText": "Learn More"
+      },
+      {
+        "id": "industrial",
+        "title": "Industrial",
+        "description": "Warehouses, factories, manufacturing facilities, and storage units",
+        "icon": "Factory",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "alt": "industrial facility, warehouse building, manufacturing plant windows",
+          "placeholder": "Industrial Property - Manufacturing facility"
+        },
+        "features": [
+          "Manufacturing plants",
+          "Warehouses",
+          "Storage facilities",
+          "Distribution centers"
+        ],
+        "ctaText": "Learn More"
+      },
+      {
+        "id": "institutional",
+        "title": "Institutional",
+        "description": "Schools, hospitals, government buildings, and public facilities",
+        "icon": "Building2",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/39e181f992-e3c2c18069cde55140c9.png",
+          "alt": "public institution building, school hospital government building",
+          "placeholder": "Institutional Property - Public building"
+        },
+        "features": [
+          "Schools & universities",
+          "Hospitals",
+          "Government buildings",
+          "Public facilities"
+        ],
+        "ctaText": "Learn More"
+      }
+    ]
+  },
+  "lt": {
+    "sectionTitle": "Nekilnojamojo turto tipai, kuriems teikiame paslaugas",
+    "sectionSubtitle": "Specializuoti sprendimai kiekvienam nekilnojamojo turto tipui",
+    "prefillTemplates": {
+      "interestedIn": "Domina daugiau sužinoti apie {subject}.",
+      "inquiryAbout": "Turiu klausimą dėl {subject}.",
+      "requestQuote": "Norėčiau gauti pasiūlymą {subject}."
+    },
+    "propertyTypes": [
+      {
+        "id": "residential",
+        "title": "Gyvenamasis",
+        "description": "Butai, namai, kondominiumai ir gyvenamieji kompleksai",
+        "icon": "House",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "alt": "šiuolaikinis gyvenamasis daugiabučių pastatas, namų langai ir durys, šeimos būstas",
+          "placeholder": "Gyvenamasis turtas - Šiuolaikinis daugiabučių pastatas"
+        },
+        "features": [
+          "Privatūs namai",
+          "Daugiabučiai pastatai",
+          "Kondominiumai",
+          "Gyvenamieji kompleksai"
+        ],
+        "ctaText": "Sužinoti daugiau"
+      },
+      {
+        "id": "commercial",
+        "title": "Komercinis",
+        "description": "Biurų pastatai, prekybos erdvės, restoranai ir verslo centrai",
+        "icon": "Building",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "alt": "šiuolaikinis biurų pastatas, komercinis turtas, verslo rajono langai",
+          "placeholder": "Komercinis turtas - Šiuolaikinis biurų pastatas"
+        },
+        "features": [
+          "Biurų pastatai",
+          "Prekybos centrai",
+          "Restoranai",
+          "Prekybos centrai"
+        ],
+        "ctaText": "Sužinoti daugiau"
+      },
+      {
+        "id": "industrial",
+        "title": "Pramonės",
+        "description": "Sandėliai, gamyklos, gamybos objektai ir saugojimo patalpos",
+        "icon": "Factory",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "alt": "pramonės objektas, sandėlio pastatas, gamybos įmonės langai",
+          "placeholder": "Pramonės turtas - Gamybos objektas"
+        },
+        "features": [
+          "Gamybos įmonės",
+          "Sandėliai",
+          "Saugojimo objektai",
+          "Paskirstymo centrai"
+        ],
+        "ctaText": "Sužinoti daugiau"
+      },
+      {
+        "id": "institutional",
+        "title": "Institucinis",
+        "description": "Mokyklos, ligoninės, vyriausybės pastatai ir viešieji objektai",
+        "icon": "Building2",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/39e181f992-e3c2c18069cde55140c9.png",
+          "alt": "viešosios institucijos pastatas, mokykla ligoninė vyriausybės pastatas",
+          "placeholder": "Institucinis turtas - Viešasis pastatas"
+        },
+        "features": [
+          "Mokyklos ir universitetai",
+          "Ligoninės",
+          "Vyriausybės pastatai",
+          "Viešieji objektai"
+        ],
+        "ctaText": "Sužinoti daugiau"
+      }
+    ]
+  },
+  "pl": {
+    "sectionTitle": "Typy nieruchomości, które obsługujemy",
+    "sectionSubtitle": "Specjalistyczne rozwiązania dla każdego typu nieruchomości",
+    "prefillTemplates": {
+      "interestedIn": "Jestem zainteresowany/a poznaniem szczegółów dotyczących {subject}.",
+      "inquiryAbout": "Mam pytanie dotyczące {subject}.",
+      "requestQuote": "Chciałbym/chciałabym otrzymać wycenę dla {subject}."
+    },
+    "propertyTypes": [
+      {
+        "id": "residential",
+        "title": "Mieszkaniowe",
+        "description": "Mieszkania, domy, kondominia i kompleksy mieszkaniowe",
+        "icon": "House",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "alt": "nowoczesny budynek mieszkalny, okna i drzwi domowe, mieszkania rodzinne",
+          "placeholder": "Nieruchomość mieszkaniowa - Nowoczesny budynek mieszkalny"
+        },
+        "features": [
+          "Domy prywatne",
+          "Budynki mieszkalne",
+          "Kondominia",
+          "Kompleksy mieszkaniowe"
+        ],
+        "ctaText": "Dowiedz się więcej"
+      },
+      {
+        "id": "commercial",
+        "title": "Komercyjne",
+        "description": "Budynki biurowe, przestrzenie handlowe, restauracje i centra biznesowe",
+        "icon": "Building",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "alt": "nowoczesny budynek biurowy, nieruchomość komercyjna, okna dzielnicy biznesowej",
+          "placeholder": "Nieruchomość komercyjna - Nowoczesny budynek biurowy"
+        },
+        "features": [
+          "Budynki biurowe",
+          "Sklepy detaliczne",
+          "Restauracje",
+          "Centra handlowe"
+        ],
+        "ctaText": "Dowiedz się więcej"
+      },
+      {
+        "id": "industrial",
+        "title": "Przemysłowe",
+        "description": "Magazyny, fabryki, obiekty produkcyjne i jednostki magazynowe",
+        "icon": "Factory",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "alt": "obiekt przemysłowy, budynek magazynowy, okna zakładu produkcyjnego",
+          "placeholder": "Nieruchomość przemysłowa - Obiekt produkcyjny"
+        },
+        "features": [
+          "Zakłady produkcyjne",
+          "Magazyny",
+          "Obiekty magazynowe",
+          "Centra dystrybucji"
+        ],
+        "ctaText": "Dowiedz się więcej"
+      },
+      {
+        "id": "institutional",
+        "title": "Instytucjonalne",
+        "description": "Szkoły, szpitale, budynki rządowe i obiekty publiczne",
+        "icon": "Building2",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/39e181f992-e3c2c18069cde55140c9.png",
+          "alt": "budynek instytucji publicznej, szkoła szpital budynek rządowy",
+          "placeholder": "Nieruchomość instytucjonalna - Budynek publiczny"
+        },
+        "features": [
+          "Szkoły i uniwersytety",
+          "Szpitale",
+          "Budynki rządowe",
+          "Obiekty publiczne"
+        ],
+        "ctaText": "Dowiedz się więcej"
+      }
+    ]
+  },
+  "uk": {
+    "sectionTitle": "Типи нерухомості, які ми обслуговуємо",
+    "sectionSubtitle": "Спеціалізовані рішення для кожного типу нерухомості",
+    "prefillTemplates": {
+      "interestedIn": "Мене цікавить детальна інформація про {subject}.",
+      "inquiryAbout": "У мене є запитання щодо {subject}.",
+      "requestQuote": "Хотів би отримати пропозицію для {subject}."
+    },
+    "propertyTypes": [
+      {
+        "id": "residential",
+        "title": "Житлова",
+        "description": "Квартири, будинки, кондомініуми та житлові комплекси",
+        "icon": "House",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "alt": "сучасний житловий багатоповерховий будинок, домашні вікна та двері, сімейне житло",
+          "placeholder": "Житлова нерухомість - Сучасний багатоповерховий будинок"
+        },
+        "features": [
+          "Приватні будинки",
+          "Багатоповерхові будинки",
+          "Кондомініуми",
+          "Житлові комплекси"
+        ],
+        "ctaText": "Дізнатися більше"
+      },
+      {
+        "id": "commercial",
+        "title": "Комерційна",
+        "description": "Офісні будівлі, торгові приміщення, ресторани та бізнес-центри",
+        "icon": "Building",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "alt": "сучасна офісна будівля, комерційна нерухомість, вікна бізнес-району",
+          "placeholder": "Комерційна нерухомість - Сучасна офісна будівля"
+        },
+        "features": [
+          "Офісні будівлі",
+          "Роздрібні магазини",
+          "Ресторани",
+          "Торгові центри"
+        ],
+        "ctaText": "Дізнатися більше"
+      },
+      {
+        "id": "industrial",
+        "title": "Промислова",
+        "description": "Склади, фабрики, виробничі об'єкти та складські приміщення",
+        "icon": "Factory",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "alt": "промисловий об'єкт, складська будівля, вікна виробничого підприємства",
+          "placeholder": "Промислова нерухомість - Виробничий об'єкт"
+        },
+        "features": [
+          "Виробничі підприємства",
+          "Склади",
+          "Складські об'єкти",
+          "Центри розподілу"
+        ],
+        "ctaText": "Дізнатися більше"
+      },
+      {
+        "id": "institutional",
+        "title": "Інституційна",
+        "description": "Школи, лікарні, урядові будівлі та громадські об'єкти",
+        "icon": "Building2",
+        "image": {
+          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/39e181f992-e3c2c18069cde55140c9.png",
+          "alt": "будівля громадської установи, школа лікарня урядова будівля",
+          "placeholder": "Інституційна нерухомість - Громадська будівля"
+        },
+        "features": [
+          "Школи та університети",
+          "Лікарні",
+          "Урядові будівлі",
+          "Громадські об'єкти"
+        ],
+        "ctaText": "Дізнатися більше"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "pageId": "about",
+  "template": "standard-page",
+  "seo": {
+    "en": {
+      "title": "About Us - Professional Window & Door Repair Services",
+      "description": "Experienced team providing window repair and maintenance services. Quality solutions from simple to complex repairs with warranty.",
+      "keywords": "window repair, door repair, maintenance, professional service, Lithuania",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+      "ogImageAlt": "About Us - Professional window and door repair team"
+    },
+    "lt": {
+      "title": "Apie mus - Profesionalūs langų ir durų remonto specialistai",
+      "description": "Patyrusi komanda, teikianti langų remonto ir profilaktiško aptarnavimo paslaugas visoje Lietuvoje. Kokybė ir ilgaamžiškumas.",
+      "keywords": "langų remontas, durų remontas, aptarnavimas, profesionalūs specialistai, Lietuva",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImageAlt": "Apie mus - Profesionalūs langų ir durų remonto specialistai"
+    },
+    "pl": {
+      "title": "O nas - Profesjonalne naprawy okien i drzwi",
+      "description": "Doświadczony zespół świadczący usługi naprawy okien i konserwacji. Jakość i trwałość od prostych do złożonych rozwiązań.",
+      "keywords": "naprawa okien, naprawa drzwi, konserwacja, profesjonalna obsługa, Litwa",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/092074e752-1185ce1516e031aa1a73.png",
+      "ogImageAlt": "O nas - Profesjonalny zespół napraw okien i drzwi"
+    },
+    "uk": {
+      "title": "Про нас - Професійний ремонт вікон та дверей",
+      "description": "Досвідчена команда, що надає послуги з ремонту вікон та профілактичного обслуговування. Якість та довговічність.",
+      "keywords": "ремонт вікон, ремонт дверей, обслуговування, професійний сервіс, Литва",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+      "ogImageAlt": "Про нас - Професійна команда з ремонту вікон та дверей"
+    }
+  },
+  "content": {
+    "lt": {
+      "hero": {
+        "title": "Apie mus",
+        "subtitle": "Esame patyrusi komanda, teikianti langų remonto, profilaktiško aptarnavimo paslaugas visoje Lietuvoje. Atsakome į kiekvieno kliento poreikius, nuo paprastų iki sudėtingiausių sprendimų, užtikriname kokybę ir ilgaamžiškumą, taip pat montuojame langų priedus, įskaitant ventiliacijos sistemas ir kitus išmaniuosius sprendimus.",
+        "backgroundImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png"
+      },
+      "team": {
+        "title": "Mūsų komanda",
+        "subtitle": "Mūsų darbuotojai – kompetentingi, patyrę specialistai, kruopščiai apmokyti dirbti su įvairių gamintojų langais ir priedais su ilgamete patirtimi. Užtikrina aukščiausią darbų kokybę, profesionalų aptarnavimą, individualų požiūrį į kiekvieną klientą, atlikus darbus paliekama tvarkinga darbo vieta."
+      },
+      "whyChooseUs": {
+        "title": "Kodėl rinktis mus?",
+        "items": [
+          {
+            "icon": "Award",
+            "title": "Kompetentingi meistrai su ilgamete patirtimi",
+            "description": "Mūsų specialistai turi daugiametę patirtį ir nuolat tobulina savo įgūdžius"
+          },
+          {
+            "icon": "Zap",
+            "title": "Greitas ir patikimas aptarnavimas",
+            "description": "Operatyviai reaguojame į užklausas ir atliekame darbus laiku"
+          },
+          {
+            "icon": "DollarSign",
+            "title": "Patogios kainos ir skaidri sąmata",
+            "description": "Teisingas kainodaris be paslėptų mokesčių"
+          },
+          {
+            "icon": "ShieldCheck",
+            "title": "Garantija atliktiems darbams",
+            "description": "Suteikiame garantiją visiems atliekamoms paslaugoms"
+          },
+          {
+            "icon": "CreditCard",
+            "title": "Įvairūs atsiskaitymo būdai",
+            "description": "Bekontaktis atsiskaitymas, sąskaita-faktūra, grynieji pinigai"
+          },
+          {
+            "icon": "Users",
+            "title": "Individualus požiūris į klientą bei sprendimus",
+            "description": "Kiekvienam klientui skiriame asmeninį dėmesį ir pritaikome sprendimus"
+          }
+        ]
+      }
+    },
+    "en": {
+      "hero": {
+        "title": "About Us",
+        "subtitle": "We are an experienced team providing window repair and maintenance services throughout Lithuania. We respond to every client's needs, from simple to the most complex solutions, ensuring quality and durability, as well as installing window accessories, including ventilation systems and other smart solutions.",
+        "backgroundImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png"
+      },
+      "team": {
+        "title": "Our Team",
+        "subtitle": "Our employees are competent, experienced specialists, thoroughly trained to work with windows and accessories from various manufacturers with long-term experience. They ensure the highest quality of work, professional service, individual approach to each client, and leave a tidy workplace after completing the work."
+      },
+      "whyChooseUs": {
+        "title": "Why Choose Us?",
+        "items": [
+          {
+            "icon": "Award",
+            "title": "Competent craftsmen with long-term experience",
+            "description": "Our specialists have years of experience and continuously improve their skills"
+          },
+          {
+            "icon": "Zap",
+            "title": "Fast and reliable service",
+            "description": "We respond promptly to inquiries and complete work on time"
+          },
+          {
+            "icon": "DollarSign",
+            "title": "Convenient prices and transparent estimates",
+            "description": "Fair pricing without hidden fees"
+          },
+          {
+            "icon": "ShieldCheck",
+            "title": "Warranty on completed work",
+            "description": "We provide warranty on all services performed"
+          },
+          {
+            "icon": "CreditCard",
+            "title": "Various payment methods",
+            "description": "Contactless payment, invoice, cash"
+          },
+          {
+            "icon": "Users",
+            "title": "Individual approach to clients and solutions",
+            "description": "We give personal attention to each client and tailor solutions"
+          }
+        ]
+      }
+    },
+    "pl": {
+      "hero": {
+        "title": "O nas",
+        "subtitle": "Jesteśmy doświadczonym zespołem świadczącym usługi naprawy okien i konserwacji w całej Litwie. Odpowiadamy na potrzeby każdego klienta, od prostych po najbardziej złożone rozwiązania, zapewniając jakość i trwałość, a także montujemy akcesoria okienne, w tym systemy wentylacyjne i inne inteligentne rozwiązania.",
+        "backgroundImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png"
+      },
+      "team": {
+        "title": "Nasz zespół",
+        "subtitle": "Nasi pracownicy to kompetentni, doświadczeni specjaliści, dokładnie przeszkoleni do pracy z oknami i akcesoriami różnych producentów z długoletnim doświadczeniem. Zapewniają najwyższą jakość pracy, profesjonalną obsługę, indywidualne podejście do każdego klienta i pozostawiają uporządkowane miejsce pracy po zakończeniu prac."
+      },
+      "whyChooseUs": {
+        "title": "Dlaczego warto nas wybrać?",
+        "items": [
+          {
+            "icon": "Award",
+            "title": "Kompetentni rzemieślnicy z długoletnim doświadczeniem",
+            "description": "Nasi specjaliści mają wieloletnie doświadczenie i stale doskonalą swoje umiejętności"
+          },
+          {
+            "icon": "Zap",
+            "title": "Szybka i niezawodna obsługa",
+            "description": "Szybko reagujemy na zapytania i wykonujemy prace na czas"
+          },
+          {
+            "icon": "DollarSign",
+            "title": "Wygodne ceny i przejrzyste kosztorysy",
+            "description": "Uczciwe ceny bez ukrytych opłat"
+          },
+          {
+            "icon": "ShieldCheck",
+            "title": "Gwarancja na wykonane prace",
+            "description": "Udzielamy gwarancji na wszystkie wykonane usługi"
+          },
+          {
+            "icon": "CreditCard",
+            "title": "Różne sposoby płatności",
+            "description": "Płatność bezgotówkowa, faktura, gotówka"
+          },
+          {
+            "icon": "Users",
+            "title": "Indywidualne podejście do klienta i rozwiązań",
+            "description": "Każdemu klientowi poświęcamy osobistą uwagę i dostosowujemy rozwiązania"
+          }
+        ]
+      }
+    },
+    "uk": {
+      "hero": {
+        "title": "Про нас",
+        "subtitle": "Ми досвідчена команда, що надає послуги з ремонту вікон та профілактичного обслуговування по всій Литві. Відповідаємо на потреби кожного клієнта, від простих до найскладніших рішень, забезпечуючи якість та довговічність, а також встановлюємо віконні аксесуари, включаючи вентиляційні системи та інші розумні рішення.",
+        "backgroundImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png"
+      },
+      "team": {
+        "title": "Наша команда",
+        "subtitle": "Наші працівники – компетентні, досвідчені спеціалісти, ретельно навчені працювати з вікнами та аксесуарами різних виробників з багаторічним досвідом. Забезпечують найвищу якість роботи, професійне обслуговування, індивідуальний підхід до кожного клієнта, залишають охайне робоче місце після завершення робіт."
+      },
+      "whyChooseUs": {
+        "title": "Чому обрати нас?",
+        "items": [
+          {
+            "icon": "Award",
+            "title": "Компетентні майстри з багаторічним досвідом",
+            "description": "Наші спеціалісти мають багаторічний досвід та постійно вдосконалюють свої навички"
+          },
+          {
+            "icon": "Zap",
+            "title": "Швидке та надійне обслуговування",
+            "description": "Оперативно реагуємо на запити та виконуємо роботи вчасно"
+          },
+          {
+            "icon": "DollarSign",
+            "title": "Зручні ціни та прозора кошторисна вартість",
+            "description": "Чесне ціноутворення без прихованих платежів"
+          },
+          {
+            "icon": "ShieldCheck",
+            "title": "Гарантія на виконані роботи",
+            "description": "Надаємо гарантію на всі виконані послуги"
+          },
+          {
+            "icon": "CreditCard",
+            "title": "Різні способи оплати",
+            "description": "Безготівковий розрахунок, рахунок-фактура, готівка"
+          },
+          {
+            "icon": "Users",
+            "title": "Індивідуальний підхід до клієнта та рішень",
+            "description": "Кожному клієнту приділяємо особисту увагу та адаптуємо рішення"
+          }
+        ]
+      }
+    }
+  },
+  "components": [
+    {
+      "type": "PageHeader",
+      "contentKey": "hero",
+      "required": true
+    },
+    {
+      "type": "WhyChooseUs",
+      "contentKey": "whyChooseUs",
+      "required": true
+    }
+  ],
+  "componentOverrides": {
+    "WhyChooseUs": {
+      "contentKey": "whyChooseUs"
+    }
+  }
+}

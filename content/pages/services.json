@@ -1,0 +1,68 @@
+{
+  "pageId": "services",
+  "template": "services",
+  "seo": {
+    "en": {
+      "title": "Professional Window & Door Repair Services",
+      "description": "Expert window and door repair services with guaranteed quality and fast response times. Serving Warsaw, Łódź, Kraków, Katowice and surrounding areas.",
+      "keywords": "window repair, door repair, window service, door service, professional repair, guaranteed quality",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+      "ogImageAlt": "Professional Window & Door Repair Services",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Window & Door Repair Services",
+        "description": "Professional repair services for windows and doors",
+        "provider": {
+          "@type": "Organization",
+          "name": "Langu Remontas"
+        }
+      }
+    },
+    "lt": {
+      "title": "Profesionalūs langų ir durų remonto darbai",
+      "description": "Ekspertų langų ir durų remonto paslaugos su kokybės garantija ir greitu atsaku.",
+      "keywords": "langų remontas, durų remontas, langų servisas, durų servisas, profesionalus remontas",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+      "ogImageAlt": "Profesionalūs langų ir durų remonto darbai"
+    },
+    "pl": {
+      "title": "Profesjonalny serwis okien i drzwi",
+      "description": "Eksperckie usługi naprawy okien i drzwi z gwarancją jakości i szybkim czasem reakcji.",
+      "keywords": "naprawa okien, naprawa drzwi, serwis okien, serwis drzwi, profesjonalna naprawa",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/1219efa6c2-1eebe76d8698624cc69b.png",
+      "ogImageAlt": "Profesjonalny serwis okien i drzwi"
+    },
+    "uk": {
+      "title": "Професійні послуги ремонту вікон та дверей",
+      "description": "Експертні послуги ремонту вікон та дверей з гарантією якості та швидким часом реагування. Обслуговуємо Варшаву, Лодзь, Краків, Катовіце та прилеглі райони.",
+      "keywords": "ремонт вікон, ремонт дверей, сервіс вікон, сервіс дверей, професійний ремонт, гарантована якість",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/c8c69828a1-d8edbc2ff80d41521467.png",
+      "ogImageAlt": "Професійні послуги ремонту вікон та дверей",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Послуги ремонту вікон та дверей",
+        "description": "Професійні послуги ремонту вікон та дверей",
+        "provider": {
+          "@type": "Organization",
+          "name": "Langu Remontas"
+        }
+      }
+    }
+  },
+  "content": {
+    "en": {
+      "components": []
+    },
+    "lt": {
+      "components": []
+    },
+    "pl": {
+      "components": []
+    },
+    "uk": {
+      "components": []
+    }
+  }
+}

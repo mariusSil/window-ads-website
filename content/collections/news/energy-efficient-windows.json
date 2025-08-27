@@ -1,0 +1,299 @@
+{
+  "itemId": "energy-efficient-windows",
+  "collection": "news",
+  "template": "news-article",
+  "slugs": {
+    "en": "energy-efficient-windows-guide-reduce-heating-costs-improve-comfort",
+    "lt": "energijos-efektyvus-langai-vadovas-sumažinti-šildymo-išlaidas",
+    "pl": "energooszczedne-okna-przewodnik-redukcja-kosztow-ogrzewania",
+    "uk": "energoefektyvni-vikna-posibnyk-zmenshyty-vytraty-opalennya"
+  },
+  "publishDate": "2024-01-30",
+  "author": "Langu-Remontas Expert Team",
+  "category": "efficiency",
+  "readingTime": 8,
+  "featured": true,
+  "seo": {
+    "en": {
+      "title": "Energy Efficient Windows Guide: Reduce Heating Costs & Improve Comfort",
+      "description": "Complete guide to energy efficient windows. Learn about U-values, SHGC ratings, window technologies, and how to choose the best energy-saving windows for your home.",
+      "keywords": "energy efficient windows, window U-value, SHGC rating, triple glazing, window energy savings, reduce heating costs, thermal performance",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "ogImageAlt": "Energy Efficient Windows Performance Guide",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Energy Efficient Windows Guide: Reduce Heating Costs & Improve Comfort",
+        "description": "Comprehensive guide to understanding and choosing energy efficient windows for maximum savings and comfort.",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+        "datePublished": "2024-01-30",
+        "dateModified": "2024-01-30",
+        "author": {
+          "@type": "Organization",
+          "name": "Langu-Remontas Expert Team"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Langu-Remontas",
+          "logo": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png"
+        }
+      }
+    },
+    "lt": {
+      "title": "Energijos Efektyvūs Langai: Vadovas Šildymo Išlaidų Mažinimui",
+      "description": "Išsamus vadovas apie energijos efektyvius langus. Sužinokite apie U-vertes, technologijas ir kaip pasirinkti geriausius energiją taupančius langus.",
+      "keywords": "energijos efektyvūs langai, langų U-vertė, trigubas stiklinimas, energijos taupymas, šildymo išlaidų mažinimas",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "ogImageAlt": "Energijos Efektyvių Langų Vadovas"
+    },
+    "pl": {
+      "title": "Energooszczędne Okna: Przewodnik Redukcji Kosztów Ogrzewania",
+      "description": "Kompletny przewodnik po energooszczędnych oknach. Poznaj wartości U, technologie i jak wybrać najlepsze okna oszczędzające energię.",
+      "keywords": "energooszczędne okna, wartość U okien, potrójne szyby, oszczędność energii, redukcja kosztów ogrzewania",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "ogImageAlt": "Przewodnik Energooszczędnych Okien"
+    },
+    "uk": {
+      "title": "Енергоефективні Вікна: Посібник Зменшення Витрат на Опалення",
+      "description": "Повний посібник з енергоефективних вікон. Дізнайтеся про U-значення, технології та як обрати найкращі енергозберігаючі вікна.",
+      "keywords": "енергоефективні вікна, U-значення вікон, потрійне скління, енергозбереження, зменшення витрат опалення",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "ogImageAlt": "Посібник Енергоефективних Вікон"
+    }
+  },
+  "content": {
+    "en": {
+      "title": "Energy Efficient Windows Guide: Reduce Heating Costs & Improve Comfort",
+      "excerpt": "Energy efficient windows can reduce your heating costs by up to 40% while dramatically improving indoor comfort. Learn about the latest window technologies, performance ratings, and how to choose the perfect energy-saving windows for your home.",
+      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "featuredImageAlt": "Technicians installing new double-glazed glass unit into window frame, professional glass replacement",
+      "introduction": "In Lithuania's climate, where heating costs can account for up to 60% of household energy bills, choosing energy efficient windows isn't just an environmental choice—it's a smart financial investment. Modern window technology has advanced dramatically, offering homeowners unprecedented opportunities to reduce energy consumption while improving comfort. This comprehensive guide will help you understand window energy ratings, technologies, and make informed decisions that can save thousands of euros over the lifetime of your windows.",
+      "sections": [
+        {
+          "id": "understanding-window-energy-ratings",
+          "title": "Understanding Window Energy Ratings",
+          "content": "**Key Performance Metrics**\n\n**U-Value (Thermal Transmittance)**\n- Measures heat loss through the window\n- Lower values = better insulation\n- Measured in W/m²K (watts per square meter per Kelvin)\n- Modern efficient windows: 0.8-1.2 W/m²K\n- Premium windows: 0.5-0.8 W/m²K\n- Passive house standard: ≤0.8 W/m²K\n\n**SHGC (Solar Heat Gain Coefficient)**\n- Measures solar energy transmission\n- Range: 0-1 (higher = more solar heat gain)\n- Optimal for Lithuania: 0.4-0.6\n- Balance between winter heat gain and summer cooling\n\n**VT (Visible Transmittance)**\n- Measures natural light transmission\n- Range: 0-1 (higher = more daylight)\n- Quality windows: 0.6-0.8\n- Important for maintaining bright interiors\n\n**Air Leakage Rating**\n- Measures air infiltration\n- Lower values = better sealing\n- Quality windows: <0.3 m³/h·m²\n- Premium windows: <0.1 m³/h·m²",
+          "tips": [
+            "Look for ENERGY STAR certification for guaranteed performance",
+            "Compare total window performance, not just glass specifications",
+            "Consider climate-specific ratings for optimal efficiency"
+          ]
+        },
+        {
+          "id": "window-technologies",
+          "title": "Advanced Window Technologies",
+          "content": "**Glazing Technologies**\n\n**Triple Glazing**\n- Three panes of glass with two insulating chambers\n- U-values as low as 0.5 W/m²K\n- Excellent for Lithuanian climate\n- 40-60% better than double glazing\n- Reduced condensation and drafts\n\n**Low-E Coatings**\n- Microscopic metallic coating on glass\n- Reflects heat back into room\n- Multiple types for different climates\n- Can improve U-value by 30-50%\n- Maintains natural light transmission\n\n**Gas Fills**\n- Argon: Most common, good performance\n- Krypton: Superior insulation, higher cost\n- Xenon: Premium option for maximum efficiency\n- Replaces air between panes for better insulation\n\n**Warm Edge Spacers**\n- Insulating material between glass panes\n- Reduces thermal bridging\n- Prevents condensation at edges\n- Improves overall window performance\n\n**Frame Technologies**\n\n**Multi-Chamber Profiles**\n- Multiple air chambers in frame\n- Reduces thermal bridging\n- Improves structural strength\n- Better insulation performance\n\n**Thermal Breaks**\n- Insulating barriers in frame\n- Prevents heat conduction\n- Essential for aluminum frames\n- Significantly improves efficiency",
+          "benefits": [
+            "Up to 40% reduction in heating costs",
+            "Improved indoor comfort year-round",
+            "Reduced condensation and drafts",
+            "Enhanced sound insulation"
+          ]
+        },
+        {
+          "id": "choosing-right-windows",
+          "title": "Choosing the Right Energy Efficient Windows",
+          "content": "**Climate Considerations for Lithuania**\n\n**Heating Dominant Climate**\n- Prioritize low U-values for heat retention\n- Moderate SHGC for winter solar gain\n- Consider orientation-specific glazing\n- Focus on air sealing and thermal performance\n\n**Seasonal Performance**\n- **Winter**: Maximum heat retention and solar gain\n- **Summer**: Adequate cooling and glare control\n- **Transition seasons**: Balanced performance\n- **Year-round**: Consistent comfort and efficiency\n\n**Window Orientation Optimization**\n\n**South-Facing Windows**\n- Higher SHGC for winter heat gain\n- Consider overhangs for summer shading\n- Maximum daylight benefit\n- Best return on investment\n\n**North-Facing Windows**\n- Prioritize low U-values\n- Lower SHGC acceptable\n- Focus on insulation performance\n- Minimize heat loss\n\n**East/West-Facing Windows**\n- Moderate SHGC to control glare\n- Good thermal performance\n- Consider tinted or coated glass\n- Balance light and heat control\n\n**Frame Material Selection**\n\n**uPVC (Vinyl)**\n- Excellent thermal performance\n- Low maintenance requirements\n- Cost-effective option\n- Good durability in Lithuanian climate\n\n**Wood**\n- Natural insulation properties\n- Aesthetic appeal\n- Requires regular maintenance\n- Premium option with good performance\n\n**Aluminum with Thermal Break**\n- Durable and strong\n- Modern thermal break technology\n- Good for large openings\n- Higher cost but long-lasting\n\n**Composite Materials**\n- Combines benefits of multiple materials\n- Excellent performance\n- Low maintenance\n- Premium pricing",
+          "callout": "Professional tip: The best energy efficient window is one that's properly installed. Even premium windows lose 50% of their efficiency with poor installation."
+        },
+        {
+          "id": "cost-benefit-analysis",
+          "title": "Cost-Benefit Analysis and ROI",
+          "content": "**Investment Costs (Typical Lithuanian Market)**\n\n**Window Types and Pricing**\n- **Standard double glazing**: €200-400 per m²\n- **High-performance double glazing**: €300-500 per m²\n- **Triple glazing**: €400-700 per m²\n- **Premium triple glazing**: €600-1000 per m²\n- **Installation costs**: €100-200 per window\n\n**Energy Savings Calculations**\n\n**Annual Heating Cost Reduction**\n- Average Lithuanian home: €800-1200 heating costs\n- Standard windows: 0% savings baseline\n- High-performance double: 15-25% savings\n- Triple glazing: 25-40% savings\n- Premium systems: 35-50% savings\n\n**Payback Period Analysis**\n- **High-performance double**: 8-12 years\n- **Triple glazing**: 10-15 years\n- **Premium systems**: 12-18 years\n- **Additional benefits**: Comfort, property value, durability\n\n**Lifetime Value (25-year window lifespan)**\n- **Energy savings**: €5,000-15,000\n- **Maintenance reduction**: €1,000-3,000\n- **Property value increase**: 3-7%\n- **Comfort and health benefits**: Priceless\n\n**Financing and Incentives**\n- **EU renovation grants**: Up to 50% coverage\n- **Lithuanian energy efficiency programs**: Various rebates\n- **Bank financing**: Special rates for energy improvements\n- **Tax benefits**: Potential deductions for efficiency upgrades",
+          "benefits": [
+            "Immediate comfort improvement",
+            "Reduced energy bills from day one",
+            "Increased property value",
+            "Better indoor air quality"
+          ]
+        },
+        {
+          "id": "installation-maintenance",
+          "title": "Professional Installation and Maintenance",
+          "content": "**Critical Installation Factors**\n\n**Proper Sealing and Insulation**\n- Complete air sealing around frame\n- Proper insulation in wall cavity\n- Weatherstripping installation\n- Thermal bridge elimination\n\n**Structural Considerations**\n- Adequate support for window weight\n- Proper flashing and drainage\n- Expansion joint accommodation\n- Building code compliance\n\n**Quality Control Measures**\n- Post-installation performance testing\n- Air leakage verification\n- Thermal imaging inspection\n- Operational testing of all components\n\n**Maintenance for Optimal Performance**\n\n**Regular Maintenance Schedule**\n- **Monthly**: Clean glass and check operation\n- **Quarterly**: Inspect weatherstripping and seals\n- **Annually**: Professional performance assessment\n- **As needed**: Hardware lubrication and adjustments\n\n**Performance Monitoring**\n- Track energy usage changes\n- Monitor for condensation issues\n- Check for air leaks annually\n- Document any performance changes\n\n**Professional Service Benefits**\n- Warranty protection\n- Optimal performance maintenance\n- Early problem detection\n- Extended window lifespan",
+          "warning": "DIY installation of energy efficient windows often voids warranties and can reduce performance by 30-50%. Professional installation is essential for achieving rated performance."
+        }
+      ],
+      "conclusion": "Energy efficient windows represent one of the most impactful home improvements you can make in Lithuania's climate. With potential energy savings of 25-40% and improved comfort year-round, the investment pays dividends for decades. The key is choosing the right technology for your specific needs and ensuring professional installation. As energy costs continue to rise and environmental concerns grow, energy efficient windows aren't just a luxury—they're a necessity for modern, comfortable, and sustainable living.",
+      "ctaSection": {
+        "title": "Upgrade to Energy Efficient Windows Today",
+        "description": "Transform your home's energy performance with our premium energy efficient windows. From consultation to installation, we ensure maximum savings and comfort for your investment.",
+        "benefits": [
+          "Free energy efficiency consultation",
+          "Premium window technologies",
+          "Professional installation guarantee",
+          "Financing options available"
+        ]
+      },
+      "faq": [
+        {
+          "question": "How much can I save with energy efficient windows?",
+          "answer": "In Lithuania's climate, energy efficient windows can reduce heating costs by 25-40%. For an average home spending €1000 annually on heating, this translates to €250-400 in yearly savings, or €6,000-10,000 over the window's 25-year lifespan."
+        },
+        {
+          "question": "Are triple-glazed windows worth the extra cost?",
+          "answer": "In Lithuania's cold climate, triple glazing typically provides 15-20% better performance than high-quality double glazing. The payback period is usually 10-15 years, making it worthwhile for long-term homeowners, especially with rising energy costs."
+        },
+        {
+          "question": "What's the most important rating to look for?",
+          "answer": "For Lithuanian climate, prioritize low U-values (≤1.0 W/m²K) for heat retention. SHGC of 0.4-0.6 provides good winter solar gain while preventing summer overheating. Always consider the complete window system performance, not just glass ratings."
+        },
+        {
+          "question": "How long do energy efficient windows last?",
+          "answer": "Quality energy efficient windows typically last 20-25 years with proper maintenance. Premium systems can last 30+ years. The energy savings and improved comfort make them a worthwhile long-term investment for most homeowners."
+        }
+      ]
+    },
+    "lt": {
+      "title": "Energijos Efektyvūs Langai: Vadovas Šildymo Išlaidų Mažinimui",
+      "excerpt": "Energijos efektyvūs langai gali sumažinti šildymo išlaidas iki 40% ir drastiškai pagerinti patalpų komfortą. Sužinokite apie naujausias langų technologijas ir kaip pasirinkti idealius energiją taupančius langus.",
+      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "featuredImageAlt": "Technikai įrengia naują dvigubai stiklinį langų bloką į langų rėmą, profesionalus stiklo keitimas",
+      "introduction": "Lietuvos klimate, kur šildymo išlaidos gali sudaryti iki 60% namų ūkio energijos sąskaitų, energijos efektyvių langų pasirinkimas yra ne tik aplinkosauginis sprendimas, bet ir protinga finansinė investicija. Šiuolaikinė langų technologija pažengė dramatiškai, suteikdama namų savininkams neprecedentines galimybes sumažinti energijos suvartojimą ir pagerinti komfortą.",
+      "sections": [
+        {
+          "id": "langu-energijos-ivertinimai",
+          "title": "Langų Energijos Įvertinimų Supratimas",
+          "content": "**Pagrindiniai Veikimo Rodikliai**\n\n**U-vertė (Šiluminio Pralaidumo Koeficientas)**\n- Matuoja šilumos praradimą per langą\n- Mažesnės vertės = geresnė izoliacija\n- Matuojama W/m²K (vatai kvadratiniam metrui kelvinui)\n- Šiuolaikiniai efektyvūs langai: 0,8-1,2 W/m²K\n- Premium langai: 0,5-0,8 W/m²K\n- Pasyvaus namo standartas: ≤0,8 W/m²K\n\n**SHGC (Saulės Šilumos Pritekėjimo Koeficientas)**\n- Matuoja saulės energijos perdavimą\n- Diapazonas: 0-1 (aukštesnis = daugiau saulės šilumos)\n- Optimalus Lietuvai: 0,4-0,6\n- Pusiausvyra tarp žiemos šilumos ir vasaros vėsinimo"
+        },
+        {
+          "id": "langu-technologijos",
+          "title": "Pažangūs Langų Technologijos",
+          "content": "**Stiklinimo Technologijos**\n\n**Trigubas Stiklinimas**\n- Trys stiklo sluoksniai su dviem izoliuojančiomis kameromis\n- U-vertės iki 0,5 W/m²K\n- Puikiai tinka Lietuvos klimatui\n- 40-60% geriau nei dvigubas stiklinimas\n- Sumažinta kondensacija ir vėjo srautai\n\n**Low-E Dangos**\n- Mikroskopinis metalinis stiklo dangos sluoksnis\n- Atspindi šilumą atgal į patalpą\n- Keli tipai skirtingiems klimatams\n- Gali pagerinti U-vertę 30-50%\n- Išlaiko natūralaus šviesos perdavimą"
+        },
+        {
+          "id": "tinkamu-langu-pasirinkimas",
+          "title": "Tinkamų Energijos Efektyvių Langų Pasirinkimas",
+          "content": "**Klimato Aspektai Lietuvai**\n\n**Šildymo Dominuojantis Klimatas**\n- Pirmenybė žemoms U-vertėms šilumos išlaikymui\n- Vidutinis SHGC žiemos saulės pritekėjimui\n- Apsvarstykite orientacijos specifinį stiklinimą\n- Dėmesys oro sandarinimui ir šiluminėms savybėms\n\n**Rėmo Medžiagų Pasirinkimas**\n\n**uPVC (Vinilas)**\n- Puikios šiluminės savybės\n- Mažai priežiūros reikalavimai\n- Ekonomiškas variantas\n- Geras ilgaamžiškumas Lietuvos klimate"
+        }
+      ],
+      "conclusion": "Energijos efektyvūs langai yra vienas iš poveikiausių namų pagerinimų, kuriuos galite atlikti Lietuvos klimate. Su potencialia 25-40% energijos taupymo galimybe ir pagerėjusiu komfortu visus metus, investicija atsipirks dešimtmečiais.",
+      "ctaSection": {
+        "title": "Pereikite prie Energijos Efektyvių Langų Šiandien",
+        "description": "Transformuokite savo namų energijos efektyvumą su mūsų aukščiausios kokybės energijos efektyviais langais.",
+        "benefits": [
+          "Nemokama energijos efektyvumo konsultacija",
+          "Aukščiausios kokybės langų technologijos",
+          "Profesionalaus montažo garantija",
+          "Galimi finansavimo variantai"
+        ]
+      },
+      "faq": [
+        {
+          "question": "Kiek galiu sutaupyti su energijos efektyviais langais?",
+          "answer": "Lietuvos klimate energijos efektyvūs langai gali sumažinti šildymo išlaidas 25-40%. Vidutiniams namams, išleidžiantiems €1000 per metus šildymui, tai reiškia €250-400 metinį taupymą arba €6,000-10,000 per langų 25 metų eksploatacijos laiką."
+        }
+      ]
+    },
+    "pl": {
+      "title": "Energooszczędne Okna: Przewodnik Redukcji Kosztów Ogrzewania",
+      "excerpt": "Energooszczędne okna mogą zmniejszyć koszty ogrzewania o 40% i dramatycznie poprawić komfort wnętrz. Poznaj najnowsze technologie okienne i jak wybrać idealne energooszczędne okna.",
+      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "featuredImageAlt": "Technicy instalują nową dwuszybową jednostkę szklaną w ramie okiennej, profesjonalna wymiana szkła",
+      "introduction": "W klimacie Litwy, gdzie koszty ogrzewania mogą stanowić do 60% rachunków za energię gospodarstwa domowego, wybór energooszczędnych okien to nie tylko wybór ekologiczny, ale także mądra inwestycja finansowa. Nowoczesna technologia okien rozwinęła się dramatycznie, oferując właścicielom domów bezprecedensowe możliwości redukcji zużycia energii przy jednoczesnej poprawie komfortu.",
+      "sections": [
+        {
+          "id": "oceny-energetyczne-okien",
+          "title": "Zrozumienie Ocen Energetycznych Okien",
+          "content": "**Kluczowe Wskaźniki Wydajności**\n\n**Wartość U (Współczynnik Przenikania Ciepła)**\n- Mierzy utratę ciepła przez okno\n- Niższe wartości = lepsza izolacja\n- Mierzone w W/m²K (waty na metr kwadratowy na kelwin)\n- Nowoczesne efektywne okna: 0,8-1,2 W/m²K\n- Okna premium: 0,5-0,8 W/m²K\n- Standard domu pasywnego: ≤0,8 W/m²K\n\n**SHGC (Współczynnik Zysków Ciepła Słonecznego)**\n- Mierzy transmisję energii słonecznej\n- Zakres: 0-1 (wyższy = więcej zysków ciepła słonecznego)\n- Optymalny dla Litwy: 0,4-0,6\n- Równowaga między zimowymi zyskami ciepła a letnim chłodzeniem"
+        },
+        {
+          "id": "technologie-okien",
+          "title": "Zaawansowane Technologie Okien",
+          "content": "**Technologie Oszklenia**\n\n**Potrójne Oszklenie**\n- Trzy szyby szkła z dwiema komorami izolacyjnymi\n- Wartości U nawet do 0,5 W/m²K\n- Doskonałe dla klimatu Litwy\n- 40-60% lepsze niż podwójne oszklenie\n- Zmniejszona kondensacja i przeciągi\n\n**Powłoki Low-E**\n- Mikroskopijne metaliczne powłoki na szkle\n- Odbijają ciepło z powrotem do pomieszczenia\n- Wiele typów dla różnych klimatów\n- Mogą poprawić wartość U o 30-50%\n- Zachowują transmisję naturalnego światła"
+        },
+        {
+          "id": "wybor-odpowiednich-okien",
+          "title": "Wybór Odpowiednich Energooszczędnych Okien",
+          "content": "**Względy Klimatyczne dla Litwy**\n\n**Klimat Zdominowany przez Ogrzewanie**\n- Priorytet dla niskich wartości U dla zatrzymania ciepła\n- Umiarkowany SHGC dla zimowych zysków słonecznych\n- Rozważ oszklenie specyficzne dla orientacji\n- Skupienie na uszczelnieniu powietrza i wydajności termicznej\n\n**Wybór Materiału Ramy**\n\n**uPVC (Winyl)**\n- Doskonała wydajność termiczna\n- Niskie wymagania konserwacyjne\n- Opcja ekonomiczna\n- Dobra trwałość w klimacie Litwy"
+        }
+      ],
+      "conclusion": "Energooszczędne okna reprezentują jedną z najbardziej wpływowych modernizacji domu, jakie można wykonać w klimacie Litwy. Z potencjalnymi oszczędnościami energii 25-40% i poprawą komfortu przez cały rok, inwestycja przynosi korzyści przez dziesięciolecia.",
+      "ctaSection": {
+        "title": "Przejdź na Energooszczędne Okna Już Dziś",
+        "description": "Przekształć wydajność energetyczną swojego domu dzięki naszym premium energooszczędnym oknom.",
+        "benefits": [
+          "Bezpłatna konsultacja efektywności energetycznej",
+          "Technologie okien premium",
+          "Gwarancja profesjonalnej instalacji",
+          "Dostępne opcje finansowania"
+        ]
+      },
+      "faq": [
+        {
+          "question": "Ile mogę zaoszczędzić dzięki energooszczędnym oknom?",
+          "answer": "W klimacie Litwy energooszczędne okna mogą zmniejszyć koszty ogrzewania o 25-40%. Dla przeciętnego domu wydającego €1000 rocznie na ogrzewanie, oznacza to €250-400 rocznych oszczędności lub €6,000-10,000 przez 25-letni okres użytkowania okien."
+        }
+      ]
+    },
+    "uk": {
+      "title": "Енергоефективні Вікна: Посібник Зменшення Витрат на Опалення",
+      "excerpt": "Енергоефективні вікна можуть зменшити витрати на опалення до 40% та кардинально покращити комфорт приміщень. Дізнайтеся про найновіші віконні технології та як обрати ідеальні енергозберігаючі вікна.",
+      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "featuredImageAlt": "Техніки встановлюють новий двокамерний склопакет у віконну раму, професійна заміна скла",
+      "introduction": "У кліматі Литви, де витрати на опалення можуть становити до 60% рахунків за енергію домогосподарства, вибір енергоефективних вікон - це не лише екологічний вибір, а й розумна фінансова інвестиція. Сучасна технологія вікон розвинулася драматично, пропонуючи власникам будинків безпрецедентні можливості для зменшення споживання енергії при покращенні комфорту.",
+      "sections": [
+        {
+          "id": "rozuminnya-enerhetychnykh-otsinyuvan-vikon",
+          "title": "Розуміння Енергетичних Оцінювань Вікон",
+          "content": "**Ключові Показники Продуктивності**\n\n**U-значення (Коефіцієнт Теплопередачі)**\n- Вимірює втрату тепла через вікно\n- Нижчі значення = краща ізоляція\n- Вимірюється в W/m²K (вати на квадратний метр на кельвін)\n- Сучасні ефективні вікна: 0,8-1,2 W/m²K\n- Преміум вікна: 0,5-0,8 W/m²K\n- Стандарт пасивного будинку: ≤0,8 W/m²K\n\n**SHGC (Коефіцієнт Надходження Сонячного Тепла)**\n- Вимірює передачу сонячної енергії\n- Діапазон: 0-1 (вищий = більше сонячного тепла)\n- Оптимальний для Литви: 0,4-0,6\n- Баланс між зимовими надходженнями тепла та літнім охолодженням"
+        },
+        {
+          "id": "tekhnolohiyi-vikon",
+          "title": "Передові Технології Вікон",
+          "content": "**Технології Скління**\n\n**Потрійне Скління**\n- Три шари скла з двома ізоляційними камерами\n- U-значення до 0,5 W/m²K\n- Відмінно підходить для клімату Литви\n- На 40-60% краще за подвійне скління\n- Зменшена конденсація та протяги\n\n**Low-E Покриття**\n- Мікроскопічні металеві покриття на склі\n- Відбивають тепло назад у приміщення\n- Кілька типів для різних кліматів\n- Можуть покращити U-значення на 30-50%\n- Зберігають передачу природного світла"
+        },
+        {
+          "id": "vybir-pravylnykh-vikon",
+          "title": "Вибір Правильних Енергоефективних Вікон",
+          "content": "**Кліматичні Міркування для Литви**\n\n**Клімат з Домінуванням Опалення**\n- Пріоритет низьких U-значень для утримання тепла\n- Помірний SHGC для зимових надходжень сонця\n- Розгляньте скління, специфічне для орієнтації\n- Фокус на герметизації повітря та тепловій продуктивності\n\n**Вибір Матеріалу Рами**\n\n**uPVC (Вініл)**\n- Відмінна теплова продуктивність\n- Низькі вимоги до обслуговування\n- Економічний варіант\n- Хороша довговічність у кліматі Литви"
+        }
+      ],
+      "conclusion": "Енергоефективні вікна представляють одне з найвпливовіших покращень дому, які ви можете зробити в кліматі Литви. З потенційною економією енергії 25-40% та покращеним комфортом цілий рік, інвестиція окупається десятиліттями.",
+      "ctaSection": {
+        "title": "Перейдіть на Енергоефективні Вікна Сьогодні",
+        "description": "Трансформуйте енергетичну ефективність вашого дому з нашими преміум енергоефективними вікнами.",
+        "benefits": [
+          "Безкоштовна консультація з енергоефективності",
+          "Преміум віконні технології",
+          "Гарантія професійного монтажу",
+          "Доступні варіанти фінансування"
+        ]
+      },
+      "faq": [
+        {
+          "question": "Скільки я можу заощадити з енергоефективними вікнами?",
+          "answer": "У кліматі Литви енергоефективні вікна можуть зменшити витрати на опалення на 25-40%. Для середнього будинку, що витрачає €1000 щорічно на опалення, це означає €250-400 річної економії або €6,000-10,000 протягом 25-річного терміну служби вікон."
+        }
+      ]
+    }
+  },
+  "components": [
+    {
+      "type": "ArticleHeader",
+      "contentKey": "header",
+      "required": true
+    },
+    {
+      "type": "ArticleContent",
+      "contentKey": "content",
+      "required": true
+    },
+    {
+      "type": "CtaBanner",
+      "contentKey": "ctaSection",
+      "required": true
+    },
+    {
+      "type": "Faq",
+      "contentKey": "faq",
+      "required": false
+    },
+    {
+      "type": "RelatedArticles",
+      "contentKey": "relatedTopics",
+      "required": false
+    }
+  ],
+  "defaultComponentsDisabled": true
+}

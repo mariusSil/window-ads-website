@@ -1,26 +1,289 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  body {
+    @apply text-neutral-900 bg-white font-sans;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  h1 {
+    @apply text-h1 text-navy-900;
+  }
+
+  h2 {
+    @apply text-h2 text-navy-900;
+  }
+
+  h3 {
+    @apply text-h3 text-navy-800;
+  }
+
+  p {
+    @apply text-body text-neutral-700;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  /* Button Components */
+  .btn-primary {
+    @apply inline-flex items-center px-6 py-3 text-cta font-semibold rounded-button text-white bg-primary-500 hover:bg-primary-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 transition-all duration-200 shadow-button hover:shadow-md;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center px-6 py-3 text-cta font-semibold rounded-button text-primary-600 bg-white border-2 border-primary-500 hover:bg-primary-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 transition-all duration-200 shadow-button hover:shadow-md;
+  }
+
+  .btn-accent {
+    @apply inline-flex items-center px-6 py-3 text-cta font-semibold rounded-button text-white bg-accent-500 hover:bg-accent-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent-500 transition-all duration-200 shadow-button hover:shadow-md;
+  }
+
+  .btn-emergency {
+    @apply inline-flex items-center px-6 py-3 text-cta font-bold rounded-button text-white bg-red-600 hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 transition-all duration-200 shadow-button hover:shadow-md;
+  }
+
+  /* Card Components */
+  .card {
+    @apply bg-white rounded-card shadow-card hover:shadow-card-hover transition-shadow duration-200 p-6;
+  }
+
+  .service-card {
+    @apply card border border-neutral-200 hover:border-primary-300 cursor-pointer;
+  }
+
+  .service-card-icon {
+    @apply w-12 h-12 text-primary-500 group-hover:text-primary-600 transition-colors duration-200;
+  }
+
+  .service-card-title {
+    @apply text-h3 text-navy-800 group-hover:text-navy-900 transition-colors duration-200 mt-4 mb-2;
+  }
+
+  .service-card-description {
+    @apply text-body text-neutral-600 mb-4;
+  }
+
+  /* Form Components */
+  .form-input {
+    @apply w-full px-4 py-3 border border-neutral-300 rounded-button shadow-sm focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500 transition-colors duration-200;
+  }
+
+  .form-label {
+    @apply block text-sm font-medium text-neutral-700 mb-2;
+  }
+
+  .form-error {
+    @apply text-sm text-red-600 mt-1;
+  }
+
+  /* Section Components */
+  .section {
+    @apply py-section;
+  }
+
+  .section-lg {
+    @apply py-section-lg;
+  }
+
+  .section-header {
+    @apply text-center mb-component;
+  }
+
+  .section-title {
+    @apply text-h1 text-navy-900 mb-element;
+  }
+
+  .section-subtitle {
+    @apply text-xl text-neutral-600 max-w-3xl mx-auto;
+  }
+
+  /* Trust Indicators */
+  .trust-indicator {
+    @apply flex items-center space-x-2 text-sm text-neutral-600;
+  }
+
+  .trust-badge {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-primary-100 text-primary-800;
+  }
+
+  /* Navigation Components */
+  .nav-link {
+    @apply px-3 py-2 text-sm font-medium transition-colors duration-200;
+  }
+
+  .nav-link-active {
+    @apply text-primary-600 border-b-2 border-primary-600;
+  }
+
+  .nav-link-inactive {
+    @apply text-neutral-700 hover:text-primary-600 hover:border-b-2 hover:border-primary-600;
+  }
+
+  /* Hero Components */
+  .hero-title {
+    @apply text-hero text-white font-bold mb-6;
+  }
+
+  .hero-subtitle {
+    @apply text-xl md:text-2xl text-primary-100 mb-8 max-w-3xl mx-auto;
+  }
+
+  /* Process Steps */
+  .process-step {
+    @apply flex flex-col items-center text-center p-6;
+  }
+
+  .process-step-number {
+    @apply w-12 h-12 rounded-full bg-primary-500 text-white font-bold text-lg flex items-center justify-center mb-4;
+  }
+
+  .process-step-title {
+    @apply text-h3 text-navy-800 mb-2;
+  }
+
+  .process-step-description {
+    @apply text-body text-neutral-600;
+  }
+
+  /* Testimonial Components */
+  .testimonial {
+    @apply card text-center;
+  }
+
+  .testimonial-content {
+    @apply text-body text-neutral-700 mb-4 italic;
+  }
+
+  .testimonial-author {
+    @apply text-sm font-medium text-navy-800;
+  }
+
+  .testimonial-rating {
+    @apply flex justify-center space-x-1 text-yellow-400 mb-4;
+  }
+
+  /* News Content Styling */
+  .news-content {
+    @apply text-neutral-700 leading-relaxed;
+  }
+
+  .news-content h1 {
+    @apply text-2xl font-bold text-secondary mb-6 mt-8;
+  }
+
+  .news-content h2 {
+    @apply text-xl font-semibold text-secondary mb-4 mt-6;
+  }
+
+  .news-content h3 {
+    @apply text-lg font-semibold text-secondary mb-3 mt-5;
+  }
+
+  .news-content h4 {
+    @apply text-base font-medium text-secondary mb-2 mt-4;
+  }
+
+  .news-content ul {
+    @apply list-disc list-inside space-y-2 mb-6 ml-4;
+  }
+
+  .news-content ol {
+    @apply list-decimal list-inside space-y-2 mb-6 ml-4;
+  }
+
+  .news-content li {
+    @apply text-neutral-700 leading-relaxed;
+  }
+
+  .news-content p {
+    @apply mb-4 leading-relaxed;
+  }
+
+  .news-content strong {
+    @apply font-semibold text-secondary;
+  }
+
+  .news-content em {
+    @apply italic text-neutral-800;
+  }
+
+  .news-content code {
+    @apply bg-neutral-100 px-2 py-1 rounded text-sm text-neutral-800;
+  }
+
+  .news-content pre {
+    @apply bg-neutral-100 rounded-lg p-4 mb-4 overflow-x-auto;
+  }
+
+  .news-content pre code {
+    @apply text-sm text-neutral-800 bg-transparent px-0 py-0;
+  }
+
+  .news-content blockquote {
+    @apply border-l-4 border-primary pl-4 py-2 mb-4 bg-neutral-50 rounded-r-lg;
+  }
+
+  .news-content blockquote p {
+    @apply text-neutral-700 italic mb-0;
+  }
+
+  .news-content table {
+    @apply w-full border-collapse border border-neutral-300 mb-6;
+  }
+
+  .news-content th {
+    @apply border border-neutral-300 px-4 py-2 bg-neutral-100 font-semibold text-left;
+  }
+
+  .news-content td {
+    @apply border border-neutral-300 px-4 py-2 text-neutral-700;
+  }
+
+  .news-content a {
+    @apply text-primary hover:text-red-700 underline;
+  }
+
+  /* Utility Classes */
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .gradient-primary {
+    @apply bg-gradient-to-r from-primary-600 to-primary-800;
+  }
+
+  .gradient-secondary {
+    @apply bg-gradient-to-r from-secondary-600 to-secondary-800;
+  }
+
+  .text-gradient {
+    @apply bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent;
+  }
+
+  /* Parallax performance optimizations */
+  .parallax-container {
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+  }
+
+  .parallax-element {
+    will-change: transform;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .parallax-element {
+    transform: none !important;
+  }
+  
+  html {
+    scroll-behavior: auto;
+  }
 }

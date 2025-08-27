@@ -1,0 +1,100 @@
+{
+  "en": {
+    "main": [
+      { "key": "home", "label": "HOME", "href": "/" },
+      { "key": "about", "label": "ABOUT US", "href": "/about" },
+      { "key": "services", "label": "SERVICES", "href": "/services" },
+      { "key": "accessories", "label": "ACCESSORIES", "href": "/accessories" },
+      { "key": "news", "label": "NEWS", "href": "/news" },
+      { "key": "business", "label": "BUSINESS CLIENTS", "href": "/business-clients" },
+      { "key": "contact", "label": "CONTACTS", "href": "/contact" }
+    ],
+    "about": "About Us",
+    "about_slug": "about",
+    "accessories": "Accessories",
+    "accessories_slug": "accessories",
+    "news": "News",
+    "news_slug": "news",
+    "business": "Business Clients",
+    "business_slug": "business-clients",
+    "contact": "Contacts",
+    "contact_slug": "contact",
+    "home": "Home",
+    "services": "Services",
+    "services_slug": "services",
+    "privacy": "Privacy Policy",
+    "privacy_slug": "privacy-policy"
+  },
+  "lt": {
+    "main": [
+      { "key": "home", "label": "PAGRINDINIS", "href": "/" },
+      { "key": "about", "label": "APIE MUS", "href": "/apie-mus" },
+      { "key": "services", "label": "PASLAUGOS", "href": "/paslaugos" },
+      { "key": "accessories", "label": "PRIEDAI", "href": "/priedai" },
+      { "key": "news", "label": "NAUJIENOS", "href": "/naujienos" },
+      { "key": "business", "label": "VERSLO KLIENTAMS", "href": "/verslo-klientui" },
+      { "key": "contact", "label": "KONTAKTAI", "href": "/kontaktai" }
+    ],
+    "about": "Apie mus",
+    "about_slug": "apie-mus",
+    "accessories": "Priedai",
+    "accessories_slug": "priedai",
+    "news": "Naujienos",
+    "news_slug": "naujienos",
+    "business": "Verslo klientams",
+    "business_slug": "verslo-klientui",
+    "contact": "Kontaktai",
+    "contact_slug": "kontaktai",
+    "home": "Pagrindinis",
+    "services": "Paslaugos",
+    "services_slug": "paslaugos"
+  },
+  "pl": {
+    "main": [
+      { "key": "home", "label": "STRONA GŁÓWNA", "href": "/" },
+      { "key": "about", "label": "O NAS", "href": "/o-nas" },
+      { "key": "services", "label": "USŁUGI", "href": "/uslugi" },
+      { "key": "accessories", "label": "AKCESORIA", "href": "/akcesoria" },
+      { "key": "news", "label": "AKTUALNOŚCI", "href": "/aktualnosci" },
+      { "key": "business", "label": "KLIENCI BIZNESOWI", "href": "/klienci-biznesowi" },
+      { "key": "contact", "label": "KONTAKT", "href": "/kontakt" }
+    ],
+    "about": "O nas",
+    "about_slug": "o-nas",
+    "accessories": "Akcesoria",
+    "accessories_slug": "akcesoria",
+    "news": "Aktualności",
+    "news_slug": "aktualnosci",
+    "business": "Klienci biznesowi",
+    "business_slug": "klienci-biznesowi",
+    "contact": "Kontakt",
+    "contact_slug": "kontakt",
+    "home": "Strona główna",
+    "services": "Usługi",
+    "services_slug": "uslugi"
+  },
+  "uk": {
+    "main": [
+      { "key": "home", "label": "ГОЛОВНА", "href": "/" },
+      { "key": "about", "label": "ПРО НАС", "href": "/pro-nas" },
+      { "key": "services", "label": "ПОСЛУГИ", "href": "/posluhy" },
+      { "key": "accessories", "label": "АКСЕСУАРИ", "href": "/aksesuary" },
+      { "key": "news", "label": "НОВИНИ", "href": "/novyny" },
+      { "key": "business", "label": "БІЗНЕС-КЛІЄНТАМ", "href": "/biznes-kliyentam" },
+      { "key": "contact", "label": "КОНТАКТИ", "href": "/kontakty" }
+    ],
+    "about": "Про нас",
+    "about_slug": "pro-nas",
+    "accessories": "Аксесуари",
+    "accessories_slug": "aksesuary",
+    "news": "Новини",
+    "news_slug": "novyny",
+    "business": "Бізнес-клієнтам",
+    "business_slug": "biznes-kliyentam",
+    "contact": "Контакти",
+    "contact_slug": "kontakty",
+    "home": "Головна",
+    "services": "Послуги",
+    "services_slug": "posluhy"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "en": {
+    "title": "What Our Clients Say",
+    "subtitle": "Real feedback from our satisfied customers",
+    "items": [
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-1.jpg",
+        "name": "Anna Kowalska",
+        "rating": 5,
+        "quote": "Incredibly professional and fast service. The technician fixed our window in under an hour. Highly recommended!"
+      },
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-2.jpg",
+        "name": "Piotr Nowak",
+        "rating": 4.5,
+        "quote": "Great communication and transparent pricing. The quality of work was excellent. Very happy with the result."
+      },
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-5.jpg",
+        "name": "Ewa Wiśniewska",
+        "rating": 5,
+        "quote": "The team was punctual, polite, and very knowledgeable. They explained the issue clearly and fixed it efficiently."
+      },
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-4.jpg",
+        "name": "Tomasz Jankowski",
+        "rating": 5,
+        "quote": "Fantastic service from start to finish. I will definitely use them again for any future window or door repairs."
+      }
+    ],
+    "cta": [
+      {
+        "text": "CALL A TECHNICIAN",
+        "action": "modal",
+        "variant": "default"
+      },
+      {
+        "text": "CONSULTATION",
+        "link": "/contact",
+        "variant": "outline-red"
+      }
+    ]
+  },
+  "lt": {
+    "title": "Ką Sako Mūsų Klientai",
+    "subtitle": "Tikri atsiliepmai iš mūsų patenkintų klientų",
+    "items": [
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-1.jpg",
+        "name": "Anna Kowalska",
+        "rating": 5,
+        "quote": "Neįtikėtinai profesionalus ir greitas aptarnavimas. Technikas sutaisė mūsų langą per valandą. Labai rekomenduoju!"
+      },
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-2.jpg",
+        "name": "Piotr Nowak",
+        "rating": 4.5,
+        "quote": "Puikus bendravimas ir skaidrūs kainos. Darbo kokybė buvo puiki. Labai patenkintas rezultatu."
+      },
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-5.jpg",
+        "name": "Ewa Wiśniewska",
+        "rating": 5,
+        "quote": "Komanda buvo punktuali, mandagi ir labai kompetentinga. Aiškiai paaiškino problemą ir efektyviai ją išsprendė."
+      },
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-4.jpg",
+        "name": "Tomasz Jankowski",
+        "rating": 5,
+        "quote": "Fantastiškas aptarnavimas nuo pradžios iki pabaigos. Tikrai kreipsiuos į juos dėl bet kokių ateities langų ar durų remontų."
+      }
+    ],
+    "cta": [
+      {
+        "text": "KVIESTI MEISTRĄ",
+        "action": "modal",
+        "variant": "default"
+      },
+      {
+        "text": "KONSULTACIJA",
+        "link": "/contact",
+        "variant": "outline-red"
+      }
+    ]
+  },
+  "pl": {
+    "title": "Co Mówią Nasi Klienci",
+    "subtitle": "Prawdziwe opinie od naszych zadowolonych klientów",
+    "items": [
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-1.jpg",
+        "name": "Anna Kowalska",
+        "rating": 5,
+        "quote": "Niesamowicie profesjonalna i szybka obsługa. Technik naprawił nasze okno w niecałą godzinę. Gorąco polecam!"
+      },
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-2.jpg",
+        "name": "Piotr Nowak",
+        "rating": 4.5,
+        "quote": "Świetna komunikacja i przejrzyste ceny. Jakość pracy była doskonała. Bardzo zadowolony z wyniku."
+      },
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-5.jpg",
+        "name": "Ewa Wiśniewska",
+        "rating": 5,
+        "quote": "Zespół był punktualny, uprzejmy i bardzo kompetentny. Jasno wyjaśnili problem i sprawnie go rozwiązali."
+      },
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-4.jpg",
+        "name": "Tomasz Jankowski",
+        "rating": 5,
+        "quote": "Fantastyczna obsługa od początku do końca. Na pewno skorzystam z ich usług przy przyszłych naprawach okien czy drzwi."
+      }
+    ],
+    "cta": [
+      {
+        "text": "WEZWAĆ TECHNIKA",
+        "action": "modal",
+        "variant": "default"
+      },
+      {
+        "text": "KONSULTACJA",
+        "link": "/contact",
+        "variant": "outline-red"
+      }
+    ]
+  },
+  "uk": {
+    "title": "Що Кажуть Наші Клієнти",
+    "subtitle": "Справжні відгуки від наших задоволених клієнтів",
+    "items": [
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-1.jpg",
+        "name": "Anna Kowalska",
+        "rating": 5,
+        "quote": "Неймовірно професійний та швидкий сервіс. Технік полагодив наше вікно менш ніж за годину. Дуже рекомендую!"
+      },
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-2.jpg",
+        "name": "Piotr Nowak",
+        "rating": 4.5,
+        "quote": "Відмінне спілкування та прозорі ціни. Якість роботи була чудовою. Дуже задоволений результатом."
+      },
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-5.jpg",
+        "name": "Ewa Wiśniewska",
+        "rating": 5,
+        "quote": "Команда була пунктуальною, ввічливою та дуже компетентною. Чітко пояснили проблему та ефективно її вирішили."
+      },
+      {
+        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-4.jpg",
+        "name": "Tomasz Jankowski",
+        "rating": 5,
+        "quote": "Фантастичний сервіс від початку до кінця. Обов'язково звернуся до них за будь-якими майбутніми ремонтами вікон чи дверей."
+      }
+    ],
+    "cta": [
+      {
+        "text": "ВИКЛИКАТИ ТЕХНІКА",
+        "action": "modal",
+        "variant": "default"
+      },
+      {
+        "text": "КОНСУЛЬТАЦІЯ",
+        "link": "/contact",
+        "variant": "outline-red"
+      }
+    ]
+  }
+}

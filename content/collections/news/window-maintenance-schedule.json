@@ -1,0 +1,322 @@
+{
+  "itemId": "window-maintenance-schedule",
+  "collection": "news",
+  "template": "news-article",
+  "slugs": {
+    "en": "complete-window-maintenance-schedule-monthly-seasonal-annual-tasks",
+    "lt": "pilnas-langu-prieziuros-grafikas-menesinis-sezoninis-metinis",
+    "pl": "kompletny-harmonogram-pielegnacji-okien-miesieczny-sezonowy-roczny",
+    "uk": "povnyy-grafik-doglyadu-za-viknamy-misyachnyy-sezonnyy-richniy"
+  },
+  "publishDate": "2024-01-15",
+  "author": "Langu-Remontas Expert Team",
+  "category": "maintenance",
+  "readingTime": 8,
+  "featured": true,
+  "seo": {
+    "en": {
+      "title": "Complete Window Maintenance Schedule: Monthly, Seasonal & Annual Tasks",
+      "description": "Professional window maintenance schedule with specific monthly, seasonal, and annual tasks. Keep your windows in perfect condition year-round with our expert guide.",
+      "keywords": "window maintenance schedule, how often maintain windows, window care calendar, seasonal window maintenance, monthly window tasks, annual window inspection",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+      "ogImageAlt": "Complete Window Maintenance Schedule Guide",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Complete Window Maintenance Schedule: Monthly, Seasonal & Annual Tasks",
+        "description": "Professional window maintenance schedule with specific monthly, seasonal, and annual tasks to keep your windows in perfect condition.",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+        "datePublished": "2024-01-15",
+        "dateModified": "2024-01-15",
+        "author": {
+          "@type": "Organization",
+          "name": "Langu-Remontas Expert Team"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Langu-Remontas",
+          "logo": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png"
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://langu-remontas.lt/en/blog/complete-window-maintenance-schedule-monthly-seasonal-annual-tasks"
+        }
+      }
+    },
+    "lt": {
+      "title": "Pilnas Langų Priežiūros Grafikas: Mėnesiniai, Sezoniniai ir Metiniai Darbai",
+      "description": "Profesionalus langų priežiūros grafikas su konkrečiais mėnesiniais, sezoniniais ir metiniais darbais. Išlaikykite langus tobuloje būklėje ištisus metus.",
+      "keywords": "langų priežiūros grafikas, kaip dažnai prižiūrėti langus, langų priežiūros kalendorius, sezoninė langų priežiūra, mėnesiniai langų darbai",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+      "ogImageAlt": "Pilnas Langų Priežiūros Grafikas",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Pilnas Langų Priežiūros Grafikas: Mėnesiniai, Sezoniniai ir Metiniai Darbai",
+        "description": "Profesionalus langų priežiūros grafikas su konkrečiais mėnesiniais, sezoniniais ir metiniais darbais.",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+        "datePublished": "2024-01-15",
+        "dateModified": "2024-01-15",
+        "author": {
+          "@type": "Organization",
+          "name": "Langu-Remontas Ekspertų Komanda"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Langu-Remontas",
+          "logo": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png"
+        }
+      }
+    },
+    "pl": {
+      "title": "Kompletny Harmonogram Pielęgnacji Okien: Zadania Miesięczne, Sezonowe i Roczne",
+      "description": "Profesjonalny harmonogram pielęgnacji okien z konkretnymi zadaniami miesięcznymi, sezonowymi i rocznymi. Utrzymuj okna w idealnym stanie przez cały rok.",
+      "keywords": "harmonogram pielęgnacji okien, jak często pielęgnować okna, kalendarz pielęgnacji okien, sezonowa pielęgnacja okien, miesięczne zadania okien",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+      "ogImageAlt": "Kompletny Harmonogram Pielęgnacji Okien",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Kompletny Harmonogram Pielęgnacji Okien: Zadania Miesięczne, Sezonowe i Roczne",
+        "description": "Profesjonalny harmonogram pielęgnacji okien z konkretnymi zadaniami miesięcznymi, sezonowymi i rocznymi.",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+        "datePublished": "2024-01-15",
+        "dateModified": "2024-01-15",
+        "author": {
+          "@type": "Organization",
+          "name": "Zespół Ekspertów Langu-Remontas"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Langu-Remontas",
+          "logo": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png"
+        }
+      }
+    },
+    "uk": {
+      "title": "Повний Графік Догляду за Вікнами: Місячні, Сезонні та Річні Завдання",
+      "description": "Професійний графік догляду за вікнами з конкретними місячними, сезонними та річними завданнями. Підтримуйте вікна в ідеальному стані цілий рік.",
+      "keywords": "графік догляду за вікнами, як часто доглядати вікна, календар догляду за вікнами, сезонний догляд за вікнами, місячні завдання для вікон",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+      "ogImageAlt": "Повний Графік Догляду за Вікнами",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Повний Графік Догляду за Вікнами: Місячні, Сезонні та Річні Завдання",
+        "description": "Професійний графік догляду за вікнами з конкретними місячними, сезонними та річними завданнями.",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+        "datePublished": "2024-01-15",
+        "dateModified": "2024-01-15",
+        "author": {
+          "@type": "Organization",
+          "name": "Команда Експертів Langu-Remontas"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Langu-Remontas",
+          "logo": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png"
+        }
+      }
+    }
+  },
+  "content": {
+    "en": {
+      "title": "Complete Window Maintenance Schedule: Monthly, Seasonal & Annual Tasks",
+      "excerpt": "A comprehensive guide to professional window maintenance with specific schedules for monthly, seasonal, and annual tasks to keep your windows in perfect condition year-round.",
+      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+      "featuredImageAlt": "Technician cleaning and lubricating window track mechanism, maintenance service work",
+      "introduction": "Proper window maintenance isn't just about keeping your windows clean—it's about protecting your investment, ensuring energy efficiency, and maintaining your home's curb appeal. With over 15 years of experience in window installation and maintenance, we've developed this comprehensive schedule that homeowners can follow to keep their windows in optimal condition throughout the year.",
+      "sections": [
+        {
+          "id": "monthly-tasks",
+          "title": "Monthly Window Maintenance Tasks",
+          "content": "Regular monthly maintenance prevents small issues from becoming costly repairs. Here's what you should do every month:\n\n**Visual Inspection (15 minutes)**\n- Check for cracks in glass or frame\n- Look for gaps in weatherstripping\n- Inspect for water damage or moisture buildup\n- Test window operation (opening/closing)\n\n**Basic Cleaning (30 minutes)**\n- Clean window tracks and sills\n- Wipe down frames with appropriate cleaner\n- Remove debris from drainage holes\n- Check and clean window screens\n\n**Hardware Check (10 minutes)**\n- Test locks and handles\n- Check for loose screws or hardware\n- Ensure smooth operation of moving parts\n- Listen for unusual sounds during operation",
+          "tips": [
+            "Set a monthly reminder on your phone for the first Saturday of each month",
+            "Keep a maintenance log to track issues and improvements",
+            "Take photos of any problems for professional consultation"
+          ]
+        },
+        {
+          "id": "seasonal-maintenance",
+          "title": "Seasonal Window Maintenance Guide",
+          "content": "Each season brings unique challenges for your windows. Here's how to prepare:\n\n**Spring Preparation (March-May)**\n- Deep clean windows inside and out\n- Replace weatherstripping if damaged\n- Lubricate hinges and moving parts\n- Check and repair caulking\n- Inspect for winter damage\n\n**Summer Maintenance (June-August)**\n- Focus on UV protection and ventilation\n- Clean and inspect window screens\n- Check air conditioning window units\n- Monitor for expansion-related issues\n- Ensure proper drainage during storms\n\n**Fall Preparation (September-November)**\n- Prepare windows for winter weather\n- Install storm windows if applicable\n- Check insulation and energy efficiency\n- Clean gutters near windows\n- Trim vegetation away from windows\n\n**Winter Care (December-February)**\n- Monitor for condensation issues\n- Check for ice dam formation\n- Maintain proper indoor humidity\n- Avoid using harsh de-icing chemicals near windows\n- Keep windows clear of snow buildup",
+          "callout": "Professional tip: Schedule your seasonal maintenance 2-3 weeks before weather changes to ensure your windows are ready for the new season."
+        },
+        {
+          "id": "annual-inspection",
+          "title": "Annual Professional Inspection & Deep Maintenance",
+          "content": "Once a year, conduct a thorough inspection or hire professionals for comprehensive maintenance:\n\n**Structural Assessment**\n- Check frame integrity and alignment\n- Inspect for settling or structural movement\n- Evaluate overall window performance\n- Assess energy efficiency ratings\n\n**Hardware Replacement**\n- Replace worn weatherstripping\n- Update old or damaged hardware\n- Lubricate all moving components\n- Calibrate window mechanisms\n\n**Energy Efficiency Review**\n- Conduct thermal imaging if available\n- Check for air leaks with smoke pencil\n- Evaluate insulation effectiveness\n- Consider upgrade opportunities\n\n**Professional Services to Consider**\n- Glass coating application\n- Frame refinishing or painting\n- Hardware upgrades\n- Energy efficiency improvements",
+          "benefits": [
+            "Extends window lifespan by 5-10 years",
+            "Reduces energy costs by up to 15%",
+            "Prevents costly emergency repairs",
+            "Maintains home value and curb appeal"
+          ]
+        },
+        {
+          "id": "troubleshooting",
+          "title": "Common Issues & When to Call Professionals",
+          "content": "While regular maintenance prevents most problems, some issues require professional attention:\n\n**DIY-Friendly Issues**\n- Sticky or hard-to-open windows\n- Minor weatherstripping replacement\n- Basic cleaning and lubrication\n- Screen repair or replacement\n\n**Professional-Required Issues**\n- Cracked or broken glass\n- Frame damage or rot\n- Seal failure in double-pane windows\n- Major hardware malfunction\n- Water infiltration problems\n\n**Emergency Situations**\n- Broken glass with safety concerns\n- Windows that won't close during storms\n- Significant water leaks\n- Security-related damage",
+          "warning": "Never attempt to repair structural damage or replace glass yourself. These tasks require professional expertise and specialized tools."
+        }
+      ],
+      "conclusion": "Following this comprehensive maintenance schedule will keep your windows functioning optimally for decades. Remember, preventive maintenance is always more cost-effective than emergency repairs. If you're unsure about any maintenance task or notice persistent issues, don't hesitate to contact our professional team for a free diagnostic consultation.",
+      "ctaSection": {
+        "title": "Need Professional Window Maintenance?",
+        "description": "Our certified technicians provide comprehensive window maintenance services throughout Lithuania. Get a free diagnostic to assess your windows' current condition.",
+        "benefits": [
+          "15+ years of professional experience",
+          "Free diagnostic and consultation",
+          "Comprehensive maintenance packages",
+          "Emergency repair services available"
+        ],
+        "primaryButton": "Schedule Free Diagnostic",
+        "secondaryButton": "Get Maintenance Quote"
+      },
+      "relatedTopics": [
+        "How Often Should You Adjust Your Windows?",
+        "Winter Window Care Guide",
+        "Energy Efficient Window Maintenance",
+        "DIY Window Track Cleaning Guide"
+      ],
+      "faq": [
+        {
+          "question": "How often should I clean my windows?",
+          "answer": "For optimal appearance and function, clean windows monthly with deep cleaning seasonally. High-traffic areas or homes near busy roads may require more frequent cleaning."
+        },
+        {
+          "question": "What's the most important maintenance task?",
+          "answer": "Regular inspection is crucial. Catching small issues early prevents costly repairs and extends window lifespan significantly."
+        },
+        {
+          "question": "When should I call a professional?",
+          "answer": "Contact professionals for structural damage, glass replacement, seal failures, or any safety concerns. Also consider annual professional inspections."
+        }
+      ]
+    },
+    "lt": {
+      "title": "Pilnas Langų Priežiūros Grafikas: Mėnesiniai, Sezoniniai ir Metiniai Uždaviniai",
+      "excerpt": "Išsamus profesionalios langų priežiūros vadovas su konkrečiais mėnesiniais, sezoniniais ir metiniais uždaviniais, kad išlaikytumėte langus tobuloje būklėje ištisus metus.",
+      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+      "featuredImageAlt": "Technikas valo ir tepluoja langų bėgio mechanizmą, priežiūros paslaugų darbas",
+      "introduction": "Tinkama langų priežiūra nėra tik langų valymas—tai jūsų investicijos apsauga, energijos efektyvumo užtikrinimas ir namų patrauklumo išlaikymas. Su daugiau nei 15 metų patirtimi langų įrengime ir priežiūroje, mes sukūrėme šį išsamų grafiką, kuriuo namų savininkai gali vadovautis.",
+      "sections": [
+        {
+          "id": "menesinis-uzduotys",
+          "title": "Mėnesiniai Langų Priežiūros Uždaviniai",
+          "content": "Reguliari mėnesinė priežiūra apsaugo nuo mažų problemų virtimo brangiais remontais:\n\n**Vizualinė Apžiūra (15 minučių)**\n- Patikrinkite stiklo ar rėmo įtrūkimus\n- Ieškokite tarpų sandarinimo juostose\n- Apžiūrėkite vandens pažeidimus ar drėgmės kaupimąsi\n- Išbandykite langų veikimo (atidarymo/uždarymo)\n\n**Pagrindinis Valymas (30 minučių)**\n- Valykite langų bėgius ir palangės\n- Nušluostykite rėmus tinkamu valikliu\n- Pašalinkite šiukšles iš drenažo angelių\n- Patikrinkite ir valykite langų tinklus",
+          "tips": [
+            "Nustatykite mėnesinį priminimą telefone kiekvieno mėnesio pirmam šeštadieniui",
+            "Vedkite priežiūros žurnalą problemų ir pagerėjimų sekimui",
+            "Fotografuokite problemas profesionaliai konsultacijai"
+          ]
+        },
+        {
+          "id": "sezonine-prieziura",
+          "title": "Sezoniškos Langų Priežiūros Vadovas",
+          "content": "Kiekvienas sezonas turi unikalius iššūkius jūsų langams:\n\n**Pavasario Pasiruoshimas (Kovas-Gegužė)**\n- Giliai išvalykite langus iš vidaus ir išorės\n- Pakeiskite sandarinimo juostas, jei pažeistos\n- Patepkite vyrius ir judamas dalis\n- Patikrinkite ir suremontuokite hermetiką\n- Apžiūrėkite žiemos pažeidimus\n\n**Vasaros Priežiūra (Birželis-Rugpjūtis)**\n- Sutelkite dėmesį į UV apsaugą ir vėdinimą\n- Valykite ir tikrinkite langų tinklus\n- Tikrinkite oro kondicionierių langų blokus\n- Stebėkite plėtimosi problemas\n- Užtikrinkite tinkamą drenažą audros metu",
+          "callout": "Profesionali patarimas: Užsisakykite sezoninę priežiūrą 2-3 savaites prieš oro pokyčius, kad jūsų langai būtų pasiruošę naujam sezonui."
+        },
+        {
+          "id": "metine-apziura",
+          "title": "Metinė Profesionali Apžiūra ir Gili Priežiūra",
+          "content": "Kartą per metus atlikite išsamų patikrinimum ar samdykite specialistus:\n\n**Konstrukcijos Įvertinimas**\n- Patikrinkite rėmo vientisumą ir išdėstymą\n- Apžiūrėkite sėdimą ar konstrukcijos judėjimą\n- Įvertinkite bendrą langų veikimo efektyvumą\n- Įvertinkite energijos efektyvumo rodiklius\n\n**Aparatinės Įrangos Keitimas**\n- Pakeiskite nusidėvėjusias sandarinimo juostas\n- Atnaujinkite seną ar pažeistą aparatinę įrangą\n- Patepkite visus judamus komponentus\n- Kalibruokite langų mechanizmus",
+          "benefits": [
+            "Pailgina langų tarnavimo laiką iki 5-10 metų",
+            "Sumažina energijos sąnaudas iki 15%",
+            "Prezentai brangius skubūs remontus",
+            "Išlaikykite namų vertę ir patrauklumą"
+          ]
+        },
+        {
+          "id": "troubleshooting",
+          "title": "Dažni Problemai ir Kada Skambinti Profesionalams",
+          "content": "Nors reguliari priežiūra apsaugo nuo daugumos problemų, kai kurie iššūkiai reikalauja profesionalaus dėmesio:\n\n**DIY-Friendly Problemai**\n- Lengvai atidaromi ar uždaromi langai\n- Mažos sandarinimo juostų pakeitimo darbai\n- Pagrindinis valymas ir tepluojimas\n- Tinklų remontas ar pakeitimas\n\n**Profesionalams Reikalingi Problemai**\n- Stiklo ar rėmo pažeidimai\n- Konstrukcijos pažeidimai ar suirusimas\n- Hermetikos gedimai dvigubose stiklo konstrukcijose\n- Dideli aparatinės įrangos gedimai\n- Vandens infiltracijos problemas",
+          "warning": "Niekada nesistengykite remontuoti konstrukcijos pažeidimus ar pakeisti stiklą savarankiškai. Šie darbai reikalauja profesionalaus žinio ir specializuotų įrankių."
+        }
+      ],
+      "conclusion": "Laikydamiesi šio išsamaus priežiūros grafiko, išlaikysite langus optimaliai veikiančius dešimtmečius. Atminkite, prevencinė priežiūra visada ekonomiškesnė nei skubūs remontai.",
+      "ctaSection": {
+        "title": "Reikia Profesionalios Langų Priežiūros?",
+        "description": "Mūsų sertifikuoti technikai teikia išsamias langų priežiūros paslaugas visoje Lietuvoje. Gaukite nemokamą diagnostiką langų būklės įvertinimui.",
+        "benefits": [
+          "15+ metų profesionalios patirties",
+          "Nemokama diagnostika ir konsultacija",
+          "Išsamūs priežiūros paketai",
+          "Skubūs remonto darbai"
+        ],
+        "primaryButton": "Užsisakyti Nemokamą Diagnostiką",
+        "secondaryButton": "Gauti Priežiūros Pasiūlymą"
+      }
+    },
+    "pl": {
+      "title": "Kompletny Harmonogram Pielęgnacji Okien: Zadania Miesięczne, Sezonowe i Roczne",
+      "excerpt": "Kompleksowy przewodnik profesjonalnej pielęgnacji okien z konkretnymi harmonogramami zadań miesięcznych, sezonowych i rocznych, aby utrzymać okna w idealnym stanie przez cały rok.",
+      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+      "featuredImageAlt": "Technik czyszczący i smarujący mechanizm szyny okiennej, praca serwisowa konserwacji",
+      "introduction": "Właściwa pielęgnacja okien to nie tylko utrzymanie ich w czystości - to ochrona inwestycji, zapewnienie efektywności energetycznej i utrzymanie atrakcyjnego wyglądu domu. Dzięki ponad 15-letniemu doświadczeniu w montażu i pielęgnacji okien, opracowaliśmy ten kompleksowy harmonogram, którego mogą przestrzegać właściciele domów.",
+      "conclusion": "Przestrzegając tego kompleksowego harmonogramu pielęgnacji, utrzymasz okna w optymalnym stanie przez dziesięciolecia. Pamiętaj, że pielęgnacja zapobiegawcza jest zawsze bardziej opłacalna niż naprawy awaryjne.",
+      "ctaSection": {
+        "title": "Potrzebujesz Profesjonalnej Pielęgnacji Okien?",
+        "description": "Nasi certyfikowani technicy świadczą kompleksowe usługi pielęgnacji okien na terenie całej Litwy. Uzyskaj bezpłatną diagnostykę oceny stanu okien.",
+        "benefits": [
+          "15+ lat profesjonalnego doświadczenia",
+          "Bezpłatna diagnostyka i konsultacja",
+          "Kompleksowe pakiety pielęgnacji",
+          "Dostępne naprawy awaryjne"
+        ],
+        "primaryButton": "Zaplanuj Bezpłatną Diagnostykę",
+        "secondaryButton": "Uzyskaj Wycenę Pielęgnacji"
+      }
+    },
+    "uk": {
+      "title": "Повний Графік Догляду за Вікнами: Місячні, Сезонні та Річні Завдання",
+      "excerpt": "Комплексний посібник з професійного догляду за вікнами з конкретними графіками місячних, сезонних та річних завдань для підтримання вікон в ідеальному стані цілий рік.",
+      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+      "featuredImageAlt": "Технік чистить та змащує механізм віконної колії, сервісна робота з обслуговування",
+      "introduction": "Правильний догляд за вікнами - це не лише підтримання їх чистоти, а й захист інвестицій, забезпечення енергоефективності та підтримання привабливого вигляду будинку. Маючи понад 15 років досвіду в монтажі та догляді за вікнами, ми розробили цей комплексний графік для власників будинків.",
+      "conclusion": "Дотримуючись цього комплексного графіку догляду, ви підтримаєте вікна в оптимальному стані протягом десятиліть. Пам'ятайте, профілактичний догляд завжди економічніший за аварійні ремонти.",
+      "ctaSection": {
+        "title": "Потрібен Професійний Догляд за Вікнами?",
+        "description": "Наші сертифіковані техніки надають комплексні послуги догляду за вікнами по всій Литві. Отримайте безкоштовну діагностику для оцінки стану вікон.",
+        "benefits": [
+          "15+ років професійного досвіду",
+          "Безкоштовна діагностика та консультація",
+          "Комплексні пакети догляду",
+          "Доступні аварійні ремонти"
+        ],
+        "primaryButton": "Запланувати Безкоштовну Діагностику",
+        "secondaryButton": "Отримати Пропозицію Догляду"
+      }
+    }
+  },
+  "components": [
+    {
+      "type": "ArticleHeader",
+      "contentKey": "header",
+      "required": true
+    },
+    {
+      "type": "ArticleContent",
+      "contentKey": "content",
+      "required": true
+    },
+    {
+      "type": "CtaBanner",
+      "contentKey": "ctaSection",
+      "required": true
+    },
+    {
+      "type": "Faq",
+      "contentKey": "faq",
+      "required": false
+    },
+    {
+      "type": "RelatedArticles",
+      "contentKey": "relatedTopics",
+      "required": false
+    }
+  ],
+  "defaultComponentsDisabled": true
+}

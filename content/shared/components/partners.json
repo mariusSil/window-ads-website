@@ -1,0 +1,90 @@
+{
+  "en": {
+    "title": "Our Trusted Partners",
+    "subtitle": "Working with leading manufacturers to ensure the highest quality",
+    "logos": [
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/bfd4b60e6e-aeb53cacb3e205b690e9.png",
+        "alt": "Schüco logo"
+      },
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8f7efd5c4d-99bd65ca305ca7ae0c48.png",
+        "alt": "Rehau logo"
+      },
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
+        "alt": "Veka logo"
+      },
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+        "alt": "Siegenia logo"
+      }
+    ]
+  },
+  "lt": {
+    "title": "Mūsų Patikimi Partneriai",
+    "subtitle": "Bendradarbiaujame su pirmaujančiais gamintojais, kad užtikrintume aukščiausią kokybę",
+    "logos": [
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/bfd4b60e6e-aeb53cacb3e205b690e9.png",
+        "alt": "Schüco logotipas"
+      },
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8f7efd5c4d-99bd65ca305ca7ae0c48.png",
+        "alt": "Rehau logotipas"
+      },
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
+        "alt": "Veka logotipas"
+      },
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+        "alt": "Siegenia logotipas"
+      }
+    ]
+  },
+  "pl": {
+    "title": "Nasi Zaufani Partnerzy",
+    "subtitle": "Współpracujemy z wiodącymi producentami, aby zapewnić najwyższą jakość",
+    "logos": [
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/bfd4b60e6e-aeb53cacb3e205b690e9.png",
+        "alt": "Logo Schüco"
+      },
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8f7efd5c4d-99bd65ca305ca7ae0c48.png",
+        "alt": "Logo Rehau"
+      },
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
+        "alt": "Logo Veka"
+      },
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+        "alt": "Logo Siegenia"
+      }
+    ]
+  },
+  "uk": {
+    "title": "Наші Надійні Партнери",
+    "subtitle": "Співпрацюємо з провідними виробниками, щоб забезпечити найвищу якість",
+    "logos": [
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/bfd4b60e6e-aeb53cacb3e205b690e9.png",
+        "alt": "Логотип Schüco"
+      },
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8f7efd5c4d-99bd65ca305ca7ae0c48.png",
+        "alt": "Логотип Rehau"
+      },
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
+        "alt": "Логотип Veka"
+      },
+      {
+        "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+        "alt": "Логотип Siegenia"
+      }
+    ]
+  }
+}

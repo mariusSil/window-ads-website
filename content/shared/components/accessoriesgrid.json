@@ -1,0 +1,282 @@
+{
+  "en": {
+    "title": "Premium Accessories & Upgrades",
+    "subtitle": "Enhance your windows and doors with quality accessories for improved functionality and style",
+    "priceFrom": "From",
+    "items": [
+      {
+        "id": "premium-handles",
+        "title": "Premium Handles",
+        "description": "High-quality ergonomic handles with multiple finishes for enhanced comfort and style",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b6c70e45f0-2c1b36f8da0dcd3867f4.png",
+        "imageAlt": "Premium ergonomic window and door handles",
+        "priceFrom": "€25",
+        "category": "handles"
+      },
+      {
+        "id": "locking-handles",
+        "title": "Locking Handles",
+        "description": "Secure handles with integrated locking mechanism for enhanced safety and peace of mind",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+        "imageAlt": "Locking handles with integrated security",
+        "priceFrom": "€45",
+        "category": "handles"
+      },
+      {
+        "id": "security-systems",
+        "title": "Security Systems",
+        "description": "Advanced security solutions with multi-point locking for maximum protection",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+        "imageAlt": "Advanced security systems",
+        "priceFrom": "€85",
+        "category": "security"
+      },
+      {
+        "id": "ventilation-systems",
+        "title": "Ventilation Systems",
+        "description": "Automatic ventilation solutions with energy-efficient air circulation and smart controls",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
+        "imageAlt": "Automatic ventilation systems",
+        "priceFrom": "€85",
+        "category": "ventilation"
+      },
+      {
+        "id": "magnetic-door-holders",
+        "title": "Magnetic Door Holders",
+        "description": "Convenient magnetic door holders for easy operation and secure positioning",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+        "imageAlt": "Magnetic door holders",
+        "priceFrom": "€35",
+        "category": "hardware"
+      },
+      {
+        "id": "mosquito-nets",
+        "title": "Mosquito Nets",
+        "description": "Custom-fit insect protection with magnetic door holders and hidden hardware",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+        "imageAlt": "Custom mosquito nets and insect protection",
+        "priceFrom": "€35",
+        "category": "protection"
+      },
+      {
+        "id": "concealed-hinges",
+        "title": "Concealed Hinges",
+        "description": "Hidden hinges for clean, modern design with smooth operation and durability",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+        "imageAlt": "Concealed hinges for modern design",
+        "priceFrom": "€55",
+        "category": "hardware"
+      }
+    ]
+  },
+  "lt": {
+    "title": "Aukščiausios kokybės priedai ir atnaujinimai",
+    "subtitle": "Pagerinkite savo langus ir duris kokybiškomis detalėmis funkcionalumui ir stiliui",
+    "priceFrom": "Kaina nuo",
+    "items": [
+      {
+        "id": "premium-handles",
+        "title": "Rankenėlės",
+        "description": "Aukštos kokybės ergonomiškos rankenėlės su įvairiomis apdailomis",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b6c70e45f0-2c1b36f8da0dcd3867f4.png",
+        "imageAlt": "Aukštos kokybės langų ir durų rankenėlės",
+        "priceFrom": "€25",
+        "category": "handles"
+      },
+      {
+        "id": "locking-handles",
+        "title": "Rankenėlės su užraktu",
+        "description": "Saugios rankenėlės su integruotu užrakimo mechanizmu",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+        "imageAlt": "Rankenėlės su integruotu užraktu",
+        "priceFrom": "€45",
+        "category": "handles"
+      },
+      {
+        "id": "security-systems",
+        "title": "Apsauga nuo įsilaužimo",
+        "description": "Pažangūs apsaugos sprendimai su daugiataškiu užrakinimu",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+        "imageAlt": "Pažangūs apsaugos sprendimai",
+        "priceFrom": "€85",
+        "category": "security"
+      },
+      {
+        "id": "ventilation-systems",
+        "title": "Ventiliacijos sistema",
+        "description": "Automatinės ventiliacijos sistemos su energijos taupymu",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
+        "imageAlt": "Automatinės ventiliacijos sistemos",
+        "priceFrom": "€85",
+        "category": "ventilation"
+      },
+      {
+        "id": "magnetic-door-holders",
+        "title": "Durų fiksatorius magnetu",
+        "description": "Magnetiniai durų fiksatoriai patogiam naudojimui",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+        "imageAlt": "Magnetiniai durų fiksatoriai",
+        "priceFrom": "€35",
+        "category": "hardware"
+      },
+      {
+        "id": "mosquito-nets",
+        "title": "Tinkleliai nuo uodų",
+        "description": "Individualiai pritaikyti apsaugos tinkleliai nuo vabzdžių",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+        "imageAlt": "Individualūs tinkleliai nuo uodų ir vabzdžių",
+        "priceFrom": "€35",
+        "category": "protection"
+      },
+      {
+        "id": "concealed-hinges",
+        "title": "Paslėpti vyriai",
+        "description": "Paslėpti vyriai švariam ir moderniam dizainui",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+        "imageAlt": "Paslėpti vyriai moderniam dizainui",
+        "priceFrom": "€55",
+        "category": "hardware"
+      }
+    ]
+  },
+  "pl": {
+    "title": "Akcesoria i modernizacje premium",
+    "subtitle": "Ulepsz swoje okna i drzwi wysokiej jakości akcesoriami dla lepszej funkcjonalności i stylu",
+    "priceFrom": "Od",
+    "items": [
+      {
+        "id": "premium-handles",
+        "title": "Klamki Premium",
+        "description": "Wysokiej jakości ergonomiczne klamki z różnymi wykończeniami",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b6c70e45f0-2c1b36f8da0dcd3867f4.png",
+        "imageAlt": "Wysokiej jakości klamki do okien i drzwi",
+        "priceFrom": "€25",
+        "category": "handles"
+      },
+      {
+        "id": "locking-handles",
+        "title": "Klamki z Zamkiem",
+        "description": "Bezpieczne klamki z zintegrowanym mechanizmem zamykania",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+        "imageAlt": "Klamki z zintegrowanym zamkiem",
+        "priceFrom": "€45",
+        "category": "handles"
+      },
+      {
+        "id": "security-systems",
+        "title": "Systemy Bezpieczeństwa",
+        "description": "Zaawansowane rozwiązania bezpieczeństwa z wielopunktowym zamykaniem",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+        "imageAlt": "Zaawansowane systemy bezpieczeństwa",
+        "priceFrom": "€85",
+        "category": "security"
+      },
+      {
+        "id": "ventilation-systems",
+        "title": "Systemy Wentylacji",
+        "description": "Automatyczne rozwiązania wentylacyjne z energooszczędną cyrkulacją",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
+        "imageAlt": "Automatyczne systemy wentylacji",
+        "priceFrom": "€85",
+        "category": "ventilation"
+      },
+      {
+        "id": "magnetic-door-holders",
+        "title": "Magnetyczne Zatrzaski",
+        "description": "Magnetyczne zatrzaski drzwi dla wygodnego użytkowania",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+        "imageAlt": "Magnetyczne zatrzaski drzwi",
+        "priceFrom": "€35",
+        "category": "hardware"
+      },
+      {
+        "id": "mosquito-nets",
+        "title": "Moskitiery",
+        "description": "Dopasowane siatki ochronne przed owadami",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+        "imageAlt": "Dopasowane moskitiery i ochrona przed owadami",
+        "priceFrom": "€35",
+        "category": "protection"
+      },
+      {
+        "id": "concealed-hinges",
+        "title": "Ukryte Zawiasy",
+        "description": "Ukryte zawiasy dla czystego i nowoczesnego designu",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+        "imageAlt": "Ukryte zawiasy dla nowoczesnego designu",
+        "priceFrom": "€55",
+        "category": "hardware"
+      }
+    ]
+  },
+  "uk": {
+    "title": "Преміум аксесуари та модернізація",
+    "subtitle": "Покращте свої вікна та двері якісними аксесуарами для кращої функціональності та стилю",
+    "priceFrom": "Від",
+    "items": [
+      {
+        "id": "premium-handles",
+        "title": "Преміум Ручки",
+        "description": "Високоякісні ергономічні ручки з різними покриттями",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b6c70e45f0-2c1b36f8da0dcd3867f4.png",
+        "imageAlt": "Високоякісні ручки для вікон та дверей",
+        "priceFrom": "€25",
+        "category": "handles"
+      },
+      {
+        "id": "locking-handles",
+        "title": "Ручки з Замком",
+        "description": "Безпечні ручки з інтегрованим механізмом замикання",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+        "imageAlt": "Ручки з інтегрованим замком",
+        "priceFrom": "€45",
+        "category": "handles"
+      },
+      {
+        "id": "security-systems",
+        "title": "Системи Безпеки",
+        "description": "Передові рішення безпеки з багатоточковим замиканням",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+        "imageAlt": "Передові системи безпеки",
+        "priceFrom": "€85",
+        "category": "security"
+      },
+      {
+        "id": "ventilation-systems",
+        "title": "Вентиляційні Системи",
+        "description": "Автоматичні вентиляційні рішення з енергоефективністю",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
+        "imageAlt": "Автоматичні вентиляційні системи",
+        "priceFrom": "€85",
+        "category": "ventilation"
+      },
+      {
+        "id": "magnetic-door-holders",
+        "title": "Магнітні Тримачі",
+        "description": "Магнітні тримачі дверей для зручного використання",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+        "imageAlt": "Магнітні тримачі дверей",
+        "priceFrom": "€35",
+        "category": "hardware"
+      },
+      {
+        "id": "mosquito-nets",
+        "title": "Москітні Сітки",
+        "description": "Індивідуально підігнані захисні сітки від комах",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+        "imageAlt": "Індивідуальні москітні сітки та захист від комах",
+        "priceFrom": "€35",
+        "category": "protection"
+      },
+      {
+        "id": "concealed-hinges",
+        "title": "Приховані Петлі",
+        "description": "Приховані петлі для чистого та сучасного дизайну",
+        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+        "imageAlt": "Приховані петлі для сучасного дизайну",
+        "priceFrom": "€55",
+        "category": "hardware"
+      }
+    ]
+  }
+}

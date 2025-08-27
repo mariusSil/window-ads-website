@@ -1,0 +1,231 @@
+{
+  "pageId": "contact",
+  "seo": {
+    "en": {
+      "title": "Contact Us - Professional Window & Door Repair",
+      "description": "Get in touch with our expert team. Visit our office, call us, or send a message for professional window and door repair services.",
+      "keywords": "contact, window repair, door repair, office location, business hours",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/092074e752-1185ce1516e031aa1a73.png",
+      "ogImageAlt": "Contact Us - Professional Window & Door Repair Services"
+    },
+    "lt": {
+      "title": "Kontaktai - Profesionalus Langų ir Durų Remontas",
+      "description": "Susisiekite su mūsų ekspertų komanda. Aplankykite mūsų biurą, paskambinkite arba parašykite dėl profesionalių langų ir durų remonto paslaugų.",
+      "keywords": "kontaktai, langų remontas, durų remontas, biuro vieta, darbo laikas",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+      "ogImageAlt": "Kontaktai - Profesionalus Langų ir Durų Remontas"
+    },
+    "pl": {
+      "title": "Kontakt - Profesjonalny Remont Okien i Drzwi",
+      "description": "Skontaktuj się z naszym zespołem ekspertów. Odwiedź nasze biuro, zadzwoń lub napisz w sprawie profesjonalnych usług naprawy okien i drzwi.",
+      "keywords": "kontakt, naprawa okien, naprawa drzwi, lokalizacja biura, godziny pracy",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
+      "ogImageAlt": "Kontakt - Profesjonalny Remont Okien i Drzwi"
+    },
+    "uk": {
+      "title": "Контакти - Професійний Ремонт Вікон та Дверей",
+      "description": "Зв'яжіться з нашою командою експертів. Відвідайте наш офіс, подзвоніть або напишіть для професійних послуг ремонту вікон та дверей.",
+      "keywords": "контакти, ремонт вікон, ремонт дверей, розташування офісу, робочі години",
+      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "ogImageAlt": "Контакти - Професійний Ремонт Вікон та Дверей"
+    }
+  },
+  "content": {
+    "en": {
+      "pageHeader": {
+        "title": "Contact Us",
+        "subtitle": "Get in touch with our professional team"
+      },
+      "contactContent": {
+        "mapSection": {
+          "title": "Visit Our Office",
+          "address": "Savanorių pr. 123, Vilnius, Lithuania",
+          "googleMapsUrl": "https://maps.google.com/?q=Savanorių+pr.+123,+Vilnius,+Lithuania",
+          "mapImageAlt": "Office location map"
+        },
+        "contactInfo": {
+          "title": "Contact Information",
+          "phone": "+370 644 45403",
+          "email": "info@langu-remontas.lt",
+          "telegram": "@languremontas",
+          "whatsapp": "+370 644 45403",
+          "businessHours": {
+            "title": "Business Hours",
+            "weekdays": "Monday - Friday: 8:00 - 18:00",
+            "saturday": "Saturday: 9:00 - 15:00",
+            "sunday": "Sunday: Closed"
+          }
+        },
+        "businessRequisites": {
+          "title": "Business Information",
+          "companyName": "UAB Langu Remontas",
+          "registrationNumber": "123456789",
+          "vatNumber": "LT123456789012",
+          "address": "Savanorių pr. 123, Vilnius, Lithuania",
+          "bankAccount": "LT12 1234 5678 9012 3456"
+        },
+        "contactForm": {
+          "title": "Send Us a Message",
+          "nameLabel": "Full Name",
+          "emailLabel": "Email Address",
+          "phoneLabel": "Phone Number",
+          "serviceLabel": "Service Type",
+          "messageLabel": "Message",
+          "submitButton": "Send Message",
+          "successMessage": "Thank you! We'll contact you within 24 hours.",
+          "errorMessage": "Error sending message. Please try again."
+        }
+      }
+    },
+    "lt": {
+      "pageHeader": {
+        "title": "Kontaktai",
+        "subtitle": "Susisiekite su mūsų profesionalų komanda"
+      },
+      "contactContent": {
+        "mapSection": {
+          "title": "Aplankykite Mūsų Biurą",
+          "address": "Savanorių pr. 123, Vilnius, Lietuva",
+          "googleMapsUrl": "https://maps.google.com/?q=Savanorių+pr.+123,+Vilnius,+Lietuva",
+          "mapImageAlt": "Biuro vietos žemėlapis"
+        },
+        "contactInfo": {
+          "title": "Kontaktinė Informacija",
+          "phone": "+370 644 45403",
+          "email": "info@langu-remontas.lt",
+          "telegram": "@languremontas",
+          "whatsapp": "+370 644 45403",
+          "businessHours": {
+            "title": "Darbo Laikas",
+            "weekdays": "Pirmadienis - Penktadienis: 8:00 - 18:00",
+            "saturday": "Šeštadienis: 9:00 - 15:00",
+            "sunday": "Sekmadienis: Uždaryta"
+          }
+        },
+        "businessRequisites": {
+          "title": "Įmonės Informacija",
+          "companyName": "UAB Langu Remontas",
+          "registrationNumber": "123456789",
+          "vatNumber": "LT123456789012",
+          "address": "Savanorių pr. 123, Vilnius, Lietuva",
+          "bankAccount": "LT12 1234 5678 9012 3456"
+        },
+        "contactForm": {
+          "title": "Parašykite Mums",
+          "nameLabel": "Vardas Pavardė",
+          "emailLabel": "El. Pašto Adresas",
+          "phoneLabel": "Telefono Numeris",
+          "serviceLabel": "Paslaugos Tipas",
+          "messageLabel": "Žinutė",
+          "submitButton": "Siųsti Žinutę",
+          "successMessage": "Ačiū! Susisieksime su jumis per 24 valandas.",
+          "errorMessage": "Klaida siunčiant žinutę. Bandykite dar kartą."
+        }
+      }
+    },
+    "pl": {
+      "pageHeader": {
+        "title": "Kontakt",
+        "subtitle": "Skontaktuj się z naszym profesjonalnym zespołem"
+      },
+      "contactContent": {
+        "mapSection": {
+          "title": "Odwiedź Nasze Biuro",
+          "address": "Savanorių pr. 123, Wilno, Litwa",
+          "googleMapsUrl": "https://maps.google.com/?q=Savanorių+pr.+123,+Vilnius,+Lithuania",
+          "mapImageAlt": "Mapa lokalizacji biura"
+        },
+        "contactInfo": {
+          "title": "Informacje Kontaktowe",
+          "phone": "+370 644 45403",
+          "email": "info@langu-remontas.lt",
+          "telegram": "@languremontas",
+          "whatsapp": "+370 644 45403",
+          "businessHours": {
+            "title": "Godziny Pracy",
+            "weekdays": "Poniedziałek - Piątek: 8:00 - 18:00",
+            "saturday": "Sobota: 9:00 - 15:00",
+            "sunday": "Niedziela: Zamknięte"
+          }
+        },
+        "businessRequisites": {
+          "title": "Informacje o Firmie",
+          "companyName": "UAB Langu Remontas",
+          "registrationNumber": "123456789",
+          "vatNumber": "LT123456789012",
+          "address": "Savanorių pr. 123, Wilno, Litwa",
+          "bankAccount": "LT12 1234 5678 9012 3456"
+        },
+        "contactForm": {
+          "title": "Wyślij Nam Wiadomość",
+          "nameLabel": "Imię i Nazwisko",
+          "emailLabel": "Adres Email",
+          "phoneLabel": "Numer Telefonu",
+          "serviceLabel": "Typ Usługi",
+          "messageLabel": "Wiadomość",
+          "submitButton": "Wyślij Wiadomość",
+          "successMessage": "Dziękujemy! Skontaktujemy się w ciągu 24 godzin.",
+          "errorMessage": "Błąd wysyłania wiadomości. Spróbuj ponownie."
+        }
+      }
+    },
+    "uk": {
+      "pageHeader": {
+        "title": "Контакти",
+        "subtitle": "Зв'яжіться з нашою професійною командою"
+      },
+      "contactContent": {
+        "mapSection": {
+          "title": "Відвідайте Наш Офіс",
+          "address": "Savanorių pr. 123, Вільнюс, Литва",
+          "googleMapsUrl": "https://maps.google.com/?q=Savanorių+pr.+123,+Vilnius,+Lithuania",
+          "mapImageAlt": "Карта розташування офісу"
+        },
+        "contactInfo": {
+          "title": "Контактна Інформація",
+          "phone": "+370 644 45403",
+          "email": "info@langu-remontas.lt",
+          "telegram": "@languremontas",
+          "whatsapp": "+370 644 45403",
+          "businessHours": {
+            "title": "Робочі Години",
+            "weekdays": "Понеділок - П'ятниця: 8:00 - 18:00",
+            "saturday": "Субота: 9:00 - 15:00",
+            "sunday": "Неділя: Зачинено"
+          }
+        },
+        "businessRequisites": {
+          "title": "Інформація про Компанію",
+          "companyName": "UAB Langu Remontas",
+          "registrationNumber": "123456789",
+          "vatNumber": "LT123456789012",
+          "address": "Savanorių pr. 123, Вільнюс, Литва",
+          "bankAccount": "LT12 1234 5678 9012 3456"
+        },
+        "contactForm": {
+          "title": "Надішліть Нам Повідомлення",
+          "nameLabel": "Повне Ім'я",
+          "emailLabel": "Електронна Адреса",
+          "phoneLabel": "Номер Телефону",
+          "serviceLabel": "Тип Послуги",
+          "messageLabel": "Повідомлення",
+          "submitButton": "Надіслати Повідомлення",
+          "successMessage": "Дякуємо! Ми зв'яжемося з вами протягом 24 годин.",
+          "errorMessage": "Помилка надсилання повідомлення. Спробуйте ще раз."
+        }
+      }
+    }
+  },
+  "components": [
+    {
+      "type": "PageHeader",
+      "contentKey": "pageHeader",
+      "required": true
+    },
+    {
+      "type": "ContactPageContent",
+      "contentKey": "contactContent",
+      "required": true
+    }
+  ]
+}
