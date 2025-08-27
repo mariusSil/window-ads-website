@@ -257,11 +257,11 @@ export function checkForDuplicate(data: UnifiedEmailRequest): boolean {
   const fiveMinutesAgo = now - (5 * 60 * 1000);
   
   // Clean up old entries
-  for (const [hash, timestamp] of recentSubmissions.entries()) {
+  recentSubmissions.forEach((timestamp, hash) => {
     if (timestamp < fiveMinutesAgo) {
       recentSubmissions.delete(hash);
     }
-  }
+  });
   
   // Check if this content was submitted recently
   if (recentSubmissions.has(contentHash)) {
