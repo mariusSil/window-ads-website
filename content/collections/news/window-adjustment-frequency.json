@@ -131,81 +131,208 @@
       ]
     },
     "lt": {
-      "title": "Kaip Dažnai Reguliuoti Langus? Sezoninis Reguliavimo Vadovas",
-      "excerpt": "Tinkamas langų reguliavimo dažnumas priklauso nuo naudojimo, oro sąlygų ir langų amžiaus. Sužinokite optimalų grafiką, kad langai veiktų sklandžiai ištisus metus.",
+      "title": "Kaip dažnai reikia reguliuoti langus? Sezoninio reguliavimo vadovas",
+      "excerpt": "Tinkamas langų reguliavimo dažnumas priklauso nuo naudojimo intensyvumo, oro sąlygų ir langų amžiaus. Sužinokite, koks grafikas geriausiai užtikrins sklandų langų veikimą visus metus.",
       "featuredImage": "/images/window-adjustment-guide-og.webp",
-      "featuredImageAlt": "Profesionalus technikas reguliuoja langų vyrius su įrankiais, artimas remonto darbų vaizdas",
-      "introduction": "Langų reguliavimas yra vienas iš labiausiai nepaisomų namų priežiūros aspektų, tačiau jis yra labai svarbus tinkamam veikimui, energijos efektyvumui ir ilgaamžiškumui. Daugelis namų savininkų apie langų reguliavimą galvoja tik tada, kai jie pradeda kliūti ar neprisidaro tinkamai.",
+      "featuredImageAlt": "Profesionalus meistras reguliuoja lango vyrius įrankiais, remonto darbai iš arti",
+      "introduction": "Langų reguliavimas – viena dažniausiai pamirštamų namų priežiūros sričių, tačiau ji yra gyvybiškai svarbi tinkamam langų veikimui, energiniam efektyvumui ir ilgaamžiškumui. Daugelis būsto savininkų apie langų reguliavimą susimąsto tik tada, kai jie pradeda strigti ar sunkiai užsidaryti. Tačiau prevencinis reguliavimas, atsižvelgiant į sezonų kaitą ir naudojimo ypatumus, gali padėti išvengti daugumos problemų ir gerokai prailginti jūsų langų tarnavimo laiką.",
       "sections": [
         {
-          "id": "reguliavimo-daznumo-pagrindai",
-          "title": "Langų Reguliavimo Dažnumo Supratimas",
-          "content": "**Langų reguliavimo dažnumas priklauso nuo kelių pagrindinių veiksnio:**\n\n**Klimatas ir Oro Sąlygų Poveikis**\n- Pajūrio sritys: kas 3-4 mėnesius dėl druskingo oro korozijos\n- Kontinentinis klimatas: kas 6 mėnesius (pavasarį ir rudenį)\n- Švelnus klimatas: kasmet arba pagal poreikį\n- Ekstremalios oro sąlygos: kas 3 mėnesius\n\n**Langų Naudojimo Įpročiai**\n- Kasdien naudojami langai: kas 3-4 mėnesius\n- Retkarčiais naudojami langai: kas 6 mėnesius\n- Retai atidaromi langai: kasmet\n- Intensyvaus naudojimo zonos: kas 2-3 mėnesius\n\n**Langų Amžius ir Būklė**\n- Nauji langai (0-5 metai): kas 6-12 mėnesių\n- Subrendę langai (5-15 metų): kas 3-6 mėnesius\n- Senesni langai (15+ metų): kas 2-3 mėnesius\n- Neseniai aptarnauti langai: vadovaukitės techniko rekomendacijomis"
+          "id": "adjustment-frequency-basics",
+          "title": "Langų reguliavimo dažnumas: nuo ko jis priklauso?",
+          "content": "Langų reguliavimo dažnumas priklauso nuo kelių pagrindinių veiksnių:\n\n**Klimatas ir oro sąlygos**\n- Pajūrio zonos: kas 3–4 mėnesius dėl sūraus oro poveikio\n- Žemyninis klimatas: kas 6 mėnesius (pavasarį ir rudenį)\n- Švelnus klimatas: kartą per metus arba pagal poreikį\n- Ekstremalių oro sąlygų zonos: kas 3 mėnesius\n\n**Langų naudojimo intensyvumas**\n- Kasdien varstomi langai: kas 3–4 mėnesius\n- Retkarčiais varstomi langai: kas 6 mėnesius\n- Beveik neatidaromi langai: kartą per metus\n- Intensyviai naudojami langai: kas 2–3 mėnesius\n\n**Langų amžius ir būklė**\n- Nauji langai (0–5 metų): kas 6–12 mėnesių\n- Vidutinio amžiaus langai (5–15 metų): kas 3–6 mėnesius\n- Seni langai (daugiau nei 15 metų): kas 2–3 mėnesius\n- Neseniai prižiūrėti langai: vadovaukitės meistro rekomendacijomis",
+          "tips": [
+            "Veskite priežiūros darbų žurnalą, kad galėtumėte sekti reguliavimo grafiką.",
+            "Nusistatykite sezoninius priminimus apie langų patikrą.",
+            "Kasdien stebėkite langų veikimą, kad laiku pastebėtumėte problemas."
+          ]
         },
         {
-          "id": "sezoninis-reguliavimo-grafikas",
-          "title": "Sezoninis Reguliavimo Grafikas",
-          "content": "**Pavasario Reguliavimai (Kovas-Balandis)**\n- Patikrinkite žiemos pažeidimus ir nusėdimą\n- Sureguliuokite padidėjusiems vėdinimo poreikiams\n- Sutepkite vyrius ir mechanizmus po žiemos\n- Išbandykite visus užrakinimo mechanizmus\n- Kalibruokite pavasario oro sąlygoms\n\n**Vasaros Paruošimas (Gegužė-Birželis)**\n- Sureguliuokite šiluminio plėtimosi poveikį\n- Užtikrinkite tinkamą sandarinimą oro kondicionavimo efektyvumui\n- Patikrinkite drenažo sistemas prieš lietaus sezoną\n- Optimizuokite vėdinimo nustatymus\n- Apžiūrėkite ir sureguliuokite tinklus\n\n**Rudens Paruošimas (Rugsėjis-Spalis)**\n- Paruoškite šildymo sezono efektyvumui\n- Sureguliuokite šiluminio susitraukimo poveikį\n- Patikrinkite oro sandarinimo juostų efektyvumą\n- Užtikrinkite sandarų hermetiškumą žiemai\n- Išbandykite avarinių atidarymo mechanizmus\n\n**Žiemos Priežiūra (Gruodis-Sausis)**\n- Stebėkite ledo ir kondensacijos problemas\n- Reguliuokite šildymo efektyvumui\n- Tikrinkite oro pratėkimus ir vėją\n- Užtikrinkite tinkamą veikimą šaltomis oro sąlygomis\n- Spręskite bet kokius nusėdimo ar judėjimo klausimus"
+          "id": "seasonal-adjustment-schedule",
+          "title": "Sezoninio reguliavimo grafikas",
+          "content": "**Pavasarinis reguliavimas (kovas–balandis)**\n- Patikrinkite, ar nėra per žiemą atsiradusių pažeidimų ir ar langas „nenusėdo“.\n- Sureguliuokite didesniam vėdinimo poreikiui.\n- Po žiemos sutepkite vyrius ir mechanizmus.\n- Išbandykite visus užrakinimo mechanizmus.\n- Paruoškite langus pavasario orams.\n\n**Pasiruošimas vasarai (gegužė–birželis)**\n- Sureguliuokite atsižvelgiant į šiluminį plėtimąsi.\n- Užtikrinkite tinkamą sandarumą oro kondicionieriaus efektyvumui.\n- Prieš lietingąjį sezoną patikrinkite drenažo angas.\n- Optimizuokite vėdinimo padėtis.\n- Patikrinkite ir sureguliuokite tinklelius nuo vabzdžių.\n\n**Pasiruošimas rudeniui (rugsėjis–spalis)**\n- Paruoškite langus šildymo sezonui.\n- Sureguliuokite atsižvelgiant į šiluminį traukimąsi.\n- Patikrinkite tarpinių sandarumą.\n- Užtikrinkite maksimalų sandarumą žiemai.\n- Išbandykite mikroventiliacijos ir kitas vėdinimo funkcijas.\n\n**Priežiūra žiemą (gruodis–sausis)**\n- Stebėkite, ar nesikaupia ledas ir kondensatas.\n- Sureguliuokite šildymo efektyvumui.\n- Patikrinkite, ar pro langus nepatenka šaltas oras, ar nėra skersvėjo.\n- Užtikrinkite tinkamą veikimą esant šalčiui.\n- Spręskite visas „nusėdimo“ ar judėjimo problemas.",
+          "callout": "Profesionalo patarimas: suplanuokite reguliavimą likus 2–3 savaitėms iki ekstremalių orų sezono pradžios. Taip užtikrinsite, kad langai veiks nepriekaištingai, kai to labiausiai reikės."
         },
         {
-          "id": "reguliavimo-poreikio-pozymiai",
-          "title": "Požymiai, kad Langams Reikia Reguliavimo",
-          "content": "**Skubus Reguliavimas Reikalingas**\n- Sunkumai atidarant ar uždarant\n- Matomi tarpai uždarius\n- Vėjas ar oro pratėkimai\n- Vandens infiltracija\n- Neįprasti garsai veikimo metu\n- Užraktai nesijungia tinkamai\n\n**Prevencinio Reguliavimo Indikatoriai**\n- Lengvas pasipriešinimas veikimo metu\n- Maži išlygiavimo defektai\n- Sezoniniai veikimo pokyčiai\n- Padidėjusios energijos sąskaitos\n- Kondensacija tarp stiklų\n- Oro sandarinimo juostų nusidėvėjimas\n\n**Avarinės Situacijos**\n- Langai neprisidaro visiškai\n- Saugumo užraktai neveikia\n- Stiklo judėjimas ar atsilaisvinimas\n- Rėmo atsiskyrimas ar įtrūkimai\n- Aparatinės įrangos gedimas ar lūžimas"
+          "id": "signs-need-adjustment",
+          "title": "Požymiai, kad langus laikas reguliuoti",
+          "content": "**Būtinas skubus reguliavimas**\n- Sunkiai atsidaro ar užsidaro.\n- Uždarius matomi tarpai.\n- Jaučiamas skersvėjis ar oro pralaidumas.\n- Pro langą patenka vanduo.\n- Varstant girdimi neįprasti garsai (girgždesys, traškesys).\n- Užraktai neužsikabina tinkamai.\n\n**Prevencinio reguliavimo poreikį rodantys ženklai**\n- Varstant jaučiamas nedidelis pasipriešinimas.\n- Matomi nedideli išsikreivinimai.\n- Priklausomai nuo sezono keičiasi lango veikimas.\n- Išaugusios sąskaitos už šildymą.\n- Kondensatas stiklo paketo viduje.\n- Nusidėvėjusios ar sukietėjusios tarpinės.\n\n**Kada kviesti meistrą nedelsiant?**\n- Langas visiškai neužsidaro.\n- Sugedo saugumo užraktai.\n- Stiklas rėme juda ar yra laisvas.\n- Rėmas atsiskiria nuo sienos ar trūkinėja.\n- Sugedo ar sulūžo apkaustai.",
+          "warning": "Dėmesio: niekada nenaudokite jėgos bandydami uždaryti stringantį langą. Taip galite nepataisomai sugadinti mechanizmą ir rėmą."
+        },
+        {
+          "id": "diy-vs-professional",
+          "title": "Reguliuoti pačiam ar kviesti meistrą?",
+          "content": "**Ką galite atlikti patys?**\n- Sutepti vyrius ir judančias dalis.\n- Priveržti atsilaisvinusius varžtus.\n- Pakeisti susidėvėjusias tarpines.\n- Atlikti smulkius sureguliavimo darbus (pvz., prispaudimo reguliavimas).\n- Išvalyti bėgelius ir mechanizmus.\n\n**Kada būtinas specialistas?**\n- Rėmo geometrijos atstatymas.\n- Apkaustų keitimas.\n- Sudėtingas tarpinių reguliavimas.\n- Mechanizmų kalibravimas.\n- Strukturiniai pataisymai.\n- Garantiniai reguliavimo darbai.\n\n**Įrankiai, kurių prireiks**\n- Atsuktuvų rinkinys (kryžminis ir plokščias).\n- Šešiakampių raktų rinkinys.\n- Silikoninis purškiamas tepalas.\n- Gulsčiukas geometrijos patikrai.\n- Matavimo ruletė.\n- Valymo priemonės (šluostės, šepetėlis).",
+          "benefits": [
+            "Profesionalus reguliavimas yra ilgaamžiškesnis.",
+            "Išsaugoma gamyklinė garantija.",
+            "Tiksliai nustatomos tikrosios problemų priežastys.",
+            "Naudojami specializuoti įrankiai ir žinios.",
+            "Užtikrinamas saugumas ir atsakomybė už atliktus darbus."
+          ]
         }
       ],
-      "conclusion": "Reguliarus langų reguliavimas yra maža investicija, kuri atsipirks komfortu, energijos efektyvumu ir langų ilgaamžiškumu. Laikydamiesi sezoninio reguliavimo grafiko ir atpažįstant ankstyvus įspėjimo ženklus, galite išlaikyti langus optimaliai veikiančius dešimtmečius.",
+      "conclusion": "Reguliarus langų reguliavimas – tai nedidelė investicija, kuri atsiperka su kaupu per didesnį komfortą, energijos taupymą ir ilgesnį langų tarnavimo laiką. Laikydamiesi sezoninio reguliavimo grafiko ir laiku pastebėdami pirmuosius problemų ženklus, užtikrinsite, kad jūsų langai optimaliai veiktų dešimtmečius. Jei abejojate, visada kreipkitės į profesionalus, kurie suteiks ekspertų konsultaciją ir kokybiškas reguliavimo paslaugas.",
       "ctaSection": {
-        "title": "Profesionalios Langų Reguliavimo Paslaugos",
-        "description": "Mūsų sertifikuoti technikai teikia išsamas langų reguliavimo paslaugas su garantuotais rezultatais.",
+        "title": "Profesionalios langų reguliavimo paslaugos",
+        "description": "Mūsų sertifikuoti meistrai teikia visapusiškas langų reguliavimo paslaugas su kokybės garantija. Užsisakykite sezoninį reguliavimą jau šiandien.",
         "benefits": [
           "Sertifikuoti langų reguliavimo specialistai",
-          "Sezoniniai reguliavimo paketai",
-          "Skubūs reguliavimo darbai",
-          "Garantija visiems reguliavimo darbams"
+          "Siūlome sezoninio reguliavimo paslaugų paketus",
+          "Skubus reguliavimas gedimo atveju",
+          "Visiems reguliavimo darbams suteikiama garantija"
         ]
       },
       "faq": [
         {
-          "question": "Kaip sužinoti, ar langams reikia reguliavimo?",
-          "answer": "Dažni požymiai: sunkumai atidarant/uždarant, matomi tarpai uždarius, vėjas, neįprasti garsai ar užraktai nesijungia tinkamai. Pastebėję bet kurį iš šių požymių, laikas reguliuoti."
+          "question": "Kaip žinoti, ar mano langus reikia reguliuoti?",
+          "answer": "Dažniausi požymiai: langas sunkiai varstosi, uždarius matomi tarpai, jaučiamas skersvėjis, girdimi neįprasti garsai ar stringa užraktai. Pastebėjus bent vieną iš šių problemų, langus laikas reguliuoti."
+        },
+        {
+          "question": "Ar galiu langus sureguliuoti pats?",
+          "answer": "Smulkius darbus, pavyzdžiui, mechanizmų sutepimą ar varžtų priveržimą, galite atlikti patys. Tačiau sudėtingesnius darbus, tokius kaip rėmo geometrijos atstatymas, apkaustų keitimas ar mechanizmų kalibravimas, patikėkite profesionalams."
+        },
+        {
+          "question": "Kiek kainuoja profesionalus langų reguliavimas?",
+          "answer": "Profesionalus reguliavimas paprastai kainuoja 25–75 € už langą, priklausomai nuo gedimo sudėtingumo. Dažnai taikomos nuolaidos užsakant kelių langų reguliavimą arba sezoninius paslaugų paketus."
         }
       ]
     },
     "pl": {
-      "title": "Jak Często Regulować Okna? Sezonowy Przewodnik Regulacji",
-      "excerpt": "Właściwa częstotliwość regulacji okien zależy od użytkowania, warunków pogodowych i wieku okien. Poznaj optymalny harmonogram utrzymania okien w sprawności przez cały rok.",
+      "title": "Jak często regulować okna? Przewodnik po sezonowej konserwacji",
+      "excerpt": "Częstotliwość regulacji okien zależy od intensywności ich użytkowania, warunków pogodowych i wieku stolarki. Dowiedz się, jaki jest optymalny harmonogram, aby Twoje okna działały bez zarzutu przez cały rok.",
       "featuredImage": "/images/window-adjustment-guide-og.webp",
-      "featuredImageAlt": "Profesjonalny technik reguluje zawiasy okienne narzędziami, zbliżenie prac naprawczych",
-      "introduction": "Regulacja okien to jeden z najbardziej zaniedbywanych aspektów konserwacji domu, a jednak jest kluczowa dla właściwego działania, efektywności energetycznej i trwałości.",
-      "conclusion": "Regularna regulacja okien to niewielka inwestycja, która przynosi znaczące korzyści w komforcie, efektywności energetycznej i trwałości okien.",
+      "featuredImageAlt": "Profesjonalny serwisant regulujący zawiasy okienne przy użyciu narzędzi, zbliżenie na prace naprawcze",
+      "introduction": "Regulacja okien to często pomijany element konserwacji domu, a przecież ma kluczowe znaczenie dla ich prawidłowego funkcjonowania, energooszczędności i żywotności. Wielu właścicieli domów myśli o regulacji dopiero wtedy, gdy okna zaczynają się zacinać lub nie domykają się prawidłowo. Jednak proaktywna konserwacja, dostosowana do zmian pór roku i intensywności użytkowania, może zapobiec większości problemów i znacznie wydłużyć żywotność Twoich okien.",
+      "sections": [
+        {
+          "id": "adjustment-frequency-basics",
+          "title": "Jak często należy regulować okna?",
+          "content": "Częstotliwość regulacji okien zależy od kilku kluczowych czynników:\n\n**Klimat i warunki pogodowe**\n- Tereny nadmorskie: co 3-4 miesiące (ze względu na korozję spowodowaną słonym powietrzem)\n- Klimat kontynentalny: co 6 miesięcy (wiosną i jesienią)\n- Klimat łagodny: raz w roku lub w razie potrzeby\n- Strefy o ekstremalnych warunkach pogodowych: co 3 miesiące\n\n**Intensywność użytkowania okien**\n- Okna używane codziennie: co 3-4 miesiące\n- Okna używane sporadycznie: co 6 miesięcy\n- Okna rzadko otwierane: raz w roku\n- Okna w miejscach o dużym natężeniu ruchu: co 2-3 miesiące\n\n**Wiek i stan techniczny okien**\n- Nowe okna (0-5 lat): co 6-12 miesięcy\n- Okna w wieku 5-15 lat: co 3-6 miesięcy\n- Starsze okna (powyżej 15 lat): co 2-3 miesiące\n- Okna po niedawnym serwisie: zgodnie z zaleceniami serwisanta",
+          "tips": [
+            "Prowadź dziennik konserwacji, aby śledzić harmonogram regulacji.",
+            "Ustaw sezonowe przypomnienia o przeglądzie okien.",
+            "Codziennie obserwuj działanie okien, aby wcześnie wykryć problemy."
+          ]
+        },
+        {
+          "id": "seasonal-adjustment-schedule",
+          "title": "Harmonogram sezonowej regulacji",
+          "content": "**Regulacja na wiosnę (marzec-kwiecień)**\n- Sprawdzenie uszkodzeń i osiadania po zimie\n- Dostosowanie do zwiększonych potrzeb wentylacyjnych\n- Smarowanie zawiasów i mechanizmów po zimie\n- Testowanie wszystkich mechanizmów ryglujących\n- Kalibracja pod kątem wiosennej aury\n\n**Przygotowanie do lata (maj-czerwiec)**\n- Regulacja uwzględniająca rozszerzalność cieplną materiałów\n- Zapewnienie odpowiedniej szczelności dla wydajności klimatyzacji\n- Sprawdzenie systemów odprowadzania wody przed porą deszczową\n- Optymalizacja ustawień wentylacji\n- Przegląd i regulacja moskitier\n\n**Przygotowanie do jesieni (wrzesień-październik)**\n- Przygotowanie do sezonu grzewczego w celu zapewnienia wydajności\n- Regulacja uwzględniająca kurczliwość termiczną materiałów\n- Sprawdzenie skuteczności uszczelek\n- Zapewnienie szczelności na zimę\n- Testowanie mechanizmów awaryjnego otwierania\n\n**Konserwacja zimowa (grudzień-styczeń)**\n- Monitorowanie pod kątem oblodzenia i kondensacji pary wodnej\n- Regulacja w celu zwiększenia wydajności ogrzewania\n- Sprawdzanie nieszczelności i przeciągów\n- Zapewnienie prawidłowego działania w niskich temperaturach\n- Reagowanie na problemy z osiadaniem lub przemieszczaniem się konstrukcji",
+          "callout": "Porada fachowca: Zaplanuj regulację na 2-3 tygodnie przed rozpoczęciem sezonu z ekstremalnymi temperaturami, aby zapewnić optymalne działanie okien wtedy, gdy najbardziej tego potrzebujesz."
+        },
+        {
+          "id": "signs-need-adjustment",
+          "title": "Oznaki, że Twoje okna wymagają regulacji",
+          "content": "**Wymagana natychmiastowa regulacja**\n- Trudności z otwieraniem lub zamykaniem\n- Widoczne szpary po zamknięciu okna\n- Przeciągi lub nieszczelności\n- Przenikanie wody do środka\n- Nietypowe dźwięki podczas otwierania/zamykania (skrzypienie, trzaski)\n- Klamka lub zamki nie działają prawidłowo\n\n**Wskazania do regulacji profilaktycznej**\n- Lekki opór podczas obsługi klamki\n- Drobne problemy z geometrią skrzydła\n- Zmiany w funkcjonowaniu okna w zależności od pory roku\n- Wyższe rachunki za energię\n- Kondensacja pary wodnej między szybami\n- Zużycie uszczelek\n\n**Sytuacje awaryjne**\n- Okna nie dają się całkowicie zamknąć\n- Awaria zamków lub rygli antywłamaniowych\n- Luzy lub ruchy szyby w ramie\n- Pęknięcia lub rozszczelnienie ramy\n- Uszkodzenie lub pęknięcie okucia",
+          "warning": "Uwaga: Nigdy nie próbuj na siłę zamykać lub otwierać okna, które działa nieprawidłowo. Może to spowodować trwałe uszkodzenie mechanizmu i ramy."
+        },
+        {
+          "id": "diy-vs-professional",
+          "title": "Samodzielna regulacja czy pomoc fachowca?",
+          "content": "**Czynności, które możesz wykonać samodzielnie**\n- Podstawowe smarowanie zawiasów i okuć\n- Dokręcanie poluzowanych śrub\n- Wymiana uszczelek\n- Proste korekty ustawienia skrzydła\n- Czyszczenie prowadnic i mechanizmów\n\n**Prace wymagające interwencji specjalisty**\n- Regulacja geometrii ramy okiennej\n- Wymiana okuć\n- Regulacja docisku uszczelek\n- Kalibracja mechanizmów\n- Naprawy strukturalne\n- Regulacje w ramach gwarancji\n\n**Narzędzia potrzebne do samodzielnej regulacji**\n- Zestaw wkrętaków (płaski i krzyżakowy)\n- Zestaw kluczy imbusowych\n- Smar silikonowy w sprayu\n- Poziomica do sprawdzania ustawienia\n- Miarka\n- Środki czystości",
+          "benefits": [
+            "Profesjonalna regulacja daje trwalsze efekty",
+            "Zachowanie ochrony gwarancyjnej",
+            "Prawidłowa diagnoza źródła problemu",
+            "Dostęp do specjalistycznych narzędzi i wiedzy",
+            "Bezpieczeństwo i odpowiedzialność po stronie wykonawcy"
+          ]
+        }
+      ],
+      "conclusion": "Regularna regulacja okien to niewielka inwestycja, która przynosi wymierne korzyści w postaci komfortu, oszczędności energii i dłuższej żywotności stolarki okiennej. Stosując się do sezonowego harmonogramu i reagując na wczesne sygnały ostrzegawcze, możesz zapewnić swoim oknom optymalne działanie przez dziesięciolecia. W razie wątpliwości skonsultuj się z profesjonalistami, którzy zapewnią fachową ocenę i serwis.",
       "ctaSection": {
-        "title": "Profesjonalne Usługi Regulacji Okien",
-        "description": "Nasi certyfikowani technicy świadczą kompleksowe usługi regulacji okien z gwarantowanymi rezultatami.",
+        "title": "Profesjonalny serwis i regulacja okien",
+        "description": "Nasi certyfikowani technicy świadczą kompleksowe usługi regulacji okien z gwarancją efektów. Umów się na sezonowy przegląd już dziś.",
         "benefits": [
-          "Certyfikowani specjaliści regulacji okien",
-          "Dostępne pakiety sezonowej regulacji",
-          "Awaryjne usługi regulacji",
+          "Certyfikowani specjaliści w zakresie regulacji okien",
+          "Dostępne pakiety regulacji sezonowej",
+          "Pogotowie okienne i serwis awaryjny",
           "Gwarancja na wszystkie prace regulacyjne"
         ]
-      }
+      },
+      "faq": [
+        {
+          "question": "Po czym poznać, że moje okna wymagają regulacji?",
+          "answer": "Typowe objawy to trudności z otwieraniem i zamykaniem, widoczne szpary po zamknięciu, przeciągi, nietypowe dźwięki (np. trzaski) lub problemy z działaniem klamki i zamków. Jeśli zauważysz którykolwiek z tych problemów, czas na regulację."
+        },
+        {
+          "question": "Czy mogę samodzielnie wyregulować okna?",
+          "answer": "Podstawowe czynności, takie jak smarowanie czy dokręcenie śrub, można wykonać samodzielnie. Jednak regulacja geometrii ramy, wymiana okuć czy kalibracja mechanizmów powinny być zlecane profesjonalistom."
+        },
+        {
+          "question": "Ile kosztuje profesjonalna regulacja okien?",
+          "answer": "Koszt profesjonalnej regulacji jednego skrzydła okiennego zaczyna się zazwyczaj od 80-100 zł i zależy od złożoności problemu. Wiele firm oferuje pakiety sezonowe oraz zniżki przy serwisie większej liczby okien."
+        }
+      ]
     },
     "uk": {
-      "title": "Як Часто Регулювати Вікна? Сезонний Посібник Регулювання",
-      "excerpt": "Правильна частота регулювання вікон залежить від використання, погодних умов та віку вікон. Дізнайтеся оптимальний графік для підтримання вікон у робочому стані цілий рік.",
+      "title": "Як часто потрібно регулювати вікна? Посібник із сезонного налаштування",
+      "excerpt": "Частота регулювання вікон залежить від інтенсивності використання, погодних умов та віку конструкції. Дізнайтеся, як підтримувати їхню бездоганну роботу протягом усього року.",
       "featuredImage": "/images/window-adjustment-guide-og.webp",
-      "featuredImageAlt": "Професійний технік регулює віконні петлі інструментами, крупний план ремонтних робіт",
-      "introduction": "Регулювання вікон - це один з найбільш ігнорованих аспектів обслуговування будинку, проте він є вирішальним для правильної роботи, енергоефективності та довговічності.",
-      "conclusion": "Регулярне регулювання вікон - це невелика інвестиція, яка окупається комфортом, енергоефективністю та довговічністю вікон.",
+      "featuredImageAlt": "Майстер регулює віконні петлі за допомогою інструментів, ремонт крупним планом",
+      "introduction": "Регулювання вікон — аспект догляду за оселею, важливість якого часто недооцінюють, хоча він є ключовим для правильної роботи, енергоефективності та довговічності конструкцій. Багато власників згадують про налаштування лише тоді, коли вікно починає заїдати або не закривається щільно. Однак своєчасне регулювання відповідно до сезонних змін та інтенсивності використання може запобігти більшості проблем та значно продовжити термін служби ваших вікон.",
+      "sections": [
+        {
+          "id": "adjustment-frequency-basics",
+          "title": "Від чого залежить частота регулювання вікон",
+          "content": "Періодичність налаштування вікон залежить від кількох ключових факторів:\n\n**Клімат та погодні умови**\n- Приморські регіони: кожні 3-4 місяці через вплив солоного повітря\n- Регіони з континентальним кліматом: кожні 6 місяців (навесні та восени)\n- Регіони з м'яким кліматом: щорічно або за потреби\n- Зони з екстремальними температурами: кожні 3 місяці\n\n**Інтенсивність використання**\n- Вікна, що використовуються щодня: кожні 3-4 місяці\n- Вікна, що використовуються час від часу: кожні 6 місяців\n- Вікна, які рідко відкривають: щорічно\n- Вікна, які відкривають дуже часто: кожні 2-3 місяці\n\n**Вік та стан вікон**\n- Нові вікна (0-5 років): кожні 6-12 місяців\n- Вікна віком 5-15 років: кожні 3-6 місяців\n- Старі вікна (понад 15 років): кожні 2-3 місяці\n- Вікна після нещодавнього обслуговування: згідно з рекомендаціями майстра",
+          "tips": [
+            "Ведіть журнал обслуговування, щоб відстежувати графік регулювань",
+            "Налаштуйте сезонні нагадування для перевірки вікон",
+            "Щодня стежте за роботою вікон, щоб вчасно виявляти проблеми"
+          ]
+        },
+        {
+          "id": "seasonal-adjustment-schedule",
+          "title": "Графік сезонного регулювання",
+          "content": "**Весняне налаштування (березень-квітень)**\n- Перевірка на наявність пошкоджень та просідання після зими\n- Налаштування для потреб інтенсивнішого провітрювання\n- Змащування петель та фурнітури після зимового періоду\n- Тестування всіх запірних механізмів\n- Адаптація до весняних погодних умов\n\n**Підготовка до літа (травень-червень)**\n- Регулювання з урахуванням теплового розширення\n- Перевірка герметичності для ефективної роботи кондиціонера\n- Перевірка дренажних отворів перед сезоном дощів\n- Оптимізація режимів провітрювання\n- Огляд та регулювання москітних сіток\n\n**Підготовка до осені (вересень-жовтень)**\n- Підготовка до опалювального сезону для максимальної ефективності\n- Регулювання з урахуванням теплового звуження\n- Перевірка ефективності ущільнювача\n- Забезпечення щільного прилягання стулки на зиму\n- Тестування механізмів аварійного відкривання\n\n**Зимове обслуговування (грудень-січень)**\n- Контроль за утворенням криги та конденсату\n- Налаштування для ефективного збереження тепла\n- Перевірка на наявність протягів та продувань\n- Забезпечення правильної роботи за низьких температур\n- Усунення будь-яких проблем, пов'язаних із просіданням конструкції",
+          "callout": "Порада від професіоналів: плануйте регулювання за 2-3 тижні до початку сезону екстремальних температур, щоб забезпечити надійну роботу вікон, коли це найпотрібніше."
+        },
+        {
+          "id": "signs-need-adjustment",
+          "title": "Ознаки того, що вашим вікнам потрібне регулювання",
+          "content": "**Потрібне негайне регулювання**\n- Важко відкривати чи закривати стулку\n- Видно щілини у закритому положенні\n- Відчуваються протяги або продування\n- Протікання води під час дощу\n- Сторонні звуки (скрип, клацання) під час руху стулки\n- Замки закриваються нещільно або із зусиллям\n\n**Ознаки для профілактичного регулювання**\n- Невеликий опір при відкриванні/закриванні\n- Незначне порушення геометрії стулки\n- Зміна роботи вікна залежно від сезону\n- Зростання рахунків за опалення чи кондиціонування\n- Конденсат всередині склопакета\n- Помітне зношення ущільнювача\n\n**Аварійні ситуації**\n- Вікно не закривається до кінця\n- Несправність запірних механізмів (фурнітури)\n- Склопакет хитається в рамі\n- Деформація або тріщини в рамі чи стулці\n- Поломка або руйнування елементів фурнітури",
+          "warning": "Застереження: ніколи не намагайтеся силою закрити вікно, яке погано працює. Це може призвести до остаточної поломки механізму та рами."
+        },
+        {
+          "id": "diy-vs-professional",
+          "title": "Самостійне регулювання чи виклик майстра?",
+          "content": "**Що можна зробити самостійно**\n- Змащування петель та рухомих частин фурнітури\n- Незначне підтягування гвинтів кріплення\n- Заміна зношеного ущільнювача\n- Прості виправлення геометрії стулки\n- Чищення фурнітури та дренажних каналів\n\n**Коли потрібен професіонал**\n- Вирівнювання геометрії рами чи стулки\n- Заміна елементів фурнітури\n- Налаштування сили притиску стулки\n- Складне калібрування механізмів\n- Виправлення структурних деформацій\n- Роботи, що покриваються гарантією\n\n**Інструменти для самостійного регулювання**\n- Набір викруток (хрестова та пласка)\n- Набір шестигранних ключів (зазвичай 4 мм)\n- Силіконове мастило у спреї\n- Будівельний рівень для перевірки геометрії\n- Рулетка\n- Засоби для чищення (ганчірки, щітки)",
+          "benefits": [
+            "Професійне налаштування має триваліший ефект",
+            "Збереження гарантії на вікна",
+            "Точна діагностика першопричин несправності",
+            "Використання спеціалізованих інструментів та досвіду",
+            "Безпека та відповідальність за виконану роботу"
+          ]
+        }
+      ],
+      "conclusion": "Регулярне обслуговування вікон — це невелика інвестиція, яка окупиться комфортом, економією на комунальних платежах та довговічністю конструкцій. Дотримуючись сезонного графіка та вчасно реагуючи на перші ознаки несправностей, ви зможете підтримувати бездоганну роботу своїх вікон десятиліттями. Якщо маєте сумніви, звертайтеся до професіоналів, які нададуть експертну оцінку та виконають якісне налаштування.",
       "ctaSection": {
-        "title": "Професійні Послуги Регулювання Вікон",
-        "description": "Наші сертифіковані техніки надають комплексні послуги регулювання вікон з гарантованими результатами.",
+        "title": "Професійні послуги з регулювання вікон",
+        "description": "Наші сертифіковані майстри надають повний комплекс послуг з регулювання вікон з гарантією результату. Заплануйте сезонне обслуговування вже сьогодні.",
         "benefits": [
-          "Сертифіковані спеціалісти з регулювання вікон",
-          "Доступні пакети сезонного регулювання",
-          "Аварійні послуги регулювання",
-          "Гарантія на всі роботи з регулювання"
+          "Сертифіковані фахівці з регулювання вікон",
+          "Доступні пакети сезонного обслуговування",
+          "Терміновий виклик майстра у разі потреби",
+          "Гарантія на всі виконані роботи"
         ]
-      }
+      },
+      "faq": [
+        {
+          "question": "Як зрозуміти, що моїм вікнам потрібне регулювання?",
+          "answer": "Основні ознаки: труднощі при відкриванні/закриванні, протяги, видимі щілини, сторонні звуки або нещільне закривання замків. Якщо ви помітили будь-яку з цих проблем, час звернутися до фахівця."
+        },
+        {
+          "question": "Чи можу я відрегулювати вікна самостійно?",
+          "answer": "Прості операції, як-от змащування петель чи підтягування гвинтів, можна виконати самостійно. Однак складніші роботи — вирівнювання рами, заміну фурнітури чи налаштування притиску — варто довірити професіоналам."
+        },
+        {
+          "question": "Скільки коштує професійне регулювання вікон?",
+          "answer": "Вартість професійного регулювання зазвичай становить 300-800 грн за одне вікно, залежно від складності робіт. Часто компанії пропонують знижки на обслуговування кількох вікон або пакетні пропозиції."
+        }
+      ]
     }
   },
   "components": [

@@ -145,81 +145,250 @@
       ]
     },
     "lt": {
-      "title": "Langų Saugumas ir Apsauga: Namų ir Šeimos Apsauga nuo Įsilauzimų",
-      "excerpt": "Langai dažnai yra silpniausias saugumo taškas namuose, sudarantis 23% įsilauzimų. Sužinokite apie pažangias saugumo technologijas ir apsaugos strategijas.",
+      "title": "Langų saugumo gidas: apsaugokite savo namus ir šeimą nuo įsilaužėlių",
+      "excerpt": "Langai – dažnai silpniausia namų vieta, per kurią įvykdoma net 23 % įsilaužimų. Sužinokite apie pažangias saugumo technologijas, apsaugos priemones ir strategijas, kurios pavers jūsų langus iš pažeidžiamumo šaltinio į patikimą saugumo barjerą.",
       "featuredImage": "/images/smart-technology-og.webp",
-      "featuredImageAlt": "Saugumo užraktai, daugiataškė užrakto sistema",
-      "introduction": "Namų saugumas prasideda nuo langų. Nors jie suteikia natūralų apšvietimą, vėdinimą ir vaizdus, langai taip pat gali būti pažeidžiamiausiai įėjimo taškai įsilauzėliams. Statistikos duomenimis, 23% visų įsilauzimų įvyksta per langus, todėl jų apsauga yra kritinė namų saugumo dalis.",
+      "featuredImageAlt": "Saugios spynos, kelių taškų rakinimo sistema",
+      "introduction": "Namų saugumas prasideda nuo langų. Nors jie suteikia natūralią šviesą, vėdinimą ir vaizdą, langai taip pat gali tapti pažeidžiamiausia vieta įsilaužėliams. Lietuvos statistika rodo, kad net 23 % įsilaužimų įvykdoma būtent per langus, todėl investicija į tinkamą langų apsaugą – tai ne tik turto, bet ir šeimos saugumo bei ramybės garantas. Šiuolaikinės langų saugumo technologijos siūlo pažangius sprendimus, kurie išlaiko estetišką išvaizdą ir kartu užtikrina tvirtą apsaugą nuo bandymų įsilaužti.",
       "sections": [
         {
-          "id": "saugumo-gresmes",
-          "title": "Pagrindinės Saugumo Grėsmės ir Rizikos",
-          "content": "**Įsilauzimų Statistika ir Tendencijos**\n\n**Dažniausi Įsilauzimų Būdai**\n- 23% įsilauzimų įvyksta per langus\n- 34% įsilauzėlių naudoja jėgą langams atidaryti\n- 81% įsilauzimų trunka mažiau nei 10 minučių\n- Daugiausiai įsilauzimų įvyksta dienos metu (10-15 val.)\n\n**Pažeidžiamiausios Vietos**\n- Pirmo aukšto langai, ypač užpakalinėje dalyje\n- Langai šalia durų ar kitų įėjimų\n- Slėptuvėse esantys langai (krūmai, tvoreliai)\n- Rūsio ir pusiau požemio langai\n- Lengvai pasiekiami aukštesnių aukštų langai\n\n**Rizikos Veiksniai**\n- Seni ar silpni langų rėmai\n- Vieno stiklo langai\n- Paprastos užrakto sistemos\n- Nepakankamas apšvietimas aplink langus\n- Trūkstamas saugumo sistemų integravimas"
+          "id": "security-glass-technologies",
+          "title": "Pažangios saugaus stiklo technologijos",
+          "content": "**Laminuotas saugus stiklas**\n\n**Konstrukcija ir savybės**\n- Keli stiklo sluoksniai, sujungti PVB (polivinilbutiralio) tarpsluoksniu\n- Sudaužytas išlaiko savo struktūrą\n- Stiklo šukės lieka prilipusios prie tarpsluoksnio\n- Galimi įvairūs storiai (nuo 6,4 mm iki 19 mm+)\n- Atitinka Europos saugumo standartą EN 356\n\n**Saugumo klasifikacijos**\n- **P1A-P3A**: Bazinė apsauga nuo smūgių rankiniais įrankiais\n- **P4A-P5A**: Sustiprinta apsauga nuo įrankių\n- **P6B-P8B**: Maksimali apsauga nuo elektrinių įrankių\n- **BR1-BR7**: Atsparumo kulkoms klasės ypatingam saugumui\n\n**Grūdintas saugus stiklas**\n- 4–5 kartus tvirtesnis už standartinį stiklą\n- Dūžta į smulkias, nepavojingas šukes\n- Staigūs temperatūrų pokyčiai nekenkia tvirtumui\n- Puikiai tinka pirmo aukšto ir lengvai pasiekiamiems langams\n\n**Daugiasluoksnės saugumo sistemos**\n- Laminuoto ir grūdinto stiklo derinys\n- Polikarbonato tarpsluoksniai maksimaliam tvirtumui\n- Smūgiams atsparūs išoriniai sluoksniai\n- Papildoma nauda – garso izoliacija\n\n**Išmaniojo stiklo saugumo funkcijos**\n- Elektrochrominis stiklas su privatumo valdymu\n- Į stiklo konstrukciją integruotos signalizacijos sistemos\n- Slėgiui jautrios aptikimo sistemos\n- Nuotolinio stebėjimo galimybės",
+          "benefits": [
+            "Uždelia įsilaužimą 3–15 minučių",
+            "Užtikrina matomumą ir apsaugą vienu metu",
+            "Sumažina triukšmą iki 40 dB",
+            "Apsauga nuo UV spindulių neleidžia išblukti interjerui"
+          ]
         },
         {
-          "id": "saugumo-technologijos",
-          "title": "Pažangios Saugumo Technologijos",
-          "content": "**Fizinės Apsaugos Priemonės**\n\n**Saugumo Stiklas**\n- Grūdintas stiklas: 4-5 kartus stipresnis už įprastą\n- Laminuotas stiklas: sluoksniuota struktūra apsunkina pramušimą\n- Bullet-resistant stiklas: maksimalus atsparumas\n- Smart stiklas: keičia skaidrumą pagal poreikį\n\n**Užrakto Sistemos**\n- Daugiataškės užrakto sistemos\n- Biometriniai užraktai\n- Elektroniniai užraktai su nuotoliniu valdymu\n- Anti-drill ir anti-pick technologijos\n\n**Elektroninės Sistemos**\n\n**Jutikliai ir Signalizacija**\n- Vibracijos jutikliai stikle\n- Magnetiniai kontaktai rėmuose\n- Infraraudonųjų spindulių barjerai\n- Garso ir judesio detektoriai\n- Integruotos kameros su naktinio matymo funkcija\n\n**Išmanioji Integracija**\n- Prisijungimas prie namų automatizacijos sistemų\n- Mobiliojo telefono programos valdymui\n- Debesų technologijų stebėjimas\n- AI pagrįstas grėsmių atpažinimas"
+          "id": "reinforced-frames-hardware",
+          "title": "Sustiprinti rėmai ir saugumo apkaustai",
+          "content": "**Rėmų stiprinimo technologijos**\n\n**Plienu sustiprinti profiliai**\n- PVC profilių viduje esantis plieno sutvirtinimas\n- Apsaugo rėmą nuo deformacijos veikiant jėga\n- Išlaiko konstrukcijos vientisumą bandant įsilaužti\n- Suderinami su standartinio dizaino langais\n\n**Kelių taškų rakinimo sistemos**\n- 3–7 rakinimo taškai per visą lango perimetrą\n- Paskirsto jėgą visam rėmui\n- Apsaugo nuo bandymų išlaužti langą\n- Galimos rankinės ir automatinės versijos\n\n**Saugumo apkaustų komponentai**\n\n**Aukšto saugumo spynos**\n- Nuo pragręžimo apsaugoti cilindrai su grūdinto plieno kaiščiais\n- Nuo atrakinimo visrakčiu apsaugoti mechanizmai\n- Raktų kontrolės sistemos, ribojančios kopijavimą\n- Avarinio atrakinimo galimybės\n\n**Sustiprinti vyriai**\n- Paslėpti vyriai apsaugo nuo prieigos iš išorės\n- Apsaugos nuo iškėlimo mechanizmai\n- Nerūdijančio plieno konstrukcija\n- Atlaiko 150 kg+ apkrovą\n\n**Saugios rankenos ir mechanizmai**\n- Rakinamos rankenos su raktu\n- Apsauginės plokštelės nuo pragręžimo\n- Grybo formos kaiščiai sustiprintam saugumui\n- Integruotos vaikų saugos funkcijos\n\n**Perimetro saugumo elementai**\n- Saugūs stiklajuosčių tvirtinimai (iš vidaus)\n- Apsaugos nuo išlaužimo juostos\n- Sustiprintos kampinės jungtys\n- Smūgiams atsparios sandarinimo tarpinės",
+          "callout": "Profesionalus montavimas yra būtinas: net ir geriausi saugumo apkaustai yra veiksmingi tik tada, kai yra tinkamai sumontuoti. Netinkamas montavimas gali sumažinti saugumo efektyvumą iki 70 %."
         },
         {
-          "id": "apsaugos-strategijos",
-          "title": "Visapusiškos Apsaugos Strategijos",
-          "content": "**Sluoksniuotos Apsaugos Principas**\n\n**Pirmas Sluoksnis: Prevencija**\n- Gerai apšviesti namų perimetrai\n- Saugumo kamerų matomumas\n- Įspėjamieji saugumo ženklai\n- Kraštovaizdžio dizainas, apsunkinantis priėjimą\n\n**Antras Sluoksnis: Aptikimas**\n- Judesio jutikliai aplink langus\n- Perimetro apsaugos sistemos\n- Garso ir vibracijos detektoriai\n- 24/7 stebėjimo sistemos\n\n**Trečias Sluoksnis: Atsakas**\n- Automatinis pranešimas saugumo tarnyboms\n- Garsinė ir šviesinė signalizacija\n- Nuotolinis sistemų valdymas\n- Greitojo reagavimo protokolai\n\n**Ketvirtis Sluoksnis: Atkūrimas**\n- Draudimo padengimas saugumo sistemoms\n- Greitasis remonto ir atstatymo planas\n- Duomenų atsarginės kopijos\n- Incidento analizė ir sistemų tobulinimas"
+          "id": "smart-security-systems",
+          "title": "Išmaniosios langų saugumo sistemos",
+          "content": "**Integruotos išmaniosios technologijos**\n\n**Langų jutikliai ir signalizacija**\n- Magnetiniai kontaktiniai jutikliai, reaguojantys į atidarymą\n- Vibracijos jutikliai, reaguojantys į smūgius\n- Stiklo dūžio jutikliai su akustiniu atpažinimu\n- Belaidis ryšys su namų apsaugos sistema\n\n**Išmaniosios rakinimo sistemos**\n- Spynos, valdomos išmaniuoju telefonu\n- Biometrinė prieiga (pirštų atspaudų / veido atpažinimas)\n- Laikini prieigos kodai aptarnaujančiam personalui\n- Nuotolinio stebėjimo ir valdymo galimybės\n\n**Automatizuotos saugumo funkcijos**\n- Nuo judesio įsijungiantis apsauginis apšvietimas\n- Automatinis užrakinimas išeinant iš namų\n- Integracija su namų automatizavimo sistemomis\n- Avarinio užrakinimo galimybės\n\n**Stebėjimas ir pranešimai**\n- Pranešimai į išmanųjį telefoną realiuoju laiku\n- Saugumo įvykių vaizdo įrašymas\n- Saugumo įrašų saugojimas debesijoje\n- Integracija su profesionaliomis saugos tarnybomis\n\n**Pažangios aptikimo sistemos**\n\n**Termovizinė integracija**\n- Šilumos pėdsakų aptikimas aplink langus\n- Žmonių ir gyvūnų atskyrimas\n- Oro sąlygoms atsparūs lauko jutikliai\n- Integracija su esamomis vaizdo stebėjimo kameromis\n\n**Dirbtiniu intelektu (DI) pagrįsta analizė**\n- Elgesio modelių atpažinimas\n- Klaidingų pavojaus signalų mažinimo algoritmai\n- Prognozuojamas saugumo vertinimas\n- Besimokančios sistemos tikslumui didinti",
+          "tips": [
+            "Rinkitės sistemas, suderinamas su jūsų turimomis išmaniųjų namų platformomis",
+            "Užtikrinkite atsarginį maitinimo šaltinį nepertraukiamam veikimui",
+            "Reguliarūs programinės įrangos atnaujinimai palaiko aukštą saugumo lygį"
+          ]
+        },
+        {
+          "id": "child-safety-features",
+          "title": "Vaikų saugumas ir šeimos apsauga",
+          "content": "**Vaikų saugos mechanizmai**\n\n**Varstymo ribojimo sistemos**\n- Atvertimo prieš atidarymą mechanizmai neleidžia lango atidaryti plačiai\n- Reguliuojami atidarymo ribotuvai (standartiškai iki 100 mm)\n- Raktu valdomi ribotuvai tėvų kontrolei\n- Avarinio atlaisvinimo mechanizmai gaisro atveju\n\n**Saugaus stiklo reikalavimai**\n- Grūdintas arba laminuotas stiklas pavojingose zonose\n- Smūgiams atsparios medžiagos žaidimų zonose\n- Užapvalinti kraštai ir kampai\n- Saugos plėvelės klijavimas ant esamų langų\n\n**Apsaugos nuo iškritimo technologijos**\n- Apsauginės langų grotelės ir užtvarai\n- Nuimami apsauginiai tinkleliai\n- Integruoti užraktai nuo vaikų\n- Vizualūs užrakto būsenos indikatoriai\n\n**Saugumo priemonės nenumatytiems atvejams**\n\n**Atitiktis priešgaisrinės saugos reikalavimams**\n- Lengvo atidarymo mechanizmai avariniam išėjimui\n- Aiškios naudojimo instrukcijos\n- Tamsoje švytintys apkaustai\n- Greito atlaisvinimo sistemos gelbėjimo tarnyboms\n\n**Pritaikymas įvairiems poreikiams**\n- Lengvas valdymas, pritaikytas vyresnio amžiaus žmonėms\n- Didelės, patogios suimti rankenos\n- Vizualūs ir liečiamieji valdymo indikatoriai\n- Automatizuoto valdymo galimybės\n\n**Šeimos saugumo taisyklės**\n- Šeimos narių mokymas, kaip teisingai naudotis langų apsauga\n- Reguliarus saugos mechanizmų tikrinimas\n- Veiksmų plano nenumatytiems atvejams sudarymas\n- Saugos elementų priežiūros grafikas",
+          "warning": "DĖMESIO: Niekada neaukokite avarinio išėjimo galimybės dėl saugumo. Visos saugumo priemonės privalo užtikrinti greitą evakuaciją gaisro ar kito pavojaus atveju, kartu išlaikant apsaugą nuo įsilaužimo."
+        },
+        {
+          "id": "security-assessment-planning",
+          "title": "Saugumo vertinimas ir planavimas",
+          "content": "**Namų saugumo pažeidžiamumo vertinimas**\n\n**Rizikos veiksnių analizė**\n- Pirmo aukšto ir lengvai pasiekiami langai\n- Langai, nematomi iš gatvės ar kaimynams\n- Arti esantys vertingi daiktai ar įėjimo durys\n- Kaimynystės nusikalstamumo statistika\n- Esamų apsaugos sistemų integravimo galimybės\n\n**Prioritetinių langų nustatymas**\n- **Aukštas prioritetas**: Pirmo aukšto, rūsio, lengvai pasiekiami kitų aukštų langai\n- **Vidutinis prioritetas**: Antro aukšto langai šalia medžių ar pastatų\n- **Žemas prioritetas**: Aukštesnių aukštų langai be prieigos kelių\n- **Ypatingas dėmesys**: Langai šalia signalizacijos pultų ar seifų\n\n**Daugiasluoksnis saugumo principas**\n\n**Perimetro apsauga**\n- Kraštovaizdžio formavimas, siekiant pašalinti slėptuves\n- Nuo judesio įsijungiantis apšvietimas\n- Vaizdo kameros, stebinčios langus\n- Matomi apsaugos ženklai ir lipdukai\n\n**Specifinė langų apsauga**\n- Tinkamo tipo stiklas pagal grėsmės lygį\n- Saugumo reikalavimus atitinkantys apkaustai\n- Integracija su namų apsaugos sistemomis\n- Reguliari priežiūra ir testavimo tvarka\n\n**Vidaus saugumo priemonės**\n- Langų uždangalai privatumui užtikrinti\n- Vertingų daiktų laikymas toliau nuo langų\n- Vidaus judesio jutikliai kaip papildoma apsauga\n- Saugūs kambariai ar zonos\n\n**Profesionali saugumo konsultacija**\n- Sertifikuotas saugumo vertinimas\n- Atitiktis draudimo bendrovių reikalavimams\n- Vietos nusikalstamumo tendencijų analizė\n- Individualiai pritaikytos saugumo rekomendacijos\n\n**Biudžeto planavimas ir diegimas etapais**\n- Atnaujinimo darbų planavimas pagal prioritetus\n- Kiekvieno lango kaštų ir naudos analizė\n- Saugumo sprendimų finansavimo galimybės\n- Galimybė gauti nuolaidą draudimui",
+          "benefits": [
+            "Visapusiška apsaugos strategija",
+            "Optimaliai paskirstytos investicijos į saugumą",
+            "Atitiktis draudimo reikalavimams ir nuolaidos",
+            "Ramybė dėl šeimos saugumo"
+          ]
         }
       ],
-      "conclusion": "Langų saugumas yra kritinis išsamios namų apsaugos komponentas, reikalaujantis kruopštaus planavimo, kokybės produktų ir profesionalaus montažo. Sluoksniuotos apsaugos principas, derinantis fizinius ir elektroninius sprendimus, užtikrina maksimalų saugumą.",
+      "conclusion": "Langų saugumas – tai esminė visapusiškos namų apsaugos dalis, reikalaujanti kruopštaus planavimo, kokybiškų produktų ir profesionalaus montavimo. Derindami pažangias stiklo technologijas, sustiprintus apkaustus, išmaniąsias sistemas ir tinkamas saugos priemones, galite paversti savo langus iš potencialios grėsmės į tvirtą saugumo užtvarą. Atminkite, kad efektyvus langų saugumas suderina apsaugą ir funkcionalumą, užtikrindamas jūsų šeimos saugumą ir išsaugodamas namų jaukumą bei estetiką. Investuokite į profesionalų vertinimą ir kokybiškus produktus – jūsų šeimos saugumas to vertas.",
       "ctaSection": {
-        "title": "Apsaugokite Namus su Profesianaliu Langų Saugumu",
-        "description": "Apsaugokite šeimą ir turtą su mūsų išsamiais langų saugumo sprendimais.",
+        "title": "Apsaugokite savo namus su profesionaliais langų saugumo sprendimais",
+        "description": "Apsaugokite savo šeimą ir turtą pasitelkdami mūsų visapusiškus langų saugumo sprendimus. Nuo saugaus stiklo iki išmaniųjų rakinimo sistemų – siūlome pilną apsaugą, pritaikytą jūsų poreikiams.",
         "benefits": [
           "Profesionalus saugumo vertinimas",
           "Pažangios saugumo technologijos",
-          "Eksperto montažas ir testavimas",
-          "Nuolatinė priežiūra ir palaikymas"
+          "Profesionalus montavimas ir testavimas",
+          "Nuolatinė priežiūra ir pagalba"
         ]
       },
       "faq": [
         {
-          "question": "Kiek kainuoja langų saugumo sistemų įrengimas?",
-          "answer": "Saugumo sistemų kaina priklauso nuo sudėtingumo: paprasti sprendimai nuo €200-500 už langą, pažangūs sistemai €1000-3000. Investicija atsipirks saugumu ir draudimo nuolaidomis."
+          "question": "Kiek veiksmingas yra saugus stiklas nuo įsilaužimų?",
+          "answer": "Kokybiškas laminuotas saugus stiklas gali atitolinti bandymą įsilaužti 3–15 minučių. Dažnai to pakanka, kad atbaidytų nusikaltėlius ir spėtų suveikti apsaugos sistemos. P4A klasės stiklas atlaiko ilgesnius bandymus įveikti jį rankiniais įrankiais, o aukštesnės klasės stiklai yra atsparūs ir elektriniams įrankiams."
+        },
+        {
+          "question": "Ar galima saugumo elementus įdiegti į jau esamus langus?",
+          "answer": "Taip, galima atlikti daug saugumo patobulinimų: klijuoti saugos plėvelę, pakeisti spynas ir apkaustus į saugesnius, įdiegti išmaniuosius jutiklius. Vis dėlto, siekiant maksimalios apsaugos, efektyviausi yra specialiai pagaminti saugūs langai."
+        },
+        {
+          "question": "Ar saugūs langai neapsunkina avarinio išėjimo?",
+          "answer": "Tinkamai suprojektuoti saugūs langai užtikrina avarinio išėjimo galimybę naudojant greito atlaisvinimo mechanizmus, avarinius raktus ar automatizuotas sistemas. Visi saugumo sprendimai privalo atitikti priešgaisrinės saugos reikalavimus ir neužkirsti kelio evakuacijai."
+        },
+        {
+          "question": "Kokia yra investicijų į langų saugumą grąža?",
+          "answer": "Be neįkainojamos naudos – šeimos saugumo – saugūs langai gali 5–20 % sumažinti draudimo įmokas, padidinti nekilnojamojo turto vertę ir apsaugoti nuo didelių nuostolių vagystės atveju. Daugeliu atvejų investicija atsiperka vien dėl sutaupytų draudimo išlaidų ir įgytos ramybės."
         }
       ]
     },
     "pl": {
-      "title": "Bezpieczeństwo Okien: Ochrona Domu i Rodziny przed Włamaniami",
-      "excerpt": "Okna są często najsłabszym punktem bezpieczeństwa w domach, stanowiąc 23% włamań. Poznaj zaawansowane technologie bezpieczeństwa i strategie ochrony.",
+      "title": "Przewodnik po bezpieczeństwie okien: Chroń swój dom i rodzinę przed włamaniem",
+      "excerpt": "Okna to często najsłabszy punkt w zabezpieczeniach domu, przez który dochodzi do 23% włamań. Poznaj zaawansowane technologie, funkcje bezpieczeństwa i strategie ochrony, które zmienią Twoje okna z potencjalnego zagrożenia w solidną barierę antywłamaniową.",
       "featuredImage": "/images/smart-technology-og.webp",
-      "featuredImageAlt": "Zamki bezpieczeństwa, wielopunktowy system zamkowy",
-      "introduction": "Bezpieczeństwo domu zaczyna się od okien. Chociaż zapewniają naturalne światło, wentylację i widoki, okna mogą być również najbardziej podatnymi punktami wejścia dla intruzów.",
-      "conclusion": "Bezpieczeństwo okien to krytyczny komponent kompleksowej ochrony domu, wymagający starannego planowania, wysokiej jakości produktów i profesjonalnej instalacji.",
+      "featuredImageAlt": "Zamki antywłamaniowe, wielopunktowy system ryglowania",
+      "introduction": "Bezpieczeństwo domu zaczyna się od okien. Choć zapewniają naturalne światło, wentylację i piękne widoki, mogą być również najłatwiejszą drogą dla włamywaczy. W Polsce, gdzie według statystyk policyjnych aż 23% włamań do domów odbywa się przez okna, inwestycja w odpowiednie zabezpieczenia to nie tylko ochrona mienia – to przede wszystkim gwarancja bezpieczeństwa i spokoju ducha dla całej rodziny. Nowoczesne technologie antywłamaniowe oferują zaawansowane rozwiązania, które łączą estetykę z solidną ochroną przed próbami wtargnięcia.",
+      "sections": [
+        {
+          "id": "security-glass-technologies",
+          "title": "Nowoczesne technologie szkła antywłamaniowego",
+          "content": "**Szkło bezpieczne laminowane**\n\n**Budowa i właściwości**\n- Wiele warstw szkła połączonych folią PVB (poliwynylobutyralową)\n- Zachowuje integralność strukturalną nawet po rozbiciu\n- Odłamki szkła pozostają przyklejone do folii\n- Dostępne w różnych grubościach (od 6,4 mm do 19 mm+)\n- Spełnia europejskie normy bezpieczeństwa EN 356\n\n**Klasy odporności na włamanie**\n- **P1A-P3A**: Podstawowa ochrona przed atakiem ręcznym (np. kopnięcie, uderzenie kamieniem)\n- **P4A-P5A**: Zwiększona ochrona przed użyciem narzędzi (np. młotek, siekiera)\n- **P6B-P8B**: Maksymalna ochrona przed atakiem z użyciem elektronarzędzi\n- **BR1-BR7**: Klasy kuloodporności dla zapewnienia najwyższego poziomu bezpieczeństwa\n\n**Bezpieczne szkło hartowane**\n- 4-5 razy bardziej wytrzymałe niż standardowe szkło\n- W przypadku rozbicia pęka na małe, nieostre kawałki\n- Odporne na gwałtowne zmiany temperatury\n- Idealne do okien na parterze i łatwo dostępnych z zewnątrz\n\n**Wielowarstwowe pakiety szybowe**\n- Połączenie szkła laminowanego i hartowanego\n- Warstwy z poliwęglanu dla maksymalnej wytrzymałości\n- Zewnętrzne warstwy odporne na uderzenia\n- Dodatkowa korzyść w postaci tłumienia hałasu\n\n**Inteligentne szkło z funkcjami bezpieczeństwa**\n- Szkło elektrochromowe z funkcją kontroli prywatności\n- Zintegrowane czujniki alarmowe w strukturze szyby\n- Systemy wykrywające nacisk na powierzchnię szkła\n- Możliwość zdalnego monitoringu",
+          "benefits": [
+            "Opóźnia próbę włamania o 3-15 minut",
+            "Zapewnia ochronę przy zachowaniu pełnej przejrzystości",
+            "Redukuje hałas z zewnątrz nawet o 40 dB",
+            "Ochrona przed promieniowaniem UV zapobiega blaknięciu wnętrz"
+          ]
+        },
+        {
+          "id": "reinforced-frames-hardware",
+          "title": "Wzmocnione ramy i okucia antywłamaniowe",
+          "content": "**Technologie wzmacniania ram okiennych**\n\n**Profile wzmacniane stalą**\n- Wewnętrzne wzmocnienia stalowe w profilach PVC\n- Zapobiegają odkształceniu ramy pod wpływem siły\n- Utrzymują integralność konstrukcji podczas próby włamania\n- Kompatybilne ze standardowymi konstrukcjami okien\n\n**Wielopunktowe systemy ryglowania**\n- 3-7 punktów ryglowania na obwodzie okna\n- Rozkładają siłę nacisku na całą ramę\n- Uniemożliwiają wyważenie skrzydła\n- Dostępne w wersjach manualnych i automatycznych\n\n**Elementy okuć antywłamaniowych**\n\n**Zamki o wysokiej odporności**\n- Wkładki bębenkowe odporne na przewiercenie, z hartowanymi pinami\n- Mechanizmy odporne na manipulację (picking)\n- Systemy klucza z ochroną przed nieautoryzowanym kopiowaniem\n- Funkcje awaryjnego otwierania\n\n**Wzmocnione zawiasy**\n- Ukryte zawiasy uniemożliwiają dostęp z zewnątrz\n- Mechanizmy antywyważeniowe\n- Konstrukcja ze stali nierdzewnej\n- Nośność powyżej 150 kg\n\n**Klamki i mechanizmy antywłamaniowe**\n- Klamki zamykane na klucz\n- Tarcze i szyldy antyrozwierceniowe\n- Zaczepy grzybkowe dla zwiększenia bezpieczeństwa\n- Zintegrowane funkcje bezpieczeństwa dla dzieci\n\n**Zabezpieczenia obwodowe**\n- Listwy przyszybowe montowane od wewnątrz\n- Listwy antywyważeniowe\n- Wzmocnione połączenia narożników\n- Odporne na uszkodzenia uszczelki",
+          "callout": "Kluczowy jest profesjonalny montaż: Nawet najlepsze okucia antywłamaniowe są skuteczne tylko wtedy, gdy są prawidłowo zamontowane. Błędy w montażu mogą obniżyć ich skuteczność nawet o 70%."
+        },
+        {
+          "id": "smart-security-systems",
+          "title": "Inteligentne systemy zabezpieczeń okiennych",
+          "content": "**Zintegrowane technologie smart**\n\n**Czujniki i alarmy okienne**\n- Czujniki kontaktronowe (magnetyczne) wykrywające otwarcie\n- Czujniki wibracyjne wykrywające uderzenie\n- Czujniki zbicia szyby z rozpoznawaniem akustycznym\n- Bezprzewodowa łączność z domowym systemem alarmowym\n\n**Inteligentne systemy zamykania**\n- Zamki sterowane smartfonem\n- Dostęp biometryczny (odcisk palca/rozpoznawanie twarzy)\n- Tymczasowe kody dostępu dla personelu serwisowego\n- Możliwość zdalnego monitoringu i sterowania\n\n**Zautomatyzowane funkcje bezpieczeństwa**\n- Oświetlenie aktywowane ruchem\n- Automatyczne ryglowanie okien po wyjściu z domu\n- Integracja z systemami automatyki domowej\n- Funkcja awaryjnego blokowania wszystkich okien\n\n**Monitoring i powiadomienia**\n- Powiadomienia w czasie rzeczywistym na smartfona\n- Nagrywanie wideo w przypadku zdarzenia alarmowego\n- Przechowywanie nagrań w chmurze\n- Integracja z profesjonalnymi agencjami ochrony\n\n**Zaawansowane systemy detekcji**\n\n**Integracja z termowizją**\n- Wykrywanie sygnatur cieplnych w pobliżu okien\n- Rozróżnianie ludzi od zwierząt\n- Zewnętrzne czujniki odporne na warunki atmosferyczne\n- Integracja z istniejącym systemem monitoringu wizyjnego\n\n**Analityka oparta na sztucznej inteligencji (AI)**\n- Rozpoznawanie wzorców zachowań\n- Algorytmy redukujące fałszywe alarmy\n- Predykcyjna ocena zagrożeń\n- Zdolność uczenia się w celu poprawy dokładności",
+          "tips": [
+            "Wybieraj systemy kompatybilne z istniejącą platformą inteligentnego domu",
+            "Zapewnij zasilanie awaryjne dla ciągłości działania",
+            "Regularne aktualizacje oprogramowania zapewniają wysoki poziom bezpieczeństwa"
+          ]
+        },
+        {
+          "id": "child-safety-features",
+          "title": "Bezpieczeństwo dzieci i ochrona rodziny",
+          "content": "**Mechanizmy bezpieczeństwa dla dzieci**\n\n**Systemy ograniczające otwarcie okna**\n- Mechanizm „najpierw uchył” zapobiega pełnemu otwarciu przez dziecko\n- Regulowane ograniczniki rozwarcia skrzydła (standardowo do 10 cm)\n- Blokady obsługiwane kluczem dla kontroli rodzicielskiej\n- Mechanizmy awaryjnego zwalniania na wypadek pożaru\n\n**Wymogi dotyczące bezpiecznego szkła**\n- Szkło hartowane lub laminowane w strefach krytycznych (np. pokoje dziecięce)\n- Materiały odporne na uderzenia w pobliżu miejsc zabaw\n- Zaokrąglone krawędzie i narożniki\n- Możliwość zastosowania folii bezpiecznej na istniejących oknach\n\n**Technologie zapobiegające wypadnięciu**\n- Kraty lub barierki ochronne\n- Demontowalne siatki bezpieczeństwa\n- Zintegrowane blokady dla dzieci\n- Wizualne wskaźniki statusu zamknięcia\n\n**Funkcje bezpieczeństwa w sytuacjach awaryjnych**\n\n**Zgodność z przepisami przeciwpożarowymi**\n- Mechanizmy umożliwiające łatwe otwarcie jako wyjście ewakuacyjne\n- Czytelne instrukcje obsługi\n- Elementy okuć świecące w ciemności\n- Systemy szybkiego zwalniania dla służb ratunkowych\n\n**Udogodnienia dla użytkowników**\n- Mechanizmy niewymagające dużej siły do obsługi (dla osób starszych)\n- Duże, wygodne klamki\n- Wizualne i dotykowe wskaźniki obsługi\n- Opcje zautomatyzowanego wspomagania otwierania\n\n**Domowe procedury bezpieczeństwa**\n- Edukacja domowników w zakresie prawidłowego użytkowania zabezpieczeń\n- Regularne testowanie mechanizmów bezpieczeństwa\n- Ćwiczenie procedur na wypadek sytuacji awaryjnych\n- Harmonogram konserwacji elementów bezpieczeństwa",
+          "warning": "Nigdy nie ograniczaj możliwości ewakuacji na rzecz bezpieczeństwa. Wszystkie zabezpieczenia muszą umożliwiać szybką ucieczkę w razie pożaru lub innej sytuacji awaryjnej, jednocześnie chroniąc przed włamaniem."
+        },
+        {
+          "id": "security-assessment-planning",
+          "title": "Ocena bezpieczeństwa i planowanie zabezpieczeń",
+          "content": "**Ocena słabych punktów zabezpieczeń domu**\n\n**Analiza czynników ryzyka**\n- Okna na parterze i łatwo dostępne z zewnątrz\n- Okna niewidoczne z ulicy lub od strony sąsiadów\n- Bliskość cennych przedmiotów lub głównych wejść\n- Statystyki przestępczości w okolicy\n- Możliwości integracji z istniejącym systemem alarmowym\n\n**Określenie priorytetów**\n- **Wysoki priorytet**: Parter, piwnica, dostępne okna na piętrze (np. nad garażem)\n- **Średni priorytet**: Okna na piętrze w pobliżu drzew lub innych konstrukcji\n- **Niski priorytet**: Okna na wyższych piętrach bez łatwego dostępu\n- **Szczególna uwaga**: Okna w pobliżu panelu alarmowego lub sejfu\n\n**Warstwowe podejście do bezpieczeństwa**\n\n**Zabezpieczenie obwodowe (perymetryczne)**\n- Projekt ogrodu eliminujący miejsca, w których można się ukryć\n- Oświetlenie aktywowane ruchem\n- Kamery monitoringu obejmujące strefę okien\n- Widoczne oznaczenia o obiekcie chronionym\n\n**Zabezpieczenia dedykowane dla okien**\n- Dobór klasy szyby do poziomu zagrożenia\n- Dopasowanie okuć do wymogów bezpieczeństwa\n- Integracja z domowym systemem alarmowym\n- Regularna konserwacja i testowanie systemów\n\n**Wewnętrzne środki bezpieczeństwa**\n- Osłony okienne zapewniające prywatność (rolety, żaluzje)\n- Umieszczanie cennych przedmiotów z dala od okien\n- Wewnętrzne czujniki ruchu jako dodatkowe zabezpieczenie\n- Pomieszczenia typu „safe room” lub strefy wzmocnione\n\n**Konsultacja z profesjonalnym doradcą**\n- Certyfikowany audyt bezpieczeństwa\n- Weryfikacja zgodności z wymogami ubezpieczyciela\n- Analiza lokalnych metod działania włamywaczy\n- Indywidualnie dopasowane rekomendacje\n\n**Planowanie budżetu i wdrażanie etapami**\n- Harmonogram modernizacji oparty na priorytetach\n- Analiza kosztów i korzyści dla każdego okna\n- Opcje finansowania inwestycji w bezpieczeństwo\n- Możliwość uzyskania zniżki na ubezpieczenie domu",
+          "benefits": [
+            "Kompleksowa strategia ochrony",
+            "Optymalizacja inwestycji w bezpieczeństwo",
+            "Zgodność z wymogami ubezpieczyciela i możliwe zniżki",
+            "Spokój ducha i bezpieczeństwo rodziny"
+          ]
+        }
+      ],
+      "conclusion": "Bezpieczeństwo okien to kluczowy element kompleksowej ochrony domu, który wymaga starannego planowania, wysokiej jakości produktów i profesjonalnego montażu. Łącząc zaawansowane technologie szklarskie, wzmocnione okucia, inteligentne systemy i odpowiednie funkcje bezpieczeństwa, możesz przekształcić swoje okna z potencjalnego zagrożenia w solidną barierę ochronną. Pamiętaj, że skuteczne zabezpieczenie okien to równowaga między ochroną a funkcjonalnością, która zapewnia bezpieczeństwo Twojej rodzinie, nie rezygnując z komfortu i estetyki domu. Zainwestuj w profesjonalną ocenę i sprawdzone produkty – bezpieczeństwo Twojej rodziny jest bezcenne.",
       "ctaSection": {
-        "title": "Zabezpiecz Dom Profesjonalnym Bezpieczeństwem Okien",
-        "description": "Chroń rodzinę i majątek dzięki naszym kompleksowym rozwiązaniom bezpieczeństwa okien.",
+        "title": "Zabezpiecz swój dom dzięki profesjonalnym systemom okiennym",
+        "description": "Chroń swoją rodzinę i mienie dzięki naszym kompleksowym rozwiązaniom antywłamaniowym. Od szyb bezpiecznych po inteligentne systemy zamykania – zapewniamy pełną ochronę dopasowaną do Twoich potrzeb.",
         "benefits": [
           "Profesjonalna ocena bezpieczeństwa",
-          "Zaawansowane technologie bezpieczeństwa",
-          "Ekspercka instalacja i testowanie",
-          "Ciągła konserwacja i wsparcie"
+          "Zaawansowane technologie antywłamaniowe",
+          "Fachowy montaż i testowanie",
+          "Bieżąca konserwacja i wsparcie techniczne"
         ]
-      }
+      },
+      "faq": [
+        {
+          "question": "Jak skuteczne są szyby antywłamaniowe?",
+          "answer": "Wysokiej jakości laminowane szkło antywłamaniowe może opóźnić próbę włamania o 3-15 minut, co często wystarcza, aby odstraszyć przestępcę i umożliwić reakcję systemu alarmowego. Szyba w klasie P4A jest odporna na kilkuminutowy atak z użyciem narzędzi ręcznych, a wyższe klasy chronią nawet przed elektronarzędziami."
+        },
+        {
+          "question": "Czy mogę wzmocnić zabezpieczenia w już zamontowanych oknach?",
+          "answer": "Tak, możliwe jest wprowadzenie wielu ulepszeń, takich jak naklejenie folii antywłamaniowej, wymiana zamków i klamek na antywłamaniowe czy montaż dodatkowych czujników. Jednak dla uzyskania maksymalnej ochrony najskuteczniejsze są specjalistyczne okna antywłamaniowe, zaprojektowane jako spójny system."
+        },
+        {
+          "question": "Czy okna antywłamaniowe utrudniają ewakuację w razie zagrożenia?",
+          "answer": "Prawidłowo zaprojektowane okna antywłamaniowe zapewniają możliwość ewakuacji dzięki mechanizmom szybkiego zwalniania, kluczom awaryjnym lub systemom zautomatyzowanym. Wszystkie zabezpieczenia muszą być zgodne z przepisami przeciwpożarowymi dotyczącymi dróg ewakuacyjnych."
+        },
+        {
+          "question": "Jaki jest zwrot z inwestycji w okna antywłamaniowe?",
+          "answer": "Oprócz bezcennej wartości, jaką jest bezpieczeństwo rodziny, okna antywłamaniowe mogą obniżyć składki ubezpieczeniowe o 5-20%, podnieść wartość nieruchomości i zapobiec kosztownym stratom w wyniku kradzieży. W wielu przypadkach inwestycja zwraca się dzięki oszczędnościom na ubezpieczeniu i zyskanemu poczuciu bezpieczeństwa."
+        }
+      ]
     },
     "uk": {
-      "title": "Безпека Вікон: Захист Дому та Сім'ї від Зламу",
-      "excerpt": "Вікна часто є найслабшою точкою безпеки в будинках, становлячи 23% зламів. Дізнайтеся про передові технології безпеки та стратегії захисту.",
+      "title": "Безпека вікон: як захистити дім та родину від зловмисників",
+      "excerpt": "Вікна — часто найслабше місце в захисті оселі, адже саме через них стається близько 23% зломів. Дізнайтеся про сучасні технології, елементи безпеки та стратегії захисту, що перетворять ваші вікна з вразливої зони на надійний бар'єр.",
       "featuredImage": "/images/smart-technology-og.webp",
-      "featuredImageAlt": "Замки безпеки, багатоточкова система замків",
-      "introduction": "Безпека дому починається з вікон. Хоча вони забезпечують природне освітлення, вентиляцію та види, вікна також можуть бути найуразливішими точками входу для зловмисників.",
-      "conclusion": "Безпека вікон - це критичний компонент комплексного захисту дому, що вимагає ретельного планування, якісних продуктів та професійного монтажу.",
+      "featuredImageAlt": "Захисні замки, багатозапірна система замикання",
+      "introduction": "Безпека дому починається з вікон. Вони дарують нам природне світло, свіже повітря та краєвиди, але водночас можуть стати найвразливішим шляхом для проникнення зловмисників. За статистикою, близько 23% проникнень у житло відбуваються саме через вікна, тому інвестиції в їхній надійний захист — це не лише про збереження майна, а й про безпеку та спокій вашої родини. Сучасні технології дозволяють створити надійні рішення, які не псують естетику вікон, але ефективно протистоять спробам вторгнення.",
+      "sections": [
+        {
+          "id": "security-glass-technologies",
+          "title": "Сучасні технології безпечного скла",
+          "content": "**Ламіноване безпечне скло (триплекс)**\n\n**Конструкція та характеристики**\n- Кілька шарів скла, з'єднаних полівінілбутиральною (ПВБ) плівкою\n- Зберігає цілісність конструкції навіть після розбиття\n- Уламки скла залишаються на плівці\n- Доступна різна товщина (від 6,4 мм до 19 мм і більше)\n- Відповідає європейським стандартам безпеки EN 356\n\n**Класи захисту**\n- **P1A-P3A**: базовий захист від фізичного впливу\n- **P4A-P5A**: посилений захист від інструментів\n- **P6B-P8B**: максимальний захист від електроінструментів\n- **BR1-BR7**: класи кулестійкості для екстремального захисту\n\n**Загартоване безпечне скло**\n- У 4-5 разів міцніше за звичайне скло\n- Розбивається на дрібні уламки з негострими краями\n- Різкі перепади температур не впливають на цілісність\n- Ідеально підходить для вікон на першому поверсі та в легкодоступних місцях\n\n**Багатошарові системи безпеки**\n- Комбінація ламінованого та загартованого скла\n- Полікарбонатні прошарки для максимальної міцності\n- Зовнішні шари, стійкі до ударів\n- Додаткова перевага — покращена звукоізоляція\n\n**Функції безпеки у смарт-склі**\n- Електрохромне скло з функцією контролю приватності\n- Інтегровані в структуру скла датчики сигналізації\n- Системи, що реагують на тиск\n- Можливість дистанційного моніторингу",
+          "benefits": [
+            "Затримує спроби вторгнення на 3-15 хвилин",
+            "Забезпечує захист, не погіршуючи оглядовість",
+            "Знижує рівень шуму до 40 дБ",
+            "Захист від ультрафіолету запобігає вицвітанню інтер'єру"
+          ]
+        },
+        {
+          "id": "reinforced-frames-hardware",
+          "title": "Посилені рами та протизламна фурнітура",
+          "content": "**Технології посилення рам**\n\n**Профілі зі сталевим армуванням**\n- Внутрішнє сталеве армування у ПВХ-профілях\n- Запобігає деформації рами під дією сили\n- Зберігає цілісність конструкції під час атаки\n- Сумісне зі стандартними дизайнами вікон\n\n**Багатозапірні системи замикання**\n- 3-7 точок замикання по периметру вікна\n- Розподіляє навантаження по всій рамі\n- Запобігає спробам відкриття важелем (віджиму)\n- Доступні в ручних та автоматичних версіях\n\n**Компоненти протизламної фурнітури**\n\n**Замки підвищеної надійності**\n- Циліндри із захистом від висвердлювання та штифтами із загартованої сталі\n- Механізми, стійкі до відмичок\n- Системи контролю дублювання ключів\n- Можливість аварійного відкриття\n\n**Посилені петлі**\n- Приховані петлі унеможливлюють доступ ззовні\n- Механізми проти зняття стулки\n- Виготовлені з нержавіючої сталі\n- Витримують навантаження понад 150 кг\n\n**Захисні ручки та механізми**\n- Ручки, що замикаються на ключ\n- Пластини та циліндри із захистом від висвердлювання\n- Грибоподібні цапфи для посиленого захисту\n- Інтегровані функції дитячої безпеки\n\n**Елементи захисту периметра**\n- Протизламні штапики (внутрішнє встановлення)\n- Планки проти віджиму\n- Посилені кутові з'єднання\n- Ударостійкі ущільнювачі",
+          "callout": "Професійний монтаж має вирішальне значення: навіть найкраща фурнітура ефективна лише за умови правильного встановлення. Неякісний монтаж може знизити рівень захисту до 70%."
+        },
+        {
+          "id": "smart-security-systems",
+          "title": "Розумні системи безпеки для вікон",
+          "content": "**Інтегровані смарт-технології**\n\n**Віконні датчики та сигналізація**\n- Магнітні датчики (геркони) для детекції відкриття\n- Вібраційні датчики для детекції ударів\n- Акустичні датчики розбиття скла\n- Бездротове підключення до домашніх систем безпеки\n\n**Розумні системи замикання**\n- Замки, керовані зі смартфона\n- Біометричний доступ (відбиток пальця/розпізнавання обличчя)\n- Тимчасові коди доступу для обслуговуючого персоналу\n- Можливості дистанційного моніторингу та керування\n\n**Автоматизовані функції безпеки**\n- Освітлення, що активується рухом\n- Автоматичне замикання, коли ви йдете з дому\n- Інтеграція з системами домашньої автоматизації\n- Функція екстреного блокування\n\n**Моніторинг та сповіщення**\n- Сповіщення на смартфон у реальному часі\n- Відеозапис подій, пов'язаних із безпекою\n- Хмарне зберігання відеозаписів\n- Інтеграція з професійними службами моніторингу\n\n**Передові системи виявлення**\n\n**Інтеграція з тепловізорами**\n- Виявлення теплових сигнатур біля вікон\n- Розрізнення людей та тварин\n- Всепогодні зовнішні датчики\n- Інтеграція з наявними камерами спостереження\n\n**Аналітика на основі ШІ**\n- Розпізнавання моделей поведінки\n- Алгоритми для зменшення кількості хибних тривог\n- Прогнозна оцінка ризиків безпеки\n- Здатність до самонавчання для підвищення точності",
+          "tips": [
+            "Обирайте системи, сумісні з вашими платформами розумного дому.",
+            "Подбайте про наявність систем резервного живлення для безперебійної роботи.",
+            "Регулярно оновлюйте програмне забезпечення для підтримки ефективності захисту."
+          ]
+        },
+        {
+          "id": "child-safety-features",
+          "title": "Безпека дітей та захист родини",
+          "content": "**Механізми дитячої безпеки**\n\n**Системи обмеження відкривання**\n- Механізми «відкидання перед поворотом» запобігають повному відкриттю\n- Регульовані обмежувачі відкривання (стандарт — 100 мм)\n- Обмежувачі з ключем для батьківського контролю\n- Механізми екстреного розблокування для пожежної безпеки\n\n**Вимоги до безпечного скла**\n- Загартоване або ламіноване скло в критичних зонах\n- Ударостійкі матеріали для ігрових зон\n- Заокруглені краї та кути\n- Нанесення захисної плівки на наявні вікна\n\n**Технології запобігання випаданню**\n- Віконні решітки та захисні бар'єри\n- Знімні захисні екрани\n- Інтегровані «дитячі замки»\n- Візуальні індикатори стану замка\n\n**Функції екстреної безпеки**\n\n**Відповідність нормам пожежної безпеки**\n- Легке відкривання для екстреної евакуації\n- Чіткі інструкції з експлуатації\n- Фурнітура, що світиться в темряві\n- Системи швидкого розблокування для екстрених служб\n\n**Вимоги до доступності**\n- Легке керування для літніх людей\n- Великі ручки, зручні для захоплення\n- Візуальні та тактильні індикатори роботи\n- Опції автоматизованої допомоги\n\n**Правила безпеки для родини**\n- Навчання правильному використанню систем безпеки вікон\n- Регулярна перевірка механізмів безпеки\n- Тренування дій у надзвичайних ситуаціях\n- Графік обслуговування елементів безпеки",
+          "warning": "Увага: Безпека не повинна обмежувати шляхи евакуації. Усі захисні заходи мають забезпечувати можливість швидкого виходу в разі пожежі чи іншої надзвичайної ситуації, зберігаючи при цьому захист від вторгнення."
+        },
+        {
+          "id": "security-assessment-planning",
+          "title": "Оцінка безпеки та планування",
+          "content": "**Оцінка вразливостей вашого житла**\n\n**Аналіз факторів ризику**\n- Вікна на першому поверсі та в легкодоступних місцях\n- Вікна, приховані від сторонніх очей\n- Близькість до цінних речей або точок входу\n- Статистика злочинів у вашому районі\n- Точки інтеграції з наявними системами безпеки\n\n**Визначення пріоритетних вікон**\n- **Високий пріоритет**: перший поверх, підвал, доступні вікна верхніх поверхів\n- **Середній пріоритет**: вікна другого поверху біля дерев або будівель\n- **Низький пріоритет**: верхні поверхи без шляхів доступу\n- **Особлива увага**: вікна біля панелей сигналізації або сейфів\n\n**Багаторівневий підхід до безпеки**\n\n**Захист периметра**\n- Ландшафтний дизайн, що усуває місця для схованок\n- Системи освітлення, що активуються рухом\n- Камери спостереження, що охоплюють вікна\n- Видимі наліпки та знаки про наявність охорони\n\n**Безпека конкретних вікон**\n- Тип скла, що відповідає рівню загрози\n- Фурнітура, що відповідає вимогам безпеки\n- Інтеграція з домашніми системами безпеки\n- Регулярне обслуговування та перевірка\n\n**Внутрішні заходи безпеки**\n- Завіси або жалюзі для приватності\n- Розміщення цінних речей подалі від вікон\n- Внутрішні датчики руху як додатковий рівень захисту\n- Кімнати-сейфи або безпечні зони\n\n**Консультація з професіоналами з безпеки**\n- Сертифікована оцінка безпеки\n- Дотримання вимог страхових компаній\n- Аналіз місцевої кримінальної статистики\n- Індивідуальні рекомендації щодо безпеки\n\n**Планування бюджету та поетапне впровадження**\n- Графік оновлення на основі пріоритетів\n- Аналіз співвідношення витрат і вигод для кожного вікна\n- Варіанти фінансування для модернізації систем безпеки\n- Можливість зниження страхових внесків",
+          "benefits": [
+            "Комплексна стратегія захисту",
+            "Оптимізація інвестицій у безпеку",
+            "Відповідність вимогам страхування та можливі знижки",
+            "Спокій за безпеку родини"
+          ]
+        }
+      ],
+      "conclusion": "Безпека вікон — це ключовий елемент комплексного захисту дому, що вимагає ретельного планування, якісних продуктів та професійного монтажу. Поєднуючи сучасні технології скла, посилену фурнітуру, розумні системи та належні заходи безпеки, ви можете перетворити вікна з потенційно вразливих місць на надійні бар'єри. Пам'ятайте, що ефективна безпека вікон — це баланс між захистом та функціональністю, що гарантує безпеку вашої родини, зберігаючи комфорт та естетику вашого дому. Інвестуйте в професійну оцінку та якісні рішення — безпека вашої родини того варта.",
       "ctaSection": {
-        "title": "Захистіть Дім Професійною Безпекою Вікон",
-        "description": "Захистіть сім'ю та майно з нашими комплексними рішеннями безпеки вікон.",
+        "title": "Забезпечте надійний захист оселі з професійними вікнами",
+        "description": "Захистіть свою родину та майно за допомогою наших комплексних рішень для безпеки вікон. Від протизламного скла до розумних замкових систем — ми забезпечимо повний захист, адаптований до ваших потреб.",
         "benefits": [
-          "Професійна оцінка безпеки",
-          "Передові технології безпеки",
+          "Професійна оцінка рівня безпеки",
+          "Сучасні технології захисту",
           "Експертний монтаж та тестування",
-          "Постійне обслуговування та підтримка"
+          "Подальше обслуговування та підтримка"
         ]
-      }
+      },
+      "faq": [
+        {
+          "question": "Наскільки ефективне протизламне скло проти зловмисників?",
+          "answer": "Якісне ламіноване скло (триплекс) може затримати спробу вторгнення на 3-15 хвилин, чого часто достатньо, щоб відлякати злочинців та дати час на реагування системі безпеки. Скло класу P4A витримує тривалі атаки ручними інструментами, а вищі класи — навіть електроінструментами."
+        },
+        {
+          "question": "Чи можна додати елементи безпеки до вже встановлених вікон?",
+          "answer": "Так, можливі багато варіантів модернізації: нанесення захисної плівки, заміна замків на надійніші, встановлення посиленої фурнітури та розумних датчиків. Однак для максимального захисту найефективнішими є спеціально виготовлені протизламні вікна."
+        },
+        {
+          "question": "Чи впливають системи безпеки на можливість евакуації?",
+          "answer": "Правильно спроєктовані безпечні вікна зберігають можливість екстреної евакуації завдяки механізмам швидкого розблокування, аварійним ключам або автоматизованим системам. Усі елементи безпеки повинні відповідати нормам пожежної безпеки щодо шляхів евакуації."
+        },
+        {
+          "question": "Яка окупність інвестицій у безпеку вікон?",
+          "answer": "Окрім неоціненної переваги — безпеки родини, захисні вікна можуть знизити страхові внески на 5-20%, підвищити вартість нерухомості та запобігти значним збиткам від крадіжок. Багато систем окупаються за рахунок економії на страхуванні та гарантованого спокою."
+        }
+      ]
     }
   },
   "components": [

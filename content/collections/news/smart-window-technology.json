@@ -145,81 +145,250 @@
       ]
     },
     "lt": {
-      "title": "Išmanūs Langai: Namų Automatizacijos Ateitis",
-      "excerpt": "Išmanūs langai keičia šiuolaikinius namus automatizuotais valdikliais, energijos optimizavimu ir sklandžia integracija su IoT sistemomis.",
+      "title": "Išmaniųjų langų technologija: namų automatizavimo ateitis",
+      "excerpt": "Išmanieji langai keičia šiuolaikinius namus: automatinis valdymas, energijos optimizavimas ir sklandi integracija su daiktų interneto (IoT) sistemomis. Sužinokite, kaip šios inovatyvios technologijos didina komfortą, saugumą ir efektyvumą.",
       "featuredImage": "/images/smart-technology-og.webp",
-      "featuredImageAlt": "Šiuolaikinis išmanusis langas su automatizuotais valdikliais ir IoT integracija",
-      "introduction": "Namų automatizacijos ateitis jau čia, ir ji žvelgia pro jūsų langus. Išmaniausių langų technologija yra vienas iš jaudinamiausių šiuolaikinės namų automatizacijos plėtros aspektų, sujungiantis pažangūs jutiklius, motorizuotus mechanizmus ir intelektualų programinę įrangą.",
+      "featuredImageAlt": "Modernus išmanusis langas su automatiniu valdymu ir integracija į daiktų interneto sistemą",
+      "introduction": "Namų automatizavimo ateitis jau čia – ir ji atsiveria pro jūsų langus. Išmaniųjų langų technologija – viena įdomiausių šiuolaikinių namų automatizavimo naujovių. Ji sujungia pažangius jutiklius, motorizuotus mechanizmus ir išmaniąją programinę įrangą, sukurdama langus, kurie mąsto, reaguoja ir prisitaiko prie jūsų poreikių. Mūsų namams tampant vis labiau susietiems, išmanieji langai tampa nepakeičiama visapusiškų namų automatizavimo sistemų dalimi.",
       "sections": [
         {
-          "id": "ismanuju-langu-pagrindai",
-          "title": "Išmaniausių Langų Technologijos Supratimas",
-          "content": "**Pagrindiniai Komponentai ir Funkcionalumas**\n\n**Automatizuotos Atidarymo ir Uždarymo Sistemos**\n- Motorizuoti varikliai tiksliam langų valdymui\n- Oro sąlygoms reaguojantis automatinis veikimas\n- Integracija su namų klimato valdymo sistemomis\n- Avariniai vėdinimo protokolai\n\n**Pažangūs Jutiklių Tinklai**\n- Temperatūros ir drėgmės stebėjimas\n- Oro kokybės aptikimas (CO2, teršalai)\n- Lietaus ir vėjo jutikliai oro apsaugai\n- Būvimo aptikimas individualiems atsakams"
+          "id": "smart-window-basics",
+          "title": "Išmaniųjų langų technologijos pagrindai",
+          "content": "**Pagrindiniai komponentai ir funkcionalumas**\n\n**Automatinės atidarymo ir uždarymo sistemos**\n- Motorizuotos pavaros tiksliam langų valdymui\n- Automatinis veikimas, reaguojantis į oro sąlygas\n- Integracija su namų klimato kontrolės sistemomis\n- Avarinio vėdinimo protokolai\n\n**Pažangių jutiklių tinklai**\n- Temperatūros ir drėgmės stebėjimas\n- Oro kokybės nustatymas (CO2, teršalai)\n- Lietaus ir vėjo jutikliai apsaugai nuo oro sąlygų\n- Gyventojų buvimo nustatymas individualiems sprendimams\n\n**Išmaniojo stiklo technologijos**\n- Elektrochrominis stiklas automatiniam tamsinimui\n- Termochrominės medžiagos, reaguojančios į temperatūrą\n- Fotochrominis stiklas, prisitaikantis prie šviesos lygio\n- Keičiamo privatumo stiklas su momentinio matinio vaizdo funkcija\n\n**Ryšys ir valdymas**\n- Wi-Fi ir Bluetooth integracija\n- Valdymas ir stebėjimas išmaniojo telefono programėle\n- Suderinamumas su balso asistentais („Alexa“, „Google“, „Siri“)\n- Integracija su esamomis išmaniųjų namų platformomis",
+          "tips": [
+            "Pradėkite nuo pagrindinių automatizavimo funkcijų, o vėliau diekite pažangesnes.",
+            "Užtikrinkite patikimą interneto ryšį optimaliam veikimui.",
+            "Apsvarstykite atsarginio maitinimo galimybę dingus elektrai."
+          ]
         },
         {
-          "id": "namu-automatizacijos-integracija",
-          "title": "Integracija su Išmaniausių Namų Sistemomis",
-          "content": "**Sklandžios Ekosistemos Integracija**\n\n**Klimato Valdymo Optimizavimas**\n- Automatinis koordinavimas su ŠVK sistemomis\n- Natūralaus vėdinimo planavimas pagal lauko sąlygas\n- Energijos efektyvaus šildymo ir vėsinimo strategijos\n- Sezoniško prisitaikymo algoritmai\n\n**Saugumo Sistemų Integracija**\n- Automatinis langų uždarymas aktyvavus saugumą\n- Įsibrovėlimo aptikimo ir įspėjimo sistemos\n- Nuotolinis stebėjimas ir valdymo galimybės\n- Integracija su stebėjimo kameromis ir signalizacija"
+          "id": "home-automation-integration",
+          "title": "Integracija su išmaniųjų namų sistemomis",
+          "content": "**Sklandi integracija į ekosistemą**\n\n**Klimato kontrolės optimizavimas**\n- Automatinis derinimas su ŠVOK (šildymo, vėdinimo ir oro kondicionavimo) sistemomis\n- Natūralaus vėdinimo planavimas pagal lauko sąlygas\n- Energiją taupančios šildymo ir vėsinimo strategijos\n- Sezoninio prisitaikymo algoritmai\n\n**Integracija su apsaugos sistema**\n- Automatinis langų uždarymas įjungus apsaugos sistemą\n- Įsilaužimo aptikimo ir įspėjimo sistemos\n- Nuotolinio stebėjimo ir valdymo galimybės\n- Integracija su stebėjimo kameromis ir signalizacija\n\n**Apšvietimo ir aplinkos nuotaikos valdymas**\n- Derinimas su išmaniosiomis apšvietimo sistemomis\n- Automatinis reguliavimas pagal natūralios šviesos lygį\n- Cirkadinių ritmų optimizavimas\n- Scenarijais pagrįstas automatizavimas (ryto, vakaro, miego režimai)\n\n**Energijos valdymas**\n- Energijos suvartojimo stebėjimas realiuoju laiku\n- Piko paklausos mažinimo strategijos\n- Saulės šilumos patekimo optimizavimas\n- Integracija su atsinaujinančios energijos sistemomis",
+          "callout": "Tinkamai integruoti į namų automatizavimo sistemas, išmanieji langai gali sumažinti energijos sąnaudas net iki 30 %."
         },
         {
-          "id": "automatizacijos-funkcijos",
-          "title": "Pažangūs Automatizacijos Funkcijos",
-          "content": "**Intelektualios Atsako Sistemos**\n\n**Oro Sąlygomis Paremta Automatizacija**\n- Automatinis uždarymas prieš audras\n- Lietaus aptikimas ir nedelsiantis atsakas\n- Vėjo greičio stebėjimas ir saugumo protokolai\n- Temperatūros paremtas vėdinimo valdymas\n\n**Laiku Paremtas Planavimas**\n- Kasdieniai atidarymo ir uždarymo režimai\n- Sezoniško prisitaikymo algoritmai\n- Atostogų ir išvykimo režimai\n- Individualus planavimas skirtingiems kambariams"
+          "id": "automation-features",
+          "title": "Pažangios automatizavimo funkcijos",
+          "content": "**Išmaniosios reagavimo sistemos**\n\n**Automatizavimas pagal oro sąlygas**\n- Automatinis uždarymas prieš audrą\n- Lietaus aptikimas ir greita reakcija\n- Vėjo greičio stebėjimas ir saugos protokolai\n- Vėdinimo valdymas pagal temperatūrą\n\n**Planavimas pagal laiką**\n- Kasdienės atidarymo ir uždarymo rutinos\n- Sezoninio pritaikymo algoritmai\n- Atostogų ir išvykimo režimai\n- Individualūs tvarkaraščiai skirtingiems kambariams\n\n**Veikimas pagal gyventojų buvimą**\n- Buvimo patalpoje aptikimas individualiems nustatymams\n- Pritaikymas kiekvienam kambariui atskirai\n- Svečių režimo konfigūracijos\n- Privatumo apsaugos protokolai\n\n**Sveikatos ir komforto optimizavimas**\n- Oro kokybės gerinimo automatizavimas\n- Alergenų mažinimo strategijos\n- Miego kokybės gerinimo funkcijos\n- Į gerovę orientuotas aplinkos valdymas",
+          "benefits": [
+            "Geresnė patalpų oro kokybė ir komfortas",
+            "Didesnis saugumas ir ramybė",
+            "Ženklus energijos taupymas ir efektyvumas",
+            "Patogus nuotolinis valdymas ir stebėjimas"
+          ]
+        },
+        {
+          "id": "security-monitoring",
+          "title": "Saugumas ir nuotolinis stebėjimas",
+          "content": "**Visapusiškos saugumo funkcijos**\n\n**Įsilaužimų aptikimas ir prevencija**\n- Pažangūs įsilaužimo jutikliai ir įspėjimai\n- Automatiniai avarinio reagavimo protokolai\n- Integracija su apsaugos stebėjimo paslaugomis\n- Pranešimų sistemos realiuoju laiku\n\n**Nuotolinė prieiga ir valdymas**\n- Programėlė išmaniajame telefone prieigai iš bet kurios pasaulio vietos\n- Būsenos stebėjimas ir įspėjimai realiuoju laiku\n- Vaizdo integracija vizualiniam patvirtinimui\n- Avarinio valdymo galimybės\n\n**Privatumas ir duomenų apsauga**\n- Šifruoti ryšio protokolai\n- Vietinio duomenų apdorojimo parinktys\n- Naudotojo privatumo valdymas ir nustatymai\n- Atitiktis duomenų apsaugos reglamentams\n\n**Priežiūra ir diagnostika**\n- Nuspėjamosios priežiūros įspėjimai\n- Veiklos stebėjimas ir optimizavimas\n- Nuotolinio trikčių šalinimo galimybės\n- Automatiniai programinės įrangos atnaujinimai ir patobulinimai",
+          "warning": "Visada įsitikinkite, kad jūsų išmaniųjų langų sistema turi patikimas kibernetinio saugumo priemones ir yra reguliariai atnaujinama, siekiant apsisaugoti nuo galimų pažeidžiamumų."
+        },
+        {
+          "id": "future-trends",
+          "title": "Ateities tendencijos ir inovacijos",
+          "content": "**Naujos technologijos ir pokyčiai**\n\n**Dirbtinio intelekto (DI) integracija**\n- Mašininis mokymasis individualizuotam automatizavimui\n- Nuspėjamojo elgesio algoritmai\n- Adaptyvus mokymasis iš naudotojo įpročių\n- DI pagrįstas energijos optimizavimas\n\n**Pažangios medžiagos ir dizainas**\n- Savaime nusivalančio stiklo technologijos\n- Langai su integruotais saulės kolektoriais\n- Lankstaus ir lenkto išmaniojo stiklo pritaikymas\n- Pagerintas patvarumas ir atsparumas oro sąlygoms\n\n**Patobulintas ryšys**\n- 5G integracija greitesniam reagavimo laikui\n- „Edge computing“ vietiniam duomenų apdorojimui\n- Patobulinti sąveikumo standartai\n- Tinkliniai tinklai (angl. „mesh“) geresnei aprėpčiai\n\n**Dėmesys tvarumui**\n- Anglies pėdsako mažinimo funkcijos\n- Atsinaujinančios energijos integravimas\n- Tvarūs gamybos procesai\n- Žiedinės ekonomikos dizaino principai",
+          "benefits": [
+            "Didesnis automatizavimo intelektas ir efektyvumas",
+            "Geresnė integracija su atsinaujinančios energijos sistemomis",
+            "Geresnė naudotojo patirtis ir patogumas",
+            "Didesnis aplinkosauginis tvarumas"
+          ]
         }
       ],
-      "conclusion": "Išmaniausių langų technologija atstovauja reikšmingą namų automatizacijos šuolį į priekį, siūlydama neprecedentinį komforto, saugumo ir energijos efektyvumo valdymą. Kai šios sistemos tampa vis labiau ištobulintos ir prieinamos, jos transformuojasi iš prabangos funkcijų į būtinus šiuolaikinių išmaniausių namų komponentus.",
+      "conclusion": "Išmaniųjų langų technologija – tai didelis žingsnis į priekį namų automatizavimo srityje, suteikiantis beprecedentę komforto, saugumo ir energijos vartojimo efektyvumo kontrolę. Šioms sistemoms tampant vis sudėtingesnėms ir prieinamesnėms, jos iš prabangos elemento virsta esmine modernių išmaniųjų namų dalimi. Dirbtinio intelekto, pažangių medžiagų ir geresnio ryšio integracija žada dar daugiau įdomių pokyčių ateityje, todėl išmanieji langai yra verta investicija į ateitį žvelgiantiems namų savininkams.",
       "ctaSection": {
-        "title": "Pereikite prie Išmaniausių Langų Technologijos",
-        "description": "Pasiruošę patirti namų automatizacijos ateitį? Mūsų ekspertų komanda specializuojasi išmaniausių langų įrengime ir integracijoje.",
+        "title": "Atnaujinkite savo namus su išmaniųjų langų technologija",
+        "description": "Pasiruošę išbandyti namų automatizavimo ateitį? Mūsų specialistų komanda specializuojasi išmaniųjų langų montavime ir integravime į esamas namų automatizavimo sistemas.",
         "benefits": [
-          "Profesionali išmaniausių langų konsultacija ir projektavimas",
-          "Ekspertų įrengimas ir sistemos integracija",
-          "Išsamus mokymas ir nuolatinė pagalba",
-          "Garantija ir priežiūros paslaugos"
+          "Profesionali konsultacija ir išmaniųjų langų projektavimas",
+          "Specialistų atliekamas montavimas ir sistemų integravimas",
+          "Išsamūs apmokymai ir nuolatinis palaikymas",
+          "Garantinis ir techninis aptarnavimas"
         ]
       },
       "faq": [
         {
-          "question": "Kiek išmanūs langai gali sutaupyti energijos išlaidų?",
-          "answer": "Išmanūs langai gali sumažinti energijos suvartojimą 20-30% per optimizuotą natūralų vėdinimą, automatizuotą klimato valdymo integraciją ir intelektualų saulės šilumos valdymą."
+          "question": "Kiek energijos kaštų galima sutaupyti su išmaniaisiais langais?",
+          "answer": "Išmanieji langai gali sumažinti energijos sąnaudas 20–30 % optimizuodami natūralų vėdinimą, automatiškai integruodamiesi į klimato kontrolės sistemas ir išmaniai valdydami saulės šilumos patekimą. Tikslus sutaupymas priklauso nuo namo dydžio, vietos klimato ir esamų efektyvumo priemonių."
+        },
+        {
+          "question": "Ar išmanieji langai suderinami su esamomis namų automatizavimo sistemomis?",
+          "answer": "Dauguma šiuolaikinių išmaniųjų langų sistemų yra sukurtos integruoti su populiariomis namų automatizavimo platformomis, tokiomis kaip „SmartThings“, „Hubitat“ ar „Apple HomeKit“. Profesionalus montavimas užtikrina sklandžią integraciją į jūsų jau turimą išmaniųjų namų ekosistemą."
+        },
+        {
+          "question": "Kas nutinka išmaniesiems langams dingus elektrai?",
+          "answer": "Kokybiškos išmaniųjų langų sistemos turi atsarginį akumuliatorių svarbiausioms funkcijoms ir rankinio valdymo galimybę. Ilgesnių elektros tiekimo sutrikimų metu langus galima valdyti rankiniu būdu, o akumuliatorius paprastai užtikrina kelių valandų automatinį veikimą."
+        },
+        {
+          "question": "Kiek išmanieji langai yra saugūs nuo kibernetinių grėsmių?",
+          "answer": "Šiuolaikinėse išmaniųjų langų sistemose naudojamas šifruotas ryšys, reguliarūs saugumo atnaujinimai ir vietinio duomenų apdorojimo parinktys, siekiant sumažinti kibernetines rizikas. Rinkitės patikimų gamintojų sistemas, turinčias gerą kibernetinio saugumo reputaciją, ir nuolat atnaujinkite programinę įrangą."
         }
       ]
     },
     "pl": {
       "title": "Inteligentne Okna: Przyszłość Automatyki Domowej",
-      "excerpt": "Inteligentne okna przekształcają nowoczesne domy dzięki zautomatyzowanym kontrolom, optymalizacji energii i płynnej integracji z systemami IoT.",
+      "excerpt": "Inteligentne okna rewolucjonizują nowoczesne domy dzięki automatycznemu sterowaniu, optymalizacji zużycia energii i bezproblemowej integracji z systemami IoT. Odkryj, jak te innowacyjne technologie podnoszą komfort, bezpieczeństwo i wydajność.",
       "featuredImage": "/images/smart-technology-og.webp",
-      "featuredImageAlt": "Nowoczesne inteligentne okno z zautomatyzowanymi kontrolami i integracją IoT",
-      "introduction": "Przyszłość automatyki domowej jest już tutaj i patrzy przez twoje okna. Technologia inteligentnych okien reprezentuje jeden z najbardziej ekscytujących rozwojów w nowoczesnej automatyce domowej.",
-      "conclusion": "Technologia inteligentnych okien reprezentuje znaczący skok naprzód w automatyce domowej, oferując bezprecedensową kontrolę nad komfortem, bezpieczeństwem i efektywnością energetyczną.",
+      "featuredImageAlt": "Nowoczesne inteligentne okno z automatycznym sterowaniem i integracją z IoT",
+      "introduction": "Przyszłość automatyki domowej jest już z nami i spogląda przez nasze okna. Technologia inteligentnych okien to jeden z najbardziej ekscytujących kierunków rozwoju w nowoczesnej automatyce budynkowej. Łączy ona zaawansowane czujniki, zmotoryzowane mechanizmy i inteligentne oprogramowanie, tworząc okna, które myślą, reagują i dostosowują się do Twoich potrzeb. W miarę jak nasze domy stają się coraz bardziej połączone, inteligentne okna stają się kluczowym elementem kompleksowych systemów zarządzania budynkiem.",
+      "sections": [
+        {
+          "id": "smart-window-basics",
+          "title": "Podstawy technologii inteligentnych okien",
+          "content": "**Kluczowe komponenty i funkcjonalność**\n\n**Systemy automatycznego otwierania i zamykania**\n- Zmotoryzowane siłowniki zapewniające precyzyjną kontrolę\n- Automatyczne działanie w odpowiedzi na warunki pogodowe\n- Integracja z domowymi systemami klimatyzacji i ogrzewania\n- Protokoły wentylacji awaryjnej\n\n**Zaawansowane sieci czujników**\n- Monitorowanie temperatury i wilgotności\n- Wykrywanie jakości powietrza (CO2, zanieczyszczenia)\n- Czujniki deszczu i wiatru dla ochrony przed warunkami atmosferycznymi\n- Wykrywanie obecności dla spersonalizowanych reakcji\n\n**Technologie inteligentnego szkła**\n- Szkło elektrochromowe do automatycznego przyciemniania\n- Materiały termochromowe reagujące na temperaturę\n- Szkło fotochromowe dostosowujące się do poziomu światła\n- Szkło o zmiennej przezierności z funkcją natychmiastowej prywatności\n\n**Łączność i sterowanie**\n- Integracja przez Wi-Fi i Bluetooth\n- Sterowanie i monitorowanie za pomocą aplikacji na smartfona\n- Kompatybilność z asystentami głosowymi (Alexa, Google, Siri)\n- Integracja z istniejącymi platformami inteligentnego domu",
+          "tips": [
+            "Zacznij od podstawowej automatyzacji, zanim dodasz zaawansowane funkcje",
+            "Zapewnij stabilne połączenie z internetem dla optymalnej wydajności",
+            "Rozważ zasilanie awaryjne na wypadek przerw w dostawie prądu"
+          ]
+        },
+        {
+          "id": "home-automation-integration",
+          "title": "Integracja z systemami inteligentnego domu",
+          "content": "**Bezproblemowa integracja z ekosystemem**\n\n**Optymalizacja sterowania klimatem**\n- Automatyczna współpraca z systemami HVAC (ogrzewania, wentylacji i klimatyzacji)\n- Planowanie naturalnej wentylacji w oparciu o warunki zewnętrzne\n- Strategie energooszczędnego ogrzewania i chłodzenia\n- Algorytmy adaptacji sezonowej\n\n**Integracja z systemem bezpieczeństwa**\n- Automatyczne zamykanie okien podczas uzbrajania alarmu\n- Systemy wykrywania prób włamania i powiadamiania\n- Możliwości zdalnego monitorowania i kontroli\n- Integracja z kamerami monitoringu i alarmami\n\n**Sterowanie oświetleniem i nastrojem**\n- Współpraca z systemami inteligentnego oświetlenia\n- Automatyczna regulacja w zależności od poziomu światła naturalnego\n- Optymalizacja pod kątem rytmu dobowego\n- Automatyzacja oparta na scenach (np. tryb poranny, wieczorny, nocny)\n\n**Zarządzanie energią**\n- Monitorowanie zużycia energii w czasie rzeczywistym\n- Strategie redukcji zapotrzebowania w godzinach szczytu\n- Optymalizacja zysków solarnych\n- Integracja z systemami energii odnawialnej",
+          "callout": "Inteligentne okna, prawidłowo zintegrowane z systemami automatyki domowej, mogą obniżyć zużycie energii nawet o 30%."
+        },
+        {
+          "id": "automation-features",
+          "title": "Zaawansowane funkcje automatyzacji",
+          "content": "**Inteligentne systemy reagowania**\n\n**Automatyzacja oparta na pogodzie**\n- Automatyczne zamykanie przed nadchodzącą burzą\n- Wykrywanie deszczu i natychmiastowa reakcja\n- Monitorowanie prędkości wiatru i protokoły bezpieczeństwa\n- Sterowanie wentylacją w zależności od temperatury\n\n**Harmonogramy czasowe**\n- Codzienne rutyny otwierania i zamykania\n- Algorytmy dostosowań sezonowych\n- Tryby wakacyjne i „poza domem”\n- Indywidualne harmonogramy dla różnych pomieszczeń\n\n**Działanie uwzględniające obecność domowników**\n- Wykrywanie obecności dla spersonalizowanych ustawień\n- Dostosowanie ustawień dla każdego pomieszczenia z osobna\n- Konfiguracje trybu „gość”\n- Protokoły ochrony prywatności\n\n**Optymalizacja dla zdrowia i komfortu**\n- Automatyzacja poprawiająca jakość powietrza\n- Strategie redukcji stężenia alergenów\n- Funkcje poprawiające jakość snu\n- Kontrola środowiska wewnętrznego zorientowana na dobre samopoczucie",
+          "benefits": [
+            "Poprawa jakości powietrza i komfortu wewnątrz",
+            "Zwiększone bezpieczeństwo i spokój ducha",
+            "Znaczące oszczędności energii i wyższa wydajność",
+            "Wygodne zdalne sterowanie i monitorowanie"
+          ]
+        },
+        {
+          "id": "security-monitoring",
+          "title": "Bezpieczeństwo i zdalny monitoring",
+          "content": "**Kompleksowe funkcje bezpieczeństwa**\n\n**Wykrywanie i zapobieganie włamaniom**\n- Zaawansowane czujniki włamania i systemy alertów\n- Automatyczne protokoły reagowania awaryjnego\n- Integracja z usługami agencji ochrony\n- Systemy powiadomień w czasie rzeczywistym\n\n**Zdalny dostęp i kontrola**\n- Aplikacja na smartfona zapewniająca dostęp z dowolnego miejsca na świecie\n- Monitorowanie statusu i alerty w czasie rzeczywistym\n- Integracja wideo dla wizualnego potwierdzenia zdarzeń\n- Możliwość awaryjnego przejęcia kontroli\n\n**Prywatność i ochrona danych**\n- Szyfrowane protokoły komunikacyjne\n- Opcje lokalnego przetwarzania danych\n- Ustawienia prywatności i kontrola użytkownika\n- Zgodność z przepisami o ochronie danych (np. RODO)\n\n**Konserwacja i diagnostyka**\n- Alerty o konieczności konserwacji predykcyjnej\n- Monitorowanie wydajności i optymalizacja pracy\n- Możliwości zdalnej diagnostyki\n- Automatyczne aktualizacje oprogramowania i usprawnienia",
+          "warning": "Zawsze upewnij się, że Twój system inteligentnych okien posiada solidne zabezpieczenia cybernetyczne i jest regularnie aktualizowany, aby chronić go przed potencjalnymi zagrożeniami."
+        },
+        {
+          "id": "future-trends",
+          "title": "Przyszłe trendy i innowacje",
+          "content": "**Nowe technologie i kierunki rozwoju**\n\n**Integracja ze sztuczną inteligencją (AI)**\n- Uczenie maszynowe dla spersonalizowanej automatyzacji\n- Algorytmy przewidujące zachowania użytkowników\n- Adaptacyjne uczenie się na podstawie preferencji\n- Optymalizacja zużycia energii wspierana przez AI\n\n**Zaawansowane materiały i wzornictwo**\n- Technologie szkła samoczyszczącego\n- Okna ze zintegrowanymi panelami fotowoltaicznymi\n- Elastyczne i zakrzywione zastosowania inteligentnego szkła\n- Poprawiona trwałość i odporność na warunki atmosferyczne\n\n**Ulepszona łączność**\n- Integracja z siecią 5G dla szybszego czasu reakcji\n- Przetwarzanie brzegowe (edge computing) dla lokalnej analizy danych\n- Ulepszone standardy interoperacyjności\n- Sieci mesh dla lepszego zasięgu\n\n**Nacisk na zrównoważony rozwój**\n- Funkcje redukcji śladu węglowego\n- Integracja z odnawialnymi źródłami energii\n- Zrównoważone procesy produkcyjne\n- Projektowanie w oparciu o zasady gospodarki o obiegu zamkniętym",
+          "benefits": [
+            "Większa inteligencja i wydajność automatyzacji",
+            "Lepsza integracja z systemami energii odnawialnej",
+            "Wyższy komfort użytkowania i wygoda",
+            "Większa dbałość o środowisko naturalne"
+          ]
+        }
+      ],
+      "conclusion": "Technologia inteligentnych okien to znaczący krok naprzód w automatyce domowej, oferujący niespotykaną dotąd kontrolę nad komfortem, bezpieczeństwem i efektywnością energetyczną. W miarę jak systemy te stają się coraz bardziej zaawansowane i przystępne cenowo, z luksusowego dodatku przekształcają się w niezbędny element nowoczesnych, inteligentnych domów. Integracja sztucznej inteligencji, zaawansowanych materiałów i ulepszonej łączności zapowiada jeszcze bardziej ekscytujące innowacje w nadchodzących latach, czyniąc inteligentne okna opłacalną inwestycją dla nowocześnie myślących właścicieli domów.",
       "ctaSection": {
-        "title": "Przejdź na Technologię Inteligentnych Okien",
-        "description": "Gotowy doświadczyć przyszłości automatyki domowej? Nasz zespół ekspertów specjalizuje się w instalacji inteligentnych okien i integracji z systemami.",
+        "title": "Zainwestuj w technologię inteligentnych okien",
+        "description": "Chcesz doświadczyć przyszłości automatyki domowej? Nasz zespół ekspertów specjalizuje się w montażu inteligentnych okien i ich integracji z istniejącymi systemami automatyki domowej.",
         "benefits": [
-          "Profesjonalna konsultacja i projektowanie inteligentnych okien",
-          "Ekspercka instalacja i integracja systemów",
-          "Kompleksowe szkolenie i stałe wsparcie",
-          "Gwarancja i usługi serwisowe"
+          "Profesjonalne doradztwo i projektowanie systemów inteligentnych okien",
+          "Fachowy montaż i integracja systemów",
+          "Kompleksowe szkolenie i stałe wsparcie techniczne",
+          "Usługi gwarancyjne i serwisowe"
         ]
-      }
+      },
+      "faq": [
+        {
+          "question": "Ile można zaoszczędzić na kosztach energii dzięki inteligentnym oknom?",
+          "answer": "Inteligentne okna mogą obniżyć zużycie energii o 20-30% dzięki optymalizacji naturalnej wentylacji, automatycznej integracji z klimatyzacją oraz inteligentnemu zarządzaniu zyskami cieplnymi od słońca. Rzeczywiste oszczędności zależą od wielkości domu, lokalnego klimatu i istniejącej efektywności energetycznej budynku."
+        },
+        {
+          "question": "Czy inteligentne okna są kompatybilne z istniejącymi systemami automatyki domowej?",
+          "answer": "Większość nowoczesnych systemów inteligentnych okien jest projektowana z myślą o integracji z popularnymi platformami automatyki domowej, takimi jak SmartThings, Hubitat czy Apple HomeKit. Profesjonalny montaż gwarantuje bezproblemową współpracę z Twoim istniejącym ekosystemem inteligentnego domu."
+        },
+        {
+          "question": "Co dzieje się z inteligentnymi oknami podczas przerw w dostawie prądu?",
+          "answer": "Wysokiej jakości systemy inteligentnych okien posiadają zasilanie awaryjne (akumulator) dla kluczowych funkcji oraz możliwość ręcznej obsługi. Podczas dłuższych przerw w dostawie prądu okna można obsługiwać manualnie, a zasilanie awaryjne zazwyczaj zapewnia kilka godzin pracy automatycznej."
+        },
+        {
+          "question": "Jak bezpieczne są inteligentne okna przed cyberzagrożeniami?",
+          "answer": "Nowoczesne systemy inteligentnych okien wykorzystują szyfrowaną komunikację, regularne aktualizacje zabezpieczeń oraz opcje lokalnego przetwarzania danych, aby zminimalizować ryzyko cyberataków. Należy wybierać systemy od renomowanych producentów z udokumentowaną dbałością o cyberbezpieczeństwo i regularnie aktualizować oprogramowanie."
+        }
+      ]
     },
     "uk": {
-      "title": "Розумні Вікна: Майбутнє Домашньої Автоматизації",
-      "excerpt": "Розумні вікна трансформують сучасні будинки за допомогою автоматизованих елементів керування, оптимізації енергії та безшовної інтеграції з IoT системами.",
+      "title": "Розумні вікна: майбутнє домашньої автоматизації",
+      "excerpt": "Розумні вікна змінюють сучасні оселі завдяки автоматичному керуванню, оптимізації енергоспоживання та інтеграції з системами «розумного дому». Дізнайтеся, як ці інноваційні технології виводять комфорт, безпеку та ефективність на новий рівень.",
       "featuredImage": "/images/smart-technology-og.webp",
-      "featuredImageAlt": "Сучасне розумне вікно з автоматизованими елементами керування та інтеграцією IoT",
-      "introduction": "Майбутнє домашньої автоматизації вже тут, і воно дивиться крізь ваші вікна. Технологія розумних вікон представляє один з найбільш захоплюючих розробок у сучасній домашній автоматизації.",
-      "conclusion": "Технологія розумних вікон представляє значний стрибок вперед у домашній автоматизації, пропонуючи безпрецедентний контроль над комфортом, безпекою та енергоефективністю.",
+      "featuredImageAlt": "Сучасне розумне вікно з автоматичним керуванням та інтеграцією в систему «розумний дім»",
+      "introduction": "Майбутнє домашньої автоматизації вже тут, і воно дивиться на світ крізь ваші вікна. Технологія розумних вікон — одна з найцікавіших розробок у сфері автоматизації житла, що поєднує передові датчики, моторизовані механізми та інтелектуальне програмне забезпечення. Такі вікна здатні думати, реагувати та адаптуватися до ваших потреб. У світі, де все більше пристроїв підключено до мережі, розумні вікна стають невід'ємною частиною комплексних систем «розумний дім».",
+      "sections": [
+        {
+          "id": "smart-window-basics",
+          "title": "Як працюють розумні вікна",
+          "content": "**Основні компоненти та функціонал**\n\n**Системи автоматичного відкривання та закривання**\n- Електроприводи для точного керування стулками\n- Автоматична робота залежно від погодних умов\n- Інтеграція з системами клімат-контролю\n- Протоколи екстреного провітрювання\n\n**Мережа сучасних датчиків**\n- Моніторинг температури та вологості\n- Визначення якості повітря (CO2, забруднювачі)\n- Датчики дощу та вітру для захисту від негоди\n- Виявлення присутності для персоналізованих налаштувань\n\n**Технології розумного скла**\n- Електрохромне скло для автоматичного тонування\n- Термохромні матеріали, що реагують на температуру\n- Фотохромне скло, що адаптується до рівня освітлення\n- Скло зі змінною прозорістю для миттєвої приватності\n\n**Підключення та керування**\n- Інтеграція через Wi-Fi та Bluetooth\n- Керування та моніторинг через додаток у смартфоні\n- Сумісність з голосовими асистентами (Alexa, Google, Siri)\n- Інтеграція з існуючими платформами «розумного дому»",
+          "tips": [
+            "Починайте з базової автоматизації, перш ніж додавати складніші функції",
+            "Для оптимальної роботи забезпечте стабільне інтернет-з'єднання",
+            "Подбайте про резервне джерело живлення на випадок відключення електроенергії"
+          ]
+        },
+        {
+          "id": "home-automation-integration",
+          "title": "Інтеграція з системами «розумний дім»",
+          "content": "**Повна інтеграція в єдину екосистему**\n\n**Оптимізація клімат-контролю**\n- Автоматична координація з системами опалення, вентиляції та кондиціонування (ОВК)\n- Планування природного провітрювання на основі зовнішніх умов\n- Енергоефективні сценарії обігріву та охолодження\n- Алгоритми сезонної адаптації\n\n**Інтеграція з системою безпеки**\n- Автоматичне закривання вікон під час активації сигналізації\n- Виявлення спроб злому та надсилання сповіщень\n- Можливості дистанційного моніторингу та керування\n- Інтеграція з камерами спостереження та сигналізацією\n\n**Керування освітленням та атмосферою**\n- Координація з системами розумного освітлення\n- Автоматичне регулювання залежно від рівня природного світла\n- Оптимізація освітлення під циркадні ритми\n- Автоматизація за сценаріями (ранок, вечір, сон)\n\n**Керування енергоспоживанням**\n- Моніторинг споживання енергії в реальному часі\n- Стратегії зниження навантаження в пікові години\n- Оптимізація використання сонячного тепла\n- Інтеграція з системами відновлюваної енергії",
+          "callout": "Правильна інтеграція розумних вікон у систему домашньої автоматизації дозволяє зменшити витрати на енергію до 30%."
+        },
+        {
+          "id": "automation-features",
+          "title": "Розширені функції автоматизації",
+          "content": "**Інтелектуальні системи реагування**\n\n**Автоматизація на основі погодних умов**\n- Автоматичне закривання перед грозою\n- Миттєве реагування на дощ\n- Моніторинг швидкості вітру та протоколи безпеки\n- Керування провітрюванням залежно від температури\n\n**Планування за розкладом**\n- Щоденні сценарії відкривання та закривання\n- Алгоритми сезонних налаштувань\n- Режими «Відпустка» та «Нікого немає вдома»\n- Індивідуальні розклади для різних кімнат\n\n**Робота з урахуванням присутності людей**\n- Виявлення присутності для персоналізованих налаштувань\n- Налаштування для кожної кімнати окремо\n- Конфігурації гостьового режиму\n- Протоколи захисту приватності\n\n**Оптимізація для здоров'я та комфорту**\n- Автоматизація для покращення якості повітря\n- Стратегії зменшення кількості алергенів\n- Функції для покращення якості сну\n- Керування середовищем для кращого самопочуття",
+          "benefits": [
+            "Покращення якості повітря та комфорту в приміщенні",
+            "Підвищена безпека та ваш спокій",
+            "Значна економія електроенергії та ресурсів",
+            "Зручне дистанційне керування та моніторинг"
+          ]
+        },
+        {
+          "id": "security-monitoring",
+          "title": "Безпека та дистанційний моніторинг",
+          "content": "**Комплексні функції безпеки**\n\n**Виявлення та запобігання вторгненню**\n- Сучасні датчики злому та системи сповіщень\n- Автоматичні протоколи реагування на надзвичайні ситуації\n- Інтеграція зі службами охорони та моніторингу\n- Системи сповіщень у реальному часі\n\n**Дистанційний доступ та керування**\n- Додаток у смартфоні для доступу з будь-якої точки світу\n- Моніторинг стану та сповіщення в реальному часі\n- Інтеграція з відео для візуального підтвердження\n- Можливості екстреного ручного керування\n\n**Конфіденційність та захист даних**\n- Протоколи шифрування зв'язку\n- Можливість локальної обробки даних\n- Налаштування приватності для користувача\n- Відповідність нормам захисту даних\n\n**Обслуговування та діагностика**\n- Прогнозовані сповіщення про необхідність обслуговування\n- Моніторинг продуктивності та оптимізація\n- Можливості дистанційного усунення несправностей\n- Автоматичне оновлення програмного забезпечення",
+          "warning": "Завжди переконуйтесь, що ваша система розумних вікон має надійні засоби кібербезпеки та регулярно оновлюється для захисту від потенційних загроз."
+        },
+        {
+          "id": "future-trends",
+          "title": "Майбутні тренди та інновації",
+          "content": "**Новітні технології та розробки**\n\n**Інтеграція штучного інтелекту (ШІ)**\n- Машинне навчання для персоналізованої автоматизації\n- Алгоритми прогнозування поведінки\n- Адаптивне навчання на основі вподобань користувача\n- Оптимізація енергоспоживання за допомогою ШІ\n\n**Сучасні матеріали та дизайн**\n- Технології самоочисного скла\n- Вікна з інтегрованими сонячними панелями\n- Гнучке та вигнуте розумне скло\n- Підвищена довговічність та стійкість до погодних умов\n\n**Розширені можливості підключення**\n- Інтеграція 5G для швидшого реагування\n- Периферійні обчислення для локальної обробки даних\n- Покращені стандарти сумісності пристроїв\n- Mesh-мережі для кращого покриття\n\n**Акцент на екологічності**\n- Функції для зменшення вуглецевого сліду\n- Інтеграція з відновлюваними джерелами енергії\n- Екологічні процеси виробництва\n- Принципи циркулярної економіки в дизайні",
+          "benefits": [
+            "Вищий рівень інтелекту та ефективності автоматизації",
+            "Краща інтеграція з системами відновлюваної енергії",
+            "Покращений користувацький досвід та зручність",
+            "Зменшення впливу на довкілля"
+          ]
+        }
+      ],
+      "conclusion": "Технологія розумних вікон — це значний крок уперед у домашній автоматизації, що пропонує небачений раніше контроль над комфортом, безпекою та енергоефективністю. Оскільки ці системи стають все більш досконалими та доступними, вони з розкішного елемента перетворюються на невід'ємну складову сучасних «розумних» осель. Інтеграція ШІ, передових матеріалів та покращених можливостей зв'язку обіцяє ще більше захопливих розробок у майбутньому, роблячи розумні вікна вигідною інвестицією для далекоглядних власників житла.",
       "ctaSection": {
-        "title": "Перейдіть на Технологію Розумних Вікон",
-        "description": "Готові відчути майбутнє домашньої автоматизації? Наша команда експертів спеціалізується на встановленні розумних вікон та інтеграції з системами.",
+        "title": "Встановіть розумні вікна у своїй оселі",
+        "description": "Готові відчути переваги майбутнього вже сьогодні? Наша команда експертів спеціалізується на встановленні розумних вікон та їх інтеграції в існуючі системи домашньої автоматизації.",
         "benefits": [
-          "Професійна консультація та проектування розумних вікон",
-          "Експертне встановлення та інтеграція систем",
-          "Комплексне навчання та постійна підтримка",
-          "Гарантія та сервісні послуги"
+          "Професійна консультація та проєктування",
+          "Експертний монтаж та інтеграція системи",
+          "Повне навчання та подальша підтримка",
+          "Гарантійне та сервісне обслуговування"
         ]
-      }
+      },
+      "faq": [
+        {
+          "question": "Скільки можна заощадити на енергії завдяки розумним вікнам?",
+          "answer": "Розумні вікна дозволяють зменшити споживання енергії на 20-30% завдяки оптимізації природного провітрювання, інтеграції з клімат-контролем та інтелектуальному керуванню сонячним теплом. Реальна економія залежить від розміру будинку, клімату у вашому регіоні та загального рівня енергоефективності житла."
+        },
+        {
+          "question": "Чи сумісні розумні вікна з існуючими системами «розумний дім»?",
+          "answer": "Більшість сучасних систем розумних вікон розроблені для інтеграції з популярними платформами, такими як SmartThings, Hubitat та Apple HomeKit. Професійне встановлення гарантує бездоганну роботу з вашою екосистемою «розумний дім»."
+        },
+        {
+          "question": "Що відбувається з розумними вікнами під час відключення електроенергії?",
+          "answer": "Якісні системи розумних вікон оснащені резервним акумулятором для підтримки основних функцій та мають можливість ручного керування. У разі тривалих відключень вікнами можна керувати вручну, а акумулятор зазвичай забезпечує кілька годин автоматичної роботи."
+        },
+        {
+          "question": "Наскільки розумні вікна захищені від кіберзагроз?",
+          "answer": "Сучасні системи розумних вікон використовують шифрування даних, регулярно отримують оновлення безпеки та пропонують опції локальної обробки даних для мінімізації ризиків. Обирайте системи від перевірених виробників з високою репутацією у сфері кібербезпеки та вчасно оновлюйте програмне забезпечення."
+        }
+      ]
     }
   }
 }

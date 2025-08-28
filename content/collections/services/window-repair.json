@@ -79,93 +79,93 @@
     "lt": {
       "article": {
         "title": "Profesionalus langų remontas",
-        "subtitle": "Ekspertų langų remonto sprendimai gyvenamųjų ir komercinių pastatų langams. Greitas, patikimas ir garantuotas rezultatas.",
+        "subtitle": "Profesionalūs langų remonto sprendimai Jūsų namams ir verslui. Greita, patikima ir su kokybės garantija.",
         "image": {
           "src": "/images/services/window-repair-main.jpg",
-          "alt": "Profesionalus langų remonto meistras dirba su langu"
+          "alt": "Profesionalus langų remonto meistras tvarko langą"
         },
         "content": {
-          "introduction": "Kai jūsų langai pažeisti, įtrūkę ar netinkamai veikia, jums reikia patikimų profesionalių remonto paslaugų. Mūsų sertifikuoti technikai teikia išsamius langų remonto sprendimus visų tipų langams, užtikrindami, kad jūsų namai ar verslas išliktų saugūs, energetiškai efektyvūs ir patogūs.",
+          "introduction": "Kai Jūsų langai pažeisti, įskilę ar netinkamai veikia, Jums reikalingas patikimas profesionalus remontas. Mūsų patyrę meistrai atlieka visapusišką visų tipų langų remontą, kad Jūsų namai ar biuras išliktų saugūs, energetiškai efektyvūs ir jaukūs.",
           "sections": [
             {
               "title": "Dažniausios langų problemos, kurias sprendžiame",
-              "content": "<ul><li><strong>Sudužęs ar įtrūkęs stiklas</strong> - Vieno, dvigubų ir trigubų stiklų keitimas</li><li><strong>Sugedusi furnitūra</strong> - Spynų, rankenų, vyrių ir atidarymo mechanizmų remontas</li><li><strong>Sandarinimo defektai</strong> - Oro sandarinimo ir rėmo hermetizavimo problemos</li><li><strong>Pūčiamų vėjų problemos</strong> - Energetinio efektyvumo gerinimas ir izoliacija</li><li><strong>Užstrigę langai</strong> - Mechanizmų remontas ir reguliavimas</li></ul>"
+              "content": "<ul><li><strong>Įskilę ar sudužę stiklai</strong> – keičiame viengubus, dvigubus ir trigubus stiklo paketus</li><li><strong>Sugedusi furnitūra</strong> – spynos, rankenos, vyriai ir varstymo mechanizmai</li><li><strong>Pažeistas sandarumas</strong> – tarpinių keitimas ir rėmo sandarinimas</li><li><strong>Skersvėjai</strong> – energinio efektyvumo didinimas ir sandarinimas</li><li><strong>Stringantys langai</strong> – mechanizmų remontas ir reguliavimas</li></ul>"
             },
             {
-              "title": "Mūsų remonto procesas",
-              "content": "<p>Laikomės sistemiško požiūrio, kad užtikrintume kokybišką rezultatą:</p><ol><li><strong>Nemokamas vertinimas</strong> - Išsamus patikrinimas ir detalus sąmatos sudarymas</li><li><strong>Dalių parinkimas</strong> - Kokybiškų atsarginių dalių, tinkančių jūsų langų markei, paieška</li><li><strong>Profesionalus remontas</strong> - Ekspertų montavimas tiksliai ir rūpestingai</li><li><strong>Kokybės tikrinimas</strong> - Funkcijų testavimas ir garantijos dokumentų išdavimas</li></ol>"
+              "title": "Mūsų darbo eiga",
+              "content": "<p>Siekdami užtikrinti aukščiausią kokybę, darbus atliekame nuosekliai:</p><ol><li><strong>Nemokamas įvertinimas</strong> – atliekame išsamią apžiūrą ir pateikiame detalią sąmatą</li><li><strong>Detalių parinkimas</strong> – parenkame kokybiškas, Jūsų langų gamintojui tinkančias dalis</li><li><strong>Profesionalus remontas</strong> – meistriškai ir kruopščiai atliekame remonto darbus</li><li><strong>Kokybės patikra</strong> – patikriname langų veikimą ir suteikiame garantiją</li></ol>"
             },
             {
-              "title": "Kodėl rinktis mūsų langų remonto paslaugas",
-              "content": "<p>Turint daugiau nei 15 metų patirtį, sukūrėme puikų reputaciją:</p><ul><li>✓ <strong>Tos pačios dienos skubaus remonto</strong> paslauga</li><li>✓ <strong>Visų tipų ir markių langų</strong> aptarnavimas</li><li>✓ <strong>Sertifikuoti ir apdrausti</strong> technikai</li><li>✓ <strong>2 metų garantija</strong> visiems remonto darbams</li><li>✓ <strong>Skaidrus kainodaras</strong> be paslėptų mokesčių</li><li>✓ <strong>100% pasitenkinimo garantija</strong></li></ul>"
+              "title": "Kodėl verta rinktis mus?",
+              "content": "<p>Per daugiau nei 15 metų darbo sukaupėme didelę patirtį ir pelnėme puikią reputaciją:</p><ul><li>✓ <strong>Skubi pagalba tą pačią dieną</strong></li><li>✓ <strong>Remontuojame visų tipų ir gamintojų langus</strong></li><li>✓ <strong>Patyrę ir apdrausti meistrai</strong></li><li>✓ <strong>Visiems remonto darbams suteikiame 2 metų garantiją</strong></li><li>✓ <strong>Skaidrios kainos be jokių paslėptų mokesčių</strong></li><li>✓ <strong>100% pasitenkinimo garantija</strong></li></ul>"
             }
           ]
         },
         "cta": {
-          "title": "Reikia profesionalaus langų remonto?",
-          "description": "Neleiskite pažeistiems langams pabloginti jūsų komforto ir saugumo. Susisiekite su mūsų ekspertų komanda šiandien dėl greitų, patikimų langų remonto paslaugų su pasitenkinimo garantija."
+          "title": "Reikalingas profesionalus langų remontas?",
+          "description": "Neleiskite, kad pažeisti langai keltų nepatogumų ir mažintų Jūsų saugumą. Susisiekite su mūsų patyrusia komanda jau šiandien – greitai ir patikimai suremontuosime Jūsų langus ir suteiksime garantiją."
         }
       }
     },
     "pl": {
       "article": {
-        "title": "Profesjonalna naprawa okien",
-        "subtitle": "Eksperckie rozwiązania naprawy okien dla nieruchomości mieszkalnych i komercyjnych. Szybkie, niezawodne i gwarantowane rezultaty.",
+        "title": "Profesjonalny Serwis i Naprawa Okien",
+        "subtitle": "Fachowa naprawa okien dla domów i firm. Szybko, solidnie i z gwarancją jakości.",
         "image": {
           "src": "/images/services/window-repair-main.jpg",
-          "alt": "Profesjonalny technik naprawiający okno"
+          "alt": "Profesjonalny serwisant podczas naprawy okna"
         },
         "content": {
-          "introduction": "Gdy Twoje okna są uszkodzone, pęknięte lub nie działają prawidłowo, potrzebujesz profesjonalnych usług naprawczych, którym możesz zaufać. Nasi certyfikowani technicy zapewniają kompleksowe rozwiązania naprawy okien dla wszystkich typów okien, gwarantując, że Twój dom lub firma pozostanie bezpieczna, energooszczędna i komfortowa.",
+          "introduction": "Gdy Twoje okna są uszkodzone, pęknięte lub nie działają prawidłowo, potrzebujesz zaufanego serwisu. Nasi wykwalifikowani technicy oferują kompleksowe usługi naprawy wszystkich typów okien, dbając o bezpieczeństwo, energooszczędność i komfort w Twoim domu lub biurze.",
           "sections": [
             {
-              "title": "Typowe problemy z oknami, które naprawiamy",
-              "content": "<ul><li><strong>Rozbite lub pęknięte szkło</strong> - Wymiana szkła jedno-, dwu- i trójszybowego</li><li><strong>Uszkodzona okucia</strong> - Zamki, klamki, zawiasy i mechanizmy otwierania</li><li><strong>Awarie uszczelnień</strong> - Problemy z uszczelkami i uszczelnianiem ram</li><li><strong>Problemy z przeciągami</strong> - Poprawa efektywności energetycznej i izolacji</li><li><strong>Zablokowane okna</strong> - Naprawa i regulacja mechanizmów</li></ul>"
+              "title": "Najczęstsze problemy z oknami, które rozwiązujemy",
+              "content": "<ul><li><strong>Pęknięte lub zbite szyby</strong> - Wymiana pakietów jedno-, dwu- i trzyszybowych</li><li><strong>Uszkodzone okucia</strong> - Naprawa lub wymiana zamków, klamek, zawiasów i mechanizmów otwierania</li><li><strong>Nieszczelne uszczelki</strong> - Wymiana uszczelek i doszczelnianie ram okiennych</li><li><strong>Przeciągi i utrata ciepła</strong> - Poprawa izolacji termicznej i regulacja docisku skrzydła</li><li><strong>Zablokowane lub ciężko otwierające się okna</strong> - Regulacja i naprawa mechanizmów</li></ul>"
             },
             {
               "title": "Nasz proces naprawy",
-              "content": "<p>Stosujemy systematyczne podejście, aby zapewnić wysokiej jakości rezultaty:</p><ol><li><strong>Bezpłatna ocena</strong> - Kompleksowa inspekcja i szczegółowy kosztorys</li><li><strong>Pozyskiwanie części</strong> - Wysokiej jakości części zamienne specyficzne dla marki Twoich okien</li><li><strong>Profesjonalna naprawa</strong> - Ekspercki montaż z precyzją i starannością</li><li><strong>Testowanie jakości</strong> - Testowanie funkcji i dokumentacja gwarancyjna</li></ol>"
+              "content": "<p>Działamy według sprawdzonego schematu, aby zapewnić najwyższą jakość usług:</p><ol><li><strong>Bezpłatna diagnoza i wycena</strong> - Dokładnie sprawdzamy problem i przedstawiamy szczegółowy kosztorys.</li><li><strong>Dobór części zamiennych</strong> - Korzystamy z wysokiej jakości komponentów dopasowanych do Twoich okien.</li><li><strong>Fachowa naprawa</strong> - Precyzyjny montaż i regulacja wykonane przez doświadczonych serwisantów.</li><li><strong>Kontrola jakości i gwarancja</strong> - Sprawdzamy działanie okna i przekazujemy dokumentację gwarancyjną.</li></ol>"
             },
             {
-              "title": "Dlaczego wybrać nasze usługi naprawy okien",
-              "content": "<p>Z ponad 15-letnim doświadczeniem zbudowaliśmy reputację doskonałości:</p><ul><li>✓ <strong>Serwis awaryjny tego samego dnia</strong> dostępny</li><li>✓ <strong>Wszystkie typy i marki okien</strong> serwisowane</li><li>✓ <strong>Certyfikowani i ubezpieczeni</strong> technicy</li><li>✓ <strong>2-letnia gwarancja</strong> na wszystkie naprawy</li><li>✓ <strong>Przejrzyste ceny</strong> bez ukrytych opłat</li><li>✓ <strong>100% gwarancja satysfakcji</strong></li></ul>"
+              "title": "Dlaczego warto wybrać nasz serwis?",
+              "content": "<p>Ponad 15 lat doświadczenia pozwoliło nam zbudować reputację opartą na zaufaniu i jakości:</p><ul><li>✓ <strong>Pogotowie okienne</strong> – szybka pomoc w nagłych przypadkach</li><li>✓ Serwisujemy <strong>okna wszystkich typów i producentów</strong></li><li>✓ <strong>Doświadczeni fachowcy</strong> z ubezpieczeniem OC</li><li>✓ <strong>2-letnia gwarancja</strong> na wszystkie wykonane naprawy</li><li>✓ <strong>Przejrzysty cennik</strong> bez ukrytych kosztów</li><li>✓ <strong>Gwarancja satysfakcji</strong></li></ul>"
             }
           ]
         },
         "cta": {
-          "title": "Potrzebujesz profesjonalnej naprawy okien?",
-          "description": "Nie pozwól, aby uszkodzone okna wpłynęły na Twój komfort i bezpieczeństwo. Skontaktuj się z naszym zespołem ekspertów już dziś, aby uzyskać szybkie, niezawodne usługi naprawy okien z gwarancją satysfakcji."
+          "title": "Potrzebujesz fachowej naprawy okien?",
+          "description": "Nie pozwól, by uszkodzone okna zagrażały Twojemu bezpieczeństwu i komfortowi. Skontaktuj się z naszym zespołem ekspertów już dziś, aby zamówić szybką i solidną naprawę z gwarancją satysfakcji."
         }
       }
     },
     "uk": {
       "article": {
-        "title": "Професійні послуги ремонту вікон",
-        "subtitle": "Експертні рішення з ремонту вікон для житлових та комерційних об'єктів. Швидкі, надійні та гарантовані результати.",
+        "title": "Професійний ремонт вікон",
+        "subtitle": "Експертний ремонт вікон для квартир, будинків та комерційних приміщень. Швидко, надійно та з гарантією якості.",
         "image": {
           "src": "/images/services/window-repair-main.jpg",
-          "alt": "Професійний технік ремонтує вікно"
+          "alt": "Майстер з ремонту вікон за роботою"
         },
         "content": {
-          "introduction": "Коли ваші вікна пошкоджені, тріснуті або не працюють належним чином, вам потрібні професійні послуги з ремонту, яким ви можете довіряти. Наші сертифіковані техніки надають комплексні рішення з ремонту вікон для всіх типів вікон, забезпечуючи безпеку, енергоефективність та комфорт вашого дому чи бізнесу.",
+          "introduction": "Якщо ваші вікна пошкоджені, тріснули або погано функціонують, вам потрібен надійний професійний сервіс. Наші досвідчені майстри виконують комплексний ремонт вікон усіх типів, щоб ваш дім чи офіс знову став безпечним, теплим і затишним.",
           "sections": [
             {
               "title": "Поширені проблеми з вікнами, які ми вирішуємо",
-              "content": "<ul><li><strong>Розбите або тріснуте скло</strong> - Заміна одно-, дво- та тришарового скла</li><li><strong>Несправна фурнітура</strong> - Замки, ручки, петлі та механізми відкривання</li><li><strong>Порушення герметичності</strong> - Проблеми з ущільненням та герметизацією рам</li><li><strong>Проблеми з протягами</strong> - Покращення енергоефективності та ізоляції</li><li><strong>Заблоковані вікна</strong> - Ремонт та налаштування механізмів</li></ul>"
+              "content": "<ul><li><strong>Розбите або тріснуте скло</strong> – заміна одно-, дво- та трикамерних склопакетів</li><li><strong>Несправна фурнітура</strong> – ремонт та заміна замків, ручок, петель та механізмів відкривання</li><li><strong>Порушення герметичності</strong> – заміна ущільнювача та герметизація рами</li><li><strong>Протяги з вікна</strong> – усунення протягів, покращення теплоізоляції</li><li><strong>Вікно заїдає або не відкривається</strong> – ремонт та регулювання механізмів</li></ul>"
             },
             {
-              "title": "Наш процес ремонту",
-              "content": "<p>Ми дотримуємося систематичного підходу для забезпечення якісних результатів:</p><ol><li><strong>Безкоштовна оцінка</strong> - Комплексна інспекція та детальна кошторисна вартість</li><li><strong>Підбір деталей</strong> - Якісні запчастини, специфічні для марки ваших вікон</li><li><strong>Професійний ремонт</strong> - Експертне встановлення з точністю та турботою</li><li><strong>Тестування якості</strong> - Перевірка функцій та гарантійна документація</li></ol>"
+              "title": "Як ми працюємо",
+              "content": "<p>Ми дотримуємося чіткого алгоритму для гарантії якісного результату:</p><ol><li><strong>Безкоштовна діагностика</strong> – повний огляд проблеми та складання детального кошторису.</li><li><strong>Підбір комплектуючих</strong> – використовуємо якісні запчастини, що ідеально підходять до ваших вікон.</li><li><strong>Професійний ремонт</strong> – кваліфіковане виконання робіт з максимальною точністю та акуратністю.</li><li><strong>Перевірка якості</strong> – фінальне тестування роботи механізмів та надання офіційної гарантії.</li></ol>"
             },
             {
-              "title": "Чому обрати наші послуги з ремонту вікон",
-              "content": "<p>Маючи понад 15 років досвіду, ми створили репутацію досконалості:</p><ul><li>✓ <strong>Екстрений сервіс того ж дня</strong> доступний</li><li>✓ <strong>Всі типи та марки вікон</strong> обслуговуються</li><li>✓ <strong>Сертифіковані та застраховані</strong> техніки</li><li>✓ <strong>2-річна гарантія</strong> на всі ремонти</li><li>✓ <strong>Прозоре ціноутворення</strong> без прихованих платежів</li><li>✓ <strong>100% гарантія задоволення</strong></li></ul>"
+              "title": "Чому варто обрати саме нас",
+              "content": "<p>Понад 15 років досвіду дозволили нам заслужити репутацію надійного партнера:</p><ul><li>✓ <strong>Терміновий виїзд майстра</strong> в день звернення</li><li>✓ Працюємо з <strong>усіма типами та брендами вікон</strong></li><li>✓ <strong>Сертифіковані та застраховані</strong> майстри</li><li>✓ <strong>Гарантія до 2 років</strong> на всі види робіт</li><li>✓ <strong>Прозорі ціни</strong> без прихованих платежів</li><li>✓ <strong>Гарантія 100% задоволення результатом</strong></li></ul>"
             }
           ]
         },
         "cta": {
           "title": "Потрібен професійний ремонт вікон?",
-          "description": "Не дозволяйте пошкодженим вікнам погіршувати ваш комфорт та безпеку. Зв'яжіться з нашою командою експертів сьогодні для швидких, надійних послуг з ремонту вікон з гарантією задоволення."
+          "description": "Не дозволяйте пошкодженим вікнам псувати ваш комфорт та безпеку. Зв'яжіться з нашою командою експертів вже сьогодні, щоб отримати швидкий та надійний ремонт з гарантією якості."
         }
       }
     }

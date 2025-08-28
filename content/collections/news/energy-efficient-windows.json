@@ -145,125 +145,248 @@
       ]
     },
     "lt": {
-      "title": "Energijos Efektyvūs Langai: Vadovas Šildymo Išlaidų Mažinimui",
-      "excerpt": "Energijos efektyvūs langai gali sumažinti šildymo išlaidas iki 40% ir drastiškai pagerinti patalpų komfortą. Sužinokite apie naujausias langų technologijas ir kaip pasirinkti idealius energiją taupančius langus.",
+      "title": "Energiją taupančių langų gidas: kaip sumažinti šildymo išlaidas ir padidinti komfortą",
+      "excerpt": "Energiją taupantys langai gali sumažinti jūsų šildymo išlaidas net iki 40 % ir pastebimai pagerinti patalpų komfortą. Sužinokite apie naujausias langų technologijas, efektyvumo rodiklius ir kaip išsirinkti tobulus energiją taupančius langus savo namams.",
       "featuredImage": "/images/smart-window-technology-og.webp",
-      "featuredImageAlt": "Technikai įrengia naują dvigubai stiklinį langų bloką į langų rėmą, profesionalus stiklo keitimas",
-      "introduction": "Lietuvos klimate, kur šildymo išlaidos gali sudaryti iki 60% namų ūkio energijos sąskaitų, energijos efektyvių langų pasirinkimas yra ne tik aplinkosauginis sprendimas, bet ir protinga finansinė investicija. Šiuolaikinė langų technologija pažengė dramatiškai, suteikdama namų savininkams neprecedentines galimybes sumažinti energijos suvartojimą ir pagerinti komfortą.",
+      "featuredImageAlt": "Meistrai montuoja naują stiklo paketą į lango rėmą, profesionalus stiklų keitimas",
+      "introduction": "Lietuvos klimate, kur šildymo išlaidos gali sudaryti net iki 60 % visų namų ūkio energijos sąskaitų, energiją taupančių langų pasirinkimas yra ne tik ekologiškas sprendimas, bet ir protinga finansinė investicija. Šiuolaikinės langų technologijos pažengė į priekį, suteikdamos namų savininkams dar neregėtas galimybes sumažinti energijos sąnaudas ir kartu pagerinti gyvenimo kokybę. Šis išsamus gidas padės jums suprasti langų energinio efektyvumo rodiklius, technologijas ir priimti pagrįstus sprendimus, kurie per visą langų tarnavimo laiką padės sutaupyti tūkstančius eurų.",
       "sections": [
         {
-          "id": "langu-energijos-ivertinimai",
-          "title": "Langų Energijos Įvertinimų Supratimas",
-          "content": "**Pagrindiniai Veikimo Rodikliai**\n\n**U-vertė (Šiluminio Pralaidumo Koeficientas)**\n- Matuoja šilumos praradimą per langą\n- Mažesnės vertės = geresnė izoliacija\n- Matuojama W/m²K (vatai kvadratiniam metrui kelvinui)\n- Šiuolaikiniai efektyvūs langai: 0,8-1,2 W/m²K\n- Premium langai: 0,5-0,8 W/m²K\n- Pasyvaus namo standartas: ≤0,8 W/m²K\n\n**SHGC (Saulės Šilumos Pritekėjimo Koeficientas)**\n- Matuoja saulės energijos perdavimą\n- Diapazonas: 0-1 (aukštesnis = daugiau saulės šilumos)\n- Optimalus Lietuvai: 0,4-0,6\n- Pusiausvyra tarp žiemos šilumos ir vasaros vėsinimo"
+          "id": "understanding-window-energy-ratings",
+          "title": "Kaip suprasti langų energinio efektyvumo rodiklius",
+          "content": "**Svarbiausi efektyvumo rodikliai**\n\n**Šilumos perdavimo koeficientas (U vertė)**\n- Rodo šilumos nuostolius per langą\n- Kuo mažesnė vertė, tuo geresnė izoliacija\n- Matuojamas W/m²K (vatais kvadratiniam metrui į Kelviną)\n- Šiuolaikiniai efektyvūs langai: 0,8–1,2 W/m²K\n- Aukščiausios klasės langai: 0,5–0,8 W/m²K\n- Pasyvaus namo standartas: ≤0,8 W/m²K\n\n**Visuminis saulės energijos pralaidumo koeficientas (g vertė arba SHGC)**\n- Rodo, kiek saulės šilumos patenka į vidų\n- Reikšmės nuo 0 iki 1 (kuo didesnė, tuo daugiau šilumos praleidžiama)\n- Optimalus rodiklis Lietuvai: 0,4–0,6\n- Svarbus balansas tarp šilumos pritekėjimo žiemą ir apsaugos nuo perkaitimo vasarą\n\n**Šviesos pralaidumo koeficientas (LT vertė arba VT)**\n- Rodo, kiek natūralios dienos šviesos patenka į patalpą\n- Reikšmės nuo 0 iki 1 (kuo didesnė, tuo šviesiau)\n- Kokybiški langai: 0,6–0,8\n- Svarbus norint išlaikyti šviesų interjerą\n\n**Oro skverbties rodiklis (sandarumas)**\n- Rodo oro pralaidumą per lango konstrukciją\n- Kuo mažesnė vertė, tuo langas sandaresnis\n- Kokybiški langai: <0,3 m³/h·m²\n- Aukščiausios klasės langai: <0,1 m³/h·m²",
+          "tips": [
+            "Ieškokite sertifikatų (pvz., „Passive House“), patvirtinančių langų savybes.",
+            "Vertinkite bendrą viso lango, o ne tik stiklo paketo, efektyvumą.",
+            "Atsižvelkite į Lietuvos klimatui pritaikytus rodiklius, kad pasiektumėte maksimalų efektyvumą."
+          ]
         },
         {
-          "id": "langu-technologijos",
-          "title": "Pažangūs Langų Technologijos",
-          "content": "**Stiklinimo Technologijos**\n\n**Trigubas Stiklinimas**\n- Trys stiklo sluoksniai su dviem izoliuojančiomis kameromis\n- U-vertės iki 0,5 W/m²K\n- Puikiai tinka Lietuvos klimatui\n- 40-60% geriau nei dvigubas stiklinimas\n- Sumažinta kondensacija ir vėjo srautai\n\n**Low-E Dangos**\n- Mikroskopinis metalinis stiklo dangos sluoksnis\n- Atspindi šilumą atgal į patalpą\n- Keli tipai skirtingiems klimatams\n- Gali pagerinti U-vertę 30-50%\n- Išlaiko natūralaus šviesos perdavimą"
+          "id": "window-technologies",
+          "title": "Šiuolaikinės langų technologijos",
+          "content": "**Stiklo paketų technologijos**\n\n**Trijų stiklų stiklo paketas**\n- Trys stiklo lakštai su dviem izoliacinėmis kameromis\n- U vertė gali siekti vos 0,5 W/m²K\n- Puikiai tinka Lietuvos klimatui\n- 40–60 % efektyvesnis už dviejų stiklų paketą\n- Mažina kondensato susidarymą ir skersvėjus\n\n**Selektyvinė (Low-E) danga**\n- Mikroskopinė metalo oksidų danga ant stiklo\n- Atspindi šilumą atgal į patalpą\n- Egzistuoja keli tipai, pritaikyti skirtingam klimatui\n- Gali pagerinti U vertę 30–50 %\n- Išlaiko aukštą šviesos pralaidumą\n\n**Inertinės dujos**\n- Argonas: populiariausias pasirinkimas, geras efektyvumo ir kainos santykis\n- Kriptonas: geresnė izoliacija, didesnė kaina\n- Ksenonas: aukščiausios klasės pasirinkimas maksimaliam efektyvumui\n- Užpildo tarpus tarp stiklų ir pagerina šilumos izoliaciją\n\n**„Šilti rėmeliai“**\n- Izoliacinė medžiaga tarp stiklo lakštų paketo kraštuose\n- Mažina šalčio tiltelį perimetru\n- Apsaugo nuo kondensato susidarymo lango kraštuose\n- Pagerina bendrą lango šiluminį efektyvumą\n\n**Langų rėmų technologijos**\n\n**Daugiakameriniai profiliai**\n- Rėmo viduje esančios oro kameros\n- Mažina šalčio tiltelius\n- Suteikia profiliui tvirtumo\n- Pagerina rėmo šilumos izoliaciją\n\n**Termoizoliaciniai tarpikliai**\n- Izoliacinės pertvaros rėmo konstrukcijoje\n- Sustabdo šilumos perdavimą per metalą\n- Būtini aliuminio profilių languose\n- Ženkliai padidina efektyvumą",
+          "benefits": [
+            "Iki 40 % mažesnės šildymo išlaidos",
+            "Didesnis komfortas namuose visus metus",
+            "Mažesnis kondensatas ir skersvėjai",
+            "Geresnė garso izoliacija"
+          ]
         },
         {
-          "id": "tinkamu-langu-pasirinkimas",
-          "title": "Tinkamų Energijos Efektyvių Langų Pasirinkimas",
-          "content": "**Klimato Aspektai Lietuvai**\n\n**Šildymo Dominuojantis Klimatas**\n- Pirmenybė žemoms U-vertėms šilumos išlaikymui\n- Vidutinis SHGC žiemos saulės pritekėjimui\n- Apsvarstykite orientacijos specifinį stiklinimą\n- Dėmesys oro sandarinimui ir šiluminėms savybėms\n\n**Rėmo Medžiagų Pasirinkimas**\n\n**uPVC (Vinilas)**\n- Puikios šiluminės savybės\n- Mažai priežiūros reikalavimai\n- Ekonomiškas variantas\n- Geras ilgaamžiškumas Lietuvos klimate"
+          "id": "choosing-right-windows",
+          "title": "Kaip išsirinkti tinkamiausius energiją taupančius langus",
+          "content": "**Sprendimai, pritaikyti Lietuvos klimatui**\n\n**Klimatas, kuriame dominuoja šildymo sezonas**\n- Teikite pirmenybę kuo mažesnei U vertei, kad išsaugotumėte šilumą\n- Rinkitės vidutinę g vertę, kad žiemą gautumėte naudos iš saulės šilumos\n- Apsvarstykite skirtingus stiklo paketus skirtingoms namo pusėms\n- Didžiausią dėmesį skirkite sandarumui ir šiluminėms savybėms\n\n**Efektyvumas skirtingais metų laikais**\n- **Žiemą**: maksimalus šilumos išsaugojimas ir saulės energijos pritekėjimas\n- **Vasarą**: apsauga nuo perkaitimo ir akinančios saulės\n- **Tarpsezoniu**: subalansuotas efektyvumas\n- **Visus metus**: pastovus komfortas ir mažos energijos sąnaudos\n\n**Langų optimizavimas pagal pasaulio kryptis**\n\n**Pietų krypties langai**\n- Rinkitės didesnę g vertę, kad žiemą patalpos natūraliai sušiltų\n- Apsvarstykite stogelius ar žaliuzes apsaugai nuo vasaros saulės\n- Maksimali nauda dėl dienos šviesos\n- Geriausia investicijų grąža\n\n**Šiaurės krypties langai**\n- Svarbiausia – kuo mažesnė U vertė\n- Gali būti ir mažesnė g vertė\n- Dėmesys sutelkiamas į izoliaciją\n- Siekiama kuo labiau sumažinti šilumos nuostolius\n\n**Rytų ir vakarų krypties langai**\n- Rinkitės vidutinę g vertę, kad išvengtumėte akinimo\n- Svarbus geras šilumos izoliacijos rodiklis\n- Apsvarstykite tonuotus ar selektyvine danga padengtus stiklus\n- Subalansuokite šviesos pralaidumą ir apsaugą nuo perkaitimo\n\n**Rėmo medžiagos pasirinkimas**\n\n**PVC (plastikiniai)**\n- Puikios šiluminės savybės\n- Nereikalauja daug priežiūros\n- Geras kainos ir kokybės santykis\n- Patvarūs ir ilgaamžiai Lietuvos klimato sąlygomis\n\n**Mediniai**\n- Natūralios izoliacinės savybės\n- Estetiška išvaizda\n- Reikalauja reguliarios priežiūros\n- Aukštesnės klasės pasirinkimas, pasižymintis geromis savybėmis\n\n**Aliumininiai su termoizoliacine pertvara**\n- Itin patvarūs ir tvirti\n- Šiuolaikinės technologijos užtikrina gerą šilumos izoliaciją\n- Tinka didelių gabaritų langams ir vitrinoms\n- Brangesni, bet ilgaamžiai\n\n**Kompozitiniai**\n- Apjungia kelių medžiagų privalumus\n- Išskirtinis efektyvumas ir patvarumas\n- Minimali priežiūra\n- Aukščiausios kainų kategorijos pasirinkimas",
+          "callout": "Meistro patarimas: net ir pats geriausias langas praras iki 50 % savo efektyvumo, jei bus sumontuotas netinkamai. Profesionalus montavimas yra būtinas norint pasiekti laukiamą rezultatą."
+        },
+        {
+          "id": "cost-benefit-analysis",
+          "title": "Kainos, naudos ir investicijų atsipirkimo (ROI) analizė",
+          "content": "**Investicijų dydis (orientacinės kainos Lietuvos rinkoje)**\n\n**Langų tipai ir kainos**\n- **Standartinis dviejų stiklų paketas**: 200–400 €/m²\n- **Efektyvesnis dviejų stiklų paketas**: 300–500 €/m²\n- **Trijų stiklų paketas**: 400–700 €/m²\n- **Aukščiausios klasės trijų stiklų paketas**: 600–1000 €/m²\n- **Montavimo kaina**: 100–200 € už vieną langą\n\n**Energijos sutaupymo skaičiavimai**\n\n**Metinis šildymo išlaidų sumažėjimas**\n- Vidutinės šildymo išlaidos Lietuvoje: 800–1200 € per metus\n- Standartiniai langai: 0 % sutaupymas (atspirties taškas)\n- Efektyvesni dviejų stiklų langai: 15–25 % sutaupymas\n- Trijų stiklų langai: 25–40 % sutaupymas\n- Aukščiausios klasės sistemos: 35–50 % sutaupymas\n\n**Atsipirkimo laikotarpio analizė**\n- **Efektyvesni dviejų stiklų langai**: 8–12 metų\n- **Trijų stiklų langai**: 10–15 metų\n- **Aukščiausios klasės sistemos**: 12–18 metų\n- **Papildoma nauda**: komfortas, didesnė turto vertė, ilgaamžiškumas\n\n**Nauda per visą tarnavimo laiką (25 metai)**\n- **Sutaupyta energija**: 5 000–15 000 €\n- **Mažesnės priežiūros išlaidos**: 1 000–3 000 €\n- **Turto vertės padidėjimas**: 3–7 %\n- **Komfortas ir geresnė savijauta**: neįkainojama\n\n**Finansavimas ir parama**\n- **ES renovacijos fondai**: parama gali siekti iki 50 %\n- **APVA parama**: įvairios kompensacijos už energinio efektyvumo didinimą\n- **Bankų finansavimas**: specialios paskolų sąlygos energijos taupymo sprendimams\n- **Mokestinės lengvatos**: galimybė pasinaudoti lengvatomis",
+          "benefits": [
+            "Iškart juntamas komforto pagerėjimas",
+            "Mažesnės sąskaitos už energiją nuo pat pirmos dienos",
+            "Padidėjusi nekilnojamojo turto vertė",
+            "Geresnė patalpų oro kokybė"
+          ]
+        },
+        {
+          "id": "installation-maintenance",
+          "title": "Profesionalus montavimas ir priežiūra",
+          "content": "**Svarbiausi montavimo aspektai**\n\n**Tinkamas sandarinimas ir izoliacija**\n- Visiškas sandarumas aplink lango rėmą\n- Tinkamas angokraščių apšiltinimas\n- Kokybiškų sandarinimo tarpinių naudojimas\n- Šilumos tiltelių eliminavimas\n\n**Konstrukciniai reikalavimai**\n- Tvirta atrama, atlaikanti lango svorį\n- Tinkamas palangių ir skardinimo įrengimas\n- Deformacinių siūlių įvertinimas\n- Statybos techninių reglamentų laikymasis\n\n**Kokybės kontrolės priemonės**\n- Sandarumo testas po montavimo\n- Termovizinis patikrinimas\n- Visų judančių dalių veikimo patikra\n- Atitikties deklaruojamiems rodikliams patikrinimas\n\n**Priežiūra optimaliam efektyvumui užtikrinti**\n\n**Reguliarios priežiūros grafikas**\n- **Kas mėnesį**: nuvalykite stiklus ir patikrinkite varstymą\n- **Kas ketvirtį**: apžiūrėkite sandarinimo tarpines\n- **Kartą per metus**: rekomenduojamas profesionalus patikrinimas\n- **Prireikus**: apkaustų sutepimas ir reguliavimas\n\n**Efektyvumo stebėjimas**\n- Sekite energijos sąnaudų pokyčius\n- Stebėkite, ar nesikaupia kondensatas\n- Kasmet patikrinkite, ar nejaučiate skersvėjų\n- Fiksuokite bet kokius langų veikimo pokyčius\n\n**Profesionalaus aptarnavimo nauda**\n- Galiojanti garantija\n- Optimalaus efektyvumo palaikymas\n- Ankstyvas problemų nustatymas\n- Ilgesnis langų tarnavimo laikas",
+          "warning": "Savarankiškas langų montavimas dažnai panaikina gamintojo garantiją ir gali sumažinti jų efektyvumą 30–50 %. Norint pasiekti deklaruojamas savybes, profesionalus montavimas yra būtinas."
         }
       ],
-      "conclusion": "Energijos efektyvūs langai yra vienas iš poveikiausių namų pagerinimų, kuriuos galite atlikti Lietuvos klimate. Su potencialia 25-40% energijos taupymo galimybe ir pagerėjusiu komfortu visus metus, investicija atsipirks dešimtmečiais.",
+      "conclusion": "Energiją taupantys langai – viena svarbiausių investicijų į namus Lietuvos klimate. Galimybė sumažinti energijos sąnaudas 25–40 % ir mėgautis komfortu visus metus reiškia, kad ši investicija atsiperka su kaupu per dešimtmečius. Svarbiausia – pasirinkti jūsų poreikius atitinkančias technologijas ir patikėti montavimą profesionalams. Augant energijos kainoms ir didėjant susirūpinimui dėl aplinkos, energiją taupantys langai nebėra prabanga – tai būtinybė šiuolaikiškam, patogiam ir tvariam gyvenimui.",
       "ctaSection": {
-        "title": "Pereikite prie Energijos Efektyvių Langų Šiandien",
-        "description": "Transformuokite savo namų energijos efektyvumą su mūsų aukščiausios kokybės energijos efektyviais langais.",
+        "title": "Investuokite į šiltesnius namus ir mažesnes sąskaitas",
+        "description": "Pagerinkite savo namų energinį efektyvumą su mūsų aukščiausios kokybės langais. Nuo konsultacijos iki montavimo – užtikriname maksimalią investicijos grąžą ir komfortą.",
         "benefits": [
-          "Nemokama energijos efektyvumo konsultacija",
+          "Nemokama konsultacija energinio efektyvumo klausimais",
           "Aukščiausios kokybės langų technologijos",
-          "Profesionalaus montažo garantija",
-          "Galimi finansavimo variantai"
+          "Profesionalaus montavimo garantija",
+          "Galimybė pasinaudoti parama ir finansavimu"
         ]
       },
       "faq": [
         {
-          "question": "Kiek galiu sutaupyti su energijos efektyviais langais?",
-          "answer": "Lietuvos klimate energijos efektyvūs langai gali sumažinti šildymo išlaidas 25-40%. Vidutiniams namams, išleidžiantiems €1000 per metus šildymui, tai reiškia €250-400 metinį taupymą arba €6,000-10,000 per langų 25 metų eksploatacijos laiką."
+          "question": "Kiek galiu sutaupyti pasirinkęs energiją taupančius langus?",
+          "answer": "Lietuvos klimato sąlygomis energiją taupantys langai gali sumažinti šildymo išlaidas 25–40 %. Jei vidutiniškai namų ūkis šildymui išleidžia 1000 € per metus, tai reiškia 250–400 € metinį sutaupymą arba 6 000–10 000 € per visą langų tarnavimo laiką (25 metus)."
+        },
+        {
+          "question": "Ar verta investuoti į brangesnius trijų stiklų langus?",
+          "answer": "Šaltame Lietuvos klimate trijų stiklų langai yra maždaug 15–20 % efektyvesni už kokybiškus dviejų stiklų langus. Investicija paprastai atsiperka per 10–15 metų, todėl tai yra vertingas ilgalaikis sprendimas, ypač nuolat kylančių energijos kainų kontekste."
+        },
+        {
+          "question": "Į kokį rodiklį svarbiausia atsižvelgti renkantis langus?",
+          "answer": "Lietuvos klimatui svarbiausia yra kuo mažesnė šilumos perdavimo koeficiento (U) vertė (idealiu atveju ≤1,0 W/m²K), kuri užtikrina šilumos išsaugojimą. Saulės energijos pralaidumo koeficientas (g) turėtų būti apie 0,4–0,6, kad žiemą gautumėte naudos iš saulės šilumos, bet vasarą patalpos neperkaistų. Visada vertinkite viso lango, o ne tik stiklo paketo, rodiklius."
+        },
+        {
+          "question": "Kiek laiko tarnauja energiją taupantys langai?",
+          "answer": "Kokybiški ir tinkamai prižiūrimi energiją taupantys langai tarnauja 20–25 metus. Aukščiausios klasės sistemos gali tarnauti ir virš 30 metų. Dėl sutaupomos energijos ir pagerėjusio komforto tai yra atsiperkanti ilgalaikė investicija."
         }
       ]
     },
     "pl": {
-      "title": "Energooszczędne Okna: Przewodnik Redukcji Kosztów Ogrzewania",
-      "excerpt": "Energooszczędne okna mogą zmniejszyć koszty ogrzewania o 40% i dramatycznie poprawić komfort wnętrz. Poznaj najnowsze technologie okienne i jak wybrać idealne energooszczędne okna.",
+      "title": "Przewodnik po oknach energooszczędnych: Jak obniżyć rachunki za ogrzewanie i zwiększyć komfort",
+      "excerpt": "Okna energooszczędne mogą obniżyć Twoje koszty ogrzewania nawet o 40%, jednocześnie znacząco poprawiając komfort wewnątrz domu. Poznaj najnowsze technologie okienne, parametry techniczne i dowiedz się, jak wybrać idealne okna dla swojego domu, by oszczędzać energię.",
       "featuredImage": "/images/smart-window-technology-og.webp",
-      "featuredImageAlt": "Technicy instalują nową dwuszybową jednostkę szklaną w ramie okiennej, profesjonalna wymiana szkła",
-      "introduction": "W klimacie Litwy, gdzie koszty ogrzewania mogą stanowić do 60% rachunków za energię gospodarstwa domowego, wybór energooszczędnych okien to nie tylko wybór ekologiczny, ale także mądra inwestycja finansowa. Nowoczesna technologia okien rozwinęła się dramatycznie, oferując właścicielom domów bezprecedensowe możliwości redukcji zużycia energii przy jednoczesnej poprawie komfortu.",
+      "featuredImageAlt": "Montażyści instalujący nowy pakiet szybowy w ramie okiennej, profesjonalna wymiana szyb",
+      "introduction": "W polskim klimacie, gdzie koszty ogrzewania mogą stanowić nawet 60% domowych rachunków za energię, wybór okien energooszczędnych to nie tylko kwestia ekologii, ale przede wszystkim mądra inwestycja finansowa. Nowoczesne technologie okienne rozwinęły się w imponującym tempie, dając właścicielom domów niespotykane dotąd możliwości redukcji zużycia energii przy jednoczesnej poprawie komfortu. Ten kompleksowy przewodnik pomoże Ci zrozumieć kluczowe parametry okien, dostępne technologie i podjąć świadomą decyzję, która pozwoli zaoszczędzić tysiące złotych w całym okresie użytkowania okien.",
       "sections": [
         {
-          "id": "oceny-energetyczne-okien",
-          "title": "Zrozumienie Ocen Energetycznych Okien",
-          "content": "**Kluczowe Wskaźniki Wydajności**\n\n**Wartość U (Współczynnik Przenikania Ciepła)**\n- Mierzy utratę ciepła przez okno\n- Niższe wartości = lepsza izolacja\n- Mierzone w W/m²K (waty na metr kwadratowy na kelwin)\n- Nowoczesne efektywne okna: 0,8-1,2 W/m²K\n- Okna premium: 0,5-0,8 W/m²K\n- Standard domu pasywnego: ≤0,8 W/m²K\n\n**SHGC (Współczynnik Zysków Ciepła Słonecznego)**\n- Mierzy transmisję energii słonecznej\n- Zakres: 0-1 (wyższy = więcej zysków ciepła słonecznego)\n- Optymalny dla Litwy: 0,4-0,6\n- Równowaga między zimowymi zyskami ciepła a letnim chłodzeniem"
+          "id": "understanding-window-energy-ratings",
+          "title": "Jak rozumieć parametry energetyczne okien",
+          "content": "**Kluczowe wskaźniki wydajności**\n\n**Współczynnik przenikania ciepła (Uw)**\n- Określa, ile ciepła ucieka przez okno\n- Im niższa wartość, tym lepsza izolacja\n- Mierzony w W/m²K (wat na metr kwadratowy na kelwin)\n- Nowoczesne okna energooszczędne: 0,8-1,2 W/m²K\n- Okna klasy premium: 0,5-0,8 W/m²K\n- Standard domu pasywnego: ≤0,8 W/m²K\n\n**Współczynnik przepuszczalności energii słonecznej (g)**\n- Określa, ile energii słonecznej przenika do wnętrza\n- Zakres: 0-1 (wyższa wartość = więcej zysków ciepła od słońca)\n- Optymalny w polskim klimacie: 0,4-0,6\n- Równowaga między zyskami ciepła zimą a ochroną przed przegrzewaniem latem\n\n**Współczynnik przepuszczalności światła (Lt)**\n- Określa, ile światła dziennego wpada do pomieszczenia\n- Zakres: 0-1 (wyższa wartość = jaśniejsze wnętrze)\n- Dobrej jakości okna: 0,6-0,8\n- Ważny dla utrzymania jasnych, dobrze oświetlonych wnętrz\n\n**Klasa przepuszczalności powietrza**\n- Mierzy szczelność okna na infiltrację powietrza\n- Im niższa klasa/wartość, tym lepsza szczelność\n- Dobrej jakości okna: klasa 4 (<0,3 m³/h·m²)\n- Okna premium: klasa 4 (<0,1 m³/h·m²)",
+          "tips": [
+            "Szukaj certyfikatów i atestów niezależnych instytutów, które potwierdzają deklarowane parametry.",
+            "Porównuj współczynnik Uw dla całego okna, a nie tylko współczynnik Ug dla samego pakietu szybowego.",
+            "Wybieraj okna z parametrami dostosowanymi do polskiej strefy klimatycznej."
+          ]
         },
         {
-          "id": "technologie-okien",
-          "title": "Zaawansowane Technologie Okien",
-          "content": "**Technologie Oszklenia**\n\n**Potrójne Oszklenie**\n- Trzy szyby szkła z dwiema komorami izolacyjnymi\n- Wartości U nawet do 0,5 W/m²K\n- Doskonałe dla klimatu Litwy\n- 40-60% lepsze niż podwójne oszklenie\n- Zmniejszona kondensacja i przeciągi\n\n**Powłoki Low-E**\n- Mikroskopijne metaliczne powłoki na szkle\n- Odbijają ciepło z powrotem do pomieszczenia\n- Wiele typów dla różnych klimatów\n- Mogą poprawić wartość U o 30-50%\n- Zachowują transmisję naturalnego światła"
+          "id": "window-technologies",
+          "title": "Nowoczesne technologie okienne",
+          "content": "**Technologie pakietów szybowych**\n\n**Pakiety trzyszybowe**\n- Trzy tafle szkła tworzące dwie komory izolacyjne\n- Współczynnik Uw nawet na poziomie 0,5 W/m²K\n- Idealne rozwiązanie w polskim klimacie\n- O 40-60% lepsza izolacja niż w standardowych pakietach dwuszybowych\n- Ograniczenie kondensacji pary wodnej i uczucia chłodu przy oknie\n\n**Powłoki niskoemisyjne (Low-E)**\n- Niewidoczna, mikroskopijna warstwa metalu na szybie\n- Odbija ciepło z powrotem do wnętrza, zapobiegając jego utracie\n- Różne rodzaje powłok, dostosowane do potrzeb klimatycznych\n- Mogą poprawić współczynnik Uw o 30-50%\n- Nie ograniczają przepuszczalności światła dziennego\n\n**Wypełnienie gazem szlachetnym**\n- Argon: najpopularniejszy, bardzo dobra relacja ceny do jakości\n- Krypton: lepsze właściwości izolacyjne, wyższy koszt\n- Ksenon: opcja premium dla maksymalnej efektywności\n- Gaz zastępuje powietrze między szybami, ograniczając straty ciepła\n\n**Ciepłe ramki dystansowe**\n- Element z tworzywa izolacyjnego oddzielający tafle szkła\n- Ograniczają powstawanie mostków termicznych na krawędziach szyby\n- Zapobiegają kondensacji pary wodnej wzdłuż ram okiennych\n- Poprawiają ogólną wydajność energetyczną całego okna\n\n**Technologie profili okiennych**\n\n**Profile wielokomorowe**\n- Wewnętrzne komory powietrzne w ramie okiennej\n- Redukują straty ciepła przez profil\n- Zwiększają sztywność i wytrzymałość konstrukcji\n- Poprawiają właściwości izolacyjne ramy\n\n**Przekładki termiczne**\n- Bariery z materiału izolacyjnego wewnątrz profili\n- Przerywają przewodzenie ciepła przez materiał ramy\n- Niezbędne w ramach aluminiowych\n- Znacząco poprawiają efektywność energetyczną",
+          "benefits": [
+            "Obniżenie kosztów ogrzewania nawet o 40%",
+            "Wyższy komfort termiczny przez cały rok",
+            "Ograniczenie kondensacji pary wodnej i przeciągów",
+            "Lepsza izolacja akustyczna"
+          ]
         },
         {
-          "id": "wybor-odpowiednich-okien",
-          "title": "Wybór Odpowiednich Energooszczędnych Okien",
-          "content": "**Względy Klimatyczne dla Litwy**\n\n**Klimat Zdominowany przez Ogrzewanie**\n- Priorytet dla niskich wartości U dla zatrzymania ciepła\n- Umiarkowany SHGC dla zimowych zysków słonecznych\n- Rozważ oszklenie specyficzne dla orientacji\n- Skupienie na uszczelnieniu powietrza i wydajności termicznej\n\n**Wybór Materiału Ramy**\n\n**uPVC (Winyl)**\n- Doskonała wydajność termiczna\n- Niskie wymagania konserwacyjne\n- Opcja ekonomiczna\n- Dobra trwałość w klimacie Litwy"
+          "id": "choosing-right-windows",
+          "title": "Jak wybrać odpowiednie okna energooszczędne?",
+          "content": "**Dopasowanie do polskiego klimatu**\n\n**Klimat z dominującym sezonem grzewczym**\n- Priorytetem jest niski współczynnik Uw dla zatrzymania ciepła\n- Umiarkowany współczynnik g dla pasywnych zysków ciepła zimą\n- Rozważ pakiety szybowe dobrane do orientacji budynku\n- Skup się na szczelności i ogólnej wydajności termicznej\n\n**Wydajność w różnych porach roku**\n- **Zima**: Maksymalne zatrzymanie ciepła i zyski słoneczne\n- **Lato**: Ochrona przed przegrzewaniem i oślepiającym słońcem\n- **Pory przejściowe**: Zrównoważona wydajność\n- **Cały rok**: Stały komfort i efektywność energetyczna\n\n**Optymalizacja okien względem stron świata**\n\n**Okna od strony południowej**\n- Wyższy współczynnik g dla maksymalnych zysków ciepła zimą\n- Warto rozważyć rolety zewnętrzne lub okapy dla ochrony latem\n- Maksymalne doświetlenie wnętrz\n- Najlepszy zwrot z inwestycji w energię słoneczną\n\n**Okna od strony północnej**\n- Priorytet to jak najniższy współczynnik Uw\n- Współczynnik g ma mniejsze znaczenie\n- Kluczowe jest minimalizowanie strat ciepła\n- Skupienie na maksymalnej izolacyjności\n\n**Okna od strony wschodniej i zachodniej**\n- Umiarkowany współczynnik g, aby kontrolować nagrzewanie i odblaski\n- Dobra izolacyjność termiczna\n- Warto rozważyć szyby z powłoką przeciwsłoneczną lub barwione\n- Równowaga między doświetleniem a kontrolą ciepła\n\n**Wybór materiału profili okiennych**\n\n**PVC (potocznie plastikowe)**\n- Doskonałe właściwości termoizolacyjne\n- Niskie wymagania konserwacyjne\n- Korzystna cena\n- Dobra trwałość w polskim klimacie\n\n**Drewno**\n- Naturalne właściwości izolacyjne\n- Elegancki, klasyczny wygląd\n- Wymaga regularnej konserwacji\n- Opcja premium o doskonałych parametrach\n\n**Aluminium z przekładką termiczną**\n- Wysoka trwałość i sztywność\n- Nowoczesna technologia ciepłych przekładek\n- Idealne do dużych przeszkleń\n- Wyższy koszt, ale bardzo długa żywotność\n\n**Materiały kompozytowe**\n- Łączą zalety różnych materiałów (np. drewno-aluminium)\n- Znakomite parametry techniczne\n- Minimalne wymagania konserwacyjne\n- Najwyższa półka cenowa",
+          "callout": "Rada eksperta: Najlepsze okno energooszczędne to takie, które jest prawidłowo zamontowane, najlepiej w technologii tzw. ciepłego montażu. Nawet okna klasy premium mogą stracić do 50% swojej efektywności przez błędy instalacyjne."
+        },
+        {
+          "id": "cost-benefit-analysis",
+          "title": "Analiza kosztów i zwrotu z inwestycji (ROI)",
+          "content": "**Koszty inwestycji (przykładowe ceny na rynku polskim)**\n\n**Rodzaje okien i ceny**\n- **Standardowe okna dwuszybowe**: 800-1600 zł za m²\n- **Okna dwuszybowe o podwyższonym standardzie**: 1200-2200 zł za m²\n- **Okna trzyszybowe**: 1600-3000 zł za m²\n- **Okna trzyszybowe premium**: 2500-4500 zł za m²\n- **Koszty montażu**: 300-700 zł za okno (w zależności od technologii)\n\n**Kalkulacja oszczędności energii**\n\n**Roczna redukcja kosztów ogrzewania**\n- Przeciętny dom w Polsce: roczne koszty ogrzewania 4000-6000 zł\n- Stare okna: 0% oszczędności (punkt odniesienia)\n- Dobre okna dwuszybowe: 15-25% oszczędności\n- Okna trzyszybowe: 25-40% oszczędności\n- Systemy premium: 35-50% oszczędności\n\n**Analiza okresu zwrotu**\n- **Dobre okna dwuszybowe**: 8-12 lat\n- **Okna trzyszybowe**: 10-15 lat\n- **Systemy premium**: 12-18 lat\n- **Dodatkowe korzyści**: komfort, wzrost wartości nieruchomości, trwałość\n\n**Wartość w całym cyklu życia (25 lat)**\n- **Oszczędności na energii**: 20 000-60 000 zł\n- **Ograniczenie kosztów konserwacji**: 4 000-12 000 zł\n- **Wzrost wartości nieruchomości**: 3-7%\n- **Korzyści zdrowotne i komfort**: bezcenne\n\n**Finansowanie i dotacje**\n- **Program 'Czyste Powietrze'**: dotacje na termomodernizację\n- **Ulga termomodernizacyjna**: możliwość odliczenia wydatków od podatku PIT\n- **Kredyty bankowe**: preferencyjne warunki na cele ekologiczne\n- **Regionalne programy dotacji**: warto sprawdzić dostępne fundusze w gminie",
+          "benefits": [
+            "Natychmiastowa poprawa komfortu",
+            "Niższe rachunki za energię od pierwszego miesiąca",
+            "Wzrost wartości nieruchomości",
+            "Lepsza jakość powietrza wewnątrz"
+          ]
+        },
+        {
+          "id": "installation-maintenance",
+          "title": "Profesjonalny montaż i konserwacja",
+          "content": "**Kluczowe czynniki prawidłowego montażu**\n\n**Prawidłowe uszczelnienie i izolacja**\n- Pełne uszczelnienie połączenia ramy z murem\n- Zastosowanie taśm paroizolacyjnych i paroprzepuszczalnych (tzw. ciepły montaż)\n- Wypełnienie szczelin pianą montażową o niskiej rozprężalności\n- Eliminacja mostków termicznych wokół okna\n\n**Aspekty konstrukcyjne**\n- Stabilne i nośne osadzenie okna w otworze\n- Prawidłowe wykonanie obróbek blacharskich i parapetów\n- Zapewnienie miejsca na rozszerzalność termiczną materiałów\n- Zgodność z obowiązującymi normami budowlanymi\n\n**Kontrola jakości wykonania**\n- Sprawdzenie prawidłowego działania okna po montażu\n- Weryfikacja szczelności (np. testem dymnym)\n- Opcjonalna inspekcja kamerą termowizyjną\n- Testowanie działania wszystkich okuć i mechanizmów\n\n**Konserwacja dla zachowania parametrów**\n\n**Harmonogram regularnej konserwacji**\n- **Co miesiąc**: Mycie szyb i sprawdzanie płynności działania\n- **Co kwartał**: Kontrola stanu uszczelek\n- **Co roku**: Regulacja i smarowanie okuć\n- **W razie potrzeby**: Profesjonalny przegląd serwisowy\n\n**Monitorowanie wydajności**\n- Obserwuj zmiany w zużyciu energii\n- Zwracaj uwagę na ewentualne problemy z kondensacją\n- Sprawdzaj szczelność (np. w wietrzny dzień)\n- Dokumentuj wszelkie zmiany w funkcjonowaniu okien\n\n**Korzyści z profesjonalnego serwisu**\n- Utrzymanie ochrony gwarancyjnej\n- Zachowanie optymalnych parametrów przez lata\n- Wczesne wykrywanie potencjalnych problemów\n- Wydłużenie żywotności okien",
+          "warning": "Samodzielny montaż okien energooszczędnych często prowadzi do utraty gwarancji i może obniżyć ich skuteczność o 30-50%. Profesjonalna instalacja jest kluczowa dla osiągnięcia deklarowanych parametrów."
         }
       ],
-      "conclusion": "Energooszczędne okna reprezentują jedną z najbardziej wpływowych modernizacji domu, jakie można wykonać w klimacie Litwy. Z potencjalnymi oszczędnościami energii 25-40% i poprawą komfortu przez cały rok, inwestycja przynosi korzyści przez dziesięciolecia.",
+      "conclusion": "Wymiana okien na energooszczędne to jedna z najbardziej opłacalnych modernizacji, jakie można przeprowadzić w polskim klimacie. Potencjalne oszczędności na ogrzewaniu rzędu 25-40% oraz wyższy komfort przez cały rok sprawiają, że inwestycja zwraca się przez dziesięciolecia. Kluczem do sukcesu jest wybór technologii dopasowanej do konkretnych potrzeb oraz zapewnienie profesjonalnego montażu. W dobie rosnących cen energii i troski o środowisko, okna energooszczędne nie są już luksusem – to konieczność dla nowoczesnego, komfortowego i zrównoważonego domu.",
       "ctaSection": {
-        "title": "Przejdź na Energooszczędne Okna Już Dziś",
-        "description": "Przekształć wydajność energetyczną swojego domu dzięki naszym premium energooszczędnym oknom.",
+        "title": "Zainwestuj w okna energooszczędne już dziś",
+        "description": "Zmień charakterystykę energetyczną swojego domu dzięki naszym oknom energooszczędnym klasy premium. Od doradztwa po montaż – gwarantujemy maksymalne oszczędności i komfort z Twojej inwestycji.",
         "benefits": [
-          "Bezpłatna konsultacja efektywności energetycznej",
-          "Technologie okien premium",
-          "Gwarancja profesjonalnej instalacji",
-          "Dostępne opcje finansowania"
+          "Bezpłatne doradztwo energetyczne",
+          "Najwyższej klasy technologie okienne",
+          "Gwarancja profesjonalnego montażu",
+          "Dostępne opcje finansowania i pomoc w uzyskaniu dotacji"
         ]
       },
       "faq": [
         {
-          "question": "Ile mogę zaoszczędzić dzięki energooszczędnym oknom?",
-          "answer": "W klimacie Litwy energooszczędne okna mogą zmniejszyć koszty ogrzewania o 25-40%. Dla przeciętnego domu wydającego €1000 rocznie na ogrzewanie, oznacza to €250-400 rocznych oszczędności lub €6,000-10,000 przez 25-letni okres użytkowania okien."
+          "question": "Ile mogę zaoszczędzić dzięki oknom energooszczędnym?",
+          "answer": "W polskim klimacie wymiana starych okien na energooszczędne może obniżyć koszty ogrzewania o 25-40%. Dla domu, który rocznie wydaje 5000 zł na ogrzewanie, oznacza to 1250-2000 zł oszczędności rocznie, czyli 30 000-50 000 zł w całym 25-letnim okresie użytkowania okien."
+        },
+        {
+          "question": "Czy okna trzyszybowe są warte wyższej ceny?",
+          "answer": "W chłodnym polskim klimacie pakiety trzyszybowe zapewniają o 15-20% lepszą izolację niż wysokiej jakości pakiety dwuszybowe. Okres zwrotu z inwestycji wynosi zwykle 10-15 lat, co czyni je bardzo opłacalnym wyborem dla osób planujących mieszkać w domu długoterminowo, zwłaszcza przy rosnących cenach energii."
+        },
+        {
+          "question": "Na który parametr zwrócić największą uwagę?",
+          "answer": "Dla polskiego klimatu priorytetem jest jak najniższy współczynnik przenikania ciepła Uw (najlepiej ≤1,0 W/m²K), który odpowiada za zatrzymanie ciepła w domu. Współczynnik g na poziomie 0,4-0,6 zapewni dobre zyski ciepła zimą, nie powodując przegrzewania latem. Zawsze należy oceniać parametry całego okna, a nie tylko samej szyby."
+        },
+        {
+          "question": "Jak długa jest żywotność okien energooszczędnych?",
+          "answer": "Dobrej jakości okna energooszczędne, przy prawidłowej konserwacji, służą przez 20-25 lat. Systemy premium mogą wytrzymać nawet ponad 30 lat. Oszczędności na energii i poprawa komfortu sprawiają, że dla większości właścicieli domów jest to opłacalna, długoterminowa inwestycja."
         }
       ]
     },
     "uk": {
-      "title": "Енергоефективні Вікна: Посібник Зменшення Витрат на Опалення",
-      "excerpt": "Енергоефективні вікна можуть зменшити витрати на опалення до 40% та кардинально покращити комфорт приміщень. Дізнайтеся про найновіші віконні технології та як обрати ідеальні енергозберігаючі вікна.",
+      "title": "Енергоефективні вікна: посібник з економії на опаленні та підвищення комфорту",
+      "excerpt": "Зменште рахунки за опалення до 40% та суттєво підвищте комфорт у вашій оселі завдяки енергоефективним вікнам. Дізнайтеся про сучасні технології, ключові показники та як обрати ідеальні вікна для максимальної економії.",
       "featuredImage": "/images/smart-window-technology-og.webp",
-      "featuredImageAlt": "Техніки встановлюють новий двокамерний склопакет у віконну раму, професійна заміна скла",
-      "introduction": "У кліматі Литви, де витрати на опалення можуть становити до 60% рахунків за енергію домогосподарства, вибір енергоефективних вікон - це не лише екологічний вибір, а й розумна фінансова інвестиція. Сучасна технологія вікон розвинулася драматично, пропонуючи власникам будинків безпрецедентні можливості для зменшення споживання енергії при покращенні комфорту.",
+      "featuredImageAlt": "Фахівці встановлюють новий склопакет у віконну раму, професійна заміна скла",
+      "introduction": "В умовах українського клімату, де витрати на опалення можуть сягати 60% від усіх комунальних платежів, вибір енергоефективних вікон — це не просто турбота про довкілля, а розумна фінансова інвестиція. Сучасні віконні технології зробили величезний крок уперед, пропонуючи власникам житла безпрецедентні можливості для скорочення енергоспоживання та підвищення комфорту. Цей вичерпний посібник допоможе вам розібратися в показниках енергоефективності вікон, сучасних технологіях та зробити обґрунтований вибір, який заощадить тисячі гривень протягом усього терміну служби ваших вікон.",
       "sections": [
         {
-          "id": "rozuminnya-enerhetychnykh-otsinyuvan-vikon",
-          "title": "Розуміння Енергетичних Оцінювань Вікон",
-          "content": "**Ключові Показники Продуктивності**\n\n**U-значення (Коефіцієнт Теплопередачі)**\n- Вимірює втрату тепла через вікно\n- Нижчі значення = краща ізоляція\n- Вимірюється в W/m²K (вати на квадратний метр на кельвін)\n- Сучасні ефективні вікна: 0,8-1,2 W/m²K\n- Преміум вікна: 0,5-0,8 W/m²K\n- Стандарт пасивного будинку: ≤0,8 W/m²K\n\n**SHGC (Коефіцієнт Надходження Сонячного Тепла)**\n- Вимірює передачу сонячної енергії\n- Діапазон: 0-1 (вищий = більше сонячного тепла)\n- Оптимальний для Литви: 0,4-0,6\n- Баланс між зимовими надходженнями тепла та літнім охолодженням"
+          "id": "understanding-window-energy-ratings",
+          "title": "Як розуміти показники енергоефективності вікон",
+          "content": "**Ключові показники ефективності**\n\n**Коефіцієнт теплопередачі (U-value)**\n- Показує, скільки тепла втрачається через вікно\n- Чим нижче значення, тим краща ізоляція\n- Вимірюється у Вт/м²К (ват на метр квадратний на Кельвін)\n- Сучасні ефективні вікна: 0.8-1.2 Вт/м²К\n- Преміальні вікна: 0.5-0.8 Вт/м²К\n- Стандарт пасивного будинку: ≤0.8 Вт/м²К\n\n**Коефіцієнт сонячного тепла (SHGC)**\n- Показує, скільки сонячного тепла проникає всередину\n- Діапазон: 0-1 (чим вище, тим більше сонячного тепла)\n- Оптимальний для України: 0.4-0.6\n- Баланс між накопиченням тепла взимку та захистом від перегріву влітку\n\n**Коефіцієнт пропускання світла (VT)**\n- Вимірює, скільки денного світла проходить через вікно\n- Діапазон: 0-1 (чим вище, тим світліше в кімнаті)\n- Якісні вікна: 0.6-0.8\n- Важливо для збереження світлих інтер'єрів\n\n**Клас повітропроникності**\n- Показує, скільки повітря проникає через ущільнення\n- Чим нижче значення, тим краща герметичність\n- Якісні вікна: <0.3 м³/год·м²\n- Преміальні вікна: <0.1 м³/год·м²",
+          "tips": [
+            "Шукайте сертифікати, що підтверджують заявлені характеристики",
+            "Порівнюйте показники всього вікна, а не лише склопакета",
+            "Враховуйте кліматичні особливості вашого регіону для оптимальної ефективності"
+          ]
         },
         {
-          "id": "tekhnolohiyi-vikon",
-          "title": "Передові Технології Вікон",
-          "content": "**Технології Скління**\n\n**Потрійне Скління**\n- Три шари скла з двома ізоляційними камерами\n- U-значення до 0,5 W/m²K\n- Відмінно підходить для клімату Литви\n- На 40-60% краще за подвійне скління\n- Зменшена конденсація та протяги\n\n**Low-E Покриття**\n- Мікроскопічні металеві покриття на склі\n- Відбивають тепло назад у приміщення\n- Кілька типів для різних кліматів\n- Можуть покращити U-значення на 30-50%\n- Зберігають передачу природного світла"
+          "id": "window-technologies",
+          "title": "Сучасні віконні технології",
+          "content": "**Технології скління**\n\n**Двокамерний склопакет (три скла)**\n- Три листи скла з двома ізоляційними камерами\n- U-value може сягати 0.5 Вт/м²К\n- Ідеально підходить для клімату України\n- На 40-60% ефективніший за однокамерний склопакет\n- Зменшує утворення конденсату та протягів\n\n**Низькоемісійне (Low-E) покриття**\n- Мікроскопічне металеве напилення на склі\n- Відбиває тепло назад у приміщення\n- Існують різні типи для різних кліматичних умов\n- Може покращити U-value на 30-50%\n- Зберігає високий рівень пропускання світла\n\n**Заповнення інертним газом**\n- Аргон: найпоширеніший, хороша ефективність\n- Криптон: краща ізоляція, вища вартість\n- Ксенон: преміальний варіант для максимальної ефективності\n- Замінює повітря між шибками для кращої теплоізоляції\n\n**«Тепла» дистанційна рамка**\n- Ізоляційний матеріал між листами скла\n- Зменшує «містки холоду» по краях склопакета\n- Запобігає утворенню конденсату по периметру\n- Покращує загальну ефективність вікна\n\n**Технології профілю (рами)**\n\n**Багатокамерні профілі**\n- Кілька повітряних камер усередині рами\n- Зменшують втрати тепла через профіль\n- Підвищують структурну міцність\n- Покращують теплоізоляційні властивості\n\n**Терморозриви**\n- Ізоляційні вставки всередині профілю\n- Перешкоджають передачі тепла\n- Обов'язковий елемент для алюмінієвих рам\n- Значно підвищують енергоефективність",
+          "benefits": [
+            "Зменшення витрат на опалення до 40%",
+            "Підвищений комфорт у приміщенні протягом усього року",
+            "Зменшення конденсату та протягів",
+            "Покращена звукоізоляція"
+          ]
         },
         {
-          "id": "vybir-pravylnykh-vikon",
-          "title": "Вибір Правильних Енергоефективних Вікон",
-          "content": "**Кліматичні Міркування для Литви**\n\n**Клімат з Домінуванням Опалення**\n- Пріоритет низьких U-значень для утримання тепла\n- Помірний SHGC для зимових надходжень сонця\n- Розгляньте скління, специфічне для орієнтації\n- Фокус на герметизації повітря та тепловій продуктивності\n\n**Вибір Матеріалу Рами**\n\n**uPVC (Вініл)**\n- Відмінна теплова продуктивність\n- Низькі вимоги до обслуговування\n- Економічний варіант\n- Хороша довговічність у кліматі Литви"
+          "id": "choosing-right-windows",
+          "title": "Як обрати правильні енергоефективні вікна",
+          "content": "**Кліматичні особливості України**\n\n**Клімат з переважанням опалювального сезону**\n- Надавайте перевагу низьким U-value для збереження тепла\n- Обирайте помірний SHGC для отримання сонячного тепла взимку\n- Розгляньте різне скління залежно від орієнтації вікон\n- Зосередьтеся на герметичності та теплових характеристиках\n\n**Сезонна ефективність**\n- **Зима**: Максимальне збереження тепла та отримання сонячної енергії\n- **Літо**: Достатній захист від перегріву та яскравого сонця\n- **Міжсезоння**: Збалансовані показники\n- **Цілий рік**: Стабільний комфорт та ефективність\n\n**Оптимізація вікон залежно від сторін світу**\n\n**Вікна, що виходять на південь**\n- Вищий SHGC для пасивного обігріву взимку\n- Розгляньте можливість встановлення навісів для затінення влітку\n- Максимальна користь від денного світла\n- Найкраща окупність інвестицій\n\n**Вікна, що виходять на північ**\n- Пріоритет — максимально низький U-value\n- Допустимий нижчий SHGC\n- Основна увага на теплоізоляції\n- Мінімізація втрат тепла\n\n**Вікна, що виходять на схід/захід**\n- Помірний SHGC для контролю над відблисками та перегрівом\n- Хороші теплоізоляційні характеристики\n- Розгляньте тоноване або сонцезахисне скло\n- Баланс між світлом та контролем тепла\n\n**Вибір матеріалу профілю (рами)**\n\n**ПВХ (Металопластик)**\n- Відмінні теплоізоляційні властивості\n- Невибагливість у догляді\n- Оптимальне співвідношення ціни та якості\n- Висока довговічність в українському кліматі\n\n**Дерево**\n- Природні теплоізоляційні властивості\n- Естетична привабливість\n- Потребує регулярного догляду\n- Преміальний варіант з хорошими характеристиками\n\n**Алюміній з терморозривом**\n- Надзвичайна міцність та довговічність\n- Сучасна технологія терморозриву для високої ефективності\n- Ідеальний для великих панорамних вікон\n- Вища вартість, але тривалий термін служби\n\n**Композитні матеріали**\n- Поєднують переваги кількох матеріалів\n- Найвища енергоефективність\n- Мінімальні вимоги до догляду\n- Преміальна цінова категорія",
+          "callout": "Порада від професіоналів: найкраще енергоефективне вікно — це правильно встановлене вікно. Навіть преміальні вікна втрачають до 50% своєї ефективності через неякісний монтаж."
+        },
+        {
+          "id": "cost-benefit-analysis",
+          "title": "Аналіз витрат, вигод та окупності (ROI)",
+          "content": "**Орієнтовна вартість (типовий український ринок)**\n\n**Типи вікон та ціни**\n- **Стандартний однокамерний склопакет**: 4 000 - 8 000 грн за м²\n- **Однокамерний енергоощадний склопакет**: 6 000 - 10 000 грн за м²\n- **Двокамерний енергоощадний склопакет**: 8 000 - 15 000 грн за м²\n- **Преміальний двокамерний склопакет**: 12 000 - 25 000 грн за м²\n- **Вартість монтажу**: 1500 - 3000 грн за вікно\n\n**Розрахунок економії енергії**\n\n**Річне скорочення витрат на опалення**\n- Середньостатистичний будинок в Україні: 20 000 - 40 000 грн на опалення за сезон\n- Старі вікна: 0% економії (базовий рівень)\n- Ефективний однокамерний склопакет: 15-25% економії\n- Двокамерний енергоощадний: 25-40% економії\n- Преміальні системи: 35-50% економії\n\n**Аналіз терміну окупності**\n- **Ефективний однокамерний**: 8-12 років\n- **Двокамерний енергоощадний**: 10-15 років\n- **Преміальні системи**: 12-18 років\n- **Додаткові переваги**: комфорт, вартість нерухомості, довговічність\n\n**Цінність протягом терміну служби (25 років)**\n- **Економія енергії**: 150 000 - 400 000 грн\n- **Зменшення витрат на обслуговування**: 25 000 - 75 000 грн\n- **Зростання вартості нерухомості**: 3-7%\n- **Комфорт та здоров'я**: безцінні\n\n**Фінансування та програми підтримки**\n- **Державні програми енергоефективності**: можливі компенсації та пільги\n- **Місцеві програми підтримки**: уточнюйте у вашому регіоні\n- **Банківське кредитування**: спеціальні умови на енергомодернізацію\n- **Податкові пільги**: потенційні можливості для власників житла",
+          "benefits": [
+            "Миттєве підвищення комфорту",
+            "Зменшення рахунків за енергію з першого дня",
+            "Зростання вартості нерухомості",
+            "Покращення якості повітря в приміщенні"
+          ]
+        },
+        {
+          "id": "installation-maintenance",
+          "title": "Професійний монтаж та обслуговування",
+          "content": "**Критично важливі фактори монтажу**\n\n**Правильна герметизація та ізоляція**\n- Повна герметизація швів навколо рами\n- Належне утеплення монтажного зазору\n- Якісне встановлення ущільнювачів\n- Усунення містків холоду\n\n**Конструктивні аспекти**\n- Достатня опора для ваги віконної конструкції\n- Правильне встановлення відливів та дренажних систем\n- Врахування температурного розширення\n- Відповідність будівельним нормам (ДБН)\n\n**Заходи контролю якості**\n- Тестування функціональності після монтажу\n- Перевірка герметичності\n- Обстеження тепловізором (рекомендовано)\n- Перевірка роботи всіх механізмів\n\n**Догляд для оптимальної роботи**\n\n**Регулярне обслуговування**\n- **Щомісяця**: Миття скла та перевірка роботи фурнітури\n- **Щокварталу**: Огляд ущільнювачів та дренажних отворів\n- **Щороку**: Професійна оцінка стану вікон\n- **За потреби**: Змащування та регулювання фурнітури\n\n**Моніторинг ефективності**\n- Відстежуйте зміни у споживанні енергії\n- Слідкуйте за появою конденсату\n- Щорічно перевіряйте наявність протягів\n- Фіксуйте будь-які зміни в роботі вікон\n\n**Переваги професійного сервісу**\n- Збереження гарантії\n- Підтримка оптимальної ефективності\n- Раннє виявлення проблем\n- Продовження терміну служби вікон",
+          "warning": "Самостійний монтаж енергоефективних вікон часто призводить до анулювання гарантії та може знизити їхню ефективність на 30-50%. Для досягнення заявлених показників необхідний професійний монтаж."
         }
       ],
-      "conclusion": "Енергоефективні вікна представляють одне з найвпливовіших покращень дому, які ви можете зробити в кліматі Литви. З потенційною економією енергії 25-40% та покращеним комфортом цілий рік, інвестиція окупається десятиліттями.",
+      "conclusion": "В умовах українського клімату енергоефективні вікна є однією з найефективніших інвестицій у модернізацію житла. Завдяки потенційній економії на енергоресурсах у 25-40% та підвищеному комфорту протягом усього року, ця інвестиція окуповується десятиліттями. Ключ до успіху — вибір правильної технології для ваших потреб та гарантія професійного монтажу. Оскільки вартість енергоносіїв продовжує зростати, а питання екології стають дедалі гострішими, енергоефективні вікна — це вже не розкіш, а необхідність для сучасного, комфортного та сталого життя.",
       "ctaSection": {
-        "title": "Перейдіть на Енергоефективні Вікна Сьогодні",
-        "description": "Трансформуйте енергетичну ефективність вашого дому з нашими преміум енергоефективними вікнами.",
+        "title": "Модернізуйте свою оселю з енергоефективними вікнами",
+        "description": "Покращте енергоефективність вашого дому з нашими преміальними вікнами. Від консультації до монтажу — ми гарантуємо максимальну економію та комфорт від вашої інвестиції.",
         "benefits": [
           "Безкоштовна консультація з енергоефективності",
-          "Преміум віконні технології",
-          "Гарантія професійного монтажу",
-          "Доступні варіанти фінансування"
+          "Преміальні віконні технології",
+          "Гарантія на професійний монтаж",
+          "Доступні варіанти кредитування"
         ]
       },
       "faq": [
         {
           "question": "Скільки я можу заощадити з енергоефективними вікнами?",
-          "answer": "У кліматі Литви енергоефективні вікна можуть зменшити витрати на опалення на 25-40%. Для середнього будинку, що витрачає €1000 щорічно на опалення, це означає €250-400 річної економії або €6,000-10,000 протягом 25-річного терміну служби вікон."
+          "answer": "В українському кліматі енергоефективні вікна можуть скоротити витрати на опалення на 25-40%. Для середнього будинку, що витрачає 30 000 грн на опалення за сезон, це означає економію 7 500 - 12 000 грн щорічно, або 180 000 - 300 000 грн за 25-річний термін служби вікон."
+        },
+        {
+          "question": "Чи варті двокамерні склопакети (три скла) додаткових витрат?",
+          "answer": "В умовах холодного українського клімату двокамерний склопакет (з трьома листами скла) зазвичай на 15-20% ефективніший за якісний однокамерний. Термін окупності становить 10-15 років, що робить його вигідною довгостроковою інвестицією, особливо на тлі зростання цін на енергоносії."
+        },
+        {
+          "question": "На який показник ефективності звертати увагу в першу чергу?",
+          "answer": "Для клімату України пріоритетом є низький коефіцієнт теплопередачі U-value (в ідеалі ≤1.0 Вт/м²К) для збереження тепла. Коефіцієнт сонячного тепла SHGC на рівні 0.4-0.6 забезпечить хороший пасивний обігрів взимку, не допускаючи перегріву влітку. Завжди оцінюйте характеристики віконної системи в цілому, а не лише показники скла."
+        },
+        {
+          "question": "Який термін служби енергоефективних вікон?",
+          "answer": "Якісні енергоефективні вікна зазвичай служать 20-25 років за умови правильного догляду. Преміальні системи можуть прослужити понад 30 років. Економія енергії та підвищений комфорт роблять їх вигідною довгостроковою інвестицією для більшості власників житла."
         }
       ]
     }

@@ -133,182 +133,182 @@
     },
     "lt": {
       "hero": {
-        "title": "Langų tarpiklių keitimas",
-        "subtitle": "Pakeiskite susidėvėjusius tarpiklius ir sandariklius, kad pašalintumėte prapūtimus ir pagerėtų energijos efektyvumas. Profesionalus montavimas su aukštos kokybės medžiagomis.",
-        "priceFrom": "Nuo €35",
+        "title": "Langų tarpinių keitimas",
+        "subtitle": "Pakeiskite susidėvėjusias tarpines, kad atsikratytumėte skersvėjų ir pagerintumėte namų energinį efektyvumą. Profesionalus montavimas naudojant aukštos kokybės medžiagas.",
+        "priceFrom": "Nuo 35 €",
         "features": [
-          "Aukščiausios kokybės tarpikliai",
+          "Aukščiausios kokybės tarpinės",
           "3 metų garantija",
-          "Energijos taupymas iki 30%",
-          "Tos pačios dienos montavimas"
+          "Šilumos energijos ekonomija iki 30%",
+          "Montavimas tą pačią dieną"
         ],
-        "emergencyNote": "Skubaus tarpiklių keitimo paslauga prieinama blogų oro sąlygų metu"
+        "emergencyNote": "Esant itin prastoms oro sąlygoms, atliekame skubų tarpinių keitimą"
       },
       "serviceDetails": {
-        "title": "Išsamios tarpiklių keitimo paslaugos",
-        "subtitle": "Keičiame visų tipų langų tarpiklius ir sandariklius optimaliam veikimui",
+        "title": "Visos tarpinių keitimo paslaugos",
+        "subtitle": "Keičiame visų tipų langų tarpines ir sandariklius, kad užtikrintume maksimalų sandarumą ir komfortą.",
         "services": [
           {
-            "title": "EPDM tarpikliai",
-            "description": "Aukštos kokybės EPDM gumos tarpikliai aukščiausiam atsparumui oro sąlygoms",
+            "title": "EPDM tarpinės",
+            "description": "Aukštos kokybės EPDM gumos tarpinės, ypač atsparios oro sąlygoms ir temperatūrų pokyčiams.",
             "icon": "Shield",
-            "duration": "20-30 minučių",
+            "duration": "20–30 min.",
             "warranty": "3 metai"
           },
           {
-            "title": "Silikono sandarikliai",
-            "description": "Aukščiausios kokybės silikono sandarinimas maksimaliam lankstumui ir ilgaamžiškumui",
+            "title": "Silikoniniai sandarikliai",
+            "description": "Aukščiausios kokybės silikoninis sandarinimas, užtikrinantis maksimalų lankstumą ir ilgaamžiškumą.",
             "icon": "Droplets",
-            "duration": "15-25 minutės",
+            "duration": "15–25 min.",
             "warranty": "3 metai"
           },
           {
-            "title": "Šepetėlių sandarikliai",
-            "description": "Specializuoti šepetėlių sandarikliai slankiamiems langams ir durims",
+            "title": "Šepetėlinės tarpinės",
+            "description": "Specializuotos šepetėlinės tarpinės, skirtos stumdomoms langų ir durų sistemoms.",
             "icon": "Wind",
-            "duration": "25-35 minutės",
+            "duration": "25–35 min.",
             "warranty": "2 metai"
           },
           {
-            "title": "Kampų sandarikliai",
-            "description": "Tikslus kampų sandarinimas silpnų vietų pašalinimui",
+            "title": "Kampų sandarinimas",
+            "description": "Preciziškas kampų sandarinimas, pašalinantis šalčio tiltelius ir silpnąsias vietas.",
             "icon": "Square",
-            "duration": "10-15 minučių",
+            "duration": "10–15 min.",
             "warranty": "3 metai"
           },
           {
-            "title": "Stiklo sandarikliai",
-            "description": "Specializuotas sandarinimas aplink stiklo paketus apsaugai nuo vandens",
+            "title": "Stiklo paketo tarpinės",
+            "description": "Specializuotas sandarinimas aplink stiklo paketą, patikimai apsaugantis nuo drėgmės.",
             "icon": "Droplet",
-            "duration": "20-30 minučių",
+            "duration": "20–30 min.",
             "warranty": "3 metai"
           },
           {
-            "title": "Slenksčio sandarikliai",
-            "description": "Apatinis sandarinimas vandens patekimo ir prapūtimų prevencijai",
+            "title": "Slenksčio tarpinės",
+            "description": "Apatinis sandarinimas, neleidžiantis vandeniui patekti į vidų ir apsaugantis nuo skersvėjų.",
             "icon": "Minus",
-            "duration": "15-20 minučių",
+            "duration": "15–20 min.",
             "warranty": "3 metai"
           }
         ]
       },
       "processSteps": {
         "title": "Profesionalus montavimo procesas",
-        "subtitle": "Mūsų sisteminis požiūris užtikrina tobulą tarpiklių keitimą kiekvieną kartą",
+        "subtitle": "Mūsų nuoseklus darbas užtikrina nepriekaištingą tarpinių pakeitimo rezultatą kaskart.",
         "steps": [
           {
-            "title": "Vertinimas ir matavimas",
-            "description": "Išsamus esamų tarpiklių patikrinimas ir tikslus matavimas",
+            "title": "Apžiūra ir matavimas",
+            "description": "Detali esamų tarpinių būklės apžiūra ir tikslūs matavimai.",
             "icon": "Ruler",
-            "duration": "15-20 minučių"
+            "duration": "15–20 min."
           },
           {
-            "title": "Senų tarpiklių šalinimas",
-            "description": "Atsargus susidėvėjusių tarpiklių šalinimas nepažeidžiant langų rėmų",
+            "title": "Senų tarpinių išmontavimas",
+            "description": "Kruopštus susidėvėjusių tarpinių pašalinimas nepažeidžiant lango rėmo.",
             "icon": "Trash2",
-            "duration": "20-30 minučių"
+            "duration": "20–30 min."
           },
           {
             "title": "Paviršiaus paruošimas",
-            "description": "Kruopštus tarpiklių kanalų valymas ir paruošimas",
+            "description": "Atidus tarpinių griovelių išvalymas ir paruošimas montavimui.",
             "icon": "Brush",
-            "duration": "10-15 minučių"
+            "duration": "10–15 min."
           },
           {
-            "title": "Naujų tarpiklių montavimas",
-            "description": "Tikslus naujų tarpiklių montavimas su tinkamu suspaudimu",
+            "title": "Naujų tarpinių montavimas",
+            "description": "Tikslus naujų tarpinių įdėjimas, užtikrinant tinkamą ir tolygų suspaudimą.",
             "icon": "CheckCircle",
-            "duration": "25-35 minutės"
+            "duration": "25–35 min."
           }
         ]
       }
     },
     "pl": {
       "hero": {
-        "title": "Wymiana uszczelek okiennych",
-        "subtitle": "Wymień zużyte uszczelki i uszczelnienia, aby wyeliminować przeciągi i poprawić efektywność energetyczną. Profesjonalny montaż z wysokiej jakości materiałami.",
-        "priceFrom": "Od €35",
+        "title": "Wymiana uszczelek w oknach",
+        "subtitle": "Pozbądź się przeciągów i obniż rachunki za ogrzewanie. Zapewniamy profesjonalny montaż z użyciem najwyższej jakości materiałów.",
+        "priceFrom": "Już od 150 zł",
         "features": [
           "Uszczelki najwyższej jakości",
-          "3-letnia gwarancja",
-          "Oszczędności energii do 30%",
-          "Montaż tego samego dnia"
+          "3 lata gwarancji",
+          "Oszczędność energii do 30%",
+          "Montaż nawet w jeden dzień"
         ],
-        "emergencyNote": "Awaryjna wymiana uszczelek dostępna w przypadku surowych warunków pogodowych"
+        "emergencyNote": "Pogotowie uszczelkowe – szybka pomoc w nagłych przypadkach i przy złej pogodzie"
       },
       "serviceDetails": {
-        "title": "Kompleksowe usługi wymiany uszczelek",
-        "subtitle": "Wymieniamy wszystkie typy uszczelek i uszczelnień okiennych dla optymalnej wydajności",
+        "title": "Kompleksowa wymiana uszczelek okiennych",
+        "subtitle": "Wymieniamy wszystkie rodzaje uszczelek, przywracając oknom pełną sprawność i szczelność.",
         "services": [
           {
             "title": "Uszczelki EPDM",
-            "description": "Wysokiej jakości uszczelki gumowe EPDM o doskonałej odporności na warunki atmosferyczne",
+            "description": "Wysokiej jakości uszczelki z kauczuku EPDM, zapewniające doskonałą odporność na warunki atmosferyczne.",
             "icon": "Shield",
             "duration": "20-30 minut",
-            "warranty": "3 lata"
+            "warranty": "3 lata gwarancji"
           },
           {
             "title": "Uszczelnienia silikonowe",
-            "description": "Wysokiej jakości uszczelnienie silikonowe o maksymalnej elastyczności i trwałości",
+            "description": "Elastyczne i trwałe uszczelnienia silikonowe o maksymalnej żywotności.",
             "icon": "Droplets",
             "duration": "15-25 minut",
-            "warranty": "3 lata"
+            "warranty": "3 lata gwarancji"
           },
           {
             "title": "Uszczelki szczotkowe",
-            "description": "Specjalistyczne uszczelki szczotkowe do okien i drzwi przesuwnych",
+            "description": "Specjalistyczne uszczelki szczotkowe do okien i drzwi przesuwnych.",
             "icon": "Wind",
             "duration": "25-35 minut",
-            "warranty": "2 lata"
+            "warranty": "2 lata gwarancji"
           },
           {
-            "title": "Uszczelki narożne",
-            "description": "Precyzyjne uszczelnienie narożników w celu eliminacji słabych punktów",
+            "title": "Uszczelnienia narożników",
+            "description": "Precyzyjne uszczelnienie narożników w celu likwidacji najczęstszych miejsc nieszczelności.",
             "icon": "Square",
             "duration": "10-15 minut",
-            "warranty": "3 lata"
+            "warranty": "3 lata gwarancji"
           },
           {
-            "title": "Uszczelki szklane",
-            "description": "Specjalistyczne uszczelnienie wokół jednostek szklanych dla ochrony przed wodą",
+            "title": "Uszczelki przyszybowe",
+            "description": "Specjalistyczne uszczelnienie wokół pakietu szybowego, chroniące przed wodą i wilgocią.",
             "icon": "Droplet",
             "duration": "20-30 minut",
-            "warranty": "3 lata"
+            "warranty": "3 lata gwarancji"
           },
           {
             "title": "Uszczelki progowe",
-            "description": "Dolne uszczelnienie zapobiegające wnikaniu wody i przeciągom",
+            "description": "Uszczelnienie dolnej krawędzi progu, zapobiegające przenikaniu wody i powstawaniu przeciągów.",
             "icon": "Minus",
             "duration": "15-20 minut",
-            "warranty": "3 lata"
+            "warranty": "3 lata gwarancji"
           }
         ]
       },
       "processSteps": {
-        "title": "Profesjonalny proces montażu",
-        "subtitle": "Nasze systematyczne podejście zapewnia idealną wymianę uszczelek za każdym razem",
+        "title": "Nasz profesjonalny proces montażu",
+        "subtitle": "Działamy według sprawdzonych kroków, aby zagwarantować idealny montaż za każdym razem.",
         "steps": [
           {
-            "title": "Ocena i pomiar",
-            "description": "Szczegółowa inspekcja i precyzyjny pomiar istniejących uszczelek",
+            "title": "Ocena stanu i pomiary",
+            "description": "Dokładna inspekcja okien i precyzyjny pomiar obecnych uszczelek.",
             "icon": "Ruler",
             "duration": "15-20 minut"
           },
           {
-            "title": "Usunięcie starych uszczelek",
-            "description": "Ostrożne usunięcie zużytych uszczelek bez uszkodzenia ram okiennych",
+            "title": "Demontaż starych uszczelek",
+            "description": "Ostrożne usunięcie zużytych uszczelek bez ryzyka uszkodzenia ramy okiennej.",
             "icon": "Trash2",
             "duration": "20-30 minut"
           },
           {
             "title": "Przygotowanie powierzchni",
-            "description": "Dokładne czyszczenie i przygotowanie kanałów uszczelkowych",
+            "description": "Dokładne czyszczenie i przygotowanie rowków montażowych w ramie.",
             "icon": "Brush",
             "duration": "10-15 minut"
           },
           {
             "title": "Montaż nowych uszczelek",
-            "description": "Precyzyjny montaż nowych uszczelek z odpowiednim dociśnięciem",
+            "description": "Precyzyjny montaż nowych uszczelek z zapewnieniem odpowiedniego docisku i szczelności.",
             "icon": "CheckCircle",
             "duration": "25-35 minut"
           }
@@ -317,59 +317,59 @@
     },
     "uk": {
       "hero": {
-        "title": "Заміна віконних ущільнювачів",
-        "subtitle": "Замініть зношені ущільнювачі та герметики, щоб усунути протяги та покращити енергоефективність. Професійне встановлення з високоякісними матеріалами.",
-        "priceFrom": "Від €35",
+        "title": "Заміна ущільнювачів на вікнах",
+        "subtitle": "Замінимо зношені ущільнювачі, щоб позбутися протягів та покращити теплоізоляцію. Професійний монтаж з використанням якісних матеріалів.",
+        "priceFrom": "Від 35 €",
         "features": [
-          "Ущільнювачі преміум якості",
-          "3-річна гарантія",
-          "Економія енергії до 30%",
-          "Встановлення в той же день"
+          "Ущільнювачі преміум-якості",
+          "Гарантія 3 роки",
+          "Економія на опаленні до 30%",
+          "Монтаж у день звернення"
         ],
-        "emergencyNote": "Екстрена заміна ущільнювачів доступна при суворих погодних умовах"
+        "emergencyNote": "Доступна термінова заміна ущільнювачів при екстремальних погодних умовах"
       },
       "serviceDetails": {
-        "title": "Комплексні послуги заміни ущільнювачів",
-        "subtitle": "Ми замінюємо всі типи віконних ущільнювачів та герметиків для оптимальної продуктивності",
+        "title": "Комплексні послуги із заміни ущільнювачів",
+        "subtitle": "Замінюємо всі види віконних ущільнювачів для забезпечення їх максимальної ефективності",
         "services": [
           {
             "title": "EPDM ущільнювачі",
-            "description": "Високоякісні гумові ущільнювачі EPDM з відмінною стійкістю до погодних умов",
+            "description": "Високоякісні каучукові EPDM ущільнювачі для надійного захисту від негоди.",
             "icon": "Shield",
             "duration": "20-30 хвилин",
             "warranty": "3 роки"
           },
           {
-            "title": "Силіконові герметики",
-            "description": "Преміум силіконове ущільнення для максимальної гнучкості та довговічності",
+            "title": "Силіконові ущільнювачі",
+            "description": "Преміальні силіконові ущільнювачі для максимальної еластичності та довговічності.",
             "icon": "Droplets",
             "duration": "15-25 хвилин",
             "warranty": "3 роки"
           },
           {
             "title": "Щіткові ущільнювачі",
-            "description": "Спеціалізовані щіткові ущільнювачі для розсувних вікон та дверей",
+            "description": "Спеціальні щіткові ущільнювачі для розсувних вікон та дверей.",
             "icon": "Wind",
             "duration": "25-35 хвилин",
             "warranty": "2 роки"
           },
           {
             "title": "Кутові ущільнювачі",
-            "description": "Точне кутове ущільнення для усунення слабких місць",
+            "description": "Точне ущільнення кутів для усунення слабких місць та протягів.",
             "icon": "Square",
             "duration": "10-15 хвилин",
             "warranty": "3 роки"
           },
           {
-            "title": "Скляні ущільнювачі",
-            "description": "Спеціалізоване ущільнення навколо скляних блоків для захисту від води",
+            "title": "Ущільнювачі для склопакетів",
+            "description": "Спеціалізоване ущільнення навколо склопакета для захисту від вологи.",
             "icon": "Droplet",
             "duration": "20-30 хвилин",
             "warranty": "3 роки"
           },
           {
             "title": "Порогові ущільнювачі",
-            "description": "Нижнє ущільнення для запобігання проникненню води та протягів",
+            "description": "Ущільнення низу конструкції для запобігання потраплянню води та протягам.",
             "icon": "Minus",
             "duration": "15-20 хвилин",
             "warranty": "3 роки"
@@ -377,30 +377,30 @@
         ]
       },
       "processSteps": {
-        "title": "Професійний процес встановлення",
-        "subtitle": "Наш систематичний підхід забезпечує ідеальну заміну ущільнювачів щоразу",
+        "title": "Етапи нашої роботи",
+        "subtitle": "Наш послідовний підхід гарантує ідеальний результат при кожній заміні",
         "steps": [
           {
-            "title": "Оцінка та вимірювання",
-            "description": "Детальна інспекція та точне вимірювання існуючих ущільнювачів",
+            "title": "Огляд та заміри",
+            "description": "Детальний огляд конструкції та точне вимірювання параметрів ущільнювача.",
             "icon": "Ruler",
             "duration": "15-20 хвилин"
           },
           {
-            "title": "Видалення старих ущільнювачів",
-            "description": "Обережне видалення зношених ущільнювачів без пошкодження віконних рам",
+            "title": "Демонтаж старого ущільнювача",
+            "description": "Акуратне видалення зношеного ущільнювача без пошкодження віконної рами.",
             "icon": "Trash2",
             "duration": "20-30 хвилин"
           },
           {
             "title": "Підготовка поверхні",
-            "description": "Ретельне очищення та підготовка каналів ущільнювачів",
+            "description": "Ретельне очищення та підготовка пазів для нового ущільнювача.",
             "icon": "Brush",
             "duration": "10-15 хвилин"
           },
           {
-            "title": "Встановлення нових ущільнювачів",
-            "description": "Точне встановлення нових ущільнювачів з правильним стисненням",
+            "title": "Монтаж нового ущільнювача",
+            "description": "Точне встановлення нового ущільнювача із забезпеченням правильного притиску.",
             "icon": "CheckCircle",
             "duration": "25-35 хвилин"
           }

@@ -151,206 +151,266 @@
       ]
     },
     "lt": {
-      "title": "Profesionalus Langų Montažas: Klaidų Vengimas ir Kokybės Užtikrinimas",
-      "excerpt": "Prastas langų montažas gali sumažinti energijos efektyvumą iki 50% ir visiškai panaikinti garantijas. Sužinokite, kodėl profesionalus montažas yra būtinas.",
+      "title": "Profesionalaus langų montavimo vadovas: kaip išvengti brangių klaidų ir užtikrinti kokybę",
+      "excerpt": "Dėl prasto langų montavimo energinis efektyvumas gali sumažėti iki 50 %, o gamintojo garantijos – visiškai nustoti galioti. Sužinokite, kodėl profesionalus montavimas yra būtinas, ko tikėtis iš kokybiškai dirbančių meistrų ir kaip išvengti brangių klaidų, kurios būdingos savarankiškam ar nepatyrusių asmenų atliekamam montavimui.",
       "featuredImage": "/images/energy-efficient-windows-og.webp",
-      "featuredImageAlt": "Profesionalūs technikai dirba su langais, kvalifikuotų darbuotojų komanda, šiuolaikinė dirbtuvių aplinka",
-      "introduction": "Langų montažas yra vieta, kur net aukščiausios kokybės langai gali nepavykti. €1,000 vertės premium langas, netinkamai sumontuotas, veiks blogiau nei €300 standartinis langas, tinkamai sumontuotas. Lietuvos sudėtingame klimate, kur šiluminės savybės ir apsauga nuo oro yra kritinės, profesionalus montažas nėra tik rekomenduojamas—jis būtinas norint pasiekti nominalų veikimą, išlaikyti garantijas ir užtikrinti ilgalaikį pasitenkinimą.",
+      "featuredImageAlt": "Profesionalūs meistrai montuoja langus, kvalifikuotų darbuotojų komanda, moderni darbo aplinka.",
+      "introduction": "Net ir patys kokybiškiausi langai gali nuvilti, jei yra sumontuoti netinkamai. 1000 € kainuojantis aukščiausios klasės langas, sumontuotas prastai, veiks blogiau nei standartinis 300 € langas, kurį sumontavo profesionalas. Atšiauriomis Lietuvos klimato sąlygomis, kai šiluminės savybės ir sandarumas yra ypač svarbūs, profesionalus montavimas yra ne tik rekomenduojamas – jis yra būtinas norint pasiekti gamintojo nurodytus rodiklius, išsaugoti garantijas ir džiaugtis ilgaamžiu rezultatu. Šiame išsamiame vadove atskleisime svarbiausius profesionalaus langų montavimo aspektus ir paaiškinsime, kodėl taupymas montavimo sąskaita yra brangiausiai kainuojanti namų savininkų klaida.",
       "sections": [
         {
-          "id": "svarba-profesionalaus-montazo",
-          "title": "Kodėl Profesionalus Montažas yra Kritinis",
-          "content": "**Montažo Kokybės Poveikis Veikimui**\n\n**Energijos Efektyvumo Pasekmės**\n- Prastas montažas sumažina efektyvumą 30-50%\n- Oro nutekėjimai gali padidinti šildymo išlaidas €200-500 per metus\n- Netinkama izoliacija sukuria šiluminius tiltus\n- Neteisingas sandarinimas sukelia drėgmės problemas\n- Žemos kokybės montažas panaikina energijos veikimo įvertinimus\n\n**Garantijos ir Draudimo Pasekmės**\n- Dauguma langų garantijų reikalauja profesionalaus montažo\n- Savadarbis montažas paprastai panaikina visas gamintojo garantijas\n- Draudimo pretenzijos gali būti atmestos dėl netinkamo montažo\n- Profesionalus montažas apima atsakomybės draudimą\n- Sertifikuoti montuotojai teikia montažo garantijas"
+          "id": "importance-professional-installation",
+          "title": "Kodėl profesionalus montavimas yra būtinas",
+          "content": "**Montavimo kokybės įtaka langų savybėms**\n\n**Pasekmės energiniam efektyvumui**\n- Dėl prasto montavimo efektyvumas sumažėja 30–50 %\n- Dėl nesandarumo šildymo išlaidos gali išaugti 200–500 € per metus\n- Netinkamas apšiltinimas sukuria šalčio tiltus\n- Dėl netinkamo sandarinimo kyla drėgmės problemų\n- Nekokybiškas montavimas panaikina langų energinio naudingumo sertifikatus\n\n**Poveikis garantijai ir draudimui**\n- Dauguma langų garantijų reikalauja profesionalaus montavimo\n- Savarankiškas montavimas paprastai panaikina visas gamintojo garantijas\n- Draudimo išmokos gali būti atmestos dėl netinkamo montavimo\n- Profesionalus montavimas apima civilinės atsakomybės draudimą\n- Sertifikuoti montuotojai suteikia montavimo darbų garantiją\n\n**Konstrukciniai ir saugumo aspektai**\n- Dėl netinkamų atramų gali deformuotis rėmas\n- Neteisingas tvirtinimas pažeidžia konstrukcijos vientisumą\n- Prasta hidroizoliacija sukelia pastato pažeidimus\n- Būtina laikytis saugaus stiklo reikalavimų\n- Privaloma atitiktis statybos techniniams reglamentams\n\n**Ilgalaikių išlaidų analizė**\n- Profesionalus montavimas: 150–300 € už langą\n- Prasto montavimo taisymo kaina: 500–1500 € už langą\n- Energijos nuostoliai per 20 metų: 2000–8000 €\n- Galima konstrukcinė žala: 5000–20 000+ €\n- Garantijos praradimo kaina: viso lango keitimas",
+          "callout": "Sektoriaus faktas: 80 % langų eksploatacijos problemų kyla dėl montavimo, o ne dėl gaminio defektų. Profesionalus montavimas yra svarbiausias veiksnys, lemiantis langų kokybę."
         },
         {
-          "id": "profesionalaus-montazo-procesas",
-          "title": "Profesionalaus Montažo Procesas ir Standartai",
-          "content": "**Išankstinis Vertinimas**\n\n**Vietos Apžiūra ir Matavimas**\n- Tikslūs matavimai naudojant profesinius įrankius\n- Esamo rėmo būklės įvertinimas\n- Anga struktūrinis vertinimas\n- Galimų komplikacijų identifikavimas\n- Esamų sąlygų dokumentavimas\n\n**Montažo Metodologija**\n\n**1 žingsnis: Esamų Langų Pašalinimas**\n- Atsargus pašalinimas, kad nebūtų pažeista\n- Tinkamas senų medžiagų utilizavimas\n- Angos būklės įvertinimas\n- Paviršių valymas ir paruošimas\n- Bet kokių rastų problemų dokumentavimas"
+          "id": "professional-installation-process",
+          "title": "Profesionalaus montavimo procesas ir standartai",
+          "content": "**Pirminis įvertinimas prieš montavimą**\n\n**Objekto apžiūra ir matavimai**\n- Tikslūs matavimai profesionaliais įrankiais\n- Esamo rėmo būklės įvertinimas\n- Angos konstrukcinis įvertinimas\n- Galimų komplikacijų nustatymas\n- Esamos būklės dokumentavimas\n\n**Pasiruošimo reikalavimai**\n- Oro sąlygų įvertinimas\n- Medžiagų ir įrankių paruošimas\n- Darbo vietos apsauga ir saugos priemonių paruošimas\n- Darbų derinimas su kitais rangovais\n- Leidimų ir patikrų planavimas\n\n**Montavimo metodika**\n\n**1 žingsnis: Senų langų išmontavimas**\n- Atsargus išėmimas siekiant išvengti pažeidimų\n- Tinkamas senų medžiagų utilizavimas\n- Angos būklės įvertinimas\n- Paviršių valymas ir paruošimas\n- Aptiktų problemų dokumentavimas\n\n**2 žingsnis: Angos paruošimas**\n- Angos išlyginimas ir niveliavimas\n- Bet kokių konstrukcinių problemų taisymas\n- Tinkamo drenažo įrengimas\n- Hidroizoliacinių juostų klijavimas\n- Angokraščių apšiltinimas\n\n**3 žingsnis: Lango montavimas**\n- Tinkamas pozicionavimas ir išlyginimas\n- Saugus tvirtinimas prie laikančiųjų konstrukcijų\n- Veikimo ir prigludimo patikrinimas\n- Furnitūros ir mechanizmų reguliavimas\n- Kokybės kontrolė kiekviename etape\n\n**4 žingsnis: Sandarinimas ir apsauga nuo oro sąlygų**\n- Pirminio sandarinimo sluoksnio įrengimas\n- Tarpų perimetre apšiltinimas\n- Hidroizoliacinių juostų sujungimas\n- Išorinio sandariklio užtepimas\n- Vidinės apdailos darbai\n\n**5 žingsnis: Testavimas ir pridavimas**\n- Visų funkcijų veikimo patikrinimas\n- Pastato sandarumo testas\n- Atsparumo vandeniui testas\n- Šiluminių savybių patikrinimas\n- Galutinė kokybės inspekcija",
+          "benefits": [
+            "Garantuotas specifikacijas atitinkantis veikimas",
+            "Visiška apsauga nuo oro sąlygų",
+            "Tinkamas integravimas į pastato konstrukciją",
+            "Statybos normų atitikties užtikrinimas"
+          ]
         },
         {
-          "id": "dazniausios-montazo-klaidos",
-          "title": "Dažniausios Montažo Klaidos ir jų Pasekmės",
-          "content": "**Kritinės Montažo Klaidos**\n\n**Netinkamas Sandarinimas ir Oro Barjerai**\n- **Klaida**: Oro sandarinimo tarpai aplink rėmą\n- **Pasekmė**: 20-40% efektyvumo praradimas, vėjo srautai, drėgmės problemos\n- **Kaina**: €150-400 per metus energijos nuostoliais\n- **Taisymas**: Visiškas pakartotinis sandarinimas, galimas rėmo pašalinimas\n\n**Neteisingas Tvirtinimas ir Atramos**\n- **Klaida**: Nepakankamas ar netinkamas tvirtinimas\n- **Pasekmė**: Rėmo deformacija, veikimo problemos, struktūrinis gedimas\n- **Kaina**: €800-2,000 rėmo keitimui\n- **Taisymas**: Rėmo pašalinimas ir tinkamas pakartotinis montažas"
+          "id": "common-installation-mistakes",
+          "title": "Dažniausios montavimo klaidos ir jų pasekmės",
+          "content": "**Kritinės montavimo klaidos**\n\n**Netinkamas sandarinimas ir izoliacinės juostos**\n- **Klaida**: Tarpai sandarinimo sluoksnyje aplink rėmą.\n- **Pasekmė**: 20–40 % mažesnis efektyvumas, skersvėjai, drėgmės problemos.\n- **Kaina**: 150–400 € energijos nuostolių per metus.\n- **Sprendimas**: Visiškas per-sandarinimas, galimas rėmo išmontavimas.\n\n**Neteisingas tvirtinimas ir atramos**\n- **Klaida**: Nepakankamas arba netinkamas tvirtinimo elementų naudojimas.\n- **Pasekmė**: Rėmo deformacija, veikimo problemos, konstrukcijos pažeidimai.\n- **Kaina**: 800–2000 € rėmo keitimui.\n- **Sprendimas**: Rėmo išmontavimas ir tinkamas per-montavimas.\n\n**Prastas drenažas ir hidroizoliacija**\n- **Klaida**: Užsikimšusios drenažo angos, netinkamos hidroizoliacinės juostos.\n- **Pasekmė**: Vandens prasisunkimas, puvinys, pelėsis, konstrukcinė žala.\n- **Kaina**: 2000–10 000+ € vandens padarytos žalos remontui.\n- **Sprendimas**: Visiškas hidroizoliacijos sistemos atnaujinimas.\n\n**Nepakankamas apšiltinimas**\n- **Klaida**: Tarpai apšiltinimo medžiagoje, šalčio tiltai.\n- **Pasekmė**: Kondensatas, energijos nuostoliai, diskomfortas.\n- **Kaina**: 100–300 € energijos nuostolių per metus.\n- **Sprendimas**: Rėmo išmontavimas siekiant tinkamai apšiltinti.\n\n**Matavimo ir dydžio parinkimo klaidos**\n- **Klaida**: Neteisingi matmenys, blogas prigludimas.\n- **Pasekmė**: Tarpai, skersvėjai, saugumo ir estetinės problemos.\n- **Kaina**: 500–1500 € taisymui arba keitimui.\n- **Sprendimas**: Individuali gamyba arba visiškas pakeitimas.\n\n**Furnitūros ir veikimo problemos**\n- **Klaida**: Netinkamas furnitūros sureguliavimas.\n- **Pasekmė**: Sunkus varstymas, pirmalaikis nusidėvėjimas, saugumo problemos.\n- **Kaina**: 200–800 € furnitūros keitimui.\n- **Sprendimas**: Profesionalus reguliavimas ir kalibravimas.\n\n**Statybos normų pažeidimai**\n- **Klaida**: Statybos techninių reglamentų pažeidimas.\n- **Pasekmė**: Neigiamos statybų inspekcijos išvados, teisinės problemos, problemos su draudimu.\n- **Kaina**: 500–2000+ € taisymui.\n- **Sprendimas**: Montavimo pritaikymas prie galiojančių normų.",
+          "warning": "Savarankiško montavimo klaidos dažnai išryškėja tik po kelerių metų, kai žala tampa akivaizdi. Tuomet remonto išlaidos gali viršyti pradinę investiciją į langus."
         },
         {
-          "id": "kokybes-standartai-sertifikatai",
-          "title": "Kokybės Standartai ir Profesiniai Sertifikatai",
-          "content": "**Pramonės Standartai ir Atitiktis**\n\n**Europos Montažo Standartai**\n- **EN 14351-1**: Langų ir durų produkto standartas\n- **EN 13830**: Fasadų montažo reikalavimai\n- **ISO 12631**: Statybos komponentų šiluminės savybės\n- **CE ženklinimas**: Atitiktis Europos reglamentams\n\n**Lietuvos Statybos Kodeksai**\n- **STR 2.05.01:2013**: Šiluminių savybių reikalavimai\n- **STR 2.02.01:2004**: Struktūrinio saugumo standartai\n- **Vietiniai statybos reglamentai**: Savivaldybių reikalavimai\n- **Energijos efektyvumo standartai**: Nacionaliniai energijos kodeksai"
+          "id": "quality-standards-certifications",
+          "title": "Kokybės standartai ir profesiniai sertifikatai",
+          "content": "**Pramonės standartai ir atitiktis**\n\n**Europos montavimo standartai**\n- **EN 14351-1**: Langų ir durų gaminių standartas\n- **EN 13830**: Fasadinių sistemų montavimo reikalavimai\n- **ISO 12631**: Pastato komponentų šiluminės savybės\n- **CE ženklinimas**: Atitiktis Europos Sąjungos reglamentams\n\n**Lietuvos statybos techniniai reglamentai**\n- **STR 2.04.01:2018**: Pastatų atitvarų šiluminė technika\n- **STR 2.01.07:2003**: Pastatų vidaus ir išorės aplinkos apsauga nuo triukšmo\n- **Vietiniai statybos reglamentai**: Savivaldybių reikalavimai\n- **Energinio naudingumo standartai**: Nacionaliniai energetikos kodeksai\n\n**Profesionalūs sertifikatai**\n\n**Montuotojų kvalifikacija**\n- Baigti sertifikuoti montavimo mokymai\n- Konkretaus gamintojo sertifikavimo programos\n- Nuolatinio tobulėjimosi reikalavimai\n- Draudimo ir įsipareigojimų patvirtinimas\n\n**Kokybės užtikrinimo programos**\n- Trečiųjų šalių atliekamas montavimo auditas\n- Klientų pasitenkinimo stebėjimas\n- Garantinių reikalavimų analizė\n- Nuolatinio tobulinimo procesai\n\n**Testavimo ir tikrinimo metodai**\n\n**Eksploatacinių savybių testavimas**\n- Sandarumo testas (angl. Blower door) oro nuotėkiui nustatyti\n- Termovizinis tyrimas šalčio tiltams nustatyti\n- Atsparumo vandeniui testas\n- Visų funkcijų veikimo patikrinimas\n\n**Dokumentacijos reikalavimai**\n- Montavimo sertifikatai\n- Garantinė dokumentacija\n- Atitikties sertifikatai\n- Priežiūros instrukcijos\n- Bandymų rezultatai",
+          "tips": [
+            "Prieš samdydami patikrinkite montuotojų sertifikatus",
+            "Reikalaukite visų atliktų bandymų dokumentacijos",
+            "Įsitikinkite, kad laikomasi vietinių statybos reglamentų"
+          ]
         },
         {
-          "id": "profesionalaus-montuotojo-pasirinkimas",
-          "title": "Tinkamo Profesionalaus Montuotojo Pasirinkimas",
-          "content": "**Montuotojo Atrankos Kriterijai**\n\n**Būtinosios Kvalifikacijos**\n- Galiojanti verslo licencija ir draudimas\n- Gamintojo sertifikatai jūsų langų prekės ženklui\n- Mažiausiai 5 metų montažo patirtis\n- Vietinės rekomendacijos ir portfelis\n- Statybos kodeksų žinios ir atitiktis\n\n**Kokybės Indikatoriai**\n- Išsamūs raštiški sąmatos ir sutartys\n- Aiškūs garantijos terminai ir aprėptis\n- Profesionalūs įrankiai ir įranga\n- Sisteminis montažo procesas\n- Po montažo testavimas ir tikrinimas"
+          "id": "choosing-professional-installer",
+          "title": "Kaip išsirinkti tinkamą profesionalų montuotoją",
+          "content": "**Montuotojų pasirinkimo kriterijai**\n\n**Būtina kvalifikacija**\n- Galiojanti verslo licencija ir draudimas\n- Jūsų langų gamintojo suteikti sertifikatai\n- Mažiausiai 5 metų montavimo patirtis\n- Vietinės rekomendacijos ir darbų pavyzdžiai\n- Statybos reglamentų išmanymas ir laikymasis\n\n**Kokybės rodikliai**\n- Išsamios rašytinės sąmatos ir sutartys\n- Aiškios garantijos sąlygos ir aprėptis\n- Profesionali įranga ir įrankiai\n- Sistemingas montavimo procesas\n- Testavimas ir patikra po montavimo\n\n**Įspėjamieji ženklai, kurių reikėtų vengti**\n- Pardavimo taktika „nuo durų prie durų“\n- Spaudimas priimti sprendimą nedelsiant\n- Neįprastai maža kaina\n- Jokių vietinių rekomendacijų\n- Reikalavimas atsiskaityti tik grynaisiais\n- Jokios rašytinės garantijos ar sutarties\n\n**Vertinimo procesas**\n\n**Pirminė konsultacija**\n- Profesionalus esamos būklės įvertinimas\n- Detalūs matavimai ir dokumentavimas\n- Aiškus montavimo proceso paaiškinimas\n- Skaidri kainodara ir terminai\n- Galimų komplikacijų aptarimas\n\n**Rekomendacijų patikrinimas**\n- Naujausių klientų rekomendacijos (per pastaruosius 2 metus)\n- Leidimas apžiūrėti atliktus darbus\n- Atsiliepimai ir reitingai internete\n- Gamintojo rekomendacijos\n\n**Sutarties ir garantijos peržiūra**\n- Detali darbų apimtis\n- Medžiagų specifikacijos ir prekių ženklai\n- Darbų grafikas ir pabaigos data\n- Mokėjimų grafikas ir sąlygos\n- Garantijos aprėptis ir trukmė\n- Valymo ir atliekų išvežimo atsakomybė\n\n**Projekto valdymas**\n- Reguliarus bendravimas ir atnaujinimai\n- Kokybės kontrolės etapai\n- Problemų sprendimo procedūros\n- Galutinė apžiūra ir darbų pridavimas\n- Garantijos registravimas ir dokumentacija",
+          "benefits": [
+            "Ramybė dėl profesionalios patirties",
+            "Garantinė apsauga ir palaikymas",
+            "Statybos normų atitikties užtikrinimas",
+            "Ilgalaikė eksploatacijos garantija"
+          ]
         },
         {
-          "id": "montazo-grafikas-lukesciai",
-          "title": "Montažo Grafikas ir Ko Tikėtis",
-          "content": "**Tipinis Montažo Grafikas**\n\n**Išankstinio Montažo Etapas (1-2 savaitės)**\n- Pradinė konsultacija ir matavimas\n- Produkto pasirinkimas ir užsakymas\n- Leidimų paraiškos, jei reikia\n- Planavimas ir paruošimas\n- Medžiagų pristatymo koordinavimas\n\n**Montažo Dienos Paruošimas**\n- Vietos apsauga ir paruošimas (30-60 minučių)\n- Įrankių ir medžiagų organizavimas\n- Saugos įrangos įrengimas\n- Oro sąlygų įvertinimas\n- Galutinis matavimų tikrinimas"
+          "id": "installation-timeline-expectations",
+          "title": "Montavimo trukmė ir eiga: ko tikėtis",
+          "content": "**Įprasta montavimo trukmė**\n\n**Pasiruošimo etapas (1–2 savaitės)**\n- Pirminė konsultacija ir matavimai\n- Gaminio pasirinkimas ir užsakymas\n- Leidimų gavimas, jei reikia\n- Darbų planavimas ir pasiruošimas\n- Medžiagų pristatymo koordinavimas\n\n**Pasiruošimas montavimo dienai**\n- Darbo vietos apsauga ir paruošimas (30–60 minučių)\n- Įrankių ir medžiagų organizavimas\n- Saugos priemonių įrengimas\n- Oro sąlygų įvertinimas\n- Galutinis matmenų patikrinimas\n\n**Montavimo procesas (vienam langui)**\n- **Standartinis langas**: 2–4 valandos\n- **Dideli ar sudėtingi langai**: 4–8 valandos\n- **Specializuotas montavimas**: visa diena ar ilgiau\n- **Keli langai**: patyrusi komanda dirba efektyviau\n\n**Veiksmai po montavimo**\n- Valymas ir statybinių atliekų išvežimas\n- Galutinė kokybės inspekcija\n- Veikimo patikrinimas ir demonstravimas\n- Garantinės dokumentacijos sutvarkymas\n- Darbų perdavimas klientui ir akto pasirašymas\n\n**Oro sąlygų įtaka**\n- Optimalios sąlygos: sausa, vidutinė temperatūra\n- Priimtinos sąlygos: nestiprus lietus, temperatūra aukštesnė nei 0 °C\n- Darbai atidedami: smarkus lietus, didelis šaltis, stiprus vėjas\n- Sezoniškumas: geriausia pavasarį/rudenį, sudėtingiau žiemą\n\n**Kaip turėtų pasiruošti namų savininkas**\n\n**Prieš montavimą**\n- Atlaisvinkite priėjimą prie visų langų\n- Nuimkite užuolaidas, žaliuzes ir dekoracijas\n- Apsaugokite baldus ir daiktus\n- Pasirūpinkite vaikų ir augintinių saugumu\n- Užtikrinkite prieigą prie elektros lizdų, jei reikia\n\n**Montavimo metu**\n- Palaikykite ryšį su montuotojais\n- Klauskite apie procesą ir priežiūrą\n- Nedelsdami praneškite apie bet kokius nuogąstavimus\n- Netrukdykite darbo procesui\n- Būkite pasiekiami sprendimams priimti ir patvirtinti\n\n**Po montavimo**\n- Dalyvaukite galutinėje darbų apžiūroje\n- Išbandykite visų langų veikimą\n- Peržiūrėkite garantijos ir priežiūros instrukcijas\n- Suplanuokite bet kokius papildomus darbus\n- Užregistruokite garantijas pas gamintojus",
+          "callout": "Profesionalo patarimas: kokybiškas montavimas negali būti skubotas. Būkite atsargūs su montuotojais, kurie žada nerealius terminus arba akivaizdžiai skuba."
         }
       ],
-      "conclusion": "Profesionalus langų montažas yra langų veikimo, ilgaamžiškumo ir pasitenkinimo pagrindas. Nors iš pradžių gali kainuoti daugiau nei savadarbis ar mėgėjiškas montažas, ilgalaikės naudos gerokai viršija pradinę investiciją. Pasirinkite sertifikuotus specialistus, supraskite procesą ir investuokite į kokybišką montažą—jūsų langai, jūsų namai ir jūsų piniginė dėkos jums dešimtmečius.",
+      "conclusion": "Profesionalus langų montavimas – tai langų eksploatacinių savybių, ilgaamžiškumo ir jūsų pasitenkinimo pagrindas. Nors iš pirmo žvilgsnio tai gali kainuoti brangiau nei savarankiškas ar mėgėjiškas montavimas, ilgalaikė nauda gerokai viršija pradinę investiciją. Nuo energinio efektyvumo ir komforto iki garantinės apsaugos ir konstrukcijos vientisumo – profesionalus montavimas užtikrina, kad jūsų investicija į langus atsipirks su kaupu. Rinkitės sertifikuotus specialistus, išmanykite procesą ir investuokite į kokybišką montavimą – jūsų langai, namai ir piniginė jums už tai dėkos dešimtmečius.",
       "ctaSection": {
-        "title": "Ekspertų Langų Montažo Paslaugos",
-        "description": "Užtikrinkite, kad jūsų langų investicija veiktų taip, kaip numatyta, su mūsų sertifikuotomis profesionaliomis montažo paslaugomis.",
+        "title": "Profesionalios langų montavimo paslaugos",
+        "description": "Užtikrinkite, kad jūsų investicija į langus atsipirktų – pasinaudokite mūsų sertifikuotų meistrų montavimo paslaugomis. Nuo įvertinimo iki garantijos – užtikriname ilgaamžį ir kokybišką rezultatą.",
         "benefits": [
-          "Sertifikuoti profesionalūs montuotojai",
-          "Pilna garantijos apsauga",
-          "Kokybės testavimas ir tikrinimas",
-          "Visą gyvenimą trunkantis montažo palaikymas"
+          "Sertifikuoti montavimo meistrai",
+          "Visiška garantinė apsauga",
+          "Kokybės bandymai ir patikra",
+          "Ilgalaikis montavimo darbų palaikymas"
         ]
       },
       "faq": [
         {
-          "question": "Kiek kainuoja profesionalus langų montažas?",
-          "answer": "Profesionalus montažas paprastai kainuoja €150-300 už langą, priklausomai nuo dydžio, sudėtingumo ir vietinių sąlygų. Ši investicija apsaugo jūsų langų garantiją, užtikrina optimalų veikimą ir apsaugo nuo brangių problemų, kurios vėliau gali kainuoti tūkstančius."
+          "question": "Kiek kainuoja profesionalus langų montavimas?",
+          "answer": "Profesionalus montavimas paprastai kainuoja 150–300 € už vieną langą, priklausomai nuo dydžio, sudėtingumo ir vietos sąlygų. Ši investicija apsaugo jūsų langų garantiją, užtikrina optimalų veikimą ir padeda išvengti brangių problemų, kurių taisymas vėliau gali kainuoti tūkstančius."
         },
         {
-          "question": "Ar galiu pats sumontuoti langus, kad sutaupyčiau pinigų?",
-          "answer": "Nors techniškai įmanoma, savadarbis montažas panaikina garantijas, dažnai pažeidžia statybos kodeksus ir dažnai sukelia veikimo problemas, kurios kainuoja daugiau nei profesionalus montažas. Rizika gerokai viršija galimus taupymus daugumai namų savininkų."
+          "question": "Ar galiu pats sumontuoti langus, kad sutaupyčiau?",
+          "answer": "Nors techniškai tai įmanoma, montuodami patys prarasite gamintojo garantijas, dažnai pažeisite statybos reglamentus ir susidursite su eksploatacijos problemomis, kurių sprendimas kainuos brangiau nei profesionalus montavimas. Daugumai namų savininkų rizika gerokai viršija galimą sutaupymą."
         },
         {
-          "question": "Kiek laiko užtrunka profesionalus langų montažas?",
-          "answer": "Standartiniai langai užtrunka 2-4 valandas kiekvienam profesionaliam montažui. Sudėtingi ar dideli langai gali užtrukti ilgiau. Kokybiški montuotojai niekada neskuba proceso, nes tinkamas montažas reikalauja dėmesio detalėms ir sistemingų procedūrų."
+          "question": "Kiek laiko trunka profesionalus langų montavimas?",
+          "answer": "Standartinio lango profesionalus montavimas trunka 2–4 valandas. Sudėtingesnių ar didelių langų montavimas gali užtrukti ilgiau. Kokybiškai dirbantys meistrai niekada neskuba, nes tinkamam montavimui reikia kruopštumo ir nuoseklaus proceso laikymosi."
         },
         {
-          "question": "Kokia garantijos aprėptis pateikiama su profesijonaliu montažu?",
-          "answer": "Profesionalus montažas paprastai apima tiek produkto garantijas (10-25 metai), tiek montažo garantijas (1-5 metai). Tai apima tiek gamybos defektus, tiek su montažu susijusias problemas, suteikiant visišką jūsų investicijos apsaugą."
+          "question": "Kokia garantija suteikiama profesionaliam montavimui?",
+          "answer": "Profesionaliam montavimui paprastai suteikiama tiek gaminio garantija (10–25 metai), tiek montavimo darbų garantija (1–5 metai). Tai apima ir gamybos defektus, ir su montavimu susijusias problemas, todėl jūsų investicija yra visiškai apsaugota."
         }
       ]
     },
     "pl": {
-      "title": "Profesjonalna Instalacja Okien: Unikanie Błędów i Zapewnienie Jakości",
-      "excerpt": "Zła instalacja okien może zmniejszyć efektywność energetyczną o 50% i całkowicie unieważnić gwarancje. Dowiedz się, dlaczego profesjonalna instalacja jest niezbędna.",
+      "title": "Profesjonalny montaż okien: Poradnik, jak uniknąć kosztownych błędów i zapewnić najwyższą jakość",
+      "excerpt": "Zły montaż okien może obniżyć ich energooszczędność nawet o 50% i całkowicie unieważnić gwarancję. Dowiedz się, dlaczego profesjonalna instalacja jest kluczowa, czego oczekiwać od dobrych montażystów i jak uniknąć kosztownych błędów, które są zmorą amatorskich i samodzielnych instalacji.",
       "featuredImage": "/images/energy-efficient-windows-og.webp",
-      "featuredImageAlt": "Profesjonalni technicy pracujący przy oknach, zespół wykwalifikowanych pracowników, nowoczesne środowisko warsztatowe",
-      "introduction": "Instalacja okien to miejsce, gdzie nawet najwyższej jakości okna mogą zawieść. Okno premium za €1,000 nieprawidłowo zainstalowane działa gorzej niż standardowe okno za €300 prawidłowo zainstalowane. W wymagającym klimacie Litwy, gdzie wydajność termiczna i uszczelnienie są krytyczne, profesjonalna instalacja nie jest tylko zalecana—jest niezbędna do osiągnięcia nominalnej wydajności, utrzymania gwarancji i zapewnienia długoterminowej satysfakcji.",
+      "featuredImageAlt": "Profesjonalni monterzy pracujący przy oknach, zespół wykwalifikowanych fachowców, nowoczesne środowisko pracy",
+      "introduction": "Montaż to etap, na którym nawet okna najwyższej jakości mogą zawieść. Okno premium za 4000 zł zamontowane nieprawidłowo będzie gorsze niż standardowe okno za 1200 zł zainstalowane przez fachowca. W zmiennym polskim klimacie, gdzie izolacja termiczna i szczelność są krytyczne, profesjonalny montaż jest nie tylko zalecany – jest niezbędny, by osiągnąć deklarowane parametry, utrzymać gwarancję i cieszyć się komfortem przez lata. Ten kompleksowy poradnik wyjaśnia kluczowe aspekty fachowego montażu okien i pokazuje, dlaczego oszczędzanie na instalacji to najdroższy błąd, jaki popełniają właściciele domów.",
       "sections": [
         {
-          "id": "znaczenie-profesjonalnej-instalacji",
-          "title": "Dlaczego Profesjonalna Instalacja jest Krytyczna",
-          "content": "**Wpływ Jakości Instalacji na Wydajność**\n\n**Konsekwencje Efektywności Energetycznej**\n- Zła instalacja zmniejsza efektywność o 30-50%\n- Przecieki powietrza mogą zwiększyć koszty ogrzewania o €200-500 rocznie\n- Nieprawidłowa izolacja tworzy mostki termiczne\n- Nieprawidłowe uszczelnienie prowadzi do problemów z wilgocią\n- Instalacja niskiej jakości unieważnia oceny wydajności energetycznej\n\n**Implikacje Gwarancji i Ubezpieczenia**\n- Większość gwarancji okien wymaga profesjonalnej instalacji\n- Instalacja DIY zazwyczaj unieważnia wszystkie gwarancje producenta\n- Roszczenia ubezpieczeniowe mogą zostać odrzucone z powodu nieprawidłowej instalacji\n- Profesjonalna instalacja obejmuje ubezpieczenie odpowiedzialności cywilnej\n- Certyfikowani instalatorzy zapewniają gwarancje instalacji"
+          "id": "importance-professional-installation",
+          "title": "Dlaczego profesjonalny montaż ma kluczowe znaczenie",
+          "content": "**Wpływ jakości montażu na parametry okna**\n\n**Konsekwencje dla energooszczędności**\n- Zły montaż obniża wydajność energetyczną o 30-50%\n- Nieszczelności mogą podnieść koszty ogrzewania o 800-2000 zł rocznie\n- Niewłaściwa izolacja tworzy mostki termiczne\n- Nieprawidłowe uszczelnienie prowadzi do problemów z wilgocią\n- Niefachowy montaż unieważnia deklarowane parametry energetyczne\n\n**Skutki dla gwarancji i ubezpieczenia**\n- Większość gwarancji na okna wymaga profesjonalnego montażu\n- Samodzielny montaż (DIY) zazwyczaj unieważnia wszystkie gwarancje producenta\n- Ubezpieczyciel może odmówić wypłaty odszkodowania przy nieprawidłowym montażu\n- Profesjonalny montaż jest objęty ubezpieczeniem OC wykonawcy\n- Certyfikowani monterzy udzielają gwarancji na wykonaną usługę\n\n**Kwestie konstrukcyjne i bezpieczeństwa**\n- Niewłaściwe podparcie może powodować odkształcenie ramy\n- Nieprawidłowe kotwienie zagraża integralności strukturalnej\n- Zła hydroizolacja prowadzi do uszkodzenia budynku\n- Należy spełnić wymogi dotyczące szkła bezpiecznego\n- Zgodność z prawem budowlanym jest obowiązkowa\n\n**Długoterminowa analiza kosztów**\n- Profesjonalny montaż: 600-1200 zł za okno\n- Koszt naprawy złego montażu: 2000-6000 zł za okno\n- Straty energii w ciągu 20 lat: 8 000-30 000 zł\n- Potencjalne uszkodzenia konstrukcji: 20 000-80 000+ zł\n- Koszt utraty gwarancji: Pełny koszt wymiany okien",
+          "callout": "Fakt branżowy: 80% problemów z funkcjonowaniem okien wynika z błędów montażowych, a nie z wad produktu. Profesjonalny montaż to najważniejszy czynnik wpływający na wydajność i trwałość okien."
         },
         {
-          "id": "proces-profesjonalnej-instalacji",
-          "title": "Proces i Standardy Profesjonalnej Instalacji",
-          "content": "**Ocena Przed Instalacją**\n\n**Przegląd Miejsca i Pomiary**\n- Precyzyjne pomiary przy użyciu profesjonalnych narzędzi\n- Ocena stanu istniejącej ramy\n- Ocena strukturalna otworu\n- Identyfikacja potencjalnych komplikacji\n- Dokumentacja istniejących warunków\n\n**Metodologia Instalacji**\n\n**Krok 1: Usunięcie Istniejących Okien**\n- Ostrożne usunięcie, aby uniknąć uszkodzeń\n- Właściwe utylizowanie starych materiałów\n- Ocena stanu otworu\n- Czyszczenie i przygotowanie powierzchni\n- Dokumentacja wszelkich wykrytych problemów"
+          "id": "professional-installation-process",
+          "title": "Proces i standardy profesjonalnego montażu",
+          "content": "**Ocena przed montażem**\n\n**Wizja lokalna i dokładne pomiary**\n- Precyzyjne pomiary przy użyciu profesjonalnych narzędzi\n- Ocena stanu istniejących ościeżnic\n- Ocena konstrukcyjna otworu okiennego\n- Identyfikacja potencjalnych utrudnień\n- Dokumentacja stanu istniejącego\n\n**Wymagania dotyczące przygotowania**\n- Ocena warunków pogodowych\n- Przygotowanie materiałów i narzędzi\n- Zabezpieczenie miejsca pracy i zasad BHP\n- Koordynacja z innymi ekipami budowlanymi\n- Uzyskanie pozwoleń i zaplanowanie inspekcji (jeśli wymagane)\n\n**Metodyka montażu**\n\n**Krok 1: Demontaż starych okien**\n- Ostrożne usunięcie w celu uniknięcia uszkodzeń muru\n- Prawidłowa utylizacja starych materiałów\n- Ocena stanu ościeży po demontażu\n- Oczyszczenie i przygotowanie powierzchni\n- Dokumentacja wszelkich wykrytych problemów\n\n**Krok 2: Przygotowanie ościeży (otworu okiennego)**\n- Wypoziomowanie i wyrównanie otworu\n- Naprawa ewentualnych uszkodzeń muru\n- Montaż systemu odprowadzania wody\n- Zastosowanie barier paroizolacyjnych i paroprzepuszczalnych\n- Izolacja ościeży\n\n**Krok 3: Osadzenie okna**\n- Prawidłowe ustawienie i wypoziomowanie ramy\n- Stabilne zamocowanie do elementów konstrukcyjnych\n- Weryfikacja działania i dopasowania\n- Regulacja okuć i mechanizmów\n- Kontrola jakości na każdym etapie\n\n**Krok 4: Uszczelnienie i izolacja**\n- Wykonanie głównego uszczelnienia przeciwwiatrowego\n- Izolacja szczelin obwodowych (np. pianą montażową)\n- Integracja z warstwami izolacji budynku\n- Zastosowanie uszczelniaczy zewnętrznych\n- Prace wykończeniowe od wewnątrz\n\n**Krok 5: Testowanie i odbiór końcowy**\n- Testy działania wszystkich funkcji\n- Sprawdzenie szczelności (np. testem dymnym)\n- Test szczelności na przenikanie wody\n- Weryfikacja parametrów termicznych (np. kamerą termowizyjną)\n- Końcowa inspekcja jakości",
+          "benefits": [
+            "Gwarancja parametrów zgodnych ze specyfikacją",
+            "Pełna ochrona przed warunkami atmosferycznymi",
+            "Prawidłowa integracja z konstrukcją budynku",
+            "Zapewnienie zgodności z przepisami"
+          ]
         },
         {
-          "id": "czeste-bledy-instalacji",
-          "title": "Częste Błędy Instalacji i ich Konsekwencje",
-          "content": "**Krytyczne Błędy Instalacji**\n\n**Nieprawidłowe Uszczelnienie i Bariery Powietrzne**\n- **Błąd**: Szczeliny w uszczelnieniu powietrznym wokół ramy\n- **Konsekwencja**: 20-40% utrata efektywności, przeciągi, problemy z wilgocią\n- **Koszt**: €150-400 rocznie w stratach energii\n- **Naprawa**: Całkowite ponowne uszczelnienie, możliwe usunięcie ramy\n\n**Nieprawidłowe Mocowanie i Podparcie**\n- **Błąd**: Niewystarczające lub nieprawidłowe elementy mocujące\n- **Konsekwencja**: Deformacja ramy, problemy operacyjne, awaria strukturalna\n- **Koszt**: €800-2,000 za wymianę ramy\n- **Naprawa**: Usunięcie ramy i właściwa ponowna instalacja"
+          "id": "common-installation-mistakes",
+          "title": "Najczęstsze błędy montażowe i ich konsekwencje",
+          "content": "**Krytyczne błędy instalacyjne**\n\n**Nieprawidłowe uszczelnienie i bariery izolacyjne**\n- **Błąd**: Przerwy w uszczelnieniu wokół ramy okiennej\n- **Konsekwencja**: Utrata 20-40% energooszczędności, przeciągi, problemy z wilgocią\n- **Koszt**: 600-1600 zł rocznie strat na energii\n- **Naprawa**: Całkowite ponowne uszczelnienie, potencjalnie wymagające demontażu okna\n\n**Nieprawidłowe kotwienie i podparcie**\n- **Błąd**: Niewystarczająca liczba lub zły rodzaj łączników mechanicznych\n- **Konsekwencja**: Wypaczenie ramy, problemy z otwieraniem, zagrożenie konstrukcyjne\n- **Koszt**: 3000-8000 zł za naprawę lub wymianę ramy\n- **Naprawa**: Demontaż i prawidłowy ponowny montaż okna\n\n**Złe odprowadzanie wody i hydroizolacja**\n- **Błąd**: Zablokowane otwory odwadniające, nieprawidłowa obróbka blacharska\n- **Konsekwencja**: Przenikanie wody, gnicie, pleśń, uszkodzenie konstrukcji budynku\n- **Koszt**: 8 000-40 000+ zł za naprawę szkód spowodowanych przez wodę\n- **Naprawa**: Wykonanie od nowa całego systemu hydroizolacji\n\n**Niewystarczająca izolacja**\n- **Błąd**: Luki w izolacji, mostki termiczne\n- **Konsekwencja**: Kondensacja pary wodnej, straty energii, niski komfort cieplny\n- **Koszt**: 400-1200 zł rocznie strat na energii\n- **Naprawa**: Demontaż okna w celu prawidłowego zaizolowania\n\n**Błędy pomiarowe i zły wymiar okna**\n- **Błąd**: Nieprawidłowe pomiary, złe dopasowanie okna do otworu\n- **Konsekwencja**: Szczeliny, przeciągi, problemy z bezpieczeństwem, zła estetyka\n- **Koszt**: 2000-6000 zł na poprawki lub wymianę\n- **Naprawa**: Zamówienie nowego okna lub kosztowne przeróbki\n\n**Problemy z okuciami i działaniem**\n- **Błąd**: Nieprawidłowa regulacja okuć\n- **Konsekwencja**: Ciężka obsługa, przedwczesne zużycie, problemy z bezpieczeństwem\n- **Koszt**: 800-3000 zł za wymianę okuć\n- **Naprawa**: Profesjonalna regulacja i kalibracja\n\n**Niezgodność z przepisami budowlanymi**\n- **Błąd**: Naruszenie przepisów Prawa Budowlanego\n- **Konsekwencja**: Problemy przy odbiorze technicznym, kwestie prawne, problemy z ubezpieczeniem\n- **Koszt**: 2000-8000+ zł na poprawki\n- **Naprawa**: Doprowadzenie montażu do zgodności z obowiązującymi normami",
+          "warning": "Błędy popełnione przy samodzielnym montażu często wychodzą na jaw dopiero po latach, gdy uszkodzenia stają się widoczne. Wtedy koszty napraw mogą przewyższyć pierwotną cenę okien."
         },
         {
-          "id": "standardy-jakosci-certyfikaty",
-          "title": "Standardy Jakości i Certyfikaty Profesjonalne",
-          "content": "**Standardy Branżowe i Zgodność**\n\n**Europejskie Standardy Instalacji**\n- **EN 14351-1**: Standard produktu dla okien i drzwi\n- **EN 13830**: Wymagania instalacji ścian kurtynowych\n- **ISO 12631**: Właściwości termiczne komponentów budowlanych\n- **Oznakowanie CE**: Zgodność z przepisami europejskimi\n\n**Litewskie Kodeksy Budowlane**\n- **STR 2.05.01:2013**: Wymagania dotyczące właściwości termicznych\n- **STR 2.02.01:2004**: Standardy bezpieczeństwa strukturalnego\n- **Lokalne przepisy budowlane**: Wymagania gminne\n- **Standardy efektywności energetycznej**: Krajowe kodeksy energetyczne"
+          "id": "quality-standards-certifications",
+          "title": "Normy jakości i certyfikaty zawodowe",
+          "content": "**Normy branżowe i zgodność z przepisami**\n\n**Europejskie normy montażowe**\n- **PN-EN 14351-1**: Norma wyrobu dla okien i drzwi\n- **PN-EN 13830**: Wymagania dotyczące montażu ścian osłonowych\n- **ISO 12631**: Cieplne właściwości użytkowe elementów budowlanych\n- **Oznakowanie CE**: Zgodność z regulacjami europejskimi\n\n**Polskie normy i przepisy budowlane**\n- **Warunki Techniczne (WT 2021)**: Wymagania dotyczące izolacyjności cieplnej\n- **Prawo Budowlane**: Normy bezpieczeństwa konstrukcji\n- **Lokalne przepisy budowlane**: Wymagania gminne\n- **Normy energooszczędności**: Krajowe przepisy dotyczące efektywności energetycznej\n\n**Certyfikaty zawodowe**\n\n**Kwalifikacje montera**\n- Certyfikaty ukończenia szkoleń montażowych\n- Programy certyfikacyjne konkretnych producentów okien\n- Wymóg stałego podnoszenia kwalifikacji\n- Weryfikacja ubezpieczenia i legalności działalności\n\n**Programy zapewnienia jakości**\n- Audyty montażu przez niezależne jednostki\n- Monitorowanie satysfakcji klienta\n- Analiza zgłoszeń gwarancyjnych\n- Procesy ciągłego doskonalenia\n\n**Metody testowania i weryfikacji**\n\n**Testy wydajności**\n- Test szczelności Blower Door\n- Badanie termowizyjne w poszukiwaniu mostków cieplnych\n- Test szczelności na wodę opadową\n- Testy poprawnego działania wszystkich funkcji\n\n**Wymagana dokumentacja**\n- Certyfikaty montażu\n- Dokumentacja gwarancyjna\n- Certyfikaty zgodności z normami\n- Instrukcje konserwacji i użytkowania\n- Wyniki przeprowadzonych testów",
+          "tips": [
+            "Przed zatrudnieniem ekipy zweryfikuj jej certyfikaty i uprawnienia",
+            "Poproś o dokumentację wszystkich przeprowadzonych testów",
+            "Upewnij się, że montaż będzie zgodny z lokalnymi przepisami budowlanymi"
+          ]
         },
         {
-          "id": "wybor-profesjonalnego-instalatora",
-          "title": "Wybór Właściwego Profesjonalnego Instalatora",
-          "content": "**Kryteria Wyboru Instalatora**\n\n**Niezbędne Kwalifikacje**\n- Ważna licencja biznesowa i ubezpieczenie\n- Certyfikaty producenta dla Twojej marki okien\n- Minimum 5 lat doświadczenia w instalacji\n- Lokalne referencje i portfolio\n- Znajomość kodeksów budowlanych i zgodność\n\n**Wskaźniki Jakości**\n- Szczegółowe pisemne kosztorysy i umowy\n- Jasne warunki gwarancji i zakres\n- Profesjonalne wyposażenie i narzędzia\n- Systematyczny proces instalacji\n- Testowanie i weryfikacja po instalacji"
+          "id": "choosing-professional-installer",
+          "title": "Jak wybrać dobrego, profesjonalnego montera?",
+          "content": "**Kryteria wyboru ekipy montażowej**\n\n**Niezbędne kwalifikacje**\n- Aktualny wpis do rejestru firm i ubezpieczenie OC\n- Certyfikaty producenta okien, które wybrałeś\n- Minimum 5 lat doświadczenia w montażu\n- Referencje od lokalnych klientów i portfolio realizacji\n- Znajomość i stosowanie przepisów prawa budowlanego\n\n**Wskaźniki jakości**\n- Szczegółowe, pisemne kosztorysy i umowy\n- Jasne warunki i zakres gwarancji\n- Profesjonalny sprzęt i narzędzia\n- Systematyczny, uporządkowany proces montażu\n- Przeprowadzenie testów i weryfikacji po montażu\n\n**Sygnały ostrzegawcze, których należy unikać**\n- Akwizytorzy pukający do drzwi\n- Wywieranie presji na natychmiastową decyzję\n- Podejrzanie niska cena\n- Brak lokalnych referencji\n- Wymaganie płatności wyłącznie gotówką (bez faktury)\n- Brak pisemnej umowy lub gwarancji\n\n**Proces weryfikacji**\n\n**Pierwsza konsultacja**\n- Profesjonalna ocena istniejących warunków\n- Szczegółowy pomiar i dokumentacja\n- Jasne wyjaśnienie procesu montażu\n- Przejrzysta wycena i harmonogram\n- Omówienie potencjalnych komplikacji\n\n**Sprawdzanie referencji**\n- Referencje od klientów z ostatnich 2 lat\n- Możliwość obejrzenia zrealizowanych montaży\n- Opinie w internecie (np. na portalach branżowych)\n- Rekomendacje od producenta okien\n\n**Analiza umowy i gwarancji**\n- Szczegółowy zakres prac\n- Specyfikacja materiałów i marek\n- Harmonogram i termin zakończenia\n- Harmonogram i warunki płatności\n- Zakres i okres gwarancji\n- Zakres prac porządkowych i utylizacji\n\n**Zarządzanie projektem**\n- Regularna komunikacja i informowanie o postępach\n- Punkty kontroli jakości na kluczowych etapach\n- Procedury rozwiązywania problemów\n- Końcowa inspekcja i protokół odbioru\n- Rejestracja gwarancji i przekazanie dokumentacji",
+          "benefits": [
+            "Spokój ducha dzięki wiedzy i doświadczeniu fachowców",
+            "Ochrona gwarancyjna i wsparcie techniczne",
+            "Pewność zgodności z przepisami",
+            "Gwarancja wieloletniej, bezproblemowej eksploatacji"
+          ]
         },
         {
-          "id": "harmonogram-instalacji-oczekiwania",
-          "title": "Harmonogram Instalacji i Czego Oczekiwać",
-          "content": "**Typowy Harmonogram Instalacji**\n\n**Faza Przed Instalacją (1-2 tygodnie)**\n- Wstępna konsultacja i pomiary\n- Wybór produktu i zamówienie\n- Wnioski o pozwolenia, jeśli wymagane\n- Planowanie i przygotowanie\n- Koordynacja dostawy materiałów\n\n**Przygotowanie Dnia Instalacji**\n- Ochrona miejsca i konfiguracja (30-60 minut)\n- Organizacja narzędzi i materiałów\n- Instalacja sprzętu bezpieczeństwa\n- Ocena warunków pogodowych\n- Ostateczna weryfikacja pomiarów"
+          "id": "installation-timeline-expectations",
+          "title": "Harmonogram montażu i czego się spodziewać",
+          "content": "**Typowy harmonogram prac montażowych**\n\n**Faza przed montażem (1-2 tygodnie)**\n- Pierwsza konsultacja i pomiary\n- Wybór i zamówienie produktów\n- Złożenie wniosków o pozwolenia (jeśli wymagane)\n- Ustalenie harmonogramu i przygotowania\n- Koordynacja dostawy materiałów\n\n**Przygotowanie w dniu montażu**\n- Zabezpieczenie miejsca pracy (30-60 minut)\n- Rozłożenie narzędzi i materiałów\n- Przygotowanie sprzętu BHP\n- Ocena warunków pogodowych\n- Ostateczna weryfikacja pomiarów\n\n**Proces montażu (na jedno okno)**\n- **Standardowe okno**: 2-4 godziny\n- **Duże lub skomplikowane okna**: 4-8 godzin\n- **Instalacje specjalistyczne**: Cały dzień lub dłużej\n- **Wiele okien**: Doświadczona ekipa pracuje wydajniej\n\n**Czynności po montażu**\n- Sprzątanie i usunięcie odpadów\n- Końcowa kontrola jakości\n- Test działania i demonstracja obsługi\n- Przekazanie dokumentacji gwarancyjnej\n- Protokół odbioru z klientem\n\n**Wpływ pogody**\n- Optymalne warunki: Sucho, umiarkowane temperatury\n- Dopuszczalne warunki: Lekki deszcz, temperatury powyżej zera\n- Konieczność przełożenia prac: Ulewny deszcz, silny mróz, porywisty wiatr\n- Uwarunkowania sezonowe: Najlepiej wiosną/jesienią, zimą prace są utrudnione\n\n**Jak właściciel domu powinien się przygotować**\n\n**Przed montażem**\n- Zapewnij swobodny dostęp do wszystkich okien\n- Zdejmij zasłony, firanki, rolety i dekoracje\n- Zabezpiecz meble i inne przedmioty w pobliżu\n- Zapewnij bezpieczeństwo dzieciom i zwierzętom domowym\n- Upewnij się, że ekipa ma dostęp do prądu, jeśli to konieczne\n\n**W trakcie montażu**\n- Utrzymuj stały kontakt z ekipą montażową\n- Zadawaj pytania dotyczące procesu i pielęgnacji\n- Natychmiast zgłaszaj wszelkie wątpliwości\n- Unikaj przeszkadzania w pracy\n- Bądź dostępny w celu podejmowania decyzji i akceptacji etapów\n\n**Po montażu**\n- Weź udział w końcowym odbiorze prac\n- Przetestuj działanie wszystkich okien\n- Zapoznaj się z gwarancją i instrukcją obsługi\n- Umów ewentualne dodatkowe usługi\n- Zarejestruj gwarancje u producentów",
+          "callout": "Wskazówka od profesjonalistów: Dobrego montażu nie da się przyspieszyć. Uważaj na ekipy, które obiecują nierealistycznie krótkie terminy lub wykonują pracę w pośpiechu."
         }
       ],
-      "conclusion": "Profesjonalna instalacja okien to fundament wydajności, trwałości i satysfakcji z okien. Chociaż może kosztować więcej z góry niż instalacja DIY lub amatorska, długoterminowe korzyści znacznie przewyższają początkową inwestycję. Wybierz certyfikowanych profesjonalistów, zrozum proces i zainwestuj w jakościową instalację—Twoje okna, Twój dom i Twój portfel będą Ci wdzięczne przez dziesięciolecia.",
+      "conclusion": "Profesjonalny montaż okien to fundament ich wydajności, trwałości i satysfakcji z użytkowania. Chociaż na początku kosztuje więcej niż samodzielna instalacja lub usługa amatora, długoterminowe korzyści znacznie przewyższają tę początkową inwestycję. Od oszczędności energii i komfortu, po ochronę gwarancyjną i integralność strukturalną budynku – fachowy montaż gwarantuje, że w pełni wykorzystasz potencjał swojej inwestycji w okna. Wybieraj certyfikowanych profesjonalistów, zrozum proces i zainwestuj w jakość montażu – Twoje okna, Twój dom i Twój portfel będą Ci za to wdzięczne przez dziesięciolecia.",
       "ctaSection": {
-        "title": "Eksperckie Usługi Instalacji Okien",
-        "description": "Zapewnij, że Twoja inwestycja w okna działa zgodnie z przeznaczeniem dzięki naszym certyfikowanym profesjonalnym usługom instalacyjnym.",
+        "title": "Eksperckie usługi montażu okien",
+        "description": "Zapewnij pełną wydajność swojej inwestycji w okna dzięki naszym certyfikowanym usługom montażowym. Od oceny po gwarancję – zapewniamy jakość, która przetrwa lata.",
         "benefits": [
-          "Certyfikowani profesjonalni instalatorzy",
+          "Certyfikowani, profesjonalni monterzy",
           "Pełna ochrona gwarancyjna",
-          "Testowanie i weryfikacja jakości",
-          "Dożywotnie wsparcie instalacji"
+          "Testy jakości i weryfikacja montażu",
+          "Wsparcie techniczne przez cały okres użytkowania"
         ]
       },
       "faq": [
         {
-          "question": "Ile kosztuje profesjonalna instalacja okien?",
-          "answer": "Profesjonalna instalacja zazwyczaj kosztuje €150-300 za okno, w zależności od rozmiaru, złożoności i lokalnych warunków. Ta inwestycja chroni gwarancję okien, zapewnia optymalną wydajność i zapobiega kosztownym problemom, które później mogą kosztować tysiące do naprawy."
+          "question": "Ile kosztuje profesjonalny montaż okien?",
+          "answer": "Profesjonalny montaż kosztuje zazwyczaj od 600 do 1200 zł za jedno okno, w zależności od jego rozmiaru, złożoności prac i lokalnych warunków. Ta inwestycja chroni gwarancję na okna, zapewnia ich optymalne działanie i zapobiega kosztownym problemom, których naprawa może później kosztować tysiące złotych."
         },
         {
-          "question": "Czy mogę zainstalować okna sam, aby zaoszczędzić pieniądze?",
-          "answer": "Chociaż technicznie możliwe, instalacja DIY unieważnia gwarancje, często narusza kodeksy budowlane i często powoduje problemy z wydajnością kosztujące więcej niż profesjonalna instalacja. Ryzyko znacznie przewyższa potencjalne oszczędności dla większości właścicieli domów."
+          "question": "Czy mogę samodzielnie zamontować okna, żeby zaoszczędzić?",
+          "answer": "Chociaż technicznie jest to możliwe, samodzielny montaż unieważnia gwarancję producenta, często narusza przepisy Prawa Budowlanego i niemal zawsze prowadzi do problemów z funkcjonowaniem okien. W rezultacie koszty napraw przewyższają oszczędności, a ryzyko jest niewspółmiernie wysokie."
         },
         {
-          "question": "Jak długo trwa profesjonalna instalacja okien?",
-          "answer": "Standardowe okna zajmują 2-4 godziny każde dla profesjonalnej instalacji. Złożone lub duże okna mogą trwać dłużej. Jakościowi instalatorzy nigdy nie śpieszą się z procesem, ponieważ właściwa instalacja wymaga uwagi na szczegóły i systematycznych procedur."
+          "question": "Jak długo trwa profesjonalny montaż okien?",
+          "answer": "Montaż standardowego okna przez profesjonalną ekipę zajmuje od 2 do 4 godzin. Bardziej skomplikowane lub duże okna mogą wymagać więcej czasu. Dobry monter nigdy się nie spieszy, ponieważ prawidłowa instalacja wymaga dbałości o szczegóły i przestrzegania procedur."
         },
         {
-          "question": "Jaka ochrona gwarancyjna jest zapewniona z profesjonalną instalacją?",
-          "answer": "Profesjonalna instalacja zazwyczaj obejmuje zarówno gwarancje produktu (10-25 lat), jak i gwarancje instalacji (1-5 lat). Obejmuje to zarówno defekty produkcyjne, jak i problemy związane z instalacją, zapewniając pełną ochronę Twojej inwestycji."
+          "question": "Jaki zakres gwarancji obejmuje profesjonalny montaż?",
+          "answer": "Profesjonalny montaż obejmuje zarówno gwarancję na produkt (zazwyczaj 10-25 lat), jak i gwarancję na usługę montażu (rękojmię, zwykle 2-5 lat). Zapewnia to pełną ochronę inwestycji, pokrywając zarówno wady fabryczne okna, jak i ewentualne błędy związane z instalacją."
         }
       ]
     },
     "uk": {
-      "title": "Професійний Монтаж Вікон: Уникнення Помилок та Забезпечення Якості",
-      "excerpt": "Поганий монтаж вікон може зменшити енергоефективність до 50% та повністю скасувати гарантії. Дізнайтеся, чому професійний монтаж є необхідним.",
+      "title": "Професійний монтаж вікон: посібник, що вбереже від дорогих помилок та гарантує якість",
+      "excerpt": "Неякісний монтаж вікон може знизити їхню енергоефективність до 50% і повністю анулювати гарантію. Дізнайтеся, чому професійне встановлення є критично важливим, чого очікувати від кваліфікованих майстрів та як уникнути дорогих помилок, характерних для самостійного та аматорського монтажу.",
       "featuredImage": "/images/energy-efficient-windows-og.webp",
-      "featuredImageAlt": "Професійні техніки працюють з вікнами, команда кваліфікованих працівників, сучасне робоче середовище майстерні",
-      "introduction": "Монтаж вікон - це місце, де навіть найякісніші вікна можуть підвести. Преміум вікно за €1,000, неправильно встановлене, працює гірше, ніж стандартне вікно за €300, правильно встановлене. У складному кліматі Литви, де теплові характеристики та герметизація є критичними, професійний монтаж не просто рекомендується—він необхідний для досягнення номінальної продуктивності, збереження гарантій та забезпечення довгострокового задоволення.",
+      "featuredImageAlt": "Професійні монтажники встановлюють вікна, команда кваліфікованих робітників, сучасна майстерня",
+      "introduction": "Монтаж — це етап, на якому можуть «провалитися» навіть найякісніші вікна. Преміум-вікно вартістю 40 000 грн, встановлене неправильно, працюватиме гірше, ніж стандартне за 12 000 грн, але змонтоване за всіма правилами. В умовах мінливого українського клімату, де теплоізоляція та герметичність є критично важливими, професійний монтаж — це не просто рекомендація, а необхідність. Тільки так можна досягти заявлених показників, зберегти гарантію та забезпечити довговічність конструкції. Цей вичерпний посібник розкриває ключові аспекти професійного встановлення вікон і пояснює, чому економія на монтажі — найдорожча помилка, якої припускаються власники житла.",
       "sections": [
         {
-          "id": "vazhlyvist-profesiynoho-montazhu",
-          "title": "Чому Професійний Монтаж є Критичним",
-          "content": "**Вплив Якості Монтажу на Продуктивність**\n\n**Наслідки Енергоефективності**\n- Поганий монтаж зменшує ефективність на 30-50%\n- Витоки повітря можуть збільшити витрати на опалення на €200-500 щорічно\n- Неправильна ізоляція створює теплові мости\n- Неправильна герметизація призводить до проблем з вологістю\n- Монтаж низької якості скасовує рейтинги енергетичної продуктивності\n\n**Наслідки Гарантії та Страхування**\n- Більшість гарантій на вікна вимагають професійного монтажу\n- Самостійний монтаж зазвичай скасовує всі гарантії виробника\n- Страхові претензії можуть бути відхилені через неправильний монтаж\n- Професійний монтаж включає страхування відповідальності\n- Сертифіковані монтажники надають гарантії на монтаж"
+          "id": "importance-professional-installation",
+          "title": "Чому професійний монтаж такий важливий",
+          "content": "**Вплив якості монтажу на характеристики вікна**\n\n**Наслідки для енергоефективності**\n- Неякісний монтаж знижує ефективність на 30-50%\n- Протяги через негерметичні шви можуть збільшити витрати на опалення на 8 000–20 000 грн щорічно\n- Неправильне утеплення створює містки холоду\n- Помилки з герметизацією призводять до проблем із вологою\n- Непрофесійний монтаж анулює заявлені показники енергоефективності\n\n**Наслідки для гарантії та страхування**\n- Більшість гарантій на вікна вимагають професійного монтажу\n- Самостійне встановлення зазвичай анулює всі гарантії виробника\n- Страхові компанії можуть відмовити у виплаті через неправильний монтаж\n- Професійні монтажники несуть відповідальність за свою роботу\n- Сертифіковані фахівці надають гарантію на монтажні роботи\n\n**Конструктивна безпека та надійність**\n- Неправильна опора може спричинити деформацію рами\n- Некоректне кріплення порушує структурну цілісність\n- Погана гідроізоляція призводить до руйнування стін\n- Необхідно дотримуватися вимог до безпечного скла\n- Дотримання будівельних норм є обов'язковим\n\n**Аналіз витрат у довгостроковій перспективі**\n- Професійний монтаж: 6 000–12 000 грн за вікно\n- Вартість виправлення помилок: 20 000–60 000 грн за вікно\n- Втрати енергії за 20 років: 80 000–320 000 грн\n- Можливі пошкодження конструкції: 200 000–800 000+ грн\n- Втрата гарантії: повна вартість заміни вікна",
+          "callout": "Факт від експертів галузі: 80% проблем із функціональністю вікон пов'язані з монтажем, а не з дефектами виробу. Професійне встановлення — найважливіший фактор, що впливає на роботу вікна."
         },
         {
-          "id": "protses-profesiynoho-montazhu",
-          "title": "Процес та Стандарти Професійного Монтажу",
-          "content": "**Оцінка Перед Монтажем**\n\n**Огляд Місця та Вимірювання**\n- Точні вимірювання з використанням професійних інструментів\n- Оцінка стану існуючої рами\n- Структурна оцінка отвору\n- Ідентифікація потенційних ускладнень\n- Документування існуючих умов\n\n**Методологія Монтажу**\n\n**Крок 1: Видалення Існуючих Вікон**\n- Обережне видалення для запобігання пошкодженням\n- Належна утилізація старих матеріалів\n- Оцінка стану отвору\n- Очищення та підготовка поверхонь\n- Документування будь-яких виявлених проблем"
+          "id": "professional-installation-process",
+          "title": "Процес та стандарти професійного монтажу",
+          "content": "**Етап попередньої оцінки**\n\n**Огляд об'єкта та заміри**\n- Точні вимірювання професійними інструментами\n- Оцінка стану існуючого віконного отвору\n- Аналіз несучої здатності стіни\n- Виявлення потенційних ускладнень\n- Документування вихідних умов\n\n**Вимоги до підготовки**\n- Оцінка погодних умов\n- Підготовка матеріалів та інструментів\n- Захист приміщення та організація безпеки\n- Координація з іншими підрядниками (за потреби)\n- Планування перевірок та отримання дозволів\n\n**Технологія монтажу**\n\n**Крок 1: Демонтаж старих вікон**\n- Акуратне видалення, щоб не пошкодити отвір\n- Правильна утилізація старих матеріалів\n- Оцінка стану отвору після демонтажу\n- Очищення та підготовка поверхонь\n- Фіксація будь-яких виявлених проблем\n\n**Крок 2: Підготовка віконного отвору**\n- Вирівнювання отвору за рівнем та геометрією\n- Ремонт будь-яких пошкоджень конструкції\n- Встановлення належної дренажної системи\n- Монтаж паро- та гідроізоляційних стрічок\n- Утеплення монтажного шва\n\n**Крок 3: Встановлення вікна**\n- Правильне позиціонування та вирівнювання\n- Надійне кріплення до несучих елементів стіни\n- Перевірка роботи та прилягання стулок\n- Регулювання фурнітури та механізмів\n- Контроль якості на кожному етапі\n\n**Крок 4: Герметизація та гідроізоляція**\n- Створення основного герметичного контуру\n- Утеплення зазорів по периметру\n- Інтеграція з паро- та гідроізоляційними шарами\n- Нанесення зовнішнього герметика\n- Внутрішні оздоблювальні роботи (укоси)\n\n**Крок 5: Тестування та здача об'єкта**\n- Перевірка роботи всіх функцій\n- Тест на герметичність (за потреби)\n- Тест на водонепроникність (за потреби)\n- Перевірка теплоізоляційних властивостей\n- Фінальна перевірка якості",
+          "benefits": [
+            "Гарантовані показники відповідно до специфікацій",
+            "Повний захист від погодних умов",
+            "Правильна інтеграція в конструкцію будівлі",
+            "Гарантія відповідності будівельним нормам"
+          ]
         },
         {
-          "id": "chasti-pomylky-montazhu",
-          "title": "Поширені Помилки Монтажу та їх Наслідки",
-          "content": "**Критичні Помилки Монтажу**\n\n**Неправильна Герметизація та Повітряні Бар'єри**\n- **Помилка**: Прогалини в повітряній герметизації навколо рами\n- **Наслідок**: 20-40% втрата ефективності, протяги, проблеми з вологістю\n- **Вартість**: €150-400 щорічно в енергетичних втратах\n- **Виправлення**: Повна повторна герметизація, можливе видалення рами\n\n**Неправильне Кріплення та Підтримка**\n- **Помилка**: Недостатні або неправильні кріпильні елементи\n- **Наслідок**: Деформація рами, операційні проблеми, структурна відмова\n- **Вартість**: €800-2,000 за заміну рами\n- **Виправлення**: Видалення рами та правильний повторний монтаж"
+          "id": "common-installation-mistakes",
+          "title": "Поширені помилки монтажу та їхні наслідки",
+          "content": "**Критичні помилки при встановленні**\n\n**Неправильна герметизація та паро/гідроізоляція**\n- **Помилка**: Пропуски в герметизації навколо рами, відсутність ізоляційних стрічок\n- **Наслідок**: Втрата ефективності на 20-40%, протяги, проблеми з вологою, пліснява\n- **Вартість**: 6 000–16 000 грн щорічних втрат на опаленні\n- **Рішення**: Повна перегерметизація, що може вимагати демонтажу вікна\n\n**Неправильне кріплення та опора**\n- **Помилка**: Недостатня кількість або неправильний тип кріплень\n- **Наслідок**: Деформація рами, проблеми з відкриванням, руйнування конструкції\n- **Вартість**: 32 000–80 000 грн за заміну рами\n- **Рішення**: Демонтаж та правильне повторне встановлення\n\n**Поганий дренаж та гідроізоляція**\n- **Помилка**: Заблоковані дренажні отвори, неправильний монтаж відливів\n- **Наслідок**: Протікання води, гниття, пліснява, пошкодження стін\n- **Вартість**: 80 000–400 000+ грн на ремонт пошкоджень від води\n- **Рішення**: Повна перебудова системи гідроізоляції\n\n**Недостатнє утеплення**\n- **Помилка**: Зазори в утеплювачі, створення містків холоду\n- **Наслідок**: Конденсат, втрати тепла, дискомфорт у приміщенні\n- **Вартість**: 4 000–12 000 грн щорічних втрат на опаленні\n- **Рішення**: Демонтаж вікна для правильного утеплення\n\n**Помилки в замірах та розмірах**\n- **Помилка**: Неправильні виміри, погане припасування вікна до отвору\n- **Наслідок**: Великі зазори, протяги, проблеми з безпекою, неестетичний вигляд\n- **Вартість**: 20 000–60 000 грн на виправлення або заміну\n- **Рішення**: Виготовлення індивідуальних елементів або повна заміна вікна\n\n**Проблеми з фурнітурою та роботою**\n- **Помилка**: Неправильне регулювання фурнітури\n- **Наслідок**: Важке відкривання, передчасний знос, проблеми з безпекою\n- **Вартість**: 8 000–32 000 грн на заміну фурнітури\n- **Рішення**: Професійне налаштування та калібрування\n\n**Невідповідність будівельним нормам**\n- **Помилка**: Порушення вимог ДБН (Державних будівельних норм)\n- **Наслідок**: Проблеми з прийманням робіт, юридичні питання, відмова у страхових виплатах\n- **Вартість**: 20 000–80 000+ грн на виправлення\n- **Рішення**: Приведення монтажу у відповідність до чинних норм",
+          "warning": "Помилки, допущені під час самостійного монтажу, часто стають помітними лише через роки, коли з'являються серйозні пошкодження. На той момент вартість ремонту може перевищити початкові витрати на самі вікна."
         },
         {
-          "id": "standarty-yakosti-sertyfikaty",
-          "title": "Стандарти Якості та Професійні Сертифікати",
-          "content": "**Галузеві Стандарти та Відповідність**\n\n**Європейські Стандарти Монтажу**\n- **EN 14351-1**: Стандарт продукту для вікон та дверей\n- **EN 13830**: Вимоги до монтажу навісних стін\n- **ISO 12631**: Теплові властивості будівельних компонентів\n- **CE маркування**: Відповідність європейським регламентам\n\n**Литовські Будівельні Кодекси**\n- **STR 2.05.01:2013**: Вимоги до теплових властивостей\n- **STR 2.02.01:2004**: Стандарти структурної безпеки\n- **Місцеві будівельні регламенти**: Муніципальні вимоги\n- **Стандарти енергоефективності**: Національні енергетичні кодекси"
+          "id": "quality-standards-certifications",
+          "title": "Стандарти якості та професійні сертифікації",
+          "content": "**Галузеві стандарти та відповідність нормам**\n\n**Європейські стандарти монтажу**\n- **EN 14351-1**: Стандарт продукції для вікон та дверей\n- **EN 13830**: Вимоги до монтажу фасадних систем\n- **ISO 12631**: Теплові характеристики будівельних компонентів\n- **Маркування CE**: Підтвердження відповідності європейським регламентам\n\n**Українські будівельні норми (ДБН)**\n- **ДБН В.2.6-31:2021**: «Теплова ізоляція та енергоефективність будівель»\n- **ДСТУ Б В.2.6-79:2009**: «Шви монтажні вузлів примикань віконних блоків до стінових отворів»\n- **Місцеві будівельні норми**: Вимоги муніципалітетів\n- **Стандарти енергоефективності**: Національні енергетичні норми\n\n**Професійні сертифікації**\n\n**Кваліфікація монтажників**\n- Сертифікат про проходження навчання з монтажу\n- Сертифікаційні програми від виробників вікон\n- Вимоги до постійного підвищення кваліфікації\n- Перевірка наявності страхування та реєстрації\n\n**Програми забезпечення якості**\n- Незалежний аудит монтажних робіт\n- Відстеження задоволеності клієнтів\n- Аналіз гарантійних звернень\n- Процеси постійного вдосконалення\n\n**Методи тестування та перевірки**\n\n**Тестування характеристик**\n- Тестування аеродвером на повітропроникність\n- Тепловізійне обстеження для виявлення містків холоду\n- Тест на водонепроникність\n- Перевірка роботи всіх механізмів\n\n**Вимоги до документації**\n- Акт виконаних робіт з монтажу\n- Гарантійний талон\n- Сертифікати відповідності\n- Інструкції з догляду та експлуатації\n- Результати тестування (за наявності)",
+          "tips": [
+            "Перевіряйте сертифікати монтажників перед початком робіт",
+            "Запитуйте документальне підтвердження всіх проведених випробувань",
+            "Переконайтеся, що монтаж відповідає чинним будівельним нормам (ДБН)"
+          ]
         },
         {
-          "id": "vybir-profesiynoho-montazhnyka",
-          "title": "Вибір Правильного Професійного Монтажника",
-          "content": "**Критерії Відбору Монтажника**\n\n**Необхідні Кваліфікації**\n- Дійсна бізнес-ліцензія та страхування\n- Сертифікати виробника для вашого бренду вікон\n- Мінімум 5 років досвіду монтажу\n- Місцеві рекомендації та портфоліо\n- Знання будівельних кодексів та відповідність\n\n**Показники Якості**\n- Детальні письмові кошториси та контракти\n- Чіткі умови гарантії та покриття\n- Професійне обладнання та інструменти\n- Систематичний процес монтажу\n- Тестування та перевірка після монтажу"
+          "id": "choosing-professional-installer",
+          "title": "Як обрати надійного монтажника",
+          "content": "**Критерії вибору виконавця**\n\n**Обов'язкові вимоги**\n- Офіційна реєстрація (ФОП або ТОВ) та страхування\n- Сертифікати від виробника ваших вікон\n- Досвід монтажних робіт не менше 5 років\n- Відгуки від місцевих клієнтів та портфоліо\n- Знання та дотримання будівельних норм (ДБН)\n\n**Ознаки якості**\n- Детальний письмовий кошторис та договір\n- Чіткі умови та терміни гарантії\n- Професійне обладнання та інструменти\n- Системний підхід до процесу монтажу\n- Тестування та перевірка після встановлення\n\n**Тривожні сигнали, яких варто уникати**\n- Агресивні продажі «від дверей до дверей»\n- Тиск із вимогою негайного ухвалення рішення\n- Підозріло низькі ціни\n- Відсутність відгуків від місцевих клієнтів\n- Вимога оплати лише готівкою\n- Відсутність письмової гарантії чи договору\n\n**Процес оцінки**\n\n**Первинна консультація**\n- Професійна оцінка існуючих умов\n- Детальні заміри та документація\n- Чітке пояснення процесу монтажу\n- Прозоре ціноутворення та терміни\n- Обговорення можливих ускладнень\n\n**Перевірка репутації**\n- Відгуки від клієнтів за останні 2 роки\n- Можливість оглянути завершені об'єкти\n- Рейтинги на незалежних сайтах та в соцмережах\n- Рекомендації від виробника вікон\n\n**Аналіз договору та гарантії**\n- Детальний перелік робіт\n- Специфікації матеріалів та брендів\n- Графік виконання та терміни\n- Графік та умови оплати\n- Умови та термін гарантійного обслуговування\n- Відповідальність за прибирання та вивіз сміття\n\n**Управління проєктом**\n- Регулярний зв'язок та звіти про хід робіт\n- Контрольні точки перевірки якості\n- Процедури вирішення проблемних ситуацій\n- Фінальний огляд та підписання акта виконаних робіт\n- Реєстрація гарантії та передача документів",
+          "benefits": [
+            "Спокій та впевненість завдяки досвіду професіоналів",
+            "Захист гарантії та подальша підтримка",
+            "Гарантія відповідності будівельним нормам",
+            "Гарантія довготривалої ефективності"
+          ]
         },
         {
-          "id": "hrafik-montazhu-ochikuvannya",
-          "title": "Графік Монтажу та Чого Очікувати",
-          "content": "**Типовий Графік Монтажу**\n\n**Фаза Перед Монтажем (1-2 тижні)**\n- Початкова консультація та вимірювання\n- Вибір продукту та замовлення\n- Заявки на дозволи, якщо потрібно\n- Планування та підготовка\n- Координація доставки матеріалів\n\n**Підготовка Дня Монтажу**\n- Захист місця та налаштування (30-60 хвилин)\n- Організація інструментів та матеріалів\n- Встановлення обладнання безпеки\n- Оцінка погодних умов\n- Остаточна перевірка вимірювань"
+          "id": "installation-timeline-expectations",
+          "title": "Терміни монтажу та чого очікувати",
+          "content": "**Типовий графік монтажу**\n\n**Підготовчий етап (1-2 тижні)**\n- Первинна консультація та заміри\n- Вибір та замовлення продукції\n- Отримання дозволів (за потреби)\n- Планування та підготовка\n- Координація доставки матеріалів\n\n**Підготовка в день монтажу**\n- Захист приміщення та меблів (30-60 хвилин)\n- Організація інструментів та матеріалів\n- Встановлення засобів безпеки\n- Оцінка погодних умов\n- Контрольна перевірка замірів\n\n**Процес монтажу (на одне вікно)**\n- **Стандартне вікно**: 2-4 години\n- **Великі або складні вікна**: 4-8 годин\n- **Специфічні конструкції**: цілий день або більше\n- **Кілька вікон**: ефективність зростає з досвідом\n\n**Дії після монтажу**\n- Прибирання та вивіз будівельного сміття\n- Фінальна перевірка якості\n- Тестування роботи та демонстрація\n- Передача гарантійних документів\n- Огляд робіт із замовником та підписання акта\n\n**Погодні умови**\n- Оптимальні умови: сухо, помірна температура\n- Прийнятні умови: невеликий дощ, температура вище 0°C\n- Перенесення робіт: сильний дощ, мороз, сильний вітер\n- Сезонність: найкраще навесні/восени, складніше взимку\n\n**Як підготуватися власнику житла**\n\n**Перед монтажем**\n- Звільніть доступ до всіх вікон\n- Зніміть штори, жалюзі та декор\n- Захистіть меблі та особисті речі\n- Забезпечте безпеку для дітей та домашніх тварин\n- Забезпечте доступ до електромережі (за потреби)\n\n**Під час монтажу**\n- Підтримуйте зв'язок із монтажниками\n- Ставте запитання щодо процесу та догляду\n- Негайно повідомляйте про будь-які зауваження\n- Не заважайте робочому процесу\n- Будьте доступні для ухвалення рішень\n\n**Після монтажу**\n- Візьміть участь у фінальному огляді\n- Перевірте роботу всіх вікон\n- Ознайомтеся з гарантією та інструкціями з догляду\n- Заплануйте будь-які додаткові роботи (за потреби)\n- Зареєструйте гарантію у виробника",
+          "callout": "Порада від професіоналів: Якісний монтаж не терпить поспіху. Остерігайтеся монтажників, які обіцяють нереалістичні терміни або помітно квапляться під час роботи."
         }
       ],
-      "conclusion": "Професійний монтаж вікон - це основа продуктивності, довговічності та задоволення від вікон. Хоча це може коштувати більше спочатку, ніж самостійний або аматорський монтаж, довгострокові переваги значно переважають початкову інвестицію. Оберіть сертифікованих професіоналів, зрозумійте процес та інвестуйте в якісний монтаж—ваші вікна, ваш дім та ваш гаманець будуть вам вдячні десятиліттями.",
+      "conclusion": "Професійний монтаж вікон — це фундамент їхньої ефективності, довговічності та вашого комфорту. Хоча він може коштувати дорожче, ніж самостійне встановлення чи послуги аматорів, у довгостроковій перспективі його переваги значно перевершують початкові витрати. Від енергоефективності та комфорту до збереження гарантії та цілісності конструкції будинку — професійний монтаж гарантує, що ви отримаєте максимальну віддачу від інвестицій у нові вікна. Обирайте сертифікованих фахівців, розумійте процес та інвестуйте в якість встановлення — ваші вікна, дім і гаманець будуть вам вдячні протягом десятиліть.",
       "ctaSection": {
-        "title": "Експертні Послуги Монтажу Вікон",
-        "description": "Забезпечте, щоб ваша інвестиція у вікна працювала як задумано, з нашими сертифікованими професійними послугами монтажу.",
+        "title": "Експертні послуги з монтажу вікон",
+        "description": "Гарантуйте, що ваші інвестиції у вікна працюватимуть на повну силу, з нашими послугами сертифікованого монтажу. Від огляду до надання гарантії — ми забезпечуємо якісний результат на довгі роки.",
         "benefits": [
           "Сертифіковані професійні монтажники",
-          "Повний захист гарантії",
+          "Повний гарантійний захист",
           "Тестування та перевірка якості",
-          "Довічна підтримка монтажу"
+          "Підтримка протягом усього терміну експлуатації"
         ]
       },
       "faq": [
         {
           "question": "Скільки коштує професійний монтаж вікон?",
-          "answer": "Професійний монтаж зазвичай коштує €150-300 за вікно, залежно від розміру, складності та місцевих умов. Ця інвестиція захищає гарантію ваших вікон, забезпечує оптимальну продуктивність та запобігає дорогим проблемам, які пізніше можуть коштувати тисячі для виправлення."
+          "answer": "Професійний монтаж зазвичай коштує 6 000–12 000 грн за вікно, залежно від розміру, складності та умов на об'єкті. Ця інвестиція захищає вашу гарантію на вікна, забезпечує оптимальну роботу та запобігає дорогим проблемам, виправлення яких може коштувати десятки тисяч гривень."
         },
         {
-          "question": "Чи можу я встановити вікна сам, щоб заощадити гроші?",
-          "answer": "Хоча технічно можливо, самостійний монтаж скасовує гарантії, часто порушує будівельні кодекси та часто призводить до проблем з продуктивністю, які коштують більше, ніж професійний монтаж. Ризики значно переважають потенційну економію для більшості власників будинків."
+          "question": "Чи можу я встановити вікна самостійно, щоб заощадити?",
+          "answer": "Хоча технічно це можливо, самостійний монтаж анулює гарантію виробника, часто порушує будівельні норми (ДБН) і призводить до проблем з експлуатацією, виправлення яких коштує дорожче за послуги професіоналів. Ризики значно перевищують потенційну економію для більшості власників житла."
         },
         {
-          "question": "Скільки часу займає професійний монтаж вікон?",
-          "answer": "Стандартні вікна займають 2-4 години кожне для професійного монтажу. Складні або великі вікна можуть зайняти більше часу. Якісні монтажники ніколи не поспішають з процесом, оскільки правильний монтаж вимагає уваги до деталей та систематичних процедур."
+          "question": "Скільки часу триває професійний монтаж вікон?",
+          "answer": "Встановлення стандартного вікна займає 2-4 години. Складні або великі вікна можуть потребувати більше часу. Кваліфіковані монтажники ніколи не поспішають, оскільки правильне встановлення вимагає уваги до деталей та дотримання технології."
         },
         {
-          "question": "Яке гарантійне покриття надається з професійним монтажем?",
-          "answer": "Професійний монтаж зазвичай включає як гарантії на продукт (10-25 років), так і гарантії на монтаж (1-5 років). Це покриває як виробничі дефекти, так і проблеми, пов'язані з монтажем, забезпечуючи повний захист вашої інвестиції."
+          "question": "Яку гарантію я отримаю при професійному монтажі?",
+          "answer": "Професійний монтаж зазвичай включає як гарантію на виріб (10-25 років), так і гарантію на монтажні роботи (1-5 років). Це покриває і виробничі дефекти, і проблеми, пов'язані з установкою, забезпечуючи повний захист вашої інвестиції."
         }
       ]
     }

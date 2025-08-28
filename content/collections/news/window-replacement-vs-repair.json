@@ -145,81 +145,250 @@
       ]
     },
     "lt": {
-      "title": "Langų Keitimas ar Remontas: Teisingas Sprendimas",
-      "excerpt": "Susiduriate su langų problemomis ir nežinote, ar remontuoti, ar keisti? Šis išsamus vadovas padės namų savininkams priimti pagrįstus sprendimus.",
+      "title": "Langų keitimas ar remontas: kaip priimti teisingą sprendimą?",
+      "excerpt": "Susidūrėte su langų problemomis ir nežinote, ar juos remontuoti, ar keisti naujais? Šis išsamus gidas padės būsto savininkams priimti pagrįstą sprendimą, įvertinus kaštus, energinį efektyvumą ir ilgalaikę vertę.",
       "featuredImage": "/images/smart-technology-og.webp",
-      "featuredImageAlt": "Langų remonto ir keitimo variantų palyginimas",
-      "introduction": "Kai jūsų langai pradeda rodyti nusidėvėjimo, pažeidimų ar neefektyvumo požymius, susiduriate su svarbiu sprendimu: ar remontuoti esamus langus, ar investuoti į visišką keitimą? Šis sprendimas gali turėti reikšmingą poveikį jūsų namų komfortui, energijos efektyvumui ir biudžetui.",
+      "featuredImageAlt": "Langų remonto ir keitimo galimybių palyginimas",
+      "introduction": "Kai jūsų langai ima rodyti pirmuosius nusidėvėjimo, pažeidimų ar neefektyvumo ženklus, tenka priimti svarbų sprendimą: remontuoti esamus langus ar investuoti į visišką jų pakeitimą? Šis pasirinkimas gali ženkliai paveikti jūsų namų komfortą, sąskaitas už energiją ir turto vertę. Supratimas, kokie veiksniai lemia šį sprendimą, padės jums priimti ekonomiškai naudingiausią ir geriausią pasirinkimą pagal jūsų situaciją.",
       "sections": [
         {
-          "id": "kada-remontuoti-langus",
-          "title": "Kada Remontuoti Langus",
-          "content": "**Remonto Tinkamos Situacijos**\n\n**Maži Funkciniai Gedimai**\n- Sunkiai atidaromi ar uždaromi langai\n- Nusidėvėjusios sandarinimo juostos\n- Sugadinti užraktai ar rankenėlės\n- Maži stiklo įtrūkimai ar skilės\n\n**Estetiniai Defektai**\n- Nublukęs ar nusidėvėjęs rėmas\n- Reikalingas dažymas ar atnaujinimas\n- Maži kosmetiniai pažeidimai\n- Senos aparatinės įrangos keitimas\n\n**Energijos Efektyvumo Problemos**\n- Oro pratėkimai aplink rėmą\n- Dvigubo stiklinimo hermetikos gedimas\n- Blogai veikiantys vėdinimo mechanizmai\n- Kondensacijos problemos"
+          "id": "assessment-criteria",
+          "title": "Svarbiausi vertinimo kriterijai",
+          "content": "**Jūsų langų būklės įvertinimas**\n\n**Amžius ir bendra būklė**\n- Daugiau nei 20 metų senumo langus dažnai labiau apsimoka keisti\n- Pasikartojančios problemos rodo sisteminius trūkumus\n- Senesniuose namuose esantys originalūs viengubo stiklo langai\n- Matomas rėmų, varčių ar furnitūros nusidėvėjimas\n\n**Energinio efektyvumo rodikliai**\n- Didelės sąskaitos už energiją dėl prastos izoliacijos\n- Skersvėjai ir oro pralaidumas aplink langų rėmus\n- Kondensatas stiklo paketo viduje\n- Sunku palaikyti pastovią vidaus temperatūrą\n\n**Funkcinės problemos**\n- Stringantys, neatsidarantys ar neužsifiksuojantys langai\n- Sugedę ar pažeisti užrakinimo mechanizmai\n- Įskilę ar sudužę stiklai\n- Deformuoti ar pūvantys langų rėmai\n\n**Estetiniai ir dizaino aspektai**\n- Pasenęs stilius, nederantis prie atnaujinto būsto interjero\n- Atšokę ar dėmėti, nebenusivalantys dažai\n- Noras pakeisti langų stilių ar dydį\n- Integracija su būsto renovacijos projektais",
+          "tips": [
+            "Nufotografuokite visas problemas, kad meistras galėtų jas įvertinti",
+            "Gaukite kelių kvalifikuotų langų specialistų nuomones",
+            "Įvertinkite bendrus nuolatinio remonto kaštus"
+          ]
         },
         {
-          "id": "kada-keisti-langus",
-          "title": "Kada Keisti Langus",
-          "content": "**Keitimo Reikalaujantys Atvejai**\n\n**Struktūriniai Pažeidimai**\n- Rėmo deformacija ar įtrūkimai\n- Puvinio ar korozijos pažeidimai\n- Fundamentalus hermetikos gedimas\n- Saugumo stiklo pažeidimai\n\n**Energijos Neefektyvumas**\n- Seni vieno stiklo langai\n- Blogos izoliavimo savybės\n- Aukštos šildymo sąnaudos\n- Nepakankamas garso izoliavimas\n\n**Amžiaus ir Technologijų Faktoriai**\n- Langai senesni nei 20-25 metai\n- Pasenę technologiniai sprendimai\n- Nepakankamos saugumo funkcijos\n- Nesuderinami su šiuolaikiniais standartais"
+          "id": "cost-analysis",
+          "title": "Išsami kaštų analizė",
+          "content": "**Finansinis palyginimas**\n\n**Remonto kaštų išklotinė**\n- Stiklo paketo keitimas: 50–200 € už vnt.\n- Furnitūros remontas / keitimas: 30–150 € už langą\n- Rėmų remontas ir atnaujinimas: 100–400 € už langą\n- Tarpinių keitimas ir sandarinimas: 20–80 € už langą\n\n**Keitimo kaštų apžvalga**\n- Ekonominės klasės plastikiniai langai: 300–600 € už vnt.\n- Vidutinės klasės kompozitiniai langai: 500–900 € už vnt.\n- Aukščiausios klasės mediniai ar aliuminio langai: 800–1500 € už vnt.\n- Montavimo darbai: 100–300 € už langą\n\n**Ilgalaikis finansinis poveikis**\n- Sutaupoma energijos dėl efektyvių langų: 200–500 € per metus\n- Mažesni priežiūros kaštai per 15–20 metų\n- Išaugusi būsto vertė: 70–80 % keitimo kainos\n- Galimos kompensacijos už energinį efektyvumą didinančius sprendimus\n\n**Atsipirkimo analizė**\n- Apskaičiuokite bendrus remonto kaštus per 5–10 metų\n- Palyginkite su keitimo kaina ir sutaupyta energija\n- Įvertinkite padidėjusį komfortą ir mažesnę priežiūrą\n- Apsvarstykite finansavimo galimybes ir mokėjimo dalimis planus",
+          "callout": "Meistro patarimas: jei remonto kaina viršija 50 % naujo lango kainos, ilgalaikėje perspektyvoje keitimas dažniausiai yra geresnė investicija."
         },
         {
-          "id": "kainiu-palyginimas",
-          "title": "Kainų Palyginimas ir Ekonominė Analizė",
-          "content": "**Remonto Išlaidos**\n\n**Tipiniai Remonto Darbai**\n- Sandarinimo juostų keitimas: €50-150 už langą\n- Aparatinės įrangos atnaujinimas: €100-300\n- Stiklo keitimas: €150-400 už kvadratinį metrą\n- Rėmo atnaujinimas: €200-500 už langą\n\n**Keitimo Išlaidos**\n\n**Naujų Langų Kainos**\n- Standartiniai PVC langai: €300-600 už m²\n- Medinio rėmo langai: €500-1000 už m²\n- Aliuminio langai: €400-800 už m²\n- Premium energijos efektyvūs: €600-1200 už m²\n\n**Montažo ir Papildomos Išlaidos**\n- Profesionalus montažas: €100-200 už langą\n- Senų langų išmontavimas: €50-100\n- Apdailos darbai: €100-300\n- Leidimų gavimas: €50-200"
+          "id": "when-to-repair",
+          "title": "Kada verta rinktis remontą?",
+          "content": "**Kada remontas yra optimalus sprendimas**\n\n**Smulkūs gedimai, kai lango pagrindas geras**\n- Sudužęs vienas stiklas, kai pats langas yra geros būklės\n- Atsilaisvinusi ar pažeista furnitūra, kurią lengva pakeisti\n- Nedidelis rėmo pažeidimas, nepažeidžiantis konstrukcijos\n- Tarpinių keitimas kokybiškuose rėmuose\n\n**Ribotas biudžetas ir laiko veiksnys**\n- Ribotas biudžetas, reikalaujantis laikino sprendimo\n- Artimiausiu metu planuojamas kapitalinis remontas\n- Nuomojamas būstas, kuriam reikalinga bazinė priežiūra\n- Istoriniai pastatai, kuriuose būtina išsaugoti autentiškas detales\n\n**Konkretūs remonto atvejai**\n- Mažiau nei 10 metų senumo langai su galiojančia garantija\n- Aukštos kokybės langai su pavieniais gedimais\n- Kosmetiniai defektai, neturintys įtakos funkcionalumui\n- Sezoninė profilaktika ir reguliavimas\n\n**Ekonomiški remonto sprendimai**\n- Profesionalus valymas ir sutepimas\n- Tarpinių ir sandarinimo medžiagų atnaujinimas\n- Furnitūros reguliavimas ir keitimas\n- Stiklo paketo keitimas kokybiškuose rėmuose",
+          "benefits": [
+            "Mažesni pradiniai kaštai ir greitesnis darbų atlikimas",
+            "Išsaugomos autentiškos architektūrinės detalės",
+            "Minimalus įprastos dienotvarkės sutrikdymas",
+            "Galimybė išspręsti konkrečias problemas"
+          ]
+        },
+        {
+          "id": "when-to-replace",
+          "title": "Kada langus keisti yra būtina?",
+          "content": "**Aiškūs ženklai, kad langus laikas keisti**\n\n**Konstrukcijos ir saugumo problemos**\n- Pūvantys ar stipriai pažeisti langų rėmai\n- Langai, kurie dėl gedimų kelia saugumo riziką\n- Pažeistas stiklo paketo sandarumas (rasojimas viduje)\n- Rėmo deformacija, neleidžianti langui sandariai užsidaryti\n\n**Problemos dėl energinio efektyvumo**\n- Viengubo stiklo langai šildomame būste\n- Nuolatiniai skersvėjai, nepaisant bandymų remontuoti\n- Didelės sąskaitos už energiją dėl nesandarių langų\n- Noras turėti modernius, energiją taupančius langus\n\n**Kelios problemos vienu metu**\n- Keli gedimai tame pačiame lange\n- Pasikartojančios problemos po ankstesnių remontų\n- Dėl amžiaus nusidėvėję keli lango komponentai\n- Remonto kaina artėja prie naujo lango kainos\n\n**Integracija su būsto atnaujinimu**\n- Kapitalinis remontas, kurio metu reikia atnaujinti ir langus\n- Noras išlaikyti vientisą stilių visuose namuose\n- Atnaujinimas integruojant išmaniųjų namų technologijas\n- Būsto vertės didinimas siekiant jį parduoti",
+          "warning": "Niekada neatidėliokite langų keitimo, jei yra pažeista jų konstrukcija ar kyla pavojus saugumui. Tai kelia tiesioginę grėsmę gyventojams."
+        },
+        {
+          "id": "decision-framework",
+          "title": "Profesionalus sprendimų priėmimo modelis",
+          "content": "**Sistemingas vertinimo procesas**\n\n**1 žingsnis: Profesionalus įvertinimas**\n- Užsisakykite išsamią langų apžiūrą\n- Gaukite detalias abiejų variantų (remonto ir keitimo) sąmatas\n- Įvertinkite energinio efektyvumo potencialą\n- Įvertinkite konstrukcijos vientisumą ir saugumą\n\n**2 žingsnis: Finansinė analizė**\n- Apskaičiuokite bendrąją nuosavybės kainą per 10–15 metų\n- Įtraukite sutaupytą energiją ir priežiūros kaštus\n- Apsvarstykite galimas finansavimo ir kompensavimo programas\n- Įvertinkite poveikį būsto vertei ir paklausai rinkoje\n\n**3 žingsnis: Gyvenimo būdo ir asmeninių poreikių įvertinimas**\n- Įvertinkite nepatogumus montavimo metu\n- Apsvarstykite estetinius lūkesčius ir namų stilių\n- Įvertinkite ilgalaikius gyvenimo planus\n- Atsižvelkite į pageidaujamą priežiūros lygį ir savo galimybes\n\n**4 žingsnis: Galutinis sprendimas**\n- Įvertinkite veiksnius pagal asmeninius prioritetus\n- Palyginkite bendrą kiekvieno varianto teikiamą vertę\n- Atsižvelkite į specialistų rekomendacijas\n- Priimkite sprendimą remdamiesi išsamia analize",
+          "benefits": [
+            "Pagrįstas sprendimas, paremtas visa informacija",
+            "Optimalus kainos, funkcionalumo ir vertės balansas",
+            "Profesionali pagalba viso proceso metu",
+            "Užtikrintumas dėl ilgalaikio pasitenkinimo"
+          ]
         }
       ],
-      "conclusion": "Sprendimas tarp langų remonto ir keitimo priklauso nuo daugelio veiksnio, įskaitant kainą, būklę, energijos efektyvumą ir asmeninius aplinkybes. Profesionalus įvertinimas padės priimti geriausią sprendimą jūsų situacijai.",
+      "conclusion": "Sprendimas, ar remontuoti, ar keisti langus, priklauso nuo daugelio veiksnių: kainos, langų būklės, energinio efektyvumo ir asmeninių aplinkybių. Nors remontas gali būti ekonomiškas sprendimas esant smulkiems gedimams ar naujesniems langams, senų, neefektyvių ar stipriai pažeistų langų keitimas dažnai yra vertingesnė ilgalaikė investicija. Profesionalus įvertinimas ir išsami kaštų analizė yra būtini norint priimti teisingą sprendimą, kuris suderintų neatidėliotinus poreikius su ilgalaike nauda.",
       "ctaSection": {
-        "title": "Ekspertų Langų Vertinimas ir Sprendimai",
-        "description": "Nežinote, ar remontuoti, ar keisti langus? Mūsų patyrę specialistai teikia išsamus vertinimus ir sąžiningus rekomendacijas.",
+        "title": "Profesionalus langų įvertinimas ir sprendimai",
+        "description": "Neapsisprendžiate, ar remontuoti, ar keisti langus? Mūsų patyrę specialistai atliks išsamų įvertinimą ir pateiks sąžiningas rekomendacijas, pritaikytas jūsų situacijai ir biudžetui.",
         "benefits": [
-          "Nemokamas profesionalus langų vertinimas ir konsultacija",
-          "Išsami išlaidų analizė remonto ir keitimo variantams",
-          "Ekspertų įrengimo ir remonto paslaugos",
-          "Garantijos padengimas ir nuolatinė pagalba"
+          "Nemokamas profesionalus langų įvertinimas ir konsultacija",
+          "Detali remonto ir keitimo variantų kaštų analizė",
+          "Profesionalios montavimo ir remonto paslaugos",
+          "Suteikiama garantija ir nuolatinė pagalba"
         ]
       },
       "faq": [
         {
-          "question": "Kiek kainuoja langų remontas palyginti su keitimu?",
-          "answer": "Remontas paprastai kainuoja 20-40% naujo lango kainos, tačiau tai priklauso nuo gedimo pobūdžio. Jei remonto išlaidos viršija 50% naujo lango kainos, dažniausiai ekonomiškiau keisti."
+          "question": "Kaip žinoti, ar mano langus apsimoka remontuoti?",
+          "answer": "Langus paprastai apsimoka remontuoti, jei jie yra jaunesni nei 15 metų, turi pavienių gedimų, o remonto kaina neviršija 50 % naujo lango kainos. Profesionalus įvertinimas padės nustatyti geriausią variantą jūsų konkrečiu atveju."
+        },
+        {
+          "question": "Kokia yra vidutinė skirtingų tipų langų tarnavimo trukmė?",
+          "answer": "Plastikiniai langai tarnauja 20–40 metų, mediniai (su tinkama priežiūra) – 15–30 metų, aliuminio – 15–25 metus, o stiklo pluošto – 30–40 metų. Tarnavimo trukmę ženkliai veikia montavimo kokybė ir priežiūra."
+        },
+        {
+          "question": "Ar galiu pakeisti tik vieną langą, ar geriau keisti visus iš karto?",
+          "answer": "Galite keisti ir pavienius langus, tačiau keičiant visus iš karto dažnai galima gauti geresnę kainą, užtikrinti vientisą išvaizdą ir vienodą energinį efektyvumą. Sprendimas priklauso nuo jūsų biudžeto, laiko ir ilgalaikių planų."
+        },
+        {
+          "question": "Kiek galima sutaupyti sąskaitoms už energiją pakeitus langus?",
+          "answer": "Energiją taupantys langai gali sumažinti šildymo ir vėsinimo išlaidas 15–25 %, o tai vidutiniam būstui leidžia sutaupyti 200–500 € per metus. Tiksli sutaupoma suma priklauso nuo jūsų dabartinių langų būklės, namo dydžio ir vietos klimato sąlygų."
         }
       ]
     },
     "pl": {
-      "title": "Wymiana vs Naprawa Okien: Podejmowanie Właściwej Decyzji",
-      "excerpt": "Masz problemy z oknami i nie wiesz, czy naprawiać czy wymieniać? Ten kompleksowy przewodnik pomoże właścicielom domów podjąć świadome decyzje.",
+      "title": "Wymiana czy naprawa okien: Jak podjąć właściwą decyzję?",
+      "excerpt": "Zmagasz się z problemami z oknami i nie wiesz, czy je naprawić, czy wymienić? Ten kompleksowy poradnik pomoże właścicielom domów podjąć świadomą decyzję w oparciu o analizę kosztów, efektywność energetyczną i długoterminową wartość inwestycji.",
       "featuredImage": "/images/smart-technology-og.webp",
       "featuredImageAlt": "Porównanie opcji naprawy i wymiany okien",
-      "introduction": "Kiedy twoje okna zaczynają wykazywać oznaki zużycia, uszkodzenia lub nieefektywności, stoisz przed krytyczną decyzją: czy naprawiać istniejące okna, czy zainwestować w całkowitą wymianę?",
-      "conclusion": "Decyzja między naprawą a wymianą okien zależy od wielu czynników, w tym kosztu, stanu, efektywności energetycznej i okoliczności osobistych.",
+      "introduction": "Gdy Twoje okna zaczynają wykazywać oznaki zużycia, uszkodzenia lub nieszczelności, stajesz przed kluczową decyzją: naprawić istniejące czy zainwestować w ich całkowitą wymianę? Wybór ten może znacząco wpłynąć na komfort mieszkania, rachunki za energię i wartość nieruchomości. Zrozumienie czynników, które wpływają na tę decyzję, pomoże Ci dokonać najbardziej opłacalnego i korzystnego wyboru w Twojej konkretnej sytuacji.",
+      "sections": [
+        {
+          "id": "assessment-criteria",
+          "title": "Kluczowe kryteria oceny",
+          "content": "**Ocena stanu Twoich okien**\n\n**Wiek i ogólny stan techniczny**\n- Okna starsze niż 20 lat często kwalifikują się do wymiany\n- Powtarzające się problemy wskazują na wady systemowe\n- Oryginalne, jednoszybowe okna w starszych budynkach\n- Widoczne zniszczenia ram, skrzydeł lub okuć\n\n**Efektywność energetyczna**\n- Wysokie rachunki za energię z powodu słabej izolacji\n- Przeciągi i nieszczelności wokół ram okiennych\n- Kondensacja pary wodnej między szybami w pakiecie\n- Trudności w utrzymaniu stałej temperatury wewnątrz\n\n**Problemy funkcjonalne**\n- Okna, które się zacinają, nie otwierają lub samoczynnie zamykają\n- Zepsute lub uszkodzone mechanizmy zamykające\n- Pęknięte lub wybite szyby\n- Wypaczone lub butwiejące ramy okienne\n\n**Kwestie estetyczne i wizualne**\n- Przestarzały wygląd niedopasowany do nowoczesnego wnętrza\n- Łuszcząca się farba lub trudne do usunięcia przebarwienia\n- Chęć zmiany stylu lub rozmiaru okien\n- Integracja z większym projektem remontowym domu",
+          "tips": [
+            "Udokumentuj wszystkie problemy za pomocą zdjęć do profesjonalnej oceny",
+            "Poproś o opinię kilku wykwalifikowanych specjalistów od okien",
+            "Weź pod uwagę łączny koszt powtarzających się napraw"
+          ]
+        },
+        {
+          "id": "cost-analysis",
+          "title": "Szczegółowa analiza kosztów",
+          "content": "**Ramy porównania finansowego**\n\n**Szacunkowe koszty naprawy**\n- Wymiana szyby: 250-900 zł za sztukę\n- Naprawa/wymiana okuć: 150-700 zł za okno\n- Naprawa i renowacja ram: 450-1800 zł za okno\n- Wymiana uszczelek i doszczelnienie: 100-350 zł za okno\n\n**Orientacyjne koszty wymiany**\n- Podstawowe okna PCV: 1300-2600 zł za okno\n- Okna kompozytowe średniej klasy: 2200-4000 zł za okno\n- Okna premium (drewniane, aluminiowe): 3500-6500 zł za okno\n- Koszty montażu: 450-1300 zł za okno\n\n**Długoterminowe korzyści finansowe**\n- Oszczędności na energii dzięki nowym oknom: 900-2200 zł rocznie\n- Niższe koszty konserwacji w perspektywie 15-20 lat\n- Wzrost wartości domu: zwrot 70-80% kosztów wymiany\n- Możliwość skorzystania z dotacji i ulg podatkowych (np. program „Czyste Powietrze”, ulga termomodernizacyjna)\n\n**Analiza progu rentowności**\n- Oblicz całkowity koszt napraw w perspektywie 5-10 lat\n- Porównaj go z kosztem wymiany i oszczędnościami na energii\n- Uwzględnij większy komfort i mniejsze wydatki na konserwację\n- Rozważ opcje finansowania i płatności w ratach",
+          "callout": "Wskazówka eksperta: Jeśli koszt naprawy przekracza 50% kosztu wymiany, w dłuższej perspektywie wymiana jest zazwyczaj lepszą inwestycją."
+        },
+        {
+          "id": "when-to-repair",
+          "title": "Kiedy naprawa jest dobrym wyborem?",
+          "content": "**Scenariusze, w których naprawa się opłaca**\n\n**Drobne usterki przy dobrym stanie ogólnym**\n- Pojedyncza pęknięta szyba w oknie o dobrej kondycji\n- Luźne lub uszkodzone okucia, które można łatwo wymienić\n- Niewielkie uszkodzenie ramy, które nie narusza jej struktury\n- Wymiana uszczelek w dobrej jakości ramach\n\n**Ograniczenia budżetowe i plany na przyszłość**\n- Ograniczony budżet wymagający tymczasowych rozwiązań\n- Planowany generalny remont w najbliższej przyszłości\n- Nieruchomości na wynajem z podstawowymi potrzebami konserwacyjnymi\n- Zabytkowe budynki wymagające zachowania oryginalnych elementów\n\n**Konkretne sytuacje sprzyjające naprawie**\n- Okna młodsze niż 10 lat, objęte jeszcze gwarancją\n- Wysokiej jakości okna z pojedynczymi, odizolowanymi problemami\n- Wady kosmetyczne, które nie wpływają na funkcjonalność\n- Potrzeba sezonowej konserwacji i regulacji\n\n**Opłacalne opcje naprawcze**\n- Profesjonalne czyszczenie i smarowanie mechanizmów\n- Wymiana uszczelek i uzupełnienie uszczelnień\n- Regulacja i wymiana okuć\n- Wymiana pakietu szybowego w dobrej jakości ramach",
+          "benefits": [
+            "Niższe koszty początkowe i szybsza realizacja",
+            "Zachowanie oryginalnych cech architektonicznych",
+            "Minimalne zakłócenie codziennego życia",
+            "Możliwość rozwiązania konkretnych, pojedynczych problemów"
+          ]
+        },
+        {
+          "id": "when-to-replace",
+          "title": "Kiedy wymiana jest koniecznością?",
+          "content": "**Wyraźne wskazania do wymiany**\n\n**Problemy strukturalne i bezpieczeństwo**\n- Zbutwiałe lub poważnie uszkodzone ramy okienne\n- Okna stanowiące ryzyko włamania z powodu wadliwego działania\n- Rozszczelnienie pakietu szybowego (efekt „zaparowanych” szyb)\n- Wypaczenie ramy uniemożliwiające prawidłowe zamknięcie\n\n**Niska efektywność energetyczna**\n- Okna jednoszybowe w ogrzewanych i klimatyzowanych domach\n- Ciągłe przeciągi pomimo prób naprawy\n- Wysokie rachunki za energię spowodowane nieszczelnością okien\n- Chęć zainstalowania nowoczesnych, energooszczędnych rozwiązań\n\n**Wiele problemów jednocześnie**\n- Kilka różnych usterek w tym samym oknie\n- Nawracające problemy pomimo wcześniejszych napraw\n- Zużycie materiału związane z wiekiem, dotykające wielu elementów\n- Koszt napraw zbliżający się do kosztu wymiany\n\n**Integracja z modernizacją domu**\n- Generalny remont wymagający wymiany stolarki okiennej\n- Chęć uzyskania spójnego stylu w całym domu\n- Modernizacja w kierunku integracji z systemem inteligentnego domu\n- Podniesienie wartości nieruchomości przed sprzedażą",
+          "warning": "Nigdy nie zwlekaj z wymianą okien, które mają uszkodzenia strukturalne lub wady zagrażające bezpieczeństwu. Stanowią one realne ryzyko dla domowników."
+        },
+        {
+          "id": "decision-framework",
+          "title": "Profesjonalny schemat podejmowania decyzji",
+          "content": "**Systematyczny proces oceny**\n\n**Krok 1: Ocena przez specjalistę**\n- Umów się na kompleksowy przegląd stanu okien\n- Poproś o szczegółową, pisemną wycenę obu opcji (naprawy i wymiany)\n- Oceń potencjał poprawy efektywności energetycznej\n- Sprawdź integralność strukturalną i bezpieczeństwo\n\n**Krok 2: Analiza finansowa**\n- Oblicz całkowity koszt posiadania (TCO) w perspektywie 10-15 lat\n- Uwzględnij oszczędności na energii i koszty konserwacji\n- Sprawdź dostępne formy finansowania i programy dotacji\n- Oceń wpływ na wartość rynkową nieruchomości\n\n**Krok 3: Styl życia i osobiste preferencje**\n- Weź pod uwagę niedogodności związane z montażem\n- Oceń swoje preferencje estetyczne i styl domu\n- Zastanów się nad swoimi długoterminowymi planami mieszkaniowymi\n- Uwzględnij preferencje dotyczące konserwacji i własne możliwości\n\n**Krok 4: Ostateczna decyzja**\n- Przypisz wagę poszczególnym czynnikom zgodnie z własnymi priorytetami\n- Porównaj całościową wartość każdej z opcji\n- Weź pod uwagę rekomendacje profesjonalistów\n- Podejmij decyzję w oparciu o kompleksową analizę",
+          "benefits": [
+            "Świadoma decyzja oparta na pełnej informacji",
+            "Optymalny balans między kosztem, wydajnością i wartością",
+            "Wsparcie ekspertów na każdym etapie procesu",
+            "Pewność i satysfakcja z wyboru na długie lata"
+          ]
+        }
+      ],
+      "conclusion": "Decyzja między naprawą a wymianą okien zależy od wielu czynników, takich jak koszt, stan techniczny, efektywność energetyczna i osobiste uwarunkowania. Naprawa może być opłacalna w przypadku drobnych usterek i nowszych okien, jednak wymiana często zapewnia lepszą wartość w dłuższej perspektywie przy starych, nieszczelnych lub mocno zniszczonych oknach. Profesjonalna ocena i szczegółowa analiza kosztów są kluczowe, aby dokonać właściwego wyboru, który zrównoważy bieżące potrzeby z długoterminowymi korzyściami.",
       "ctaSection": {
-        "title": "Ekspercka Ocena i Rozwiązania Okienne",
-        "description": "Nie wiesz, czy naprawiać czy wymieniać okna? Nasi doświadczeni profesjonaliści zapewniają kompleksowe oceny i uczciwe rekomendacje.",
+        "title": "Fachowa ocena i dobór rozwiązań okiennych",
+        "description": "Nie wiesz, czy naprawić, czy wymienić swoje okna? Nasi doświadczeni specjaliści zapewniają kompleksową ocenę i uczciwe rekomendacje, dopasowane do Twojej sytuacji i budżetu.",
         "benefits": [
-          "Bezpłatna profesjonalna ocena okien i konsultacja",
-          "Szczegółowa analiza kosztów opcji naprawy vs wymiany",
-          "Eksperckie usługi instalacji i naprawy",
-          "Pokrycie gwarancyjne i stałe wsparcie"
+          "Bezpłatna, profesjonalna ocena stanu okien i konsultacja",
+          "Szczegółowa analiza kosztów naprawy w porównaniu z wymianą",
+          "Fachowy montaż i usługi serwisowe",
+          "Ochrona gwarancyjna i wsparcie po wykonaniu usługi"
         ]
-      }
+      },
+      "faq": [
+        {
+          "question": "Skąd mam wiedzieć, czy moje okna warto naprawiać?",
+          "answer": "Naprawa okien jest zazwyczaj opłacalna, jeśli mają mniej niż 15 lat, posiadają pojedyncze usterki, a koszt naprawy nie przekracza 50% kosztu wymiany. Profesjonalna ocena pomoże określić najlepszą opcję w Twojej konkretnej sytuacji."
+        },
+        {
+          "question": "Jaka jest przeciętna żywotność różnych typów okien?",
+          "answer": "Okna PCV wytrzymują 20-40 lat, drewniane 15-30 lat (przy odpowiedniej konserwacji), aluminiowe 15-25 lat, a z włókna szklanego 30-40 lat. Jakość montażu i regularna konserwacja mają kluczowy wpływ na ich trwałość."
+        },
+        {
+          "question": "Czy mogę wymienić tylko jedno okno, czy lepiej wszystkie naraz?",
+          "answer": "Można wymieniać okna pojedynczo, jednak wymiana wszystkich jednocześnie często pozwala uzyskać lepszą cenę, zapewnia spójny wygląd i jednolitą efektywność energetyczną w całym domu. Decyzję warto podjąć, biorąc pod uwagę budżet, harmonogram i plany długoterminowe."
+        },
+        {
+          "question": "Ile można zaoszczędzić na rachunkach za energię dzięki nowym oknom?",
+          "answer": "Wymiana okien na energooszczędne może obniżyć koszty ogrzewania i chłodzenia o 15-25%, co dla przeciętnego domu oznacza roczne oszczędności rzędu 900-2200 zł. Rzeczywiste oszczędności zależą od stanu poprzednich okien, wielkości domu i lokalnych warunków klimatycznych."
+        }
+      ]
     },
     "uk": {
-      "title": "Заміна чи Ремонт Вікон: Прийняття Правильного Рішення",
-      "excerpt": "Маєте проблеми з вікнами і не знаєте, чи ремонтувати, чи замінювати? Цей комплексний посібник допоможе власникам будинків прийняти обґрунтовані рішення.",
+      "title": "Заміна вікон чи ремонт: як прийняти правильне рішення",
+      "excerpt": "Зіткнулися з проблемами у роботі вікон і не знаєте, що краще — ремонт чи повна заміна? Наш детальний посібник допоможе власникам житла прийняти зважене рішення, враховуючи аналіз витрат, енергоефективність та довгострокову вигоду.",
       "featuredImage": "/images/smart-technology-og.webp",
       "featuredImageAlt": "Порівняння варіантів ремонту та заміни вікон",
-      "introduction": "Коли ваші вікна починають показувати ознаки зносу, пошкодження або неефективності, ви стикаєтеся з критичним рішенням: чи ремонтувати існуючі вікна, чи інвестувати в повну заміну?",
-      "conclusion": "Рішення між ремонтом та заміною вікон залежить від багатьох факторів, включаючи вартість, стан, енергоефективність та особисті обставини.",
+      "introduction": "Коли ваші вікна починають зношуватися, зазнають пошкоджень або втрачають герметичність, перед вами постає важливе питання: відремонтувати наявні конструкції чи інвестувати в повну заміну? Цей вибір суттєво впливає на комфорт у вашому домі, розмір комунальних платежів та вартість нерухомості. Розуміння ключових факторів допоможе вам зробити найбільш економічно вигідний та правильний вибір для вашої ситуації.",
+      "sections": [
+        {
+          "id": "assessment-criteria",
+          "title": "Ключові критерії для оцінки",
+          "content": "**Оцінка стану ваших вікон**\n\n**Вік та загальний стан**\n- Вікна, яким понад 20 років, часто доцільніше замінити.\n- Постійні дрібні несправності свідчать про системні проблеми.\n- Старі однокамерні склопакети або звичайне скло в старих будинках.\n- Помітне руйнування рам, стулок або фурнітури.\n\n**Показники енергоефективності**\n- Високі рахунки за опалення через погану теплоізоляцію.\n- Протяги та продування по периметру віконних рам.\n- Утворення конденсату між шарами скла у склопакеті.\n- Складно підтримувати стабільну температуру в приміщенні.\n\n**Функціональні проблеми**\n- Вікна заїдають, не відкриваються або не фіксуються у відкритому положенні.\n- Зламані або пошкоджені запірні механізми.\n- Тріснуте або розбите скло.\n- Деформовані або прогнилі віконні рами.\n\n**Естетичні та дизайнерські аспекти**\n- Застарілий дизайн, що не пасує до оновленого інтер'єру.\n- Фарба, що лущиться, або плями, які неможливо видалити.\n- Бажання змінити стиль, розмір або конфігурацію вікон.\n- Інтеграція в рамках комплексного ремонту оселі.",
+          "tips": [
+            "Сфотографуйте всі проблеми для консультації з майстром.",
+            "Отримайте висновки від кількох кваліфікованих фахівців.",
+            "Порахуйте, у скільки обійдуться постійні дрібні ремонти в майбутньому."
+          ]
+        },
+        {
+          "id": "cost-analysis",
+          "title": "Детальний аналіз витрат",
+          "content": "**Порівняння фінансових вкладень**\n\n**Орієнтовна вартість ремонту**\n- Заміна скла/склопакета: 1500–5000 грн за м².\n- Ремонт/заміна фурнітури: 800–4000 грн за вікно.\n- Ремонт та реставрація рами: 2500–10000 грн за вікно.\n- Заміна ущільнювача та герметизація: 500–2000 грн за вікно.\n\n**Орієнтовна вартість заміни**\n- Базові металопластикові вікна: 6000–12000 грн за вікно.\n- Вікна середнього класу (кращий профіль, фурнітура): 10000–20000 грн за вікно.\n- Преміум-сегмент (дерево, алюміній): від 20000 грн за вікно.\n- Вартість монтажу: 1500–4000 грн за вікно.\n\n**Довгостроковий фінансовий ефект**\n- Економія на опаленні завдяки новим вікнам: 5000–15000 грн на рік.\n- Зменшення витрат на обслуговування протягом 15–20 років.\n- Збільшення вартості житла: повернення 70–80% інвестицій у вікна.\n- Можливість участі в державних програмах енергоефективності (напр. «єОселя»).\n\n**Аналіз окупності**\n- Підрахуйте загальну вартість можливих ремонтів на 5–10 років уперед.\n- Порівняйте цю суму з вартістю повної заміни, враховуючи економію на енергії.\n- Додайте до переваг підвищений комфорт та відсутність потреби в ремонтах.\n- Розгляньте можливість розтермінування платежів.",
+          "callout": "Порада від професіонала: якщо вартість ремонту перевищує 50% від ціни нового вікна, заміна є значно вигіднішою довгостроковою інвестицією."
+        },
+        {
+          "id": "when-to-repair",
+          "title": "Коли ремонт — найкращий вибір",
+          "content": "**Оптимальні сценарії для ремонту**\n\n**Незначні проблеми при якісній основі**\n- Розбитий один склопакет у вікні, що в іншому є справним.\n- Несправна фурнітура, яку можна легко замінити.\n- Невелике пошкодження рами, що не впливає на її міцність.\n- Заміна ущільнювача на якісних вікнах.\n\n**Бюджетні обмеження та терміни**\n- Обмежений бюджет, що вимагає тимчасового вирішення проблеми.\n- Планування капітального ремонту в найближчому майбутньому.\n- Обслуговування вікон в орендованому житлі.\n- Реставрація вікон в історичних будівлях, де важливо зберегти автентичність.\n\n**Конкретні ситуації для ремонту**\n- Вікна віком до 10 років, на які ще діє гарантія.\n- Якісні вікна з поодинокими, несистемними несправностями.\n- Косметичні дефекти, що не впливають на функціональність.\n- Сезонне обслуговування та регулювання.\n\n**Економічно вигідні види ремонту**\n- Професійне чищення та змащування механізмів.\n- Оновлення ущільнювача та герметизація швів.\n- Регулювання та заміна елементів фурнітури.\n- Заміна склопакета в якісній рамі.",
+          "benefits": [
+            "Менші початкові витрати та швидке виконання робіт.",
+            "Збереження оригінального архітектурного стилю.",
+            "Мінімальне втручання у повсякденне життя.",
+            "Можливість вирішити конкретну проблему без зайвих витрат."
+          ]
+        },
+        {
+          "id": "when-to-replace",
+          "title": "Коли заміна є необхідністю",
+          "content": "**Явні ознаки потреби в заміні**\n\n**Проблеми з конструкцією та безпекою**\n- Гниття або значне пошкодження віконних рам.\n- Несправність механізмів, що створює ризик для безпеки (вікно не зачиняється).\n- Розгерметизація склопакета (запотівання всередині).\n- Деформація рами, що не дозволяє вікну щільно зачинятися.\n\n**Низька енергоефективність**\n- Однокамерні склопакети або звичайне скло в будинку з опаленням.\n- Постійні протяги, які не зникають після спроб ремонту.\n- Високі рахунки за комунальні послуги, пов'язані з тепловтратами через вікна.\n- Бажання встановити сучасні енергоощадні вікна.\n\n**Наявність кількох проблем одночасно**\n- Декілька несправностей в одному вікні.\n- Проблеми, що повторюються після попередніх ремонтів.\n- Загальне зношення, що торкається багатьох компонентів вікна.\n- Вартість ремонту наближається до вартості заміни.\n\n**Інтеграція в рамках ремонту**\n- Капітальний ремонт, що вимагає оновлення вікон.\n- Бажання досягти єдиного стилю в усьому будинку.\n- Перехід на технології «розумного будинку».\n- Підвищення вартості нерухомості перед продажем.",
+          "warning": "Ніколи не відкладайте заміну вікон, що мають пошкодження конструкції або проблеми з безпекою, оскільки вони становлять пряму загрозу для мешканців."
+        },
+        {
+          "id": "decision-framework",
+          "title": "Професійний підхід до прийняття рішення",
+          "content": "**Покроковий процес оцінки**\n\n**Крок 1: Професійна діагностика**\n- Замовте комплексну перевірку стану вікон.\n- Отримайте детальний письмовий розрахунок вартості для обох варіантів.\n- Оцініть потенціал підвищення енергоефективності.\n- Перевірте міцність конструкції та рівень безпеки.\n\n**Крок 2: Фінансовий аналіз**\n- Розрахуйте загальну вартість володіння на 10–15 років.\n- Врахуйте економію на енергоносіях та витрати на обслуговування.\n- Дізнайтеся про доступні програми фінансування та кредитування.\n- Оцініть вплив на ринкову вартість вашого житла.\n\n**Крок 3: Особисті вподобання та стиль життя**\n- Врахуйте незручності, пов'язані з монтажними роботами.\n- Визначтеся з естетичними побажаннями та стилем оселі.\n- Оцініть свої довгострокові плани щодо проживання в цьому помешканні.\n- Подумайте, скільки часу та зусиль ви готові витрачати на догляд за вікнами.\n\n**Крок 4: Фінальне рішення**\n- Розставте пріоритети серед усіх факторів.\n- Порівняйте загальну цінність кожного з варіантів.\n- Дослухайтеся до рекомендацій фахівців.\n- Прийміть остаточне рішення на основі комплексного аналізу.",
+          "benefits": [
+            "Прийняття зваженого рішення на основі повної інформації.",
+            "Оптимальний баланс між вартістю, якістю та довгостроковою вигодою.",
+            "Професійна підтримка на кожному етапі.",
+            "Впевненість у правильному виборі на довгі роки."
+          ]
+        }
+      ],
+      "conclusion": "Вибір між ремонтом та заміною вікон залежить від багатьох факторів: вартості, стану конструкцій, енергоефективності та ваших особистих обставин. Хоча ремонт може бути вигідним для усунення незначних проблем у відносно нових вікнах, заміна часто є кращою довгостроковою інвестицією для старих, неефективних або сильно пошкоджених вікон. Професійна оцінка та ретельний аналіз витрат є ключовими для прийняття правильного рішення, що збалансує нагальні потреби та майбутні переваги.",
       "ctaSection": {
-        "title": "Експертна Оцінка та Рішення для Вікон",
-        "description": "Не знаєте, чи ремонтувати, чи замінювати вікна? Наші досвідчені професіонали надають комплексні оцінки та чесні рекомендації.",
+        "title": "Експертна діагностика та рішення для ваших вікон",
+        "description": "Не впевнені, ремонтувати чи міняти вікна? Наші досвідчені фахівці проведуть комплексну оцінку та нададуть чесні рекомендації, що відповідають вашій ситуації та бюджету.",
         "benefits": [
-          "Безкоштовна професійна оцінка вікон та консультація",
-          "Детальний аналіз витрат для варіантів ремонту vs заміни",
-          "Експертні послуги встановлення та ремонту",
-          "Гарантійне покриття та постійна підтримка"
+          "Безкоштовна професійна діагностика вікон та консультація.",
+          "Детальний розрахунок вартості ремонту та заміни.",
+          "Експертний монтаж та якісні ремонтні послуги.",
+          "Гарантія на роботи та подальша підтримка."
         ]
-      }
+      },
+      "faq": [
+        {
+          "question": "Як зрозуміти, чи варто ремонтувати мої вікна?",
+          "answer": "Ремонт зазвичай доцільний, якщо вікнам менше 15 років, проблеми поодинокі, а вартість ремонту не перевищує 50% від ціни нового вікна. Професійна діагностика допоможе визначити найкращий варіант для вашої ситуації."
+        },
+        {
+          "question": "Який середній термін служби різних типів вікон?",
+          "answer": "Металопластикові вікна служать 20–40 років, дерев'яні — 15–30 років за умови належного догляду, алюмінієві — 15–25 років, зі склокомпозиту — 30–40 років. Якість монтажу та обслуговування суттєво впливають на довговічність."
+        },
+        {
+          "question": "Чи можна замінити лише одне вікно, чи краще міняти всі одразу?",
+          "answer": "Ви можете замінити й одне вікно. Однак заміна всіх вікон одночасно часто вигідніша за ціною, забезпечує єдиний зовнішній вигляд та однакову енергоефективність у всьому домі. Приймайте рішення, виходячи з вашого бюджету, термінів та планів."
+        },
+        {
+          "question": "Скільки можна заощадити на комунальних платежах завдяки новим вікнам?",
+          "answer": "Заміна вікон на енергоефективні може зменшити витрати на опалення та кондиціонування на 15–25%, що для середнього домогосподарства становить 5000–15000 грн на рік. Реальна економія залежить від стану ваших старих вікон, площі житла та кліматичних умов."
+        }
+      ]
     }
   }
 }

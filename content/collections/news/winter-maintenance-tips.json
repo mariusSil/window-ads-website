@@ -2,6 +2,12 @@
   "itemId": "winter-maintenance-tips",
   "collection": "news",
   "template": "news-article",
+  "slugs": {
+    "en": "essential-winter-window-maintenance-tips-cold-weather",
+    "lt": "esminiai-ziemos-langu-prieziuros-patarimai",
+    "pl": "niezbedne-porady-zimowej-konserwacji-okien",
+    "uk": "osnovni-porady-zimovogo-doglyadu-vikon"
+  },
   "publishDate": "2024-01-15",
   "author": "expertTeam",
   "readingTime": 6,
@@ -84,6 +90,165 @@
           "type": "cta-section",
           "title": "Professional Winter Preparation",
           "description": "Don't let winter catch you unprepared. Our expert technicians provide comprehensive window winterization services to ensure your windows are ready for the cold season.",
+          "primaryCtaKey": "scheduleWinterService",
+          "secondaryCtaKey": "getMaintenanceQuote"
+        }
+      ]
+    },
+    "lt": {
+      "components": [
+        {
+          "type": "NewsArticleHero",
+          "contentKey": "hero"
+        },
+        {
+          "type": "NewsArticleContent",
+          "contentKey": "content"
+        }
+      ],
+      "title": "Langų paruošimas žiemai: svarbiausi priežiūros patarimai",
+      "excerpt": "Specialistų patarimai, kaip paruošti langus žiemai. Sužinokite, kaip išlaikyti nepriekaištingą langų būklę šaltuoju metų laiku.",
+      "featuredImage": "/images/window-adjustment-guide-og.webp",
+      "featuredImageAlt": "Lango sandarinimo tarpinių keitimas ruošiantis žiemai",
+      "introduction": "Žiemos orai gali pakenkti jūsų langams, tačiau tinkama priežiūra užtikrins, kad jie puikiai veiktų visą šaltąjį sezoną. Mūsų patyrusi komanda dalijasi svarbiausiais patarimais, kaip apsaugoti savo investiciją ir išlaikyti namų energetinį efektyvumą.",
+      "sections": [
+        {
+          "type": "tips-list",
+          "title": "Svarbiausi langų paruošimo žiemai žingsniai",
+          "items": [
+            {
+              "title": "Patikrinkite sandarinimo tarpines",
+              "description": "Apžiūrėkite visas langų sandarinimo tarpines, ar jose nėra įtrūkimų, plyšių ar susidėvėjimo ženklų. Pažeistas tarpines pakeiskite naujomis – taip išvengsite skersvėjų ir šilumos nuostolių."
+            },
+            {
+              "title": "Išvalykite langų griovelius",
+              "description": "Pašalinkite iš langų griovelių susikaupusias šiukšles, lapus ir drėgmę. Taip apsaugosite mechanizmus nuo užšalimo ir užtikrinsite sklandų langų varstymą žiemą."
+            },
+            {
+              "title": "Patikrinkite langų veikimą",
+              "description": "Atidarykite ir uždarykite visus langus, kad įsitikintumėte, jog jie varstosi sklandžiai. Pastebėtus strigimus ar kitus sunkumus pašalinkite dar prieš prasidedant šalčiams."
+            },
+            {
+              "title": "Padengkite apsauginėmis priemonėmis",
+              "description": "Apsvarstykite galimybę padengti langų rėmus ir apkaustus specialiomis apsauginėmis priemonėmis. Tai padės apsaugoti juos nuo drėgmės ir korozijos, kurią sukelia atšiaurios žiemos sąlygos."
+            }
+          ]
+        },
+        {
+          "type": "warning-section",
+          "title": "Dažniausios langų problemos žiemą",
+          "content": "Kondensato kaupimasis, užšalę mechanizmai ir pažeistos tarpinės – tai dažniausiai pasitaikančios problemos šaltuoju metų laiku. Laiku pastebėjus gedimus ir atlikus profesionalią profilaktiką, galima išvengti brangaus remonto."
+        },
+        {
+          "type": "cta-section",
+          "title": "Profesionalus langų paruošimas žiemai",
+          "description": "Neleiskite žiemai užklupti jūsų nepasiruošus. Mūsų patyrę meistrai atlieka visapusišką langų paruošimą žiemai, kad jūsų langai būtų tinkamai parengti šaltajam sezonui.",
+          "primaryCtaKey": "scheduleWinterService",
+          "secondaryCtaKey": "getMaintenanceQuote"
+        }
+      ]
+    },
+    "pl": {
+      "components": [
+        {
+          "type": "NewsArticleHero",
+          "contentKey": "hero"
+        },
+        {
+          "type": "NewsArticleContent",
+          "contentKey": "content"
+        }
+      ],
+      "title": "Przygotowanie okien na zimę: Niezbędne porady",
+      "excerpt": "Poznaj porady ekspertów dotyczące konserwacji okien na zimę. Dzięki nim utrzymasz okna w doskonałym stanie przez całe chłodne miesiące.",
+      "featuredImage": "/images/window-adjustment-guide-og.webp",
+      "featuredImageAlt": "Montaż uszczelek w ramie okiennej w ramach przygotowania do zimy",
+      "introduction": "Zima to trudny czas dla okien. Jednak dzięki odpowiedniej konserwacji możesz zapewnić ich bezproblemowe działanie przez cały chłodny okres. Nasz zespół ekspertów dzieli się kluczowymi poradami, które pomogą chronić Twoją inwestycję i zachować wysoką energooszczędność domu.",
+      "sections": [
+        {
+          "type": "tips-list",
+          "title": "Niezbędne czynności konserwacyjne przed zimą",
+          "items": [
+            {
+              "title": "Sprawdź stan uszczelek",
+              "description": "Sprawdź dokładnie wszystkie uszczelki w oknach. Szukaj pęknięć, odkształceń i innych oznak zużycia. Wymiana uszkodzonych uszczelek zapobiegnie powstawaniu przeciągów i ucieczce ciepła z domu."
+            },
+            {
+              "title": "Oczyść prowadnice i okucia",
+              "description": "Usuń z prowadnic wszelkie zanieczyszczenia, takie jak kurz, liście czy piasek. Pozbycie się wilgoci zapobiegnie zamarzaniu mechanizmów i zapewni płynne otwieranie i zamykanie okien zimą."
+            },
+            {
+              "title": "Sprawdź działanie mechanizmów",
+              "description": "Otwórz i zamknij każde okno, aby upewnić się, że skrzydło porusza się płynnie. Jeśli okno się zacina lub ciężko chodzi, należy wyregulować okucia jeszcze przed nadejściem mrozów."
+            },
+            {
+              "title": "Zabezpiecz okucia i ramy",
+              "description": "Warto zastosować specjalne preparaty do konserwacji okuć oraz ram okiennych. Ochroni je to przed wilgocią i korozją, na które są narażone zimą."
+            }
+          ]
+        },
+        {
+          "type": "warning-section",
+          "title": "Najczęstsze problemy z oknami zimą",
+          "content": "Nadmierna kondensacja pary wodnej, przymarzanie mechanizmów i uszkodzone uszczelki to typowe problemy w sezonie zimowym. Wczesne wykrycie usterki i profesjonalny serwis pozwolą uniknąć kosztownych napraw."
+        },
+        {
+          "type": "cta-section",
+          "title": "Profesjonalne przygotowanie okien na zimę",
+          "description": "Nie daj się zaskoczyć zimie! Nasi doświadczeni serwisanci oferują kompleksowy przegląd i konserwację okien, dzięki czemu będziesz mieć pewność, że są one w pełni gotowe na nadchodzące mrozy.",
+          "primaryCtaKey": "scheduleWinterService",
+          "secondaryCtaKey": "getMaintenanceQuote"
+        }
+      ]
+    },
+    "uk": {
+      "components": [
+        {
+          "type": "NewsArticleHero",
+          "contentKey": "hero"
+        },
+        {
+          "type": "NewsArticleContent",
+          "contentKey": "content"
+        }
+      ],
+      "title": "Підготовка вікон до зими: головні поради",
+      "excerpt": "Поради експертів щодо обслуговування вікон у зимовий період. Підтримуйте ваші вікна в ідеальному стані протягом холодних місяців завдяки професійним рекомендаціям.",
+      "featuredImage": "/images/window-adjustment-guide-og.webp",
+      "featuredImageAlt": "Встановлення ущільнювача на віконну раму для підготовки до зими",
+      "introduction": "Зимова погода може стати справжнім випробуванням для ваших вікон. Однак правильне обслуговування допоможе їм бездоганно працювати протягом усього холодного сезону. Наша команда експертів ділиться ключовими порадами, щоб захистити ваші вікна та зберегти тепло у домі.",
+      "sections": [
+        {
+          "type": "tips-list",
+          "title": "Основні кроки для підготовки до зими",
+          "items": [
+            {
+              "title": "Перевірте ущільнювачі",
+              "description": "Огляньте всі ущільнювачі по периметру вікон на наявність тріщин, зазорів чи зносу. Замініть пошкоджені елементи, щоб уникнути протягів та втрат тепла."
+            },
+            {
+              "title": "Очистьте віконні пази",
+              "description": "Приберіть сміття, листя та вологу з віконних пазів і дренажних отворів. Це запобігатиме замерзанню та забезпечить плавне відкривання стулок взимку."
+            },
+            {
+              "title": "Протестуйте роботу фурнітури",
+              "description": "Відкрийте та закрийте всі вікна, щоб переконатися, що механізми працюють плавно. Вирішіть проблеми із заїданням чи тугим ходом до настання холодів."
+            },
+            {
+              "title": "Застосуйте захисне покриття",
+              "description": "За бажанням нанесіть спеціальні захисні засоби на рами та фурнітуру. Це допоможе захистити їх від пошкодження вологою та корозії в зимових умовах."
+            }
+          ]
+        },
+        {
+          "type": "warning-section",
+          "title": "Поширені проблеми з вікнами взимку",
+          "content": "Надмірний конденсат, замерзання механізмів та пошкодження ущільнювачів — найчастіші проблеми в зимовий період. Своєчасна діагностика та професійне обслуговування допоможуть уникнути дорогого ремонту."
+        },
+        {
+          "type": "cta-section",
+          "title": "Професійна підготовка вікон до зими",
+          "description": "Не дозволяйте зимі застати вас зненацька. Наші досвідчені майстри надають комплексні послуги з підготовки вікон, щоб гарантувати їхню надійну роботу в холодний сезон.",
           "primaryCtaKey": "scheduleWinterService",
           "secondaryCtaKey": "getMaintenanceQuote"
         }

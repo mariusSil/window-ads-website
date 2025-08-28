@@ -196,99 +196,229 @@
       ]
     },
     "lt": {
-      "title": "Pilnas Langų Priežiūros Grafikas: Mėnesiniai, Sezoniniai ir Metiniai Uždaviniai",
-      "excerpt": "Išsamus profesionalios langų priežiūros vadovas su konkrečiais mėnesiniais, sezoniniais ir metiniais uždaviniais, kad išlaikytumėte langus tobuloje būklėje ištisus metus.",
+      "title": "Išsamus langų priežiūros planas: mėnesio, sezono ir metiniai darbai",
+      "excerpt": "Išsamus profesionalios langų priežiūros vadovas, kuriame pateikiamas mėnesio, sezono ir metinių darbų planas, padėsiantis išlaikyti nepriekaištingą langų būklę ištisus metus.",
       "featuredImage": "/images/smart-technology.webp",
-      "featuredImageAlt": "Technikas valo ir tepluoja langų bėgio mechanizmą, priežiūros paslaugų darbas",
-      "introduction": "Tinkama langų priežiūra nėra tik langų valymas—tai jūsų investicijos apsauga, energijos efektyvumo užtikrinimas ir namų patrauklumo išlaikymas. Su daugiau nei 15 metų patirtimi langų įrengime ir priežiūroje, mes sukūrėme šį išsamų grafiką, kuriuo namų savininkai gali vadovautis.",
+      "featuredImageAlt": "Meistras valo ir sutepa lango judančias dalis atlikdamas techninės priežiūros darbus.",
+      "introduction": "Tinkama langų priežiūra – tai ne tik švara. Tai Jūsų investicijos apsauga, namų energinio efektyvumo užtikrinimas ir estetiško fasado išlaikymas. Sukaupę daugiau nei 15 metų patirtį langų montavimo ir priežiūros srityje, parengėme šį išsamų planą, kuriuo vadovaudamiesi galėsite palaikyti optimalią savo langų būklę ištisus metus.",
       "sections": [
         {
-          "id": "menesinis-uzduotys",
-          "title": "Mėnesiniai Langų Priežiūros Uždaviniai",
-          "content": "Reguliari mėnesinė priežiūra apsaugo nuo mažų problemų virtimo brangiais remontais:\n\n**Vizualinė Apžiūra (15 minučių)**\n- Patikrinkite stiklo ar rėmo įtrūkimus\n- Ieškokite tarpų sandarinimo juostose\n- Apžiūrėkite vandens pažeidimus ar drėgmės kaupimąsi\n- Išbandykite langų veikimo (atidarymo/uždarymo)\n\n**Pagrindinis Valymas (30 minučių)**\n- Valykite langų bėgius ir palangės\n- Nušluostykite rėmus tinkamu valikliu\n- Pašalinkite šiukšles iš drenažo angelių\n- Patikrinkite ir valykite langų tinklus",
+          "id": "monthly-tasks",
+          "title": "Mėnesiniai langų priežiūros darbai",
+          "content": "Reguliari mėnesinė priežiūra padeda išvengti smulkių gedimų, kurie vėliau gali virsti brangiu remontu. Štai ką rekomenduojame atlikti kiekvieną mėnesį:\n\n**Apžiūra (15 min.)**\n- Patikrinkite, ar nėra stiklo ar rėmo įtrūkimų\n- Apžiūrėkite, ar neatsirado tarpų tarpinėse\n- Patikrinkite, ar nėra vandens pažeidimų ar drėgmės kaupimosi\n- Išbandykite, kaip langas atsidaro ir užsidaro\n\n**Pagrindinis valymas (30 min.)**\n- Išvalykite rėmo griovelius ir palanges\n- Nuvalykite rėmus tinkamu valikliu\n- Išvalykite nešvarumus iš drenažo angų\n- Patikrinkite ir išvalykite tinklelius nuo vabzdžių\n\n**Furnitūros patikra (10 min.)**\n- Išbandykite spynas ir rankenas\n- Patikrinkite, ar neatsilaisvino varžtai ar kitos furnitūros dalys\n- Įsitikinkite, kad judančios dalys veikia sklandžiai\n- Klausykitės, ar varstant negirdėti neįprastų garsų",
           "tips": [
-            "Nustatykite mėnesinį priminimą telefone kiekvieno mėnesio pirmam šeštadieniui",
-            "Vedkite priežiūros žurnalą problemų ir pagerėjimų sekimui",
-            "Fotografuokite problemas profesionaliai konsultacijai"
+            "Nusistatykite kas mėnesį pasikartojantį priminimą telefone, pavyzdžiui, pirmą mėnesio šeštadienį.",
+            "Veskite priežiūros žurnalą, kuriame žymėtumėte problemas ir atliktus darbus.",
+            "Nufotografuokite pastebėtus gedimus, kad prireikus galėtumėte pasikonsultuoti su specialistu."
           ]
         },
         {
-          "id": "sezonine-prieziura",
-          "title": "Sezoniškos Langų Priežiūros Vadovas",
-          "content": "Kiekvienas sezonas turi unikalius iššūkius jūsų langams:\n\n**Pavasario Pasiruoshimas (Kovas-Gegužė)**\n- Giliai išvalykite langus iš vidaus ir išorės\n- Pakeiskite sandarinimo juostas, jei pažeistos\n- Patepkite vyrius ir judamas dalis\n- Patikrinkite ir suremontuokite hermetiką\n- Apžiūrėkite žiemos pažeidimus\n\n**Vasaros Priežiūra (Birželis-Rugpjūtis)**\n- Sutelkite dėmesį į UV apsaugą ir vėdinimą\n- Valykite ir tikrinkite langų tinklus\n- Tikrinkite oro kondicionierių langų blokus\n- Stebėkite plėtimosi problemas\n- Užtikrinkite tinkamą drenažą audros metu",
-          "callout": "Profesionali patarimas: Užsisakykite sezoninę priežiūrą 2-3 savaites prieš oro pokyčius, kad jūsų langai būtų pasiruošę naujam sezonui."
+          "id": "seasonal-maintenance",
+          "title": "Sezoninės langų priežiūros gidas",
+          "content": "Kiekvienas metų laikas langams kelia skirtingus iššūkius. Štai kaip jiems pasiruošti:\n\n**Pavasarinis paruošimas (kovas–gegužė)**\n- Kruopščiai nuvalykite langus iš vidaus ir išorės\n- Pakeiskite pažeistas tarpines\n- Sutepkite vyrius ir kitas judančias furnitūros dalis\n- Patikrinkite ir atnaujinkite sandarinimo siūles\n- Apžiūrėkite, ar nėra žiemos padarytos žalos\n\n**Vasaros priežiūra (birželis–rugpjūtis)**\n- Sutelkite dėmesį į apsaugą nuo UV spindulių ir vėdinimą\n- Išvalykite ir patikrinkite tinklelius nuo vabzdžių\n- Patikrinkite išorinių žaliuzių ar roletų būklę\n- Stebėkite, ar dėl karščio nekyla problemų su langų varstymu\n- Per liūtis įsitikinkite, kad drenažo sistema veikia tinkamai\n\n**Rudeninis paruošimas (rugsėjis–lapkritis)**\n- Paruoškite langus šaltajam sezonui\n- Sureguliuokite langus žiemos režimui (padidinkite prispaudimą)\n- Patikrinkite sandarumą ir energinį efektyvumą\n- Išvalykite šalia langų esančius lietaus latakus\n- Apgenėkite augalus, kad neliestų langų\n\n**Priežiūra žiemą (gruodis–vasaris)**\n- Stebėkite, ar ant stiklų nesikaupia kondensatas\n- Patikrinkite, ar ant stogo krašto nesusidaro ledo varvekliai\n- Palaikykite tinkamą drėgmės lygį patalpose\n- Nenaudokite agresyvių ledo tirpiklių šalia langų\n- Nuvalykite sniegą nuo palangių ir rėmų",
+          "callout": "Profesionalo patarimas: sezoninę patikrą atlikite likus 2–3 savaitėms iki orų pasikeitimo – taip užtikrinsite, kad Jūsų langai bus paruošti naujam sezonui."
         },
         {
-          "id": "metine-apziura",
-          "title": "Metinė Profesionali Apžiūra ir Gili Priežiūra",
-          "content": "Kartą per metus atlikite išsamų patikrinimum ar samdykite specialistus:\n\n**Konstrukcijos Įvertinimas**\n- Patikrinkite rėmo vientisumą ir išdėstymą\n- Apžiūrėkite sėdimą ar konstrukcijos judėjimą\n- Įvertinkite bendrą langų veikimo efektyvumą\n- Įvertinkite energijos efektyvumo rodiklius\n\n**Aparatinės Įrangos Keitimas**\n- Pakeiskite nusidėvėjusias sandarinimo juostas\n- Atnaujinkite seną ar pažeistą aparatinę įrangą\n- Patepkite visus judamus komponentus\n- Kalibruokite langų mechanizmus",
+          "id": "annual-inspection",
+          "title": "Metinė profesionali patikra ir nuodugni priežiūra",
+          "content": "Kartą per metus atlikite nuodugnią patikrą patys arba pasikvieskite specialistus išsamiai langų profilaktikai:\n\n**Konstrukcijos įvertinimas**\n- Patikrinkite rėmo vientisumą ir geometriją\n- Įvertinkite, ar nėra pastato sėdimo ar konstrukcijos judėjimo požymių\n- Įvertinkite bendrą langų funkcionalumą\n- Įvertinkite energinio efektyvumo rodiklius\n\n**Furnitūros atnaujinimas**\n- Pakeiskite susidėvėjusias tarpines\n- Atnaujinkite pasenusią ar pažeistą furnitūrą\n- Sutepkite visus judančius komponentus\n- Sureguliuokite langų mechanizmus\n\n**Energinio efektyvumo peržiūra**\n- Jei įmanoma, atlikite termovizinį tyrimą\n- Patikrinkite oro pralaidumą specialiais prietaisais\n- Įvertinkite sandarumo efektyvumą\n- Apsvarstykite galimybes modernizuoti langus\n\n**Profesionalios paslaugos, kurias verta apsvarstyti**\n- Stiklo padengimas specialiomis dangomis\n- Rėmų atnaujinimas ar perdažymas\n- Furnitūros modernizavimas\n- Energinio efektyvumo didinimas",
           "benefits": [
-            "Pailgina langų tarnavimo laiką iki 5-10 metų",
-            "Sumažina energijos sąnaudas iki 15%",
-            "Prezentai brangius skubūs remontus",
-            "Išlaikykite namų vertę ir patrauklumą"
+            "Prailgina langų tarnavimo laiką 5–10 metų",
+            "Sumažina išlaidas energijai iki 15 %",
+            "Padeda išvengti brangaus avarinio remonto",
+            "Išlaiko būsto vertę ir estetišką išvaizdą"
           ]
         },
         {
           "id": "troubleshooting",
-          "title": "Dažni Problemai ir Kada Skambinti Profesionalams",
-          "content": "Nors reguliari priežiūra apsaugo nuo daugumos problemų, kai kurie iššūkiai reikalauja profesionalaus dėmesio:\n\n**DIY-Friendly Problemai**\n- Lengvai atidaromi ar uždaromi langai\n- Mažos sandarinimo juostų pakeitimo darbai\n- Pagrindinis valymas ir tepluojimas\n- Tinklų remontas ar pakeitimas\n\n**Profesionalams Reikalingi Problemai**\n- Stiklo ar rėmo pažeidimai\n- Konstrukcijos pažeidimai ar suirusimas\n- Hermetikos gedimai dvigubose stiklo konstrukcijose\n- Dideli aparatinės įrangos gedimai\n- Vandens infiltracijos problemas",
-          "warning": "Niekada nesistengykite remontuoti konstrukcijos pažeidimus ar pakeisti stiklą savarankiškai. Šie darbai reikalauja profesionalaus žinio ir specializuotų įrankių."
+          "title": "Dažniausios problemos ir kada kviesti meistrus",
+          "content": "Nors reguliari priežiūra padeda išvengti daugumos problemų, kai kuriems gedimams pašalinti prireiks specialisto pagalbos:\n\n**Ką galite sutvarkyti patys**\n- Stringantys ar sunkiai varstomi langai\n- Nedidelis tarpinių pakeitimas\n- Paprastas valymas ir sutepimas\n- Tinklelių nuo vabzdžių remontas ar keitimas\n\n**Kada būtina kviesti specialistą**\n- Įskilęs ar sudužęs stiklo paketas\n- Rėmo pažeidimai ar puvinys\n- Stiklo paketo sandarumo praradimas (rasojimas viduje)\n- Sudėtingi furnitūros gedimai\n- Vandens pratekėjimas į vidų\n\n**Avarinės situacijos**\n- Sudužęs stiklas, keliantis pavojų saugumui\n- Langai, kurie neužsidaro artėjant audrai\n- Stiprus vandens pratekėjimas\n- Pažeidimai, susiję su įsilaužimu",
+          "warning": "Dėmesio: niekada nebandykite patys remontuoti rėmo konstrukcijos ar keisti stiklo paketo. Šiems darbams reikalingos specialios žinios ir įrankiai."
         }
       ],
-      "conclusion": "Laikydamiesi šio išsamaus priežiūros grafiko, išlaikysite langus optimaliai veikiančius dešimtmečius. Atminkite, prevencinė priežiūra visada ekonomiškesnė nei skubūs remontai.",
+      "conclusion": "Laikydamiesi šio išsamaus priežiūros plano, užtikrinsite, kad Jūsų langai optimaliai veiktų dešimtmečius. Atminkite, kad profilaktinė priežiūra visada kainuoja pigiau nei avarinis remontas. Jei abejojate dėl kurio nors darbo arba pastebite pasikartojančias problemas, nedvejodami kreipkitės į mūsų profesionalią komandą – atliksime nemokamą diagnostiką ir pakonsultuosime.",
       "ctaSection": {
-        "title": "Reikia Profesionalios Langų Priežiūros?",
-        "description": "Mūsų sertifikuoti technikai teikia išsamias langų priežiūros paslaugas visoje Lietuvoje. Gaukite nemokamą diagnostiką langų būklės įvertinimui.",
+        "title": "Reikalinga profesionali langų priežiūra?",
+        "description": "Mūsų sertifikuoti meistrai teikia visas langų priežiūros paslaugas visoje Lietuvoje. Užsisakykite nemokamą diagnostiką ir sužinokite tikslią savo langų būklę.",
         "benefits": [
-          "15+ metų profesionalios patirties",
+          "Daugiau nei 15 metų patirtis",
           "Nemokama diagnostika ir konsultacija",
-          "Išsamūs priežiūros paketai",
-          "Skubūs remonto darbai"
+          "Išsamūs priežiūros paslaugų paketai",
+          "Teikiame skubaus avarinio remonto paslaugas"
         ],
-        "primaryButton": "Užsisakyti Nemokamą Diagnostiką",
-        "secondaryButton": "Gauti Priežiūros Pasiūlymą"
-      }
+        "primaryButton": "Užsakyti nemokamą diagnostiką",
+        "secondaryButton": "Gauti priežiūros pasiūlymą"
+      },
+      "relatedTopics": [
+        "Kaip dažnai reikia reguliuoti langus?",
+        "Langų priežiūros gidas žiemai",
+        "Energiškai efektyvių langų priežiūra",
+        "Kaip pačiam išvalyti langų rėmų griovelius?"
+      ],
+      "faq": [
+        {
+          "question": "Kaip dažnai reikėtų valyti langus?",
+          "answer": "Kad langai atrodytų estetiškai ir gerai veiktų, valykite juos kas mėnesį, o kruopštų valymą atlikite sezoniškai. Jei gyvenate šalia judrios gatvės ar intensyviai naudojamose patalpose, valyti gali tekti ir dažniau."
+        },
+        {
+          "question": "Kuris priežiūros darbas yra svarbiausias?",
+          "answer": "Svarbiausia yra reguliari apžiūra. Laiku pastebėjus smulkius gedimus, galima išvengti brangaus remonto ir ženkliai prailginti langų tarnavimo laiką."
+        },
+        {
+          "question": "Kada turėčiau kreiptis į specialistus?",
+          "answer": "Kreipkitės į specialistus, jei pastebėjote rėmo konstrukcijos pažeidimų, reikia keisti stiklo paketą, jis prarado sandarumą arba iškilo kitų su saugumu susijusių problemų. Taip pat rekomenduojame kartą per metus užsakyti profesionalią patikrą."
+        }
+      ]
     },
     "pl": {
-      "title": "Kompletny Harmonogram Pielęgnacji Okien: Zadania Miesięczne, Sezonowe i Roczne",
-      "excerpt": "Kompleksowy przewodnik profesjonalnej pielęgnacji okien z konkretnymi harmonogramami zadań miesięcznych, sezonowych i rocznych, aby utrzymać okna w idealnym stanie przez cały rok.",
+      "title": "Kompletny harmonogram konserwacji okien: Prace miesięczne, sezonowe i roczne",
+      "excerpt": "Szczegółowy poradnik konserwacji okien z harmonogramem prac miesięcznych, sezonowych i rocznych. Dowiedz się, jak utrzymać okna w doskonałym stanie przez cały rok.",
       "featuredImage": "/images/smart-technology.webp",
-      "featuredImageAlt": "Technik czyszczący i smarujący mechanizm szyny okiennej, praca serwisowa konserwacji",
-      "introduction": "Właściwa pielęgnacja okien to nie tylko utrzymanie ich w czystości - to ochrona inwestycji, zapewnienie efektywności energetycznej i utrzymanie atrakcyjnego wyglądu domu. Dzięki ponad 15-letniemu doświadczeniu w montażu i pielęgnacji okien, opracowaliśmy ten kompleksowy harmonogram, którego mogą przestrzegać właściciele domów.",
-      "conclusion": "Przestrzegając tego kompleksowego harmonogramu pielęgnacji, utrzymasz okna w optymalnym stanie przez dziesięciolecia. Pamiętaj, że pielęgnacja zapobiegawcza jest zawsze bardziej opłacalna niż naprawy awaryjne.",
+      "featuredImageAlt": "Serwisant czyści i smaruje mechanizm prowadnicy okiennej podczas prac konserwacyjnych",
+      "introduction": "Prawidłowa konserwacja okien to znacznie więcej niż tylko ich mycie. To przede wszystkim ochrona Twojej inwestycji, zapewnienie energooszczędności i dbałość o estetyczny wygląd domu. Bazując na naszym ponad 15-letnim doświadczeniu w montażu i serwisie stolarki okiennej, przygotowaliśmy kompleksowy harmonogram, który pozwoli każdemu właścicielowi domu utrzymać okna w doskonałej kondycji przez cały rok.",
+      "sections": [
+        {
+          "id": "monthly-tasks",
+          "title": "Comiesięczna konserwacja okien",
+          "content": "Regularne, comiesięczne przeglądy zapobiegają drobnym usterkom, które mogłyby przerodzić się w kosztowne naprawy. Oto lista zadań do wykonania każdego miesiąca:\n\n**Przegląd wizualny (15 minut)**\n- Sprawdź, czy na szybie lub ramie nie ma pęknięć\n- Obejrzyj uszczelki w poszukiwaniu szczelin i uszkodzeń\n- Sprawdź, czy nie ma śladów zalania lub gromadzenia się wilgoci\n- Przetestuj działanie okna (otwieranie/zamykanie)\n\n**Podstawowe czyszczenie (30 minut)**\n- Wyczyść prowadnice i dolne części ramy\n- Przetrzyj ramy odpowiednim środkiem czyszczącym\n- Usuń zanieczyszczenia z otworów odpływowych\n- Sprawdź i wyczyść moskitiery\n\n**Kontrola okuć (10 minut)**\n- Sprawdź działanie zamków i klamek\n- Sprawdź, czy nie ma poluzowanych śrub lub elementów okucia\n- Upewnij się, że ruchome części działają płynnie\n- Nasłuchuj nietypowych dźwięków podczas otwierania i zamykania",
+          "tips": [
+            "Ustaw comiesięczne przypomnienie w telefonie, np. na pierwszą sobotę miesiąca",
+            "Prowadź dziennik konserwacji, aby śledzić problemy i wykonane prace",
+            "Rób zdjęcia wszelkich usterek, aby skonsultować je z fachowcem"
+          ]
+        },
+        {
+          "id": "seasonal-maintenance",
+          "title": "Sezonowa konserwacja okien",
+          "content": "Każda pora roku stawia przed Twoimi oknami inne wyzwania. Oto jak się do nich przygotować:\n\n**Przygotowanie na wiosnę (marzec-maj)**\n- Dokładnie umyj okna od wewnątrz i na zewnątrz\n- Wymień uszczelki, jeśli są uszkodzone\n- Nasmaruj zawiasy i ruchome elementy okucia\n- Sprawdź i napraw uszczelnienia (np. silikonowe)\n- Sprawdź, czy zima nie spowodowała uszkodzeń\n\n**Konserwacja latem (czerwiec-sierpień)**\n- Skup się na ochronie przed promieniami UV i wentylacji\n- Wyczyść i sprawdź moskitiery\n- Sprawdź działanie rolet zewnętrznych i żaluzji\n- Obserwuj okna pod kątem problemów związanych z rozszerzalnością cieplną\n- Upewnij się, że odprowadzanie wody podczas ulew jest prawidłowe\n\n**Przygotowanie na jesień (wrzesień-listopad)**\n- Przygotuj okna na nadejście zimy\n- Wyreguluj docisk skrzydła do ramy (tzw. tryb zimowy)\n- Sprawdź izolację i szczelność okien\n- Oczyść rynny znajdujące się w pobliżu okien\n- Przytnij gałęzie drzew i krzewów rosnące blisko okien\n\n**Pielęgnacja zimą (grudzień-luty)**\n- Monitoruj problem kondensacji pary wodnej na szybach\n- Sprawdzaj, czy na dachu nie tworzą się nawisy lodowe\n- Utrzymuj odpowiedni poziom wilgotności w pomieszczeniach\n- Unikaj stosowania agresywnych środków do odladzania w pobliżu okien\n- Regularnie usuwaj nagromadzony śnieg z zewnętrznych parapetów",
+          "callout": "Rada fachowca: Zaplanuj sezonową konserwację na 2-3 tygodnie przed zmianą pogody, aby mieć pewność, że Twoje okna są gotowe na nowy sezon."
+        },
+        {
+          "id": "annual-inspection",
+          "title": "Coroczny profesjonalny przegląd i gruntowna konserwacja",
+          "content": "Raz w roku warto przeprowadzić szczegółowy przegląd samodzielnie lub zlecić kompleksową konserwację profesjonalistom:\n\n**Ocena stanu technicznego**\n- Sprawdzenie integralności i geometrii ramy\n- Kontrola pod kątem osiadania budynku lub przemieszczeń konstrukcyjnych\n- Ocena ogólnej funkcjonalności okna\n- Analiza parametrów energooszczędności\n\n**Regulacja i wymiana komponentów**\n- Wymiana zużytych uszczelek\n- Wymiana starych lub uszkodzonych elementów okucia\n- Smarowanie wszystkich ruchomych komponentów\n- Regulacja i kalibracja mechanizmów okiennych\n\n**Przegląd energooszczędności**\n- Wykonanie badania termowizyjnego (jeśli jest dostępne)\n- Sprawdzenie szczelności (np. testem dymowym)\n- Ocena skuteczności izolacji\n- Rozważenie możliwości modernizacji\n\n**Usługi profesjonalne, które warto rozważyć**\n- Aplikacja powłok na szyby (np. przeciwsłonecznych)\n- Renowacja lub malowanie ram\n- Modernizacja okuć na antywłamaniowe\n- Poprawa parametrów energooszczędnych",
+          "benefits": [
+            "Wydłuża żywotność okien o 5-10 lat",
+            "Obniża rachunki za energię nawet o 15%",
+            "Zapobiega kosztownym naprawom awaryjnym",
+            "Utrzymuje wartość i estetykę nieruchomości"
+          ]
+        },
+        {
+          "id": "troubleshooting",
+          "title": "Typowe problemy i sytuacje, gdy warto wezwać fachowca",
+          "content": "Chociaż regularna konserwacja zapobiega większości problemów, niektóre usterki wymagają interwencji specjalisty:\n\n**Usterki, które możesz naprawić samodzielnie**\n- Ciężko otwierające się lub zacinające się okna\n- Wymiana niewielkich fragmentów uszczelek\n- Podstawowe czyszczenie i smarowanie\n- Naprawa lub wymiana moskitiery\n\n**Problemy wymagające interwencji fachowca**\n- Pęknięta lub zbita szyba\n- Uszkodzenie lub butwienie ramy\n- Rozszczelnienie pakietu szybowego (para wodna wewnątrz szyby)\n- Poważna awaria okucia\n- Problemy z przeciekaniem wody do wnętrza\n\n**Sytuacje awaryjne**\n- Zbita szyba stwarzająca zagrożenie\n- Okno, którego nie można zamknąć podczas wichury\n- Poważne przecieki wody\n- Uszkodzenia po próbie włamania",
+          "warning": "Nigdy nie próbuj samodzielnie naprawiać uszkodzeń konstrukcyjnych ramy ani wymieniać szyb. Te zadania wymagają specjalistycznej wiedzy i narzędzi."
+        }
+      ],
+      "conclusion": "Stosowanie się do tego kompleksowego harmonogramu konserwacji zapewni Twoim oknom optymalne funkcjonowanie przez wiele lat. Pamiętaj, że profilaktyka jest zawsze bardziej opłacalna niż kosztowne naprawy awaryjne. Jeśli nie masz pewności co do którejkolwiek z czynności lub zauważysz uporczywe problemy, skontaktuj się z naszym zespołem specjalistów, aby umówić bezpłatną diagnozę.",
       "ctaSection": {
-        "title": "Potrzebujesz Profesjonalnej Pielęgnacji Okien?",
-        "description": "Nasi certyfikowani technicy świadczą kompleksowe usługi pielęgnacji okien na terenie całej Litwy. Uzyskaj bezpłatną diagnostykę oceny stanu okien.",
+        "title": "Potrzebujesz profesjonalnego serwisu okien?",
+        "description": "Nasi certyfikowani serwisanci świadczą kompleksowe usługi konserwacji okien na terenie całej Polski. Skorzystaj z bezpłatnej diagnozy, aby ocenić aktualny stan Twojej stolarki okiennej.",
         "benefits": [
-          "15+ lat profesjonalnego doświadczenia",
-          "Bezpłatna diagnostyka i konsultacja",
-          "Kompleksowe pakiety pielęgnacji",
-          "Dostępne naprawy awaryjne"
+          "Ponad 15 lat doświadczenia w branży",
+          "Bezpłatna diagnoza i konsultacja",
+          "Kompleksowe pakiety serwisowe",
+          "Dostępne pogotowie okienne"
         ],
-        "primaryButton": "Zaplanuj Bezpłatną Diagnostykę",
-        "secondaryButton": "Uzyskaj Wycenę Pielęgnacji"
-      }
+        "primaryButton": "Umów bezpłatną diagnozę",
+        "secondaryButton": "Poproś o wycenę serwisu"
+      },
+      "relatedTopics": [
+        "Jak często regulować okna?",
+        "Poradnik: Jak dbać o okna zimą?",
+        "Konserwacja okien energooszczędnych",
+        "Jak samodzielnie wyczyścić prowadnice w oknach? Poradnik"
+      ],
+      "faq": [
+        {
+          "question": "Jak często należy myć okna?",
+          "answer": "Dla najlepszego wyglądu i funkcjonalności, zalecamy podstawowe mycie co miesiąc i gruntowne czyszczenie raz na sezon. W domach zlokalizowanych przy ruchliwych ulicach lub w miejscach o dużym zapyleniu może być konieczne częstsze mycie."
+        },
+        {
+          "question": "Który element konserwacji jest najważniejszy?",
+          "answer": "Kluczowy jest regularny przegląd. Wczesne wykrycie drobnych usterek pozwala uniknąć kosztownych napraw i znacznie wydłuża żywotność okien."
+        },
+        {
+          "question": "Kiedy należy wezwać fachowca?",
+          "answer": "Skontaktuj się z profesjonalistą w przypadku uszkodzeń ramy, konieczności wymiany szyby, rozszczelnienia pakietu szybowego lub jakichkolwiek wątpliwości dotyczących bezpieczeństwa. Warto również rozważyć coroczny, profesjonalny przegląd."
+        }
+      ]
     },
     "uk": {
-      "title": "Повний Графік Догляду за Вікнами: Місячні, Сезонні та Річні Завдання",
-      "excerpt": "Комплексний посібник з професійного догляду за вікнами з конкретними графіками місячних, сезонних та річних завдань для підтримання вікон в ідеальному стані цілий рік.",
+      "title": "Повний посібник з догляду за вікнами: щомісячні, сезонні та щорічні завдання",
+      "excerpt": "Детальний посібник з догляду за вікнами. Дізнайтеся, які щомісячні, сезонні та щорічні роботи допоможуть зберегти ваші вікна в ідеальному стані цілий рік.",
       "featuredImage": "/images/smart-technology.webp",
-      "featuredImageAlt": "Технік чистить та змащує механізм віконної колії, сервісна робота з обслуговування",
-      "introduction": "Правильний догляд за вікнами - це не лише підтримання їх чистоти, а й захист інвестицій, забезпечення енергоефективності та підтримання привабливого вигляду будинку. Маючи понад 15 років досвіду в монтажі та догляді за вікнами, ми розробили цей комплексний графік для власників будинків.",
-      "conclusion": "Дотримуючись цього комплексного графіку догляду, ви підтримаєте вікна в оптимальному стані протягом десятиліть. Пам'ятайте, профілактичний догляд завжди економічніший за аварійні ремонти.",
+      "featuredImageAlt": "Майстер чистить та змащує механізм віконної фурнітури, виконуючи сервісне обслуговування",
+      "introduction": "Правильний догляд за вікнами — це не просто миття скла. Це захист вашої інвестиції, запорука енергоефективності та збереження привабливого вигляду вашого дому. Маючи понад 15 років досвіду у встановленні та обслуговуванні вікон, ми розробили цей детальний графік, який допоможе власникам житла підтримувати вікна в оптимальному стані протягом усього року.",
+      "sections": [
+        {
+          "id": "monthly-tasks",
+          "title": "Щомісячні роботи з догляду за вікнами",
+          "content": "Регулярне щомісячне обслуговування запобігає перетворенню дрібних несправностей на дорогий ремонт. Ось що варто робити щомісяця:\n\n**Візуальний огляд (15 хвилин)**\n- Перевірте, чи немає тріщин на склі або рамі\n- Огляньте ущільнювач на наявність проміжків\n- Перевірте наявність слідів протікання або конденсату\n- Перевірте роботу вікна (відкривання/закривання)\n\n**Базове чищення (30 хвилин)**\n- Очистьте пази та підвіконня\n- Протріть рами відповідним мийним засобом\n- Прочистьте дренажні отвори від сміття\n- Перевірте та почистьте москітні сітки\n\n**Перевірка фурнітури (10 хвилин)**\n- Перевірте роботу замків та ручок\n- Перевірте, чи не розхиталися гвинти або кріплення\n- Переконайтеся, що рухомі частини працюють плавно\n- Прислухайтеся до незвичних звуків під час роботи",
+          "tips": [
+            "Встановіть щомісячне нагадування в телефоні, наприклад, на першу суботу місяця.",
+            "Ведіть журнал обслуговування, щоб відстежувати проблеми та покращення.",
+            "Фотографуйте будь-які несправності для консультації з фахівцем."
+          ]
+        },
+        {
+          "id": "seasonal-maintenance",
+          "title": "Сезонний догляд за вікнами",
+          "content": "Кожна пора року створює для вікон нові виклики. Ось як до них підготуватися:\n\n**Весняна підготовка (березень-травень)**\n- Ретельно вимийте вікна зсередини та ззовні\n- Замініть пошкоджений ущільнювач\n- Змастіть петлі та рухомі механізми\n- Перевірте та відновіть герметик\n- Огляньте вікна на наявність пошкоджень після зими\n\n**Літній догляд (червень-серпень)**\n- Зосередьтеся на захисті від ультрафіолету та вентиляції\n- Почистьте та огляньте москітні сітки\n- Перевірте віконні кондиціонери (якщо є)\n- Слідкуйте за проблемами, пов'язаними з розширенням матеріалів від спеки\n- Переконайтеся, що дренаж справно працює під час злив\n\n**Осіння підготовка (вересень-листопад)**\n- Підготуйте вікна до зимових холодів\n- Встановіть додаткові штормові рами (за потреби)\n- Перевірте теплоізоляцію та енергоефективність\n- Прочистьте ринви біля вікон\n- Обріжте гілки дерев та кущів біля вікон\n\n**Зимовий догляд (грудень-лютий)**\n- Слідкуйте за появою конденсату\n- Перевіряйте, чи не утворюється крига на підвіконнях та відливах\n- Підтримуйте оптимальну вологість у приміщенні\n- Не використовуйте агресивні хімікати для розморожування біля вікон\n- Очищайте вікна від снігових наметів",
+          "callout": "Порада від професіонала: плануйте сезонне обслуговування за 2-3 тижні до зміни погоди, щоб ваші вікна були повністю готові до нового сезону."
+        },
+        {
+          "id": "annual-inspection",
+          "title": "Щорічна професійна діагностика та глибоке обслуговування",
+          "content": "Раз на рік проводьте ретельний огляд самостійно або наймайте фахівців для комплексного обслуговування:\n\n**Оцінка стану конструкції**\n- Перевірка цілісності та геометрії рами\n- Огляд на предмет просідання чи деформації конструкції\n- Оцінка загальної функціональності вікна\n- Аналіз показників енергоефективності\n\n**Обслуговування та заміна фурнітури**\n- Заміна зношеного ущільнювача\n- Оновлення старої або пошкодженої фурнітури\n- Змащування всіх рухомих елементів\n- Регулювання віконних механізмів\n\n**Перевірка енергоефективності**\n- Проведення тепловізійного обстеження (за можливості)\n- Перевірка наявності протягів за допомогою спеціальних засобів\n- Оцінка ефективності теплоізоляції\n- Розгляд можливостей для модернізації\n\n**Професійні послуги, які варто розглянути**\n- Нанесення захисного покриття на скло\n- Реставрація або фарбування рами\n- Модернізація фурнітури\n- Покращення показників енергоефективності",
+          "benefits": [
+            "Продовжує термін служби вікон на 5-10 років",
+            "Знижує витрати на опалення до 15%",
+            "Запобігає дорогим аварійним ремонтам",
+            "Підтримує вартість житла та його привабливий вигляд"
+          ]
+        },
+        {
+          "id": "troubleshooting",
+          "title": "Типові проблеми: коли звертатися до майстра",
+          "content": "Хоча регулярний догляд запобігає більшості проблем, деякі несправності вимагають втручання фахівця:\n\n**Що можна виправити самостійно**\n- Вікно заїдає або важко відкривається\n- Дрібна заміна ущільнювача\n- Базове чищення та змащування\n- Ремонт або заміна москітної сітки\n\n**Коли потрібен професіонал**\n- Тріснуте або розбите скло\n- Пошкодження або гниття рами\n- Розгерметизація склопакета\n- Серйозна несправність фурнітури\n- Протікання води\n\n**Аварійні ситуації**\n- Розбите скло, що становить загрозу безпеці\n- Вікно не закривається під час негоди\n- Сильне протікання води\n- Пошкодження, що впливають на безпеку (наприклад, після спроби злому)",
+          "warning": "Ніколи не намагайтеся самостійно ремонтувати пошкоджену раму або міняти скло. Ці роботи вимагають професійних навичок та спеціального інструменту."
+        }
+      ],
+      "conclusion": "Дотримання цього детального графіка допоможе вашим вікнам бездоганно працювати десятиліттями. Пам'ятайте, профілактика завжди дешевша за аварійний ремонт. Якщо ви не впевнені щодо якогось завдання або помітили проблему, що не зникає, без вагань звертайтеся до нашої команди за безкоштовною діагностикою.",
       "ctaSection": {
-        "title": "Потрібен Професійний Догляд за Вікнами?",
-        "description": "Наші сертифіковані техніки надають комплексні послуги догляду за вікнами по всій Литві. Отримайте безкоштовну діагностику для оцінки стану вікон.",
+        "title": "Потрібне професійне обслуговування вікон?",
+        "description": "Наші сертифіковані майстри надають повний комплекс послуг з обслуговування вікон по всій Україні. Замовте безкоштовну діагностику, щоб оцінити поточний стан ваших вікон.",
         "benefits": [
-          "15+ років професійного досвіду",
+          "Понад 15 років досвіду",
           "Безкоштовна діагностика та консультація",
-          "Комплексні пакети догляду",
-          "Доступні аварійні ремонти"
+          "Комплексні пакети обслуговування",
+          "Послуги аварійного ремонту"
         ],
-        "primaryButton": "Запланувати Безкоштовну Діагностику",
-        "secondaryButton": "Отримати Пропозицію Догляду"
-      }
+        "primaryButton": "Замовити безкоштовну діагностику",
+        "secondaryButton": "Розрахувати вартість обслуговування"
+      },
+      "relatedTopics": [
+        "Як часто потрібно регулювати вікна?",
+        "Посібник із догляду за вікнами взимку",
+        "Обслуговування вікон для максимальної енергоефективності",
+        "Як самостійно почистити пази у віконній рамі"
+      ],
+      "faq": [
+        {
+          "question": "Як часто потрібно мити вікна?",
+          "answer": "Для ідеального вигляду та функціональності мийте вікна щомісяця, а генеральне миття проводьте сезонно. Якщо ви живете біля жвавої дороги або в промисловому районі, мити вікна доведеться частіше."
+        },
+        {
+          "question": "Яке завдання з догляду за вікнами найважливіше?",
+          "answer": "Регулярний огляд. Своєчасне виявлення дрібних несправностей допомагає уникнути дорогого ремонту та значно продовжує термін служби вікон."
+        },
+        {
+          "question": "Коли варто викликати майстра?",
+          "answer": "Звертайтеся до фахівців у разі пошкодження рами, розбитого скла, розгерметизації склопакета або будь-яких проблем, що стосуються безпеки. Також радимо замовляти щорічну професійну діагностику."
+        }
+      ]
     }
   },
   "components": [

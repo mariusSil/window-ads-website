@@ -134,91 +134,91 @@
     "lt": {
       "hero": {
         "title": "Profesionalus langų reguliavimas",
-        "subtitle": "Atkurkite sklandų langų veikimą su mūsų ekspertų reguliavimo paslaugomis. Išspręskite strigimo, prapūtimo ir suderinimo problemas greitai ir prieinamai.",
-        "priceFrom": "Nuo €45",
+        "subtitle": "Atkurkite sklandų langų varstymą. Mūsų specialistai greitai ir už prieinamą kainą pašalins strigimą, nesandarumą ir kitus gedimus.",
+        "priceFrom": "Nuo 45 €",
         "features": [
-          "Tos pačios dienos aptarnavimas",
-          "5 metų garantija",
-          "Sertifikuoti specialistai",
-          "Visi langų tipai palaikomi"
+          "Meistro atvykimas tą pačią dieną",
+          "Suteikiama 5 metų garantija",
+          "Sertifikuoti meistrai",
+          "Reguliuojame visų tipų langus"
         ],
-        "emergencyNote": "Skubaus aptarnavimo paslauga prieinama 24/7 skubių langų problemų atveju"
+        "emergencyNote": "Skubus iškvietimas visą parą (24/7) neatidėliotiniems langų gedimams šalinti"
       },
       "serviceDetails": {
         "title": "Išsamios langų reguliavimo paslaugos",
-        "subtitle": "Mūsų išsamus reguliavimo aptarnavimas apima visus langų funkcionalumo aspektus",
+        "subtitle": "Mūsų teikiama reguliavimo paslauga apima visus svarbiausius lango funkcionalumo aspektus",
         "services": [
           {
-            "title": "Rėmo suderinimas",
-            "description": "Tikslus langų rėmų reguliavimas, užtikrinantis tinkamą talpą ir sandarumą",
+            "title": "Rėmo geometrijos atstatymas",
+            "description": "Tikslus lango rėmo sureguliavimas, užtikrinantis tinkamą prigludimą ir sandarumą.",
             "icon": "Square",
-            "duration": "30-45 minutės",
+            "duration": "30-45 min.",
             "warranty": "5 metai"
           },
           {
             "title": "Furnitūros reguliavimas",
-            "description": "Lankstų, rankenų ir užrakto mechanizmų tikslus nustatymas",
+            "description": "Vyrių, rankenų ir užrakinimo mechanizmų suderinimas nepriekaištingam veikimui.",
             "icon": "Settings",
-            "duration": "20-30 minučių",
+            "duration": "20-30 min.",
             "warranty": "5 metai"
           },
           {
-            "title": "Sandarinimo optimizavimas",
-            "description": "Sandariklių ir tarpinių reguliavimas maksimaliam energijos efektyvumui",
+            "title": "Tarpinių sandarumo optimizavimas",
+            "description": "Tarpinių prispaudimo reguliavimas maksimaliam energiniam efektyvumui ir garso izoliacijai.",
             "icon": "Shield",
-            "duration": "15-25 minutės",
+            "duration": "15-25 min.",
             "warranty": "3 metai"
           },
           {
-            "title": "Atidarymo mechanizmas",
-            "description": "Atidarymo ir uždarymo mechanizmų kalibravimas sklandžiam veikimui",
+            "title": "Varstymo mechanizmo derinimas",
+            "description": "Atidarymo ir uždarymo mechanizmų kalibravimas sklandžiam ir lengvam varstymui.",
             "icon": "RotateCcw",
-            "duration": "25-35 minutės",
+            "duration": "25-35 min.",
             "warranty": "5 metai"
           },
           {
-            "title": "Prapūtimų šalinimas",
-            "description": "Oro nutekėjimų ir prapūtimų identifikavimas ir taisymas",
+            "title": "Nesandarumo ir skersvėjų šalinimas",
+            "description": "Oro pralaidumo židinių nustatymas ir pašalinimas, kad namai būtų šiltesni.",
             "icon": "Wind",
-            "duration": "20-30 minučių",
+            "duration": "20-30 min.",
             "warranty": "3 metai"
           },
           {
-            "title": "Saugumo funkcijos",
-            "description": "Saugumo spynų ir vaikams saugių mechanizmų reguliavimas",
+            "title": "Apsaugos funkcijų reguliavimas",
+            "description": "Apsauginių užraktų ir apsaugos nuo vaikų mechanizmų patikra bei suderinimas.",
             "icon": "Lock",
-            "duration": "15-20 minučių",
+            "duration": "15-20 min.",
             "warranty": "5 metai"
           }
         ]
       },
       "processSteps": {
-        "title": "Mūsų profesionalus procesas",
-        "subtitle": "Kiekvienas reguliavimas vyksta pagal mūsų išbandytą 4 žingsnių procesą optimaliam rezultatui",
+        "title": "Mūsų darbo procesas",
+        "subtitle": "Kiekvieną reguliavimą atliekame laikydamiesi patikrinto 4 žingsnių proceso, kad užtikrintume geriausią rezultatą.",
         "steps": [
           {
             "title": "Apžiūra ir diagnostika",
-            "description": "Išsamus langų būklės patikrinimas ir reguliavimo poreikių identifikavimas",
+            "description": "Kruopšti lango būklės apžiūra ir reguliavimo poreikio nustatymas.",
             "icon": "Search",
-            "duration": "10-15 minučių"
+            "duration": "10-15 min."
           },
           {
             "title": "Tikslus reguliavimas",
-            "description": "Ekspertų atliekamas visų langų komponentų kalibravimas naudojant profesinius įrankius",
+            "description": "Profesionalus visų lango komponentų suderinimas naudojant specializuotus įrankius.",
             "icon": "Settings",
-            "duration": "30-45 minutės"
+            "duration": "30-45 min."
           },
           {
-            "title": "Testavimas ir patikrinimas",
-            "description": "Išsamus visų funkcijų testavimas, užtikrinantis tobulą veikimą",
+            "title": "Testavimas ir patikra",
+            "description": "Išsamus visų funkcijų testavimas, siekiant įsitikinti nepriekaištingu veikimu.",
             "icon": "CheckCircle",
-            "duration": "10-15 minučių"
+            "duration": "10-15 min."
           },
           {
             "title": "Kokybės garantija",
-            "description": "Galutinė apžiūra ir garantijos dokumentacija jūsų ramybei",
+            "description": "Galutinė patikra ir garantinių dokumentų perdavimas jūsų ramybei.",
             "icon": "Award",
-            "duration": "5-10 minučių"
+            "duration": "5-10 min."
           }
         ]
       }
@@ -226,58 +226,58 @@
     "pl": {
       "hero": {
         "title": "Profesjonalna regulacja okien",
-        "subtitle": "Przywróć płynne działanie swoim oknom dzięki naszym eksperckim usługom regulacji. Napraw zacinanie, przeciągi i problemy z wyrównaniem szybko i przystępnie.",
-        "priceFrom": "Od €45",
+        "subtitle": "Przywróć swoim oknom idealne działanie dzięki naszej fachowej usłudze. Szybko i w dobrej cenie eliminujemy problemy z zacinaniem, nieszczelnościami i niedomykaniem się okien.",
+        "priceFrom": "Już od 180 zł",
         "features": [
-          "Serwis tego samego dnia",
-          "5-letnia gwarancja",
+          "Serwis dostępny tego samego dnia",
+          "5 lat gwarancji w cenie",
           "Certyfikowani technicy",
-          "Wszystkie typy okien obsługiwane"
+          "Obsługujemy wszystkie typy okien"
         ],
-        "emergencyNote": "Serwis awaryjny dostępny 24/7 w przypadku pilnych problemów z oknami"
+        "emergencyNote": "Pogotowie okienne 24/7 w nagłych przypadkach i awariach"
       },
       "serviceDetails": {
-        "title": "Kompleksowe usługi regulacji okien",
-        "subtitle": "Nasza kompleksowa usługa regulacji obejmuje wszystkie aspekty funkcjonalności okien",
+        "title": "Kompleksowa usługa regulacji okien",
+        "subtitle": "Nasza usługa obejmuje wszystkie aspekty prawidłowego funkcjonowania Twoich okien",
         "services": [
           {
-            "title": "Wyrównanie ram",
-            "description": "Precyzyjna regulacja ram okiennych zapewniająca właściwe dopasowanie i uszczelnienie",
+            "title": "Wyrównanie ramy i skrzydła",
+            "description": "Precyzyjne ustawienie skrzydła względem ramy, aby zapewnić idealne dopasowanie i szczelność.",
             "icon": "Square",
             "duration": "30-45 minut",
             "warranty": "5 lat"
           },
           {
-            "title": "Regulacja okuć",
-            "description": "Precyzyjne dostrajanie zawiasów, klamek i mechanizmów zamykających",
+            "title": "Regulacja okuć okiennych",
+            "description": "Dokładne ustawienie zawiasów, klamek i mechanizmów zamykających dla płynnej i lekkiej obsługi.",
             "icon": "Settings",
             "duration": "20-30 minut",
             "warranty": "5 lat"
           },
           {
-            "title": "Optymalizacja uszczelek",
-            "description": "Regulacja uszczelek i uszczelniających dla maksymalnej efektywności energetycznej",
+            "title": "Optymalizacja uszczelnienia",
+            "description": "Regulacja docisku skrzydła i konserwacja uszczelek w celu maksymalnej oszczędności energii.",
             "icon": "Shield",
             "duration": "15-25 minut",
             "warranty": "3 lata"
           },
           {
-            "title": "Mechanizm otwierania",
-            "description": "Kalibracja mechanizmów otwierania i zamykania dla płynnego działania",
+            "title": "Regulacja mechanizmu otwierania",
+            "description": "Kalibracja mechanizmów otwierania, zamykania i uchyłu dla zapewnienia bezproblemowej pracy.",
             "icon": "RotateCcw",
             "duration": "25-35 minut",
             "warranty": "5 lat"
           },
           {
-            "title": "Eliminacja przeciągów",
-            "description": "Identyfikacja i naprawa przecieków powietrza i przeciągów",
+            "title": "Likwidacja przewiewów",
+            "description": "Wykrywanie i usuwanie nieszczelności, które powodują straty ciepła i dyskomfort.",
             "icon": "Wind",
             "duration": "20-30 minut",
             "warranty": "3 lata"
           },
           {
-            "title": "Funkcje bezpieczeństwa",
-            "description": "Regulacja zamków bezpieczeństwa i mechanizmów zabezpieczających przed dziećmi",
+            "title": "Regulacja zabezpieczeń",
+            "description": "Sprawdzenie i ustawienie blokad antywłamaniowych oraz zabezpieczeń przed dziećmi.",
             "icon": "Lock",
             "duration": "15-20 minut",
             "warranty": "5 lat"
@@ -285,30 +285,30 @@
         ]
       },
       "processSteps": {
-        "title": "Nasz profesjonalny proces",
-        "subtitle": "Każda regulacja przebiega według naszego sprawdzonego 4-etapowego procesu dla optymalnych rezultatów",
+        "title": "Nasz proces serwisowy w 4 krokach",
+        "subtitle": "Każdą regulację przeprowadzamy według naszego sprawdzonego procesu, by zapewnić najlepsze rezultaty.",
         "steps": [
           {
-            "title": "Inspekcja i diagnostyka",
-            "description": "Dokładne badanie stanu okien i identyfikacja potrzeb regulacyjnych",
+            "title": "Inspekcja i diagnoza",
+            "description": "Dokładne sprawdzenie stanu okna i zidentyfikowanie źródła problemu.",
             "icon": "Search",
             "duration": "10-15 minut"
           },
           {
             "title": "Precyzyjna regulacja",
-            "description": "Ekspercka kalibracja wszystkich komponentów okiennych przy użyciu profesjonalnych narzędzi",
+            "description": "Fachowa kalibracja wszystkich elementów okna przy użyciu profesjonalnych narzędzi.",
             "icon": "Settings",
             "duration": "30-45 minut"
           },
           {
             "title": "Testowanie i weryfikacja",
-            "description": "Kompleksowe testowanie wszystkich funkcji zapewniające idealne działanie",
+            "description": "Sprawdzenie wszystkich funkcji okna, aby potwierdzić jego bezbłędne i płynne działanie.",
             "icon": "CheckCircle",
             "duration": "10-15 minut"
           },
           {
             "title": "Gwarancja jakości",
-            "description": "Końcowa inspekcja i dokumentacja gwarancji dla twojego spokoju",
+            "description": "Końcowa kontrola, przekazanie karty gwarancyjnej i porady dotyczące prawidłowej eksploatacji.",
             "icon": "Award",
             "duration": "5-10 minut"
           }
@@ -318,58 +318,58 @@
     "uk": {
       "hero": {
         "title": "Професійне регулювання вікон",
-        "subtitle": "Відновіть плавну роботу ваших вікон за допомогою наших експертних послуг регулювання. Виправте заїдання, протяги та проблеми з вирівнюванням швидко та доступно.",
-        "priceFrom": "Від €45",
+        "subtitle": "Повернемо вашим вікнам плавну роботу. Швидко та доступно усунемо заїдання, протяги та перекоси.",
+        "priceFrom": "Від 450 грн",
         "features": [
-          "Обслуговування в той же день",
-          "5-річна гарантія",
-          "Сертифіковані техніки",
-          "Підтримка всіх типів вікон"
+          "Можливий виїзд майстра в день звернення",
+          "Гарантія до 5 років",
+          "Сертифіковані майстри",
+          "Працюємо з усіма типами вікон"
         ],
-        "emergencyNote": "Екстрена служба доступна 24/7 для термінових проблем з вікнами"
+        "emergencyNote": "Аварійний сервіс 24/7 для термінових випадків з вікнами"
       },
       "serviceDetails": {
-        "title": "Комплексні послуги регулювання вікон",
-        "subtitle": "Наше всебічне обслуговування регулювання охоплює всі аспекти функціональності вікон",
+        "title": "Комплексні послуги з регулювання вікон",
+        "subtitle": "Наш сервіс включає всі необхідні роботи для бездоганної роботи ваших вікон.",
         "services": [
           {
-            "title": "Вирівнювання рами",
-            "description": "Точне регулювання віконних рам для забезпечення правильної посадки та герметичності",
+            "title": "Вирівнювання геометрії",
+            "description": "Точне налаштування рами та стулки для ідеального прилягання та герметичності.",
             "icon": "Square",
             "duration": "30-45 хвилин",
             "warranty": "5 років"
           },
           {
-            "title": "Регулювання фурнітури",
-            "description": "Точне налаштування петель, ручок та замкових механізмів",
+            "title": "Налаштування фурнітури",
+            "description": "Тонке регулювання петель, ручок та запірних механізмів для легкої роботи.",
             "icon": "Settings",
             "duration": "20-30 хвилин",
             "warranty": "5 років"
           },
           {
-            "title": "Оптимізація ущільнення",
-            "description": "Регулювання ущільнювачів та прокладок для максимальної енергоефективності",
+            "title": "Оптимізація притиску",
+            "description": "Регулювання ущільнювачів для максимальної тепло- та звукоізоляції.",
             "icon": "Shield",
             "duration": "15-25 хвилин",
             "warranty": "3 роки"
           },
           {
-            "title": "Механізм відкривання",
-            "description": "Калібрування механізмів відкривання та закривання для плавної роботи",
+            "title": "Налаштування механізмів",
+            "description": "Калібрування механізмів відкривання та закривання для плавної та безшумної роботи.",
             "icon": "RotateCcw",
             "duration": "25-35 хвилин",
             "warranty": "5 років"
           },
           {
             "title": "Усунення протягів",
-            "description": "Виявлення та виправлення витоків повітря та протягів",
+            "description": "Виявлення та повне усунення місць продування для збереження тепла в оселі.",
             "icon": "Wind",
             "duration": "20-30 хвилин",
             "warranty": "3 роки"
           },
           {
-            "title": "Функції безпеки",
-            "description": "Регулювання замків безпеки та механізмів захисту від дітей",
+            "title": "Налаштування безпеки",
+            "description": "Регулювання дитячих замків та протизламних елементів фурнітури.",
             "icon": "Lock",
             "duration": "15-20 хвилин",
             "warranty": "5 років"
@@ -377,30 +377,30 @@
         ]
       },
       "processSteps": {
-        "title": "Наш професійний процес",
-        "subtitle": "Кожне регулювання проходить за нашим перевіреним 4-етапним процесом для оптимальних результатів",
+        "title": "Наш процес роботи",
+        "subtitle": "Ми працюємо за перевіреною 4-етапною системою, що гарантує ідеальний результат.",
         "steps": [
           {
-            "title": "Огляд та діагностика",
-            "description": "Ретельне обстеження стану вікон та виявлення потреб у регулюванні",
+            "title": "Діагностика",
+            "description": "Ретельний огляд вікна, виявлення причин несправності та узгодження плану робіт.",
             "icon": "Search",
             "duration": "10-15 хвилин"
           },
           {
-            "title": "Точне регулювання",
-            "description": "Експертне калібрування всіх віконних компонентів за допомогою професійних інструментів",
+            "title": "Професійне регулювання",
+            "description": "Налаштування всіх елементів віконної конструкції за допомогою професійного інструменту.",
             "icon": "Settings",
             "duration": "30-45 хвилин"
           },
           {
-            "title": "Тестування та перевірка",
-            "description": "Комплексне тестування всіх функцій для забезпечення ідеальної роботи",
+            "title": "Тестування роботи",
+            "description": "Перевірка плавності ходу та роботи вікна у всіх режимах для підтвердження якості.",
             "icon": "CheckCircle",
             "duration": "10-15 хвилин"
           },
           {
             "title": "Гарантія якості",
-            "description": "Фінальний огляд та документація гарантії для вашого спокою",
+            "description": "Фінальна перевірка та оформлення гарантійного талона для вашого спокою.",
             "icon": "Award",
             "duration": "5-10 хвилин"
           }

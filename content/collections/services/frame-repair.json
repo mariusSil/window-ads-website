@@ -134,181 +134,181 @@
     "lt": {
       "hero": {
         "title": "Langų rėmų remontas",
-        "subtitle": "Atkurkite pažeistus langų rėmus iki naujo būvio. Ekspertų medžio, vinilo ir aliuminio rėmų remontas su konstrukciniu sustiprinimu ir kosmetiniu atkūrimu.",
-        "priceFrom": "Nuo €55",
+        "subtitle": "Atkuriame pažeistus langų rėmus, kad atrodytų kaip nauji. Profesionaliai remontuojame medinius, plastikinius ir aliumininius rėmus – sutvirtiname konstrukciją ir atnaujiname išvaizdą.",
+        "priceFrom": "Nuo 55 €",
         "features": [
-          "Konstrukcinis sustiprinimas",
-          "Kosmetinis atkūrimas",
-          "Visi rėmų tipai",
-          "Oro poveikiui atsparūs dangos"
+          "Konstrukcijos sutvirtinimas",
+          "Išvaizdos atnaujinimas",
+          "Visų tipų rėmams",
+          "Atspari danga oro sąlygoms"
         ],
-        "emergencyNote": "Skubūs rėmų stabilizavimo darbai saugumo problemų atveju prieinami nedelsiant"
+        "emergencyNote": "Skubus rėmų stabilizavimas esant pavojui. Atvykstame nedelsiant."
       },
       "serviceDetails": {
-        "title": "Išsamus rėmų atkūrimas",
-        "subtitle": "Ekspertų remonto sprendimai visų tipų rėmų pažeidimams ir medžiagoms",
+        "title": "Pilnas rėmų restauravimas",
+        "subtitle": "Profesionalūs remonto sprendimai visų tipų pažeidimams ir rėmų medžiagoms",
         "services": [
           {
             "title": "Medinių rėmų remontas",
-            "description": "Medinių rėmų atkūrimas įskaitant puvinio remontą ir sustiprinimą",
+            "description": "Medinių rėmų restauravimas, įskaitant puvinio šalinimą ir konstrukcijos stiprinimą.",
             "icon": "TreePine",
-            "duration": "90-150 minučių",
-            "warranty": "5 metai"
+            "duration": "90–150 min.",
+            "warranty": "5 metų garantija"
           },
           {
-            "title": "Vinilo rėmų remontas",
-            "description": "Plyšių remontas, suvirinimas ir pažeistų vinilo sekcijų keitimas",
+            "title": "Plastikinių (PVC) rėmų remontas",
+            "description": "Įtrūkimų taisymas, virinimas ir pažeistų plastikinių dalių keitimas.",
             "icon": "Square",
-            "duration": "60-90 minučių",
-            "warranty": "3 metai"
+            "duration": "60–90 min.",
+            "warranty": "3 metų garantija"
           },
           {
-            "title": "Aliuminio rėmų remontas",
-            "description": "Įdubų šalinimas, korozijos gydymas ir konstrukcinis sustiprinimas",
+            "title": "Aliumininių rėmų remontas",
+            "description": "Įlenkimų tiesinimas, apsauga nuo korozijos ir konstrukcijos sutvirtinimas.",
             "icon": "Hexagon",
-            "duration": "75-120 minučių",
-            "warranty": "7 metai"
+            "duration": "75–120 min.",
+            "warranty": "7 metų garantija"
           },
           {
-            "title": "Išlinkimo taisymas",
-            "description": "Profesionalus išlinkusių rėmų tiesinimas ir suderinimas",
+            "title": "Deformacijų tiesinimas",
+            "description": "Profesionalus išsikraipiusių rėmų tiesinimas ir sureguliavimas.",
             "icon": "Straighten",
-            "duration": "45-75 minutės",
-            "warranty": "2 metai"
+            "duration": "45–75 min.",
+            "warranty": "2 metų garantija"
           },
           {
-            "title": "Plyšių remontas",
-            "description": "Konstrukcinių plyšių užpildymas ir sustiprinimas atitinkančiomis medžiagomis",
+            "title": "Įtrūkimų remontas",
+            "description": "Konstrukcinių įtrūkimų užpildymas ir sutvirtinimas pritaikytomis medžiagomis.",
             "icon": "Zap",
-            "duration": "30-60 minučių",
-            "warranty": "3 metai"
+            "duration": "30–60 min.",
+            "warranty": "3 metų garantija"
           },
           {
-            "title": "Oro sandarinimas",
-            "description": "Visiškas pakartotinis sandarinimas ir oro apsauga po konstrukcinių remontų",
+            "title": "Sandarinimas",
+            "description": "Pilnas rėmų sandarinimas ir apsauga nuo oro sąlygų po konstrukcinio remonto.",
             "icon": "Cloud",
-            "duration": "40-70 minučių",
-            "warranty": "4 metai"
+            "duration": "40–70 min.",
+            "warranty": "4 metų garantija"
           }
         ]
       },
       "processSteps": {
         "title": "Profesionalus remonto procesas",
-        "subtitle": "Sisteminis požiūris konstrukcinio vientisumo ir išvaizdos atkūrimui",
+        "subtitle": "Sistemingas procesas, atkuriantis rėmo tvirtumą ir išvaizdą",
         "steps": [
           {
-            "title": "Pažeidimų vertinimas",
-            "description": "Išsamus konstrukcinių ir kosmetinių pažeidimų įvertinimas",
+            "title": "Pažeidimų įvertinimas",
+            "description": "Išsamus konstrukcinių ir išorinių pažeidimų įvertinimas.",
             "icon": "Search",
-            "duration": "20-30 minučių"
+            "duration": "20–30 min."
           },
           {
-            "title": "Medžiagų paruošimas",
-            "description": "Paviršiaus paruošimas ir atitinkančių remonto medžiagų parinkimas",
+            "title": "Paviršiaus paruošimas",
+            "description": "Paviršiaus paruošimas ir tinkamiausių remonto medžiagų parinkimas.",
             "icon": "Brush",
-            "duration": "25-40 minučių"
+            "duration": "25–40 min."
           },
           {
             "title": "Konstrukcinis remontas",
-            "description": "Ekspertų konstrukcinių problemų remontas su sustiprinimu pagal poreikį",
+            "description": "Profesionalus konstrukcinių problemų sprendimas, esant poreikiui – su papildomu sutvirtinimu.",
             "icon": "Wrench",
-            "duration": "60-120 minučių"
+            "duration": "60–120 min."
           },
           {
             "title": "Apdaila ir apsauga",
-            "description": "Profesionali apdaila su oro poveikiui atspariomis apsauginėmis dangomis",
+            "description": "Profesionali apdaila ir padengimas apsauginėmis, oro sąlygoms atspariomis dangomis.",
             "icon": "Paintbrush",
-            "duration": "30-50 minučių"
+            "duration": "30–50 min."
           }
         ]
       }
     },
     "pl": {
       "hero": {
-        "title": "Naprawa ram okiennych",
-        "subtitle": "Przywróć uszkodzone ramy okienne do stanu jak nowe. Ekspercka naprawa ram drewnianych, winylowych i aluminiowych z wzmocnieniem strukturalnym i renowacją kosmetyczną.",
-        "priceFrom": "Od €55",
+        "title": "Naprawa Ram Okiennych",
+        "subtitle": "Przywracamy uszkodzonym ramom okiennym wygląd i funkcjonalność nowych. Fachowa naprawa ram drewnianych, PCV i aluminiowych, obejmująca wzmocnienie konstrukcji i renowację estetyczną.",
+        "priceFrom": "Już od 250 zł",
         "features": [
-          "Wzmocnienie strukturalne",
-          "Renowacja kosmetyczna",
-          "Wszystkie materiały ram",
-          "Odporne na warunki atmosferyczne wykończenia"
+          "Wzmocnienie konstrukcyjne",
+          "Renowacja estetyczna",
+          "Obsługa wszystkich materiałów",
+          "Wykończenia odporne na warunki atmosferyczne"
         ],
-        "emergencyNote": "Awaryjna stabilizacja ram w przypadku problemów bezpieczeństwa dostępna natychmiast"
+        "emergencyNote": "Pilna stabilizacja ram w sytuacjach zagrażających bezpieczeństwu – interwencja od ręki"
       },
       "serviceDetails": {
-        "title": "Kompleksowa renowacja ram",
-        "subtitle": "Eksperckie rozwiązania naprawcze dla wszystkich typów uszkodzeń ram i materiałów",
+        "title": "Kompleksowa Renowacja Ram Okiennych",
+        "subtitle": "Profesjonalne rozwiązania naprawcze dla każdego rodzaju uszkodzeń i materiału ramy",
         "services": [
           {
-            "title": "Naprawa ram drewnianych",
-            "description": "Renowacja ram drewnianych włączając naprawę gnicia i wzmocnienie",
+            "title": "Naprawa Ram Drewnianych",
+            "description": "Renowacja ram drewnianych, w tym naprawa zgnilizny, ubytków i wzmacnianie konstrukcji.",
             "icon": "TreePine",
             "duration": "90-150 minut",
-            "warranty": "5 lat"
+            "warranty": "5 lat gwarancji"
           },
           {
-            "title": "Naprawa ram winylowych",
-            "description": "Naprawa pęknięć, spawanie i wymiana uszkodzonych sekcji winylowych",
+            "title": "Naprawa Ram PCV",
+            "description": "Naprawa pęknięć, spawanie oraz wymiana uszkodzonych fragmentów ram PCV.",
             "icon": "Square",
             "duration": "60-90 minut",
-            "warranty": "3 lata"
+            "warranty": "3 lata gwarancji"
           },
           {
-            "title": "Naprawa ram aluminiowych",
-            "description": "Usuwanie wgnieceń, leczenie korozji i wzmocnienie strukturalne",
+            "title": "Naprawa Ram Aluminiowych",
+            "description": "Usuwanie wgnieceń, zabezpieczenie antykorozyjne i wzmocnienie konstrukcji.",
             "icon": "Hexagon",
             "duration": "75-120 minut",
-            "warranty": "7 lat"
+            "warranty": "7 lat gwarancji"
           },
           {
-            "title": "Korekta wypaczenia",
-            "description": "Profesjonalne prostowanie i wyrównanie wypaczeń ram",
+            "title": "Korekta Wypaczeń Ramy",
+            "description": "Profesjonalne prostowanie i regulacja wypaczonych ram okiennych.",
             "icon": "Straighten",
             "duration": "45-75 minut",
-            "warranty": "2 lata"
+            "warranty": "2 lata gwarancji"
           },
           {
-            "title": "Naprawa pęknięć",
-            "description": "Wypełnianie pęknięć strukturalnych i wzmocnienie pasującymi materiałami",
+            "title": "Naprawa Pęknięć",
+            "description": "Wypełnianie pęknięć strukturalnych i wzmacnianie przy użyciu dopasowanych materiałów.",
             "icon": "Zap",
             "duration": "30-60 minut",
-            "warranty": "3 lata"
+            "warranty": "3 lata gwarancji"
           },
           {
-            "title": "Uszczelnianie pogodowe",
-            "description": "Kompletne ponowne uszczelnienie i zabezpieczenie pogodowe po naprawach strukturalnych",
+            "title": "Uszczelnianie i Ochrona",
+            "description": "Kompleksowe uszczelnianie i zabezpieczenie przed warunkami atmosferycznymi po naprawie konstrukcji.",
             "icon": "Cloud",
             "duration": "40-70 minut",
-            "warranty": "4 lata"
+            "warranty": "4 lata gwarancji"
           }
         ]
       },
       "processSteps": {
-        "title": "Profesjonalny proces naprawy",
-        "subtitle": "Systematyczne podejście do przywrócenia integralności strukturalnej i wyglądu",
+        "title": "Nasz Profesjonalny Proces Naprawy",
+        "subtitle": "Systematyczne podejście, które przywraca integralność strukturalną i estetyczny wygląd ramy.",
         "steps": [
           {
-            "title": "Ocena uszkodzeń",
-            "description": "Kompleksowa ocena uszkodzeń strukturalnych i kosmetycznych",
+            "title": "Ocena Uszkodzeń",
+            "description": "Dokładna analiza uszkodzeń konstrukcyjnych i estetycznych ramy.",
             "icon": "Search",
             "duration": "20-30 minut"
           },
           {
-            "title": "Przygotowanie materiałów",
-            "description": "Przygotowanie powierzchni i wybór pasujących materiałów naprawczych",
+            "title": "Przygotowanie Powierzchni i Materiałów",
+            "description": "Przygotowanie powierzchni ramy i dobór odpowiednich materiałów naprawczych.",
             "icon": "Brush",
             "duration": "25-40 minut"
           },
           {
-            "title": "Naprawa strukturalna",
-            "description": "Ekspercka naprawa problemów strukturalnych z wzmocnieniem w razie potrzeby",
+            "title": "Naprawa Konstrukcyjna",
+            "description": "Fachowa naprawa problemów konstrukcyjnych, w razie potrzeby z dodatkowym wzmocnieniem.",
             "icon": "Wrench",
             "duration": "60-120 minut"
           },
           {
-            "title": "Wykończenie i ochrona",
-            "description": "Profesjonalne wykończenie z odpornymi na warunki atmosferyczne powłokami ochronnymi",
+            "title": "Wykończenie i Zabezpieczenie",
+            "description": "Profesjonalne wykończenie i nałożenie powłok ochronnych odpornych na warunki atmosferyczne.",
             "icon": "Paintbrush",
             "duration": "30-50 minut"
           }
@@ -318,91 +318,91 @@
     "uk": {
       "hero": {
         "title": "Ремонт віконних рам",
-        "subtitle": "Відновіть пошкоджені віконні рами до стану як нові. Експертний ремонт дерев'яних, вінілових та алюмінієвих рам зі структурним підсиленням та косметичною реставрацією.",
-        "priceFrom": "Від €55",
+        "subtitle": "Відновлюємо пошкоджені рами до стану нових. Професійний ремонт дерев'яних, пластикових та алюмінієвих рам з посиленням конструкції та відновленням зовнішнього вигляду.",
+        "priceFrom": "Від 1500 грн",
         "features": [
-          "Структурне підсилення",
-          "Косметична реставрація",
-          "Всі матеріали рам",
-          "Стійкі до погоди покриття"
+          "Посилення конструкції",
+          "Відновлення вигляду",
+          "Ремонт рам з будь-яких матеріалів",
+          "Стійке до погоди покриття"
         ],
-        "emergencyNote": "Екстрена стабілізація рам при проблемах безпеки доступна негайно"
+        "emergencyNote": "Термінова стабілізація рами у разі загрози безпеці. Виїзд майстра одразу."
       },
       "serviceDetails": {
-        "title": "Комплексна реставрація рам",
-        "subtitle": "Експертні ремонтні рішення для всіх типів пошкоджень рам та матеріалів",
+        "title": "Комплексне відновлення рам",
+        "subtitle": "Професійні рішення для ремонту будь-яких пошкоджень та типів рам",
         "services": [
           {
             "title": "Ремонт дерев'яних рам",
-            "description": "Реставрація дерев'яних рам включаючи ремонт гнилі та підсилення",
+            "description": "Реставрація дерев'яних рам, усунення гниття та посилення конструкції для довговічності.",
             "icon": "TreePine",
-            "duration": "90-150 хвилин",
-            "warranty": "5 років"
+            "duration": "90-150 хв",
+            "warranty": "Гарантія 5 років"
           },
           {
-            "title": "Ремонт вінілових рам",
-            "description": "Ремонт тріщин, зварювання та заміна пошкоджених вінілових секцій",
+            "title": "Ремонт пластикових рам",
+            "description": "Ремонт тріщин, зварювання та заміна пошкоджених елементів пластику (ПВХ).",
             "icon": "Square",
-            "duration": "60-90 хвилин",
-            "warranty": "3 роки"
+            "duration": "60-90 хв",
+            "warranty": "Гарантія 3 роки"
           },
           {
             "title": "Ремонт алюмінієвих рам",
-            "description": "Видалення вм'ятин, лікування корозії та структурне підсилення",
+            "description": "Видалення вм'ятин, обробка від корозії та посилення несучих елементів конструкції.",
             "icon": "Hexagon",
-            "duration": "75-120 хвилин",
-            "warranty": "7 років"
+            "duration": "75-120 хв",
+            "warranty": "Гарантія 7 років"
           },
           {
-            "title": "Виправлення викривлення",
-            "description": "Професійне вирівнювання та центрування викривлених рам",
+            "title": "Виправлення деформації",
+            "description": "Професійне вирівнювання та регулювання геометрії рам, що деформувалися.",
             "icon": "Straighten",
-            "duration": "45-75 хвилин",
-            "warranty": "2 роки"
+            "duration": "45-75 хв",
+            "warranty": "Гарантія 2 роки"
           },
           {
-            "title": "Ремонт тріщин",
-            "description": "Структурне заповнення тріщин та підсилення відповідними матеріалами",
+            "title": "Ремонт тріщин та сколів",
+            "description": "Надійне заповнення та армування тріщин з підбором ідентичних за кольором і фактурою матеріалів.",
             "icon": "Zap",
-            "duration": "30-60 хвилин",
-            "warranty": "3 роки"
+            "duration": "30-60 хв",
+            "warranty": "Гарантія 3 роки"
           },
           {
-            "title": "Погодне ущільнення",
-            "description": "Повне повторне ущільнення та захист від погоди після структурних ремонтів",
+            "title": "Герметизація та утеплення",
+            "description": "Повна герметизація швів та відновлення теплоізоляції після основного ремонту.",
             "icon": "Cloud",
-            "duration": "40-70 хвилин",
-            "warranty": "4 роки"
+            "duration": "40-70 хв",
+            "warranty": "Гарантія 4 роки"
           }
         ]
       },
       "processSteps": {
-        "title": "Професійний процес ремонту",
-        "subtitle": "Систематичний підхід до відновлення структурної цілісності та зовнішнього вигляду",
+        "title": "Як ми працюємо",
+        "subtitle": "Покроковий підхід для відновлення міцності та ідеального вигляду вашої рами",
         "steps": [
           {
-            "title": "Оцінка пошкоджень",
-            "description": "Комплексна оцінка структурних та косметичних пошкоджень",
+            "title": "Діагностика та оцінка",
+            "description": "Детальний огляд для виявлення всіх конструктивних та зовнішніх дефектів.",
             "icon": "Search",
-            "duration": "20-30 хвилин"
+            "duration": "20-30 хв"
           },
           {
-            "title": "Підготовка матеріалів",
-            "description": "Підготовка поверхні та вибір відповідних ремонтних матеріалів",
+            "title": "Підготовка до роботи",
+            "description": "Зачистка поверхні та підбір ремонтних матеріалів, що повністю відповідають оригіналу.",
             "icon": "Brush",
-            "duration": "25-40 хвилин"
+            "duration": "25-40 хв"
           },
           {
-            "title": "Структурний ремонт",
-            "description": "Експертний ремонт структурних проблем з підсиленням за потреби",
+            "title": "Основний ремонт",
+            "description": "Професійне усунення пошкоджень, за потреби — з додатковим посиленням конструкції.",
             "icon": "Wrench",
-            "duration": "60-120 хвилин"
+            "duration": "60-120 хв"
           },
           {
-            "title": "Оздоблення та захист",
-            "description": "Професійне оздоблення зі стійкими до погоди захисними покриттями",
+            "title": "Фінішна обробка та захист",
+            "description": "Нанесення захисного покриття, стійкого до погодних умов, для максимальної довговічності.",
             "icon": "Paintbrush",
-            "duration": "30-50 хвилин"
+            "duration": "30-50 хв"
           }
         ]
       }

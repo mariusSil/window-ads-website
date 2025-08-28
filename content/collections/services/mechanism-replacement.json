@@ -134,150 +134,150 @@
     "lt": {
       "hero": {
         "title": "Langų mechanizmų keitimas",
-        "subtitle": "Pakeiskite sugedusias rankenas, lankstus, spynas ir atidarymo mechanizmus originalių gamintojų dalimis. Atkurkite visą langų funkcionalumą.",
-        "priceFrom": "Nuo €65",
+        "subtitle": "Keičiame sugedusias rankenas, vyrius, spynas ir varstymo mechanizmus originaliomis gamintojo dalimis. Atkursime pilną jūsų langų funkcionalumą.",
+        "priceFrom": "Nuo 65 €",
         "features": [
-          "Originalių gamintojų dalys",
+          "Originalios gamintojo dalys",
           "5 metų garantija dalims",
-          "Ekspertų montavimas",
-          "Palaikomi visi langų ženklai"
+          "Profesionalus montavimas",
+          "Dirbame su visų gamintojų langais"
         ],
-        "emergencyNote": "Skubaus mechanizmų keitimo paslauga saugumo problemų atveju prieinama 24/7"
+        "emergencyNote": "Skubus mechanizmų keitimas dėl saugumo problemų – visą parą (24/7)."
       },
       "serviceDetails": {
-        "title": "Išsamios mechanizmų keitimo paslaugos",
-        "subtitle": "Keičiame visų tipų langų mechanizmus tiksliai ir rūpestingai",
+        "title": "Visos langų mechanizmų keitimo paslaugos",
+        "subtitle": "Kruopščiai ir tiksliai keičiame visų tipų langų mechanizmus.",
         "services": [
           {
             "title": "Rankenų keitimas",
-            "description": "Aukštos kokybės langų rankenos su sklandžiu veikimu ir saugumo funkcijomis",
+            "description": "Aukštos kokybės langų rankenos, užtikrinančios sklandų varstymą ir saugumą.",
             "icon": "RotateCcw",
-            "duration": "15-25 minutės",
+            "duration": "15–25 min.",
             "warranty": "5 metai"
           },
           {
-            "title": "Lankstų sistemos",
-            "description": "Ilgaamžių lankstų keitimas atidaromiems ir pasukamo-atlenkiamo tipo langams",
+            "title": "Vyrių keitimas",
+            "description": "Patvarių vyrių keitimas atidaromiems ir atverčiamiems-atidaromiems langams.",
             "icon": "Scissors",
-            "duration": "45-60 minučių",
+            "duration": "45–60 min.",
             "warranty": "5 metai"
           },
           {
-            "title": "Spynų mechanizmai",
-            "description": "Daugiataškės užrakto sistemos sustiprintam saugumui ir oro sandarumui",
+            "title": "Užraktų mechanizmų keitimas",
+            "description": "Daugiataškės rakinimo sistemos didesniam saugumui ir geresniam sandarumui.",
             "icon": "Lock",
-            "duration": "30-45 minutės",
+            "duration": "30–45 min.",
             "warranty": "5 metai"
           },
           {
-            "title": "Slydimo mechanizmai",
-            "description": "Sklandžiai veikiantys bėgiai ir ratukų sistemos slankiamiems langams",
+            "title": "Slankiojančių sistemų keitimas",
+            "description": "Sklandžiai veikiantys bėgeliai ir ratukai stumdomiems langams.",
             "icon": "ArrowLeftRight",
-            "duration": "40-55 minutės",
+            "duration": "40–55 min.",
             "warranty": "5 metai"
           },
           {
-            "title": "Atlenkimo mechanizmai",
-            "description": "Tikslūs atlenkimo mechanizmai vėdinimui ir valymui",
+            "title": "Atvertimo mechanizmų keitimas",
+            "description": "Tiksli atvertimo furnitūra patogiam vėdinimui ir langų valymui.",
             "icon": "RotateCw",
-            "duration": "35-50 minučių",
+            "duration": "35–50 min.",
             "warranty": "5 metai"
           },
           {
-            "title": "Atramų mechanizmai",
-            "description": "Langų atramos ir trinties lankstai kontroliuojamam atidarymui",
+            "title": "Atidarymo ribotuvų keitimas",
+            "description": "Langų atidarymo ribotuvai ir frikciniai vyriai kontroliuojamam atidarymui.",
             "icon": "Minus",
-            "duration": "20-30 minučių",
+            "duration": "20–30 min.",
             "warranty": "5 metai"
           }
         ]
       },
       "processSteps": {
-        "title": "Ekspertų montavimo procesas",
-        "subtitle": "Mūsų sertifikuoti specialistai laikosi gamintojų specifikacijų tobulam rezultatui",
+        "title": "Profesionalus montavimo procesas",
+        "subtitle": "Mūsų sertifikuoti meistrai dirba pagal gamintojo specifikacijas, kad užtikrintų nepriekaištingą rezultatą.",
         "steps": [
           {
-            "title": "Mechanizmų vertinimas",
-            "description": "Išsamus esamų mechanizmų įvertinimas ir suderinamumo patikrinimas",
+            "title": "Mechanizmo įvertinimas",
+            "description": "Kruopštus esamo mechanizmo įvertinimas ir suderinamumo patikra.",
             "icon": "Search",
-            "duration": "15-20 minučių"
+            "duration": "15–20 min."
           },
           {
             "title": "Tikslus išmontavimas",
-            "description": "Atsargus senų mechanizmų išmontavimas nepažeidžiant rėmo",
+            "description": "Atsargus seno mechanizmo išmontavimas nepažeidžiant lango rėmo.",
             "icon": "Wrench",
-            "duration": "20-30 minučių"
+            "duration": "20–30 min."
           },
           {
             "title": "Profesionalus montavimas",
-            "description": "Ekspertų atliekamas naujų mechanizmų montavimas su tinkamu suderinimu ir reguliavimu",
+            "description": "Naujo mechanizmo montavimas, tikslus sureguliavimas ir derinimas.",
             "icon": "Settings",
-            "duration": "30-45 minutės"
+            "duration": "30–45 min."
           },
           {
-            "title": "Funkcijų testavimas",
-            "description": "Išsamus visų operacijų ir saugumo funkcijų testavimas",
+            "title": "Funkcionalumo patikra",
+            "description": "Išsamus visų varstymo funkcijų ir saugumo elementų testavimas.",
             "icon": "CheckCircle",
-            "duration": "10-15 minučių"
+            "duration": "10–15 min."
           }
         ]
       }
     },
     "pl": {
       "hero": {
-        "title": "Wymiana mechanizmów okiennych",
-        "subtitle": "Wymień uszkodzone klamki, zawiasy, zamki i mechanizmy otwierające na oryginalne części producenta. Przywróć pełną funkcjonalność swoim oknom.",
-        "priceFrom": "Od €65",
+        "title": "Wymiana okuć okiennych",
+        "subtitle": "Wymieniamy uszkodzone klamki, zawiasy, zamki i mechanizmy otwierania na oryginalne części producenta. Przywróć pełną sprawność i bezpieczeństwo swoim oknom.",
+        "priceFrom": "Już od 65 zł",
         "features": [
-          "Oryginalne części producenta",
-          "5-letnia gwarancja na części",
-          "Ekspercki montaż",
-          "Wszystkie marki okien obsługiwane"
+          "Oryginalne części producentów",
+          "5 lat gwarancji na części",
+          "Profesjonalny montaż",
+          "Obsługa okien wszystkich marek"
         ],
-        "emergencyNote": "Awaryjna wymiana mechanizmów w przypadku problemów z bezpieczeństwem dostępna 24/7"
+        "emergencyNote": "Pogotowie okienne 24/7 w nagłych przypadkach awarii zagrażających bezpieczeństwu."
       },
       "serviceDetails": {
-        "title": "Kompleksowe usługi wymiany mechanizmów",
-        "subtitle": "Wymieniamy wszystkie typy mechanizmów okiennych z precyzją i starannością",
+        "title": "Kompleksowe usługi wymiany okuć",
+        "subtitle": "Precyzyjnie i z dbałością o szczegóły wymieniamy wszystkie rodzaje mechanizmów okiennych.",
         "services": [
           {
             "title": "Wymiana klamek",
-            "description": "Wysokiej jakości klamki okienne z płynnym działaniem i funkcjami bezpieczeństwa",
+            "description": "Wysokiej jakości klamki okienne z zabezpieczeniami, zapewniające płynną i lekką pracę.",
             "icon": "RotateCcw",
             "duration": "15-25 minut",
             "warranty": "5 lat"
           },
           {
-            "title": "Systemy zawiasów",
-            "description": "Trwała wymiana zawiasów dla okien rozwierno-uchylnych",
+            "title": "Wymiana zawiasów",
+            "description": "Montaż wytrzymałych zawiasów do okien rozwiernych i uchylno-rozwiernych.",
             "icon": "Scissors",
             "duration": "45-60 minut",
             "warranty": "5 lat"
           },
           {
-            "title": "Mechanizmy zamków",
-            "description": "Wielopunktowe systemy zamykające dla zwiększonego bezpieczeństwa i uszczelnienia",
+            "title": "Mechanizmy zamykające",
+            "description": "Wielopunktowe zasuwnice zapewniające wyższy poziom bezpieczeństwa i doskonałą szczelność.",
             "icon": "Lock",
             "duration": "30-45 minut",
             "warranty": "5 lat"
           },
           {
             "title": "Mechanizmy przesuwne",
-            "description": "Płynnie działające prowadnice i rolki dla okien przesuwnych",
+            "description": "Płynnie działające wózki jezdne i szyny do okien oraz drzwi przesuwnych (tarasowych).",
             "icon": "ArrowLeftRight",
             "duration": "40-55 minut",
             "warranty": "5 lat"
           },
           {
             "title": "Mechanizmy uchylne",
-            "description": "Precyzyjne okucia uchylne do wentylacji i dostępu do czyszczenia",
+            "description": "Precyzyjne okucia uchylne (nożyce) umożliwiające swobodną wentylację i łatwe mycie okien.",
             "icon": "RotateCw",
             "duration": "35-50 minut",
             "warranty": "5 lat"
           },
           {
-            "title": "Ramiona podtrzymujące",
-            "description": "Ramiona podtrzymujące okna i zawiasy ciernie do kontrolowanego otwierania",
+            "title": "Ograniczniki rozwarcia",
+            "description": "Ograniczniki i rozwórki cierne pozwalające na bezpieczne i kontrolowane otwarcie okna.",
             "icon": "Minus",
             "duration": "20-30 minut",
             "warranty": "5 lat"
@@ -285,30 +285,30 @@
         ]
       },
       "processSteps": {
-        "title": "Ekspercki proces montażu",
-        "subtitle": "Nasi certyfikowani technicy przestrzegają specyfikacji producenta dla idealnych rezultatów",
+        "title": "Nasz profesjonalny proces montażu",
+        "subtitle": "Nasi certyfikowani technicy pracują zgodnie ze specyfikacją producenta, gwarantując doskonały efekt.",
         "steps": [
           {
-            "title": "Ocena mechanizmów",
-            "description": "Dokładna ocena istniejących mechanizmów i sprawdzenie kompatybilności",
+            "title": "Ocena stanu okuć",
+            "description": "Dokładna diagnoza uszkodzonych mechanizmów i weryfikacja kompatybilności nowych części.",
             "icon": "Search",
             "duration": "15-20 minut"
           },
           {
-            "title": "Precyzyjne usunięcie",
-            "description": "Ostrożne usunięcie starych mechanizmów bez uszkodzenia ramy",
+            "title": "Precyzyjny demontaż",
+            "description": "Ostrożne usunięcie starych okuć bez ryzyka uszkodzenia ramy czy skrzydła okiennego.",
             "icon": "Wrench",
             "duration": "20-30 minut"
           },
           {
             "title": "Profesjonalny montaż",
-            "description": "Eksperckie dopasowanie nowych mechanizmów z odpowiednim wyrównaniem i regulacją",
+            "description": "Fachowe osadzenie nowych mechanizmów, ich prawidłowe ustawienie oraz finalna regulacja.",
             "icon": "Settings",
             "duration": "30-45 minut"
           },
           {
-            "title": "Testowanie funkcji",
-            "description": "Kompleksowe testowanie wszystkich operacji i funkcji bezpieczeństwa",
+            "title": "Testowanie działania",
+            "description": "Sprawdzenie wszystkich funkcji, płynności pracy oraz zabezpieczeń po zakończeniu montażu.",
             "icon": "CheckCircle",
             "duration": "10-15 minut"
           }
@@ -317,59 +317,59 @@
     },
     "uk": {
       "hero": {
-        "title": "Заміна віконних механізмів",
-        "subtitle": "Замініть несправні ручки, петлі, замки та механізми відкривання на оригінальні деталі виробника. Відновіть повну функціональність ваших вікон.",
-        "priceFrom": "Від €65",
+        "title": "Заміна віконної фурнітури",
+        "subtitle": "Замінимо несправні ручки, завіси, замки та механізми відкривання на оригінальні деталі від виробника. Повернемо вашим вікнам повну функціональність.",
+        "priceFrom": "Від 65 €",
         "features": [
-          "Оригінальні деталі виробника",
-          "5-річна гарантія на деталі",
-          "Експертне встановлення",
-          "Підтримка всіх брендів вікон"
+          "Оригінальні запчастини від виробника",
+          "Гарантія на деталі 5 років",
+          "Професійний монтаж",
+          "Працюємо з вікнами всіх марок"
         ],
-        "emergencyNote": "Екстрена заміна механізмів при проблемах безпеки доступна 24/7"
+        "emergencyNote": "Термінова заміна фурнітури для відновлення безпеки. Працюємо 24/7."
       },
       "serviceDetails": {
-        "title": "Комплексні послуги заміни механізмів",
-        "subtitle": "Ми замінюємо всі типи віконних механізмів з точністю та обережністю",
+        "title": "Комплексні послуги із заміни фурнітури",
+        "subtitle": "Виконуємо точну та дбайливу заміну всіх типів віконних механізмів",
         "services": [
           {
             "title": "Заміна ручок",
-            "description": "Високоякісні віконні ручки з плавною роботою та функціями безпеки",
+            "description": "Якісні віконні ручки з плавним ходом та функціями безпеки.",
             "icon": "RotateCcw",
             "duration": "15-25 хвилин",
             "warranty": "5 років"
           },
           {
-            "title": "Системи петель",
-            "description": "Довговічна заміна петель для поворотно-відкидних вікон",
+            "title": "Заміна завіс (петель)",
+            "description": "Заміна довговічних завіс для поворотних та поворотно-відкидних вікон.",
             "icon": "Scissors",
             "duration": "45-60 хвилин",
             "warranty": "5 років"
           },
           {
-            "title": "Замкові механізми",
-            "description": "Багатоточкові системи замикання для підвищеної безпеки та герметичності",
+            "title": "Заміна запірних механізмів",
+            "description": "Багатоточкові системи замикання для підвищеної безпеки та герметичності.",
             "icon": "Lock",
             "duration": "30-45 хвилин",
             "warranty": "5 років"
           },
           {
-            "title": "Розсувні механізми",
-            "description": "Плавно працюючі направляючі та ролики для розсувних вікон",
+            "title": "Заміна розсувних механізмів",
+            "description": "Плавні напрямні та ролики для розсувних вікон.",
             "icon": "ArrowLeftRight",
             "duration": "40-55 хвилин",
             "warranty": "5 років"
           },
           {
-            "title": "Механізми нахилу",
-            "description": "Точна фурнітура нахилу для вентиляції та доступу до очищення",
+            "title": "Заміна відкидних механізмів",
+            "description": "Точна фурнітура для провітрювання та зручного доступу для миття вікон.",
             "icon": "RotateCw",
             "duration": "35-50 хвилин",
             "warranty": "5 років"
           },
           {
-            "title": "Підтримуючі важелі",
-            "description": "Віконні підтримуючі важелі та фрикційні петлі для контрольованого відкривання",
+            "title": "Заміна обмежувачів відкривання",
+            "description": "Обмежувачі («гребінки») та фрикційні завіси для контрольованого відкривання.",
             "icon": "Minus",
             "duration": "20-30 хвилин",
             "warranty": "5 років"
@@ -377,30 +377,30 @@
         ]
       },
       "processSteps": {
-        "title": "Експертний процес встановлення",
-        "subtitle": "Наші сертифіковані техніки дотримуються специфікацій виробника для ідеальних результатів",
+        "title": "Наш процес професійного монтажу",
+        "subtitle": "Наші сертифіковані майстри дотримуються рекомендацій виробника для ідеального результату.",
         "steps": [
           {
-            "title": "Оцінка механізмів",
-            "description": "Ретельна оцінка існуючих механізмів та перевірка сумісності",
+            "title": "Діагностика фурнітури",
+            "description": "Ретельна оцінка стану існуючої фурнітури та перевірка сумісності.",
             "icon": "Search",
             "duration": "15-20 хвилин"
           },
           {
-            "title": "Точне видалення",
-            "description": "Обережне видалення старих механізмів без пошкодження рами",
+            "title": "Акуратний демонтаж",
+            "description": "Дбайливе зняття старих механізмів без пошкодження віконної рами.",
             "icon": "Wrench",
             "duration": "20-30 хвилин"
           },
           {
-            "title": "Професійне встановлення",
-            "description": "Експертне встановлення нових механізмів з правильним вирівнюванням та регулюванням",
+            "title": "Професійний монтаж",
+            "description": "Експертне встановлення нової фурнітури з точним вирівнюванням та налаштуванням.",
             "icon": "Settings",
             "duration": "30-45 хвилин"
           },
           {
-            "title": "Тестування функцій",
-            "description": "Комплексне тестування всіх операцій та функцій безпеки",
+            "title": "Перевірка та тестування",
+            "description": "Комплексна перевірка роботи всіх режимів та функцій безпеки.",
             "icon": "CheckCircle",
             "duration": "10-15 хвилин"
           }
