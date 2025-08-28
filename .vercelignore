@@ -1,0 +1,15 @@
+# Vercel ignore file to prevent build issues
+node_modules/
+.next/
+.env*
+.DS_Store
+*.log
+yarn-error.log*
+npm-debug.log*
+.nyc_output
+coverage/
+docs/
+scripts/
+content-translation-output/
+*.md
+!README.md

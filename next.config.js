@@ -14,11 +14,39 @@ const nextConfig = {
   // Bundle optimization and compression
   experimental: {
     gzipSize: true,
-    webpackBuildWorker: true,
+    webpackBuildWorker: false, // Disable to prevent stack overflow
     optimizePackageImports: ['lucide-react', '@radix-ui/react-dialog', '@radix-ui/react-select'],
   },
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
+  },
+  
+  // Webpack configuration to prevent stack overflow
+  webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
+    // Only apply optimizations in production to avoid dev issues
+    if (!dev) {
+      config.optimization = {
+        ...config.optimization,
+        splitChunks: {
+          chunks: 'all',
+          cacheGroups: {
+            default: {
+              minChunks: 2,
+              priority: -20,
+              reuseExistingChunk: true,
+            },
+            vendor: {
+              test: /[\\/]node_modules[\\/]/,
+              name: 'vendors',
+              priority: -10,
+              chunks: 'all',
+            },
+          },
+        },
+      };
+    }
+
+    return config;
   },
   
   images: {
