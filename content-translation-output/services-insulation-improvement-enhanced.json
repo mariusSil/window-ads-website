@@ -1,0 +1,441 @@
+{
+  "itemId": "insulation-improvement",
+  "collection": "services",
+  "template": "service-item",
+  "slugs": {
+    "en": "insulation-improvement",
+    "lt": "izoliacijos-gerinimas",
+    "pl": "poprawa-izolacji",
+    "uk": "pokrashchennya-izolyatsiyi"
+  },
+  "seo": {
+    "en": {
+      "title": "Window Insulation Improvement | From €45 | Energy Efficiency",
+      "description": "Professional window insulation upgrade services. Reduce energy costs, eliminate drafts, improve comfort. Weather stripping, sealing, thermal efficiency.",
+      "keywords": "window insulation, energy efficiency, draft sealing, weather stripping, thermal improvement",
+      "ogImage": "/images/professional-tools.webp",
+      "ogImageAlt": "Professional window insulation improvement service"
+    },
+    "lt": {
+      "title": "Langų izoliacijos gerinimas | Nuo €45 | Energijos efektyvumas",
+      "description": "Profesionalios langų izoliacijos gerinimo paslaugos. Sumažinkite energijos sąnaudas, pašalinkite vėjų pūtimą, pagerinkite komfortą.",
+      "keywords": "langų izoliacija, energijos efektyvumas, vėjų sandarinimas, oro tarpinės, šiluminė izoliacija",
+      "ogImage": "/images/smart-windows-og.webp",
+      "ogImageAlt": "Profesionalus langų izoliacijos gerinimo aptarnavimas"
+    },
+    "pl": {
+      "title": "Poprawa izolacji okien | Od €45 | Efektywność energetyczna",
+      "description": "Profesjonalne usługi poprawy izolacji okien. Zmniejsz koszty energii, wyeliminuj przeciągi, popraw komfort.",
+      "keywords": "izolacja okien, efektywność energetyczna, uszczelnianie przeciągów, uszczelki pogodowe, poprawa termiczna",
+      "ogImage": "/images/smart-windows-og.webp",
+      "ogImageAlt": "Profesjonalny serwis poprawy izolacji okien"
+    },
+    "uk": {
+      "title": "Покращення ізоляції вікон | Від €45 | Енергоефективність",
+      "description": "Професійні послуги покращення ізоляції вікон. Зменшіть витрати на енергію, усуньте протяги, покращте комфорт.",
+      "keywords": "ізоляція вікон, енергоефективність, герметизація протягів, ущільнювачі, теплова ізоляція",
+      "ogImage": "/images/weather-seals.webp",
+      "ogImageAlt": "Професійне обслуговування покращення ізоляції вікон"
+    }
+  },
+  "content": {
+    "en": {
+      "hero": {
+        "title": "Window Insulation Improvement",
+        "subtitle": "Upgrade your window insulation to reduce energy costs by up to 30%. Professional sealing, weather stripping, and thermal efficiency improvements.",
+        "priceFrom": "From €45",
+        "features": [
+          "Up to 30% energy savings",
+          "Professional weather sealing",
+          "Draft elimination guarantee",
+          "Improved thermal comfort"
+        ],
+        "emergencyNote": "Emergency insulation repairs for extreme weather conditions available"
+      },
+      "serviceDetails": {
+        "title": "Complete Insulation Solutions",
+        "subtitle": "Comprehensive services to maximize your window's thermal performance",
+        "services": [
+          {
+            "title": "Weather Stripping",
+            "description": "High-performance sealing strips to eliminate air leaks and drafts",
+            "icon": "Wind",
+            "duration": "30-45 minutes",
+            "warranty": "3 years"
+          },
+          {
+            "title": "Frame Sealing",
+            "description": "Professional caulking and sealing around window frames",
+            "icon": "Square",
+            "duration": "45-60 minutes",
+            "warranty": "5 years"
+          },
+          {
+            "title": "Glass Sealing",
+            "description": "Advanced glazing compounds for optimal thermal barrier",
+            "icon": "Eye",
+            "duration": "20-35 minutes",
+            "warranty": "4 years"
+          },
+          {
+            "title": "Thermal Barriers",
+            "description": "Installation of thermal break materials for enhanced insulation",
+            "icon": "Shield",
+            "duration": "60-90 minutes",
+            "warranty": "7 years"
+          },
+          {
+            "title": "Draft Proofing",
+            "description": "Complete draft elimination with professional-grade materials",
+            "icon": "Zap",
+            "duration": "40-55 minutes",
+            "warranty": "3 years"
+          },
+          {
+            "title": "Energy Assessment",
+            "description": "Thermal imaging analysis and efficiency recommendations",
+            "icon": "Thermometer",
+            "duration": "25-40 minutes",
+            "warranty": "Report included"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Professional Insulation Process",
+        "subtitle": "Systematic approach to maximize energy efficiency and comfort",
+        "steps": [
+          {
+            "title": "Thermal Assessment",
+            "description": "Comprehensive evaluation using thermal imaging to identify heat loss areas",
+            "icon": "Search",
+            "duration": "20-30 minutes"
+          },
+          {
+            "title": "Preparation & Cleaning",
+            "description": "Thorough cleaning and preparation of all sealing surfaces",
+            "icon": "Brush",
+            "duration": "15-25 minutes"
+          },
+          {
+            "title": "Professional Installation",
+            "description": "Expert application of insulation materials and sealing systems",
+            "icon": "Settings",
+            "duration": "45-75 minutes"
+          },
+          {
+            "title": "Performance Verification",
+            "description": "Final thermal testing to confirm improved efficiency",
+            "icon": "CheckCircle",
+            "duration": "15-20 minutes"
+          }
+        ]
+      }
+    },
+    "lt": {
+      "hero": {
+        "title": "Langų sandarumo gerinimas",
+        "subtitle": "Atnaujinkite savo langų sandarumą ir sumažinkite šildymo išlaidas iki 30 %. Profesionalus sandarinimas, tarpinių keitimas ir šiluminės varžos didinimas.",
+        "priceFrom": "Nuo 45 €",
+        "features": [
+          "Iki 30 % mažesnės šildymo sąskaitos",
+          "Profesionalus langų sandarinimas",
+          "Garantija, kad neliks skersvėjų",
+          "Didesnis šiluminis komfortas namuose"
+        ],
+        "emergencyNote": "Atliekame skubų sandarinimo remontą esant atšiaurioms oro sąlygoms"
+      },
+      "serviceDetails": {
+        "title": "Išsamūs langų sandarinimo sprendimai",
+        "subtitle": "Visapusiškos paslaugos, siekiant maksimaliai padidinti jūsų langų šiluminę varžą",
+        "services": [
+          {
+            "title": "Tarpinių keitimas",
+            "description": "Aukštos kokybės sandarinimo tarpinės, panaikinančios oro pralaidumą ir skersvėjus.",
+            "icon": "Wind",
+            "duration": "30–45 min.",
+            "warranty": "3 metų garantija"
+          },
+          {
+            "title": "Rėmų sandarinimas",
+            "description": "Profesionalus tarpų aplink lango rėmą užpildymas specialiu sandarikliu.",
+            "icon": "Square",
+            "duration": "45–60 min.",
+            "warranty": "5 metų garantija"
+          },
+          {
+            "title": "Stiklo paketo sandarinimas",
+            "description": "Modernūs stiklo sandarikliai optimaliam šilumos barjerui sukurti.",
+            "icon": "Eye",
+            "duration": "20–35 min.",
+            "warranty": "4 metų garantija"
+          },
+          {
+            "title": "Termoizoliaciniai barjerai",
+            "description": "Specialių termoizoliacinių medžiagų montavimas geresnei šilumos izoliacijai.",
+            "icon": "Shield",
+            "duration": "60–90 min.",
+            "warranty": "7 metų garantija"
+          },
+          {
+            "title": "Apsauga nuo skersvėjų",
+            "description": "Visiškas skersvėjų pašalinimas naudojant profesionalias, ilgaamžes medžiagas.",
+            "icon": "Zap",
+            "duration": "40–55 min.",
+            "warranty": "3 metų garantija"
+          },
+          {
+            "title": "Energinis vertinimas",
+            "description": "Termovizinis tyrimas šilumos nuostoliams nustatyti ir efektyvumo rekomendacijos.",
+            "icon": "Thermometer",
+            "duration": "25–40 min.",
+            "warranty": "Pateikiama ataskaita"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Mūsų profesionalus sandarinimo procesas",
+        "subtitle": "Sistemingas procesas, užtikrinantis maksimalų energinį efektyvumą ir jūsų komfortą",
+        "steps": [
+          {
+            "title": "Termovizinis įvertinimas",
+            "description": "Išsamus įvertinimas termovizoriumi, siekiant tiksliai nustatyti šilumos praradimo vietas.",
+            "icon": "Search",
+            "duration": "20–30 min."
+          },
+          {
+            "title": "Paviršių paruošimas",
+            "description": "Kruopštus visų sandarinamų paviršių nuvalymas ir paruošimas darbams.",
+            "icon": "Brush",
+            "duration": "15–25 min."
+          },
+          {
+            "title": "Sandarinimo darbai",
+            "description": "Meistriškas sandarinimo medžiagų ir sistemų pritaikymas ilgaamžiam rezultatui.",
+            "icon": "Settings",
+            "duration": "45–75 min."
+          },
+          {
+            "title": "Rezultatų patikra",
+            "description": "Galutinis termovizinis testas, patvirtinantis atliktų darbų efektyvumą ir sandarumą.",
+            "icon": "CheckCircle",
+            "duration": "15–20 min."
+          }
+        ]
+      }
+    },
+    "pl": {
+      "hero": {
+        "title": "Profesjonalne Uszczelnianie Okien",
+        "subtitle": "Zmniejsz koszty ogrzewania nawet o 30%. Oferujemy profesjonalne uszczelnianie, montaż uszczelek i poprawę izolacyjności termicznej Twoich okien.",
+        "priceFrom": "Już od 45 €",
+        "features": [
+          "Oszczędność energii do 30%",
+          "Profesjonalne uszczelnienie",
+          "Gwarancja eliminacji przeciągów",
+          "Wyższy komfort cieplny"
+        ],
+        "emergencyNote": "Dostępne pogotowie okienne – pilne naprawy izolacji w trudnych warunkach pogodowych"
+      },
+      "serviceDetails": {
+        "title": "Kompleksowe Usługi Izolacyjne",
+        "subtitle": "Pełen zakres usług, aby zmaksymalizować wydajność termiczną Twoich okien",
+        "services": [
+          {
+            "title": "Wymiana i Montaż Uszczelek",
+            "description": "Montaż wysokiej jakości uszczelek eliminujących nieszczelności i przeciągi.",
+            "icon": "Wind",
+            "duration": "30-45 minut",
+            "warranty": "3 lata gwarancji"
+          },
+          {
+            "title": "Uszczelnianie Ram Okiennych",
+            "description": "Profesjonalne uszczelnianie połączeń ramy z murem przy użyciu mas uszczelniających.",
+            "icon": "Square",
+            "duration": "45-60 minut",
+            "warranty": "5 lat gwarancji"
+          },
+          {
+            "title": "Uszczelnianie Przyszybowe",
+            "description": "Aplikacja nowoczesnych mas szklarskich dla optymalnej bariery termicznej.",
+            "icon": "Eye",
+            "duration": "20-35 minut",
+            "warranty": "4 lata gwarancji"
+          },
+          {
+            "title": "Montaż Barier Termicznych",
+            "description": "Instalacja materiałów z przekładką termiczną dla lepszej izolacji.",
+            "icon": "Shield",
+            "duration": "60-90 minut",
+            "warranty": "7 lat gwarancji"
+          },
+          {
+            "title": "Likwidacja Przeciągów",
+            "description": "Całkowita eliminacja nieszczelności z użyciem profesjonalnych materiałów.",
+            "icon": "Zap",
+            "duration": "40-55 minut",
+            "warranty": "3 lata gwarancji"
+          },
+          {
+            "title": "Audyt Energetyczny Okien",
+            "description": "Analiza termowizyjna i zalecenia dotyczące poprawy efektywności.",
+            "icon": "Thermometer",
+            "duration": "25-40 minut",
+            "warranty": "Raport w cenie usługi"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Nasz Proces Uszczelniania Okien",
+        "subtitle": "Krok po kroku do maksymalnej oszczędności energii i komfortu w Twoim domu",
+        "steps": [
+          {
+            "title": "Ocena Termowizyjna",
+            "description": "Dokładna analiza kamerą termowizyjną w celu zlokalizowania mostków cieplnych.",
+            "icon": "Search",
+            "duration": "20-30 minut"
+          },
+          {
+            "title": "Przygotowanie i Czyszczenie",
+            "description": "Staranne oczyszczenie i przygotowanie wszystkich uszczelnianych powierzchni.",
+            "icon": "Brush",
+            "duration": "15-25 minut"
+          },
+          {
+            "title": "Profesjonalny Montaż",
+            "description": "Fachowa aplikacja materiałów izolacyjnych i systemów uszczelniających.",
+            "icon": "Settings",
+            "duration": "45-75 minut"
+          },
+          {
+            "title": "Weryfikacja Efektów",
+            "description": "Końcowe badanie termowizyjne potwierdzające poprawę izolacyjności.",
+            "icon": "CheckCircle",
+            "duration": "15-20 minut"
+          }
+        ]
+      }
+    },
+    "uk": {
+      "hero": {
+        "title": "Покращення теплоізоляції вікон",
+        "subtitle": "Модернізуйте утеплення ваших вікон та зменште витрати на опалення до 30%. Професійна герметизація, ущільнення та підвищення енергоефективності.",
+        "priceFrom": "Від 45 €",
+        "features": [
+          "Економія на опаленні до 30%",
+          "Професійна герметизація",
+          "Гарантія відсутності протягів",
+          "Покращений тепловий комфорт"
+        ],
+        "emergencyNote": "Виконуємо терміновий ремонт утеплення за екстремальних погодних умов"
+      },
+      "serviceDetails": {
+        "title": "Комплексні рішення з утеплення",
+        "subtitle": "Повний спектр послуг для максимальної теплоефективності ваших вікон",
+        "services": [
+          {
+            "title": "Заміна ущільнювача",
+            "description": "Встановлення високоефективних ущільнювачів для усунення протягів та продувань.",
+            "icon": "Wind",
+            "duration": "30-45 хвилин",
+            "warranty": "3 роки"
+          },
+          {
+            "title": "Герметизація рами",
+            "description": "Професійна герметизація швів та стиків навколо віконної рами.",
+            "icon": "Square",
+            "duration": "45-60 хвилин",
+            "warranty": "5 років"
+          },
+          {
+            "title": "Герметизація склопакета",
+            "description": "Використання сучасних герметиків для створення надійного теплового бар'єру.",
+            "icon": "Eye",
+            "duration": "20-35 хвилин",
+            "warranty": "4 роки"
+          },
+          {
+            "title": "Створення теплових бар'єрів",
+            "description": "Монтаж матеріалів з низькою теплопровідністю для посилення ізоляції.",
+            "icon": "Shield",
+            "duration": "60-90 хвилин",
+            "warranty": "7 років"
+          },
+          {
+            "title": "Захист від протягів",
+            "description": "Повне усунення протягів з використанням професійних матеріалів.",
+            "icon": "Zap",
+            "duration": "40-55 хвилин",
+            "warranty": "3 роки"
+          },
+          {
+            "title": "Енергоаудит вікон",
+            "description": "Аналіз тепловтрат за допомогою тепловізора та рекомендації щодо підвищення ефективності.",
+            "icon": "Thermometer",
+            "duration": "25-40 хвилин",
+            "warranty": "Надається звіт"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Етапи професійного утеплення",
+        "subtitle": "Системний підхід для максимальної енергоефективності та вашого комфорту",
+        "steps": [
+          {
+            "title": "Оцінка тепловтрат",
+            "description": "Комплексна діагностика за допомогою тепловізора для виявлення зон втрати тепла.",
+            "icon": "Search",
+            "duration": "20-30 хвилин"
+          },
+          {
+            "title": "Підготовка та очищення",
+            "description": "Ретельне очищення та підготовка всіх поверхонь для герметизації.",
+            "icon": "Brush",
+            "duration": "15-25 хвилин"
+          },
+          {
+            "title": "Професійний монтаж",
+            "description": "Експертне нанесення ізоляційних матеріалів та монтаж систем ущільнення.",
+            "icon": "Settings",
+            "duration": "45-75 хвилин"
+          },
+          {
+            "title": "Перевірка ефективності",
+            "description": "Фінальне тестування тепловізором для підтвердження покращеної ефективності.",
+            "icon": "CheckCircle",
+            "duration": "15-20 хвилин"
+          }
+        ]
+      }
+    }
+  },
+  "components": [
+    {
+      "type": "ServiceHero",
+      "contentKey": "hero",
+      "required": true
+    },
+    {
+      "type": "ServiceDetails",
+      "contentKey": "serviceDetails",
+      "required": true
+    },
+    {
+      "type": "ProcessSteps",
+      "contentKey": "processSteps",
+      "required": true
+    }
+  ],
+  "componentOverrides": {
+    "ServiceCards": {
+      "contentKey": "shared:energy-services"
+    },
+    "Testimonials": {
+      "contentKey": "shared:insulation-testimonials"
+    },
+    "Faq": {
+      "contentKey": "shared:energy-faq"
+    }
+  },
+  "publishDate": "2024-01-20",
+  "author": "Langu Remontas Team"
+}

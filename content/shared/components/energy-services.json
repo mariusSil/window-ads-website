@@ -1,0 +1,174 @@
+{
+  "en": {
+    "sectionTitle": "Energy Efficiency Services",
+    "sectionSubtitle": "Improve your home's energy performance and reduce costs",
+    "buttonText": "CALL A TECHNICIAN",
+    "services": [
+      {
+        "id": "insulation-improvement",
+        "title": "Insulation Improvement",
+        "description": "Enhanced thermal insulation for better energy efficiency.",
+        "priceFrom": "From €60",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Professional insulation improvement work on window frame"
+        },
+        "isEmergency": false,
+        "prefillText": "I need insulation improvement service to reduce energy costs and improve comfort."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Energy Sealing",
+        "description": "Professional weatherproofing application for energy savings.",
+        "priceFrom": "From €30",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technician applying energy-efficient sealant around window frame"
+        },
+        "isEmergency": false,
+        "prefillText": "I need energy sealing service to improve energy efficiency and prevent heat loss."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Energy-Efficient Glass",
+        "description": "High-performance glass replacement for maximum energy savings.",
+        "priceFrom": "From €90",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Installation of energy-efficient glass unit"
+        },
+        "isEmergency": false,
+        "prefillText": "I need energy-efficient glass replacement to reduce heating and cooling costs."
+      }
+    ]
+  },
+  "lt": {
+    "sectionTitle": "Energijos efektyvumo paslaugos",
+    "sectionSubtitle": "Pagerinkite savo namų energijos efektyvumą ir sumažinkite sąnaugas",
+    "buttonText": "KVIESTI MEISTRĄ",
+    "services": [
+      {
+        "id": "insulation-improvement",
+        "title": "Izoliacijos gerinimas",
+        "description": "Patobulinta šiluminė izoliacija geresniam energijos efektyvumui.",
+        "priceFrom": "Nuo €60",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Profesionalus izoliacijos gerinimo darbas ant lango rėmo"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia izoliacijos gerinimo paslaugos energijos sąnaudoms sumažinti ir komfortui pagerinti."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Energijos sandarinimas",
+        "description": "Profesionalus apsaugos nuo oro sąlygų taikymas energijos taupymui.",
+        "priceFrom": "Nuo €30",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technikas taiko energijos efektyvų sandariklį aplink lango rėmą"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia energijos sandarinimo paslaugos energijos efektyvumui pagerinti ir šilumos nuostolių išvengimui."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Energijos efektyvus stiklas",
+        "description": "Aukšto efektyvumo stiklo keitimas maksimaliam energijos taupymui.",
+        "priceFrom": "Nuo €90",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Energijos efektyvaus stiklo paketo montavimas"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia energijos efektyvaus stiklo keitimo šildymo ir vėsinimo sąnaudoms sumažinti."
+      }
+    ]
+  },
+  "pl": {
+    "sectionTitle": "Usługi efektywności energetycznej",
+    "sectionSubtitle": "Popraw wydajność energetyczną swojego domu i zmniejsz koszty",
+    "buttonText": "WEZWAĆ TECHNIKA",
+    "services": [
+      {
+        "id": "insulation-improvement",
+        "title": "Poprawa izolacji",
+        "description": "Ulepszona izolacja termiczna dla lepszej efektywności energetycznej.",
+        "priceFrom": "Od €60",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Profesjonalna praca nad poprawą izolacji na ramie okiennej"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi poprawy izolacji, aby zmniejszyć koszty energii i poprawić komfort."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Uszczelnianie energetyczne",
+        "description": "Profesjonalne zastosowanie uszczelnienia przeciw warunkom atmosferycznym dla oszczędności energii.",
+        "priceFrom": "Od €30",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technik nakłada energooszczędny uszczelniacz wokół ramy okiennej"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi uszczelniania energetycznego, aby poprawić efektywność energetyczną i zapobiec utracie ciepła."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Szkło energooszczędne",
+        "description": "Wymiana szkła wysokiej wydajności dla maksymalnych oszczędności energii.",
+        "priceFrom": "Od €90",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Instalacja energooszczędnego pakietu szklanego"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję wymiany szkła energooszczędnego, aby zmniejszyć koszty ogrzewania i chłodzenia."
+      }
+    ]
+  },
+  "uk": {
+    "sectionTitle": "Послуги енергоефективності",
+    "sectionSubtitle": "Покращте енергетичну продуктивність вашого дому та зменште витрати",
+    "buttonText": "ВИКЛИКАТИ ТЕХНІКА",
+    "services": [
+      {
+        "id": "insulation-improvement",
+        "title": "Покращення ізоляції",
+        "description": "Покращена теплова ізоляція для кращої енергоефективності.",
+        "priceFrom": "Від €60",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Професійна робота з покращення ізоляції на віконній рамі"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга покращення ізоляції для зменшення витрат на енергію та покращення комфорту."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Енергетична герметизація",
+        "description": "Професійне застосування захисту від погодних умов для економії енергії.",
+        "priceFrom": "Від €30",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Технік наносить енергоефективний герметик навколо віконної рами"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга енергетичної герметизації для покращення енергоефективності та запобігання втратам тепла."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Енергоефективне скло",
+        "description": "Заміна високопродуктивного скла для максимальної економії енергії.",
+        "priceFrom": "Від €90",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Встановлення енергоефективного скляного пакету"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна заміна енергоефективного скла для зменшення витрат на опалення та охолодження."
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "en": {
+    "sectionTitle": "Maintenance Services",
+    "sectionSubtitle": "Keep your windows and doors in perfect condition",
+    "buttonText": "CALL A TECHNICIAN",
+    "services": [
+      {
+        "id": "maintenance-service",
+        "title": "Regular Maintenance",
+        "description": "Comprehensive maintenance to extend window and door lifespan.",
+        "priceFrom": "From €40",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technician performing regular maintenance on window mechanisms"
+        },
+        "isEmergency": false,
+        "prefillText": "I need regular maintenance service for my windows and doors to keep them in optimal condition."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Window Sealing",
+        "description": "Professional weatherproofing application for energy savings.",
+        "priceFrom": "From €30",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technician applying weatherproof sealant around window frame edges"
+        },
+        "isEmergency": false,
+        "prefillText": "I need window sealing service to improve energy efficiency and prevent drafts."
+      },
+      {
+        "id": "insulation-improvement",
+        "title": "Insulation Improvement",
+        "description": "Enhanced thermal insulation for better energy efficiency.",
+        "priceFrom": "From €60",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Professional insulation improvement work on window frame"
+        },
+        "isEmergency": false,
+        "prefillText": "I need insulation improvement service to reduce energy costs and improve comfort."
+      }
+    ]
+  },
+  "lt": {
+    "sectionTitle": "Priežiūros paslaugos",
+    "sectionSubtitle": "Išlaikykite savo langus ir duris puikioje būklėje",
+    "buttonText": "KVIESTI MEISTRĄ",
+    "services": [
+      {
+        "id": "maintenance-service",
+        "title": "Reguliari priežiūra",
+        "description": "Išsami priežiūra langų ir durų tarnavimo laikui pratęsti.",
+        "priceFrom": "Nuo €40",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technikas atlieka reguliarią langų mechanizmų priežiūrą"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia reguliarios priežiūros paslaugos langams ir durims, kad išlaikyčiau juos optimalios būklės."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Langų sandarinimas",
+        "description": "Profesionalus apsaugos nuo oro sąlygų taikymas energijos taupymui.",
+        "priceFrom": "Nuo €30",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technikas taiko atsparų oro sąlygoms sandariklį aplink lango rėmo kraštus"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia langų sandarinimo paslaugos energijos efektyvumui pagerinti ir šalčio pašalinimui."
+      },
+      {
+        "id": "insulation-improvement",
+        "title": "Šilumos izoliacijos gerinimas",
+        "description": "Patobulinta šiluminė izoliacija geresniam energijos efektyvumui.",
+        "priceFrom": "Nuo €60",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Profesionalus izoliacijos gerinimo darbas ant lango rėmo"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia izoliacijos gerinimo paslaugos energijos sąnaudoms sumažinti ir komfortui pagerinti."
+      }
+    ]
+  },
+  "pl": {
+    "sectionTitle": "Usługi konserwacyjne",
+    "sectionSubtitle": "Utrzymuj swoje okna i drzwi w idealnym stanie",
+    "buttonText": "WEZWAĆ TECHNIKA",
+    "services": [
+      {
+        "id": "maintenance-service",
+        "title": "Regularna konserwacja",
+        "description": "Kompleksowa konserwacja przedłużająca żywotność okien i drzwi.",
+        "priceFrom": "Od €40",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technik wykonuje regularną konserwację mechanizmów okiennych"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi regularnej konserwacji okien i drzwi, aby utrzymać je w optymalnym stanie."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Uszczelnianie okien",
+        "description": "Profesjonalne zastosowanie uszczelnienia przeciw warunkom atmosferycznym dla oszczędności energii.",
+        "priceFrom": "Od €30",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technik nakłada uszczelniacz odporny na warunki atmosferyczne wokół krawędzi ramy okiennej"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi uszczelniania okien, aby poprawić efektywność energetyczną i zapobiec przeciągom."
+      },
+      {
+        "id": "insulation-improvement",
+        "title": "Poprawa izolacji",
+        "description": "Ulepszona izolacja termiczna dla lepszej efektywności energetycznej.",
+        "priceFrom": "Od €60",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Profesjonalna praca nad poprawą izolacji na ramie okiennej"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi poprawy izolacji, aby zmniejszyć koszty energii i poprawić komfort."
+      }
+    ]
+  },
+  "uk": {
+    "sectionTitle": "Послуги технічного обслуговування",
+    "sectionSubtitle": "Підтримуйте ваші вікна та двері в ідеальному стані",
+    "buttonText": "ВИКЛИКАТИ ТЕХНІКА",
+    "services": [
+      {
+        "id": "maintenance-service",
+        "title": "Регулярне обслуговування",
+        "description": "Комплексне обслуговування для продовження терміну служби вікон та дверей.",
+        "priceFrom": "Від €40",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Технік виконує регулярне обслуговування віконних механізмів"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга регулярного обслуговування вікон та дверей для підтримання їх в оптимальному стані."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Герметизація вікон",
+        "description": "Професійне застосування захисту від погодних умов для економії енергії.",
+        "priceFrom": "Від €30",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Технік наносить стійкий до погодних умов герметик навколо країв віконної рами"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга герметизації вікон для покращення енергоефективності та запобігання протягам."
+      },
+      {
+        "id": "insulation-improvement",
+        "title": "Покращення ізоляції",
+        "description": "Покращена теплова ізоляція для кращої енергоефективності.",
+        "priceFrom": "Від €60",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Професійна робота з покращення ізоляції на віконній рамі"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга покращення ізоляції для зменшення витрат на енергію та покращення комфорту."
+      }
+    ]
+  }
+}

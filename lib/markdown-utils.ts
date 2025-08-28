@@ -1,10 +1,44 @@
 import { marked } from 'marked';
+import { type Locale } from './i18n';
 
 // Configure marked options for better formatting
 marked.setOptions({
   breaks: true,
   gfm: true
 });
+
+// Hardcoded translations for callout labels
+const CALLOUT_LABELS: Record<Locale, {
+  professionalTips: string;
+  keyBenefits: string;
+  importantWarning: string;
+  professionalInsight: string;
+}> = {
+  en: {
+    professionalTips: 'Professional Tips',
+    keyBenefits: 'Key Benefits',
+    importantWarning: 'Important Warning',
+    professionalInsight: 'Professional Insight'
+  },
+  lt: {
+    professionalTips: 'Profesionalūs patarimai',
+    keyBenefits: 'Pagrindiniai privalumai',
+    importantWarning: 'Svarbus įspėjimas',
+    professionalInsight: 'Profesionali įžvalga'
+  },
+  pl: {
+    professionalTips: 'Profesjonalne wskazówki',
+    keyBenefits: 'Kluczowe korzyści',
+    importantWarning: 'Ważne ostrzeżenie',
+    professionalInsight: 'Profesjonalny wgląd'
+  },
+  uk: {
+    professionalTips: 'Професійні поради',
+    keyBenefits: 'Ключові переваги',
+    importantWarning: 'Важливе попередження',
+    professionalInsight: 'Професійний погляд'
+  }
+};
 
 /**
  * Process markdown content and convert to HTML with custom styling classes
@@ -65,15 +99,22 @@ export function processMarkdownContent(content: string): string {
 /**
  * Process content with special callout boxes for tips, warnings, etc.
  */
-export function processContentWithCallouts(content: string, callouts?: {
-  tips?: string[];
-  benefits?: string[];
-  warning?: string;
-  callout?: string;
-}): string {
+export function processContentWithCallouts(
+  content: string, 
+  locale: Locale, 
+  callouts?: {
+    tips?: string[];
+    benefits?: string[];
+    warning?: string;
+    callout?: string;
+  }
+): string {
   let processedContent = processMarkdownContent(content);
   
   if (!callouts) return processedContent;
+
+  // Get labels for the current locale
+  const labels = CALLOUT_LABELS[locale] || CALLOUT_LABELS.en;
   
   // Add tips section
   if (callouts.tips && callouts.tips.length > 0) {
@@ -83,7 +124,7 @@ export function processContentWithCallouts(content: string, callouts?: {
           <svg class="w-5 h-5 text-blue-400 mr-2" fill="currentColor" viewBox="0 0 20 20">
             <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
           </svg>
-          <h4 class="text-blue-800 font-medium">Professional Tips</h4>
+          <h4 class="text-blue-800 font-medium">${labels.professionalTips}</h4>
         </div>
         <ul class="list-disc list-inside space-y-1 text-blue-700">
           ${callouts.tips.map(tip => `<li>${tip}</li>`).join('')}
@@ -101,7 +142,7 @@ export function processContentWithCallouts(content: string, callouts?: {
           <svg class="w-5 h-5 text-green-400 mr-2" fill="currentColor" viewBox="0 0 20 20">
             <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
           </svg>
-          <h4 class="text-green-800 font-medium">Key Benefits</h4>
+          <h4 class="text-green-800 font-medium">${labels.keyBenefits}</h4>
         </div>
         <ul class="list-disc list-inside space-y-1 text-green-700">
           ${callouts.benefits.map(benefit => `<li>${benefit}</li>`).join('')}
@@ -119,7 +160,7 @@ export function processContentWithCallouts(content: string, callouts?: {
           <svg class="w-5 h-5 text-yellow-400 mr-2" fill="currentColor" viewBox="0 0 20 20">
             <path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd"></path>
           </svg>
-          <h4 class="text-yellow-800 font-medium">Important Warning</h4>
+          <h4 class="text-yellow-800 font-medium">${labels.importantWarning}</h4>
         </div>
         <p class="text-yellow-700">${callouts.warning}</p>
       </div>
@@ -135,7 +176,7 @@ export function processContentWithCallouts(content: string, callouts?: {
           <svg class="w-5 h-5 text-primary mr-2" fill="currentColor" viewBox="0 0 20 20">
             <path fill-rule="evenodd" d="M3 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path>
           </svg>
-          <h4 class="text-primary-dark font-medium">Professional Insight</h4>
+          <h4 class="text-primary-dark font-medium">${labels.professionalInsight}</h4>
         </div>
         <p class="text-primary-dark">${callouts.callout}</p>
       </div>

@@ -1,0 +1,174 @@
+{
+  "en": {
+    "sectionTitle": "Repair Services",
+    "sectionSubtitle": "Expert repair solutions for all window and door issues",
+    "buttonText": "CALL A TECHNICIAN",
+    "services": [
+      {
+        "id": "frame-repair",
+        "title": "Frame Repair",
+        "description": "Structural frame restoration and reinforcement services.",
+        "priceFrom": "From €55",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technician repairing wooden window frame with professional tools"
+        },
+        "isEmergency": false,
+        "prefillText": "I need frame repair service. My window frame is damaged and needs professional restoration."
+      },
+      {
+        "id": "mechanism-replacement",
+        "title": "Mechanism Repair",
+        "description": "Complete hardware component repair and replacement for optimal functionality.",
+        "priceFrom": "From €65",
+        "image": {
+          "src": "/images/window-adjustment-frequency-og.webp",
+          "alt": "Window mechanism parts and tools on workbench, replacement hardware ready for installation"
+        },
+        "isEmergency": false,
+        "prefillText": "I need mechanism repair service. My window handle is broken and the opening mechanism doesn't work properly."
+      },
+      {
+        "id": "window-adjustment",
+        "title": "Window Adjustment",
+        "description": "Precise window alignment and mechanism adjustment for smooth operation.",
+        "priceFrom": "From €45",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Professional technician adjusting window hinges with tools, close-up repair work"
+        },
+        "isEmergency": false,
+        "prefillText": "I need window adjustment service. My windows are not closing properly and need professional alignment."
+      }
+    ]
+  },
+  "lt": {
+    "sectionTitle": "Remonto paslaugos",
+    "sectionSubtitle": "Ekspertų remonto sprendimai visoms langų ir durų problemoms",
+    "buttonText": "KVIESTI MEISTRĄ",
+    "services": [
+      {
+        "id": "frame-repair",
+        "title": "Rėmų remontas",
+        "description": "Konstrukcinių rėmų restauravimas ir stiprinimo paslaugos.",
+        "priceFrom": "Nuo €55",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technikas taiso medinį lango rėmą profesionaliais įrankiais"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia rėmų remonto paslaugos. Mano lango rėmas pažeistas ir reikia profesionalaus restauravimo."
+      },
+      {
+        "id": "mechanism-replacement",
+        "title": "Mechanizmo remontas",
+        "description": "Visiškas techninių komponentų remontas ir keitimas optimaliam veikimui.",
+        "priceFrom": "Nuo €65",
+        "image": {
+          "src": "/images/window-adjustment-frequency-og.webp",
+          "alt": "Lango mechanizmo dalys ir įrankiai ant darbo stalo, keitimo technika paruošta montavimui"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia mechanizmo remonto paslaugos. Mano lango rankena sugedusi ir atidarymo mechanizmas neveikia tinkamai."
+      },
+      {
+        "id": "window-adjustment",
+        "title": "Langų reguliavimas",
+        "description": "Tikslus langų išlygiavimas ir mechanizmo reguliavimas sklandžiam veikimui.",
+        "priceFrom": "Nuo €45",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Profesionalus technikas reguliuoja langų vyrių su įrankiais, artimas remonto darbas"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia langų reguliavimo paslaugos. Mano langai tinkamai neužsidaro ir reikia profesionalaus išlygiavimo."
+      }
+    ]
+  },
+  "pl": {
+    "sectionTitle": "Usługi naprawcze",
+    "sectionSubtitle": "Eksperckie rozwiązania naprawcze dla wszystkich problemów z oknami i drzwiami",
+    "buttonText": "WEZWAĆ TECHNIKA",
+    "services": [
+      {
+        "id": "frame-repair",
+        "title": "Naprawa ram",
+        "description": "Restauracja konstrukcyjna ram i usługi wzmacniające.",
+        "priceFrom": "Od €55",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technik naprawia drewnianą ramę okienną profesjonalnymi narzędziami"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi naprawy ram. Moja rama okienna jest uszkodzona i wymaga profesjonalnej restauracji."
+      },
+      {
+        "id": "mechanism-replacement",
+        "title": "Naprawa mechanizmu",
+        "description": "Kompletna naprawa i wymiana komponentów sprzętowych dla optymalnej funkcjonalności.",
+        "priceFrom": "Od €65",
+        "image": {
+          "src": "/images/window-adjustment-frequency-og.webp",
+          "alt": "Części mechanizmu okiennego i narzędzia na stole roboczym, sprzęt wymienny gotowy do instalacji"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi naprawy mechanizmu. Moja klamka okienna jest zepsuta i mechanizm otwierania nie działa prawidłowo."
+      },
+      {
+        "id": "window-adjustment",
+        "title": "Regulacja okien",
+        "description": "Precyzyjne wyrównanie okien i regulacja mechanizmu dla płynnego działania.",
+        "priceFrom": "Od €45",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Profesjonalny technik reguluje zawiasy okienne narzędziami, zbliżenie na prace naprawcze"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi regulacji okien. Moje okna nie zamykają się prawidłowo i wymagają profesjonalnego wyrównania."
+      }
+    ]
+  },
+  "uk": {
+    "sectionTitle": "Послуги ремонту",
+    "sectionSubtitle": "Експертні рішення з ремонту для всіх проблем з вікнами та дверима",
+    "buttonText": "ВИКЛИКАТИ ТЕХНІКА",
+    "services": [
+      {
+        "id": "frame-repair",
+        "title": "Ремонт рам",
+        "description": "Конструкційна реставрація рам та послуги зміцнення.",
+        "priceFrom": "Від €55",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Технік ремонтує дерев'яну віконну раму професійними інструментами"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга ремонту рам. Моя віконна рама пошкоджена і потребує професійної реставрації."
+      },
+      {
+        "id": "mechanism-replacement",
+        "title": "Ремонт механізму",
+        "description": "Повний ремонт та заміна апаратних компонентів для оптимальної функціональності.",
+        "priceFrom": "Від €65",
+        "image": {
+          "src": "/images/window-adjustment-frequency-og.webp",
+          "alt": "Частини віконного механізму та інструменти на робочому столі, замінне обладнання готове до встановлення"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга ремонту механізму. Моя віконна ручка зламана і механізм відкривання не працює належним чином."
+      },
+      {
+        "id": "window-adjustment",
+        "title": "Регулювання вікон",
+        "description": "Точне вирівнювання вікон та регулювання механізму для плавної роботи.",
+        "priceFrom": "Від €45",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Професійний технік регулює віконні петлі інструментами, крупний план ремонтних робіт"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга регулювання вікон. Мої вікна не закриваються належним чином і потребують професійного вирівнювання."
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "en": {
+    "sectionTitle": "Related Services",
+    "sectionSubtitle": "Additional services that might interest you",
+    "buttonText": "CALL A TECHNICIAN",
+    "services": [
+      {
+        "id": "window-adjustment",
+        "title": "Window Adjustment",
+        "description": "Precise window alignment and mechanism adjustment for smooth operation.",
+        "priceFrom": "From €45",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Professional technician adjusting window hinges with tools, close-up repair work"
+        },
+        "isEmergency": false,
+        "prefillText": "I need window adjustment service. My windows are not closing properly and need professional alignment."
+      },
+      {
+        "id": "gasket-replacement",
+        "title": "Gasket Replacement",
+        "description": "Professional weatherproofing seal renewal for energy efficiency.",
+        "priceFrom": "From €35",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Technician replacing rubber gasket seal on window frame, detailed repair work"
+        },
+        "isEmergency": false,
+        "prefillText": "I need gasket replacement service. My window seals are worn out and letting in drafts."
+      },
+      {
+        "id": "frame-repair",
+        "title": "Frame Repair",
+        "description": "Structural frame restoration and reinforcement services.",
+        "priceFrom": "From €55",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technician repairing wooden window frame with professional tools"
+        },
+        "isEmergency": false,
+        "prefillText": "I need frame repair service. My window frame is damaged and needs professional restoration."
+      }
+    ]
+  },
+  "lt": {
+    "sectionTitle": "Susijusios paslaugos",
+    "sectionSubtitle": "Papildomos paslaugos, kurios gali jus sudominti",
+    "buttonText": "KVIESTI MEISTRĄ",
+    "services": [
+      {
+        "id": "window-adjustment",
+        "title": "Langų reguliavimas",
+        "description": "Tikslus langų išlygiavimas ir mechanizmo reguliavimas sklandžiam veikimui.",
+        "priceFrom": "Nuo €45",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Profesionalus technikas reguliuoja langų vyrių su įrankiais, artimas remonto darbas"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia langų reguliavimo paslaugos. Mano langai tinkamai neužsidaro ir reikia profesionalaus išlygiavimo."
+      },
+      {
+        "id": "gasket-replacement",
+        "title": "Tarpiklių keitimas",
+        "description": "Profesionalus sandarinimo tarpiklių atnaujinimas energijos efektyvumui.",
+        "priceFrom": "Nuo €35",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Technikas keičia gumos tarpiklį ant lango rėmo, detalus remonto darbas"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia tarpiklių keitimo paslaugos. Mano langų sandarikliai susidėvėję ir praleidžia šaltį."
+      },
+      {
+        "id": "frame-repair",
+        "title": "Rėmų remontas",
+        "description": "Konstrukcinių rėmų restauravimas ir stiprinimo paslaugos.",
+        "priceFrom": "Nuo €55",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technikas taiso medinį lango rėmą profesionaliais įrankiais"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia rėmų remonto paslaugos. Mano lango rėmas pažeistas ir reikia profesionalaus restauravimo."
+      }
+    ]
+  },
+  "pl": {
+    "sectionTitle": "Powiązane usługi",
+    "sectionSubtitle": "Dodatkowe usługi, które mogą Cię zainteresować",
+    "buttonText": "WEZWAĆ TECHNIKA",
+    "services": [
+      {
+        "id": "window-adjustment",
+        "title": "Regulacja okien",
+        "description": "Precyzyjne wyrównanie okien i regulacja mechanizmu dla płynnego działania.",
+        "priceFrom": "Od €45",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Profesjonalny technik reguluje zawiasy okienne narzędziami, zbliżenie na prace naprawcze"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi regulacji okien. Moje okna nie zamykają się prawidłowo i wymagają profesjonalnego wyrównania."
+      },
+      {
+        "id": "gasket-replacement",
+        "title": "Wymiana uszczelek",
+        "description": "Profesjonalne odnowienie uszczelek uszczelniających dla efektywności energetycznej.",
+        "priceFrom": "Od €35",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Technik wymienia gumową uszczelkę na ramie okiennej, szczegółowa praca naprawcza"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi wymiany uszczelek. Moje uszczelki okienne są zużyte i przepuszczają przeciągi."
+      },
+      {
+        "id": "frame-repair",
+        "title": "Naprawa ram",
+        "description": "Restauracja konstrukcyjna ram i usługi wzmacniające.",
+        "priceFrom": "Od €55",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technik naprawia drewnianą ramę okienną profesjonalnymi narzędziami"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi naprawy ram. Moja rama okienna jest uszkodzona i wymaga profesjonalnej restauracji."
+      }
+    ]
+  },
+  "uk": {
+    "sectionTitle": "Пов'язані послуги",
+    "sectionSubtitle": "Додаткові послуги, які можуть вас зацікавити",
+    "buttonText": "ВИКЛИКАТИ ТЕХНІКА",
+    "services": [
+      {
+        "id": "window-adjustment",
+        "title": "Регулювання вікон",
+        "description": "Точне вирівнювання вікон та регулювання механізму для плавної роботи.",
+        "priceFrom": "Від €45",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Професійний технік регулює віконні петлі інструментами, крупний план ремонтних робіт"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга регулювання вікон. Мої вікна не закриваються належним чином і потребують професійного вирівнювання."
+      },
+      {
+        "id": "gasket-replacement",
+        "title": "Заміна ущільнювачів",
+        "description": "Професійне оновлення ущільнювальних прокладок для енергоефективності.",
+        "priceFrom": "Від €35",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Технік замінює гумовий ущільнювач на віконній рамі, детальна ремонтна робота"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга заміни ущільнювачів. Мої віконні ущільнювачі зношені і пропускають протяги."
+      },
+      {
+        "id": "frame-repair",
+        "title": "Ремонт рам",
+        "description": "Конструкційна реставрація рам та послуги зміцнення.",
+        "priceFrom": "Від €55",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Технік ремонтує дерев'яну віконну раму професійними інструментами"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга ремонту рам. Моя віконна рама пошкоджена і потребує професійної реставрації."
+      }
+    ]
+  }
+}

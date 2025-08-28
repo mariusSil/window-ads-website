@@ -1,0 +1,174 @@
+{
+  "en": {
+    "sectionTitle": "Glass Services",
+    "sectionSubtitle": "Professional glass solutions for windows and doors",
+    "buttonText": "CALL A TECHNICIAN",
+    "services": [
+      {
+        "id": "glass-replacement",
+        "title": "Glass Replacement",
+        "description": "Expert glass unit replacement with energy-efficient options.",
+        "priceFrom": "From €80",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Technician carefully installing new glass unit in window frame"
+        },
+        "isEmergency": false,
+        "prefillText": "I need glass replacement service for damaged or inefficient window glass."
+      },
+      {
+        "id": "insulation-improvement",
+        "title": "Glass Insulation",
+        "description": "Enhanced thermal insulation glass for better energy efficiency.",
+        "priceFrom": "From €90",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Professional insulation glass installation work"
+        },
+        "isEmergency": false,
+        "prefillText": "I need glass insulation service to improve energy efficiency and reduce heating costs."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Glass Sealing",
+        "description": "Professional glass edge sealing for weatherproofing.",
+        "priceFrom": "From €40",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technician applying professional sealant around glass edges"
+        },
+        "isEmergency": false,
+        "prefillText": "I need glass sealing service to prevent drafts and improve weatherproofing around glass edges."
+      }
+    ]
+  },
+  "lt": {
+    "sectionTitle": "Stiklo paslaugos",
+    "sectionSubtitle": "Profesionalūs stiklo sprendimai langams ir durims",
+    "buttonText": "KVIESTI MEISTRĄ",
+    "services": [
+      {
+        "id": "glass-replacement",
+        "title": "Stiklo keitimas",
+        "description": "Ekspertų stiklo paketo keitimas su energijos taupymo variantais.",
+        "priceFrom": "Nuo €80",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Technikas atsargiai montuoja naują stiklo paketą į lango rėmą"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia stiklo keitimo paslaugos pažeistam ar neefektyviam lango stiklui."
+      },
+      {
+        "id": "insulation-improvement",
+        "title": "Stiklo izoliacija",
+        "description": "Patobulinta šiluminės izoliacijos stiklas geresniam energijos efektyvumui.",
+        "priceFrom": "Nuo €90",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Profesionalus izoliacinio stiklo montavimo darbas"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia stiklo izoliacijos paslaugos energijos efektyvumui pagerinti ir šildymo sąnaudoms sumažinti."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Stiklo sandarinimas",
+        "description": "Profesionalus stiklo kraštų sandarinimas apsaugai nuo oro sąlygų.",
+        "priceFrom": "Nuo €40",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technikas taiko profesionalų sandariklį aplink stiklo kraštus"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia stiklo sandarinimo paslaugos šalčio pašalinimui ir apsaugos nuo oro sąlygų aplink stiklo kraštus gerinimui."
+      }
+    ]
+  },
+  "pl": {
+    "sectionTitle": "Usługi szklarskie",
+    "sectionSubtitle": "Profesjonalne rozwiązania szklarskie dla okien i drzwi",
+    "buttonText": "WEZWAĆ TECHNIKA",
+    "services": [
+      {
+        "id": "glass-replacement",
+        "title": "Wymiana szyb",
+        "description": "Ekspercka wymiana pakietu szklanego z opcjami energooszczędnymi.",
+        "priceFrom": "Od €80",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Technik ostrożnie montuje nowy pakiet szklany w ramie okiennej"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi wymiany szyb dla uszkodzonego lub nieefektywnego szkła okiennego."
+      },
+      {
+        "id": "insulation-improvement",
+        "title": "Izolacja szkła",
+        "description": "Ulepszone szkło izolacji termicznej dla lepszej efektywności energetycznej.",
+        "priceFrom": "Od €90",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Profesjonalna praca montażowa szkła izolacyjnego"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi izolacji szkła, aby poprawić efektywność energetyczną i zmniejszyć koszty ogrzewania."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Uszczelnianie szkła",
+        "description": "Profesjonalne uszczelnianie krawędzi szkła dla ochrony przed warunkami atmosferycznymi.",
+        "priceFrom": "Od €40",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Technik nakłada profesjonalny uszczelniacz wokół krawędzi szkła"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi uszczelniania szkła, aby zapobiec przeciągom i poprawić ochronę przed warunkami atmosferycznymi wokół krawędzi szkła."
+      }
+    ]
+  },
+  "uk": {
+    "sectionTitle": "Послуги зі скла",
+    "sectionSubtitle": "Професійні скляні рішення для вікон та дверей",
+    "buttonText": "ВИКЛИКАТИ ТЕХНІКА",
+    "services": [
+      {
+        "id": "glass-replacement",
+        "title": "Заміна скла",
+        "description": "Експертна заміна скляного пакету з енергоефективними варіантами.",
+        "priceFrom": "Від €80",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Технік обережно встановлює новий скляний пакет у віконну раму"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга заміни скла для пошкодженого або неефективного віконного скла."
+      },
+      {
+        "id": "insulation-improvement",
+        "title": "Ізоляція скла",
+        "description": "Покращене теплоізоляційне скло для кращої енергоефективності.",
+        "priceFrom": "Від €90",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Професійна робота з встановлення ізоляційного скла"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга ізоляції скла для покращення енергоефективності та зменшення витрат на опалення."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Герметизація скла",
+        "description": "Професійна герметизація країв скла для захисту від погодних умов.",
+        "priceFrom": "Від €40",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Технік наносить професійний герметик навколо країв скла"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга герметизації скла для запобігання протягам та покращення захисту від погодних умов навколо країв скла."
+      }
+    ]
+  }
+}

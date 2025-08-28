@@ -4,32 +4,60 @@
     "subtitle": "Expert professionals with years of experience and certified training",
     "members": [
       {
-        "name": "Marek Kowalski",
-        "role": "Lead Technician",
+        "name": "Arkadiusz Kowalczyk",
+        "role": "Senior Technician & Team Lead",
         "experience": "15 Years",
-        "description": "Specialist in complex window mechanisms and emergency repairs",
-        "avatar": "/images/window-sealing.webp"
+        "description": "Specialist in complex window repairs and team coordination",
+        "avatar": "/images/team/arek-kowalczyk.webp"
       },
       {
-        "name": "Piotr Nowak",
-        "role": "Glass Specialist",
-        "experience": "12 Years",
-        "description": "Expert in glass replacement and sealing solutions",
-        "avatar": "/images/window-sealing.webp"
-      },
-      {
-        "name": "Anna Wiśniewska",
-        "role": "Door Systems Expert",
-        "experience": "10 Years",
-        "description": "Certified in security locks and door hardware",
-        "avatar": "/images/professional-window-installation-og.webp"
-      },
-      {
-        "name": "Jakub Lewandowski",
+        "name": "Katarzyna Nowak",
         "role": "Installation Specialist",
         "experience": "8 Years",
-        "description": "Expert in new installations and accessory upgrades",
-        "avatar": "/images/window-sealing.webp"
+        "description": "Expert in precision installations and customer relations",
+        "avatar": "/images/team/katarzyna-nowak.webp"
+      },
+      {
+        "name": "Tomasz Wiśniewski",
+        "role": "Lock & Security Expert",
+        "experience": "10 Years",
+        "description": "Specialist in security systems and lock mechanisms",
+        "avatar": "/images/team/tomasz-wisniewski.webp"
+      },
+      {
+        "name": "Jakub Zieliński",
+        "role": "Maintenance Specialist",
+        "experience": "6 Years",
+        "description": "Expert in preventive maintenance and quick repairs",
+        "avatar": "/images/team/jakub-zielinski.webp"
+      },
+      {
+        "name": "Stanisław Dąbrowski",
+        "role": "Frame Restoration Expert",
+        "experience": "20 Years",
+        "description": "Master craftsman in wooden frame restoration and traditional techniques",
+        "avatar": "/images/team/stanislaw-dabrowski.webp"
+      },
+      {
+        "name": "Paweł Lewandowski",
+        "role": "Emergency Repair Technician",
+        "experience": "7 Years",
+        "description": "Specialist in 24/7 emergency services and rapid response",
+        "avatar": "/images/team/pawel-lewandowski.webp"
+      },
+      {
+        "name": "Michał Wójcik",
+        "role": "Thermal Insulation Specialist",
+        "experience": "9 Years",
+        "description": "Expert in energy efficiency and insulation systems",
+        "avatar": "/images/team/michal-wojcik.webp"
+      },
+      {
+        "name": "Grzegorz Szymański",
+        "role": "Quality Control Inspector",
+        "experience": "12 Years",
+        "description": "Specialist in quality assurance and final inspections",
+        "avatar": "/images/team/grzegorz-szymanski.webp"
       }
     ]
   },
@@ -38,32 +66,60 @@
     "subtitle": "Ekspertai profesionalai su daugelio metų patirtimi ir sertifikuotu mokymu",
     "members": [
       {
-        "name": "Marek Kowalski",
-        "role": "Vyriausiasis technikas",
+        "name": "Arkadiusz Kowalczyk",
+        "role": "Vyresniasis technikas ir komandos vadovas",
         "experience": "15 metų",
-        "description": "Specialistas sudėtingų langų mechanizmų ir skubių remontų srityje",
-        "avatar": "/images/window-sealing.webp"
+        "description": "Specialistas sudėtingų langų remontų ir komandos koordinavimo srityje",
+        "avatar": "/images/team/arek-kowalczyk.webp"
       },
       {
-        "name": "Piotr Nowak",
-        "role": "Stiklo specialistas",
-        "experience": "12 metų",
-        "description": "Ekspertas stiklo keitimo ir sandarinimo sprendimų srityje",
-        "avatar": "/images/window-sealing.webp"
-      },
-      {
-        "name": "Anna Wiśniewska",
-        "role": "Durų sistemų ekspertė",
-        "experience": "10 metų",
-        "description": "Sertifikuota saugumo spynų ir durų furnitūros specialistė",
-        "avatar": "/images/professional-window-installation-og.webp"
-      },
-      {
-        "name": "Jakub Lewandowski",
-        "role": "Montavimo specialistas",
+        "name": "Katarzyna Nowak",
+        "role": "Montavimo specialistė",
         "experience": "8 metai",
-        "description": "Ekspertas naujų įrengimų ir aksesuarų modernizavimo srityje",
-        "avatar": "/images/window-sealing.webp"
+        "description": "Ekspertė tikslaus montavimo ir klientų aptarnavimo srityje",
+        "avatar": "/images/team/katarzyna-nowak.webp"
+      },
+      {
+        "name": "Tomasz Wiśniewski",
+        "role": "Spynų ir saugumo ekspertas",
+        "experience": "10 metų",
+        "description": "Specialistas saugumo sistemų ir spynų mechanizmų srityje",
+        "avatar": "/images/team/tomasz-wisniewski.webp"
+      },
+      {
+        "name": "Jakub Zieliński",
+        "role": "Priežiūros specialistas",
+        "experience": "6 metai",
+        "description": "Ekspertas prevencinės priežiūros ir greitų remontų srityje",
+        "avatar": "/images/team/jakub-zielinski.webp"
+      },
+      {
+        "name": "Stanisław Dąbrowski",
+        "role": "Rėmų restauravimo ekspertas",
+        "experience": "20 metų",
+        "description": "Meistras medienos rėmų restauravimo ir tradicinių technikų srityje",
+        "avatar": "/images/team/stanislaw-dabrowski.webp"
+      },
+      {
+        "name": "Paweł Lewandowski",
+        "role": "Skubių remontų technikas",
+        "experience": "7 metai",
+        "description": "Specialistas 24/7 skubių paslaugų ir greito reagavimo srityje",
+        "avatar": "/images/team/pawel-lewandowski.webp"
+      },
+      {
+        "name": "Michał Wójcik",
+        "role": "Šiluminės izoliacijos specialistas",
+        "experience": "9 metai",
+        "description": "Ekspertas energijos efektyvumo ir izoliacijos sistemų srityje",
+        "avatar": "/images/team/michal-wojcik.webp"
+      },
+      {
+        "name": "Grzegorz Szymański",
+        "role": "Kokybės kontrolės inspektorius",
+        "experience": "12 metų",
+        "description": "Specialistas kokybės užtikrinimo ir galutinių patikrinimų srityje",
+        "avatar": "/images/team/grzegorz-szymanski.webp"
       }
     ]
   },
@@ -72,32 +128,60 @@
     "subtitle": "Eksperci z wieloletnim doświadczeniem i certyfikowanym szkoleniem",
     "members": [
       {
-        "name": "Marek Kowalski",
-        "role": "Główny technik",
+        "name": "Arkadiusz Kowalczyk",
+        "role": "Starszy technik i kierownik zespołu",
         "experience": "15 lat",
-        "description": "Specjalista od złożonych mechanizmów okiennych i napraw awaryjnych",
-        "avatar": "/images/window-sealing.webp"
+        "description": "Specjalista od złożonych napraw okien i koordynacji zespołu",
+        "avatar": "/images/team/arek-kowalczyk.webp"
       },
       {
-        "name": "Piotr Nowak",
-        "role": "Specjalista od szkła",
-        "experience": "12 lat",
-        "description": "Ekspert w zakresie wymiany szkła i rozwiązań uszczelniających",
-        "avatar": "/images/window-sealing.webp"
-      },
-      {
-        "name": "Anna Wiśniewska",
-        "role": "Ekspert systemów drzwiowych",
-        "experience": "10 lat",
-        "description": "Certyfikowana w zakresie zamków bezpieczeństwa i okuć drzwiowych",
-        "avatar": "/images/professional-window-installation-og.webp"
-      },
-      {
-        "name": "Jakub Lewandowski",
-        "role": "Specjalista od instalacji",
+        "name": "Katarzyna Nowak",
+        "role": "Specjalista ds. montażu",
         "experience": "8 lat",
-        "description": "Ekspert w zakresie nowych instalacji i modernizacji akcesoriów",
-        "avatar": "/images/window-sealing.webp"
+        "description": "Ekspert w zakresie precyzyjnego montażu i obsługi klientów",
+        "avatar": "/images/team/katarzyna-nowak.webp"
+      },
+      {
+        "name": "Tomasz Wiśniewski",
+        "role": "Ekspert ds. zamków i bezpieczeństwa",
+        "experience": "10 lat",
+        "description": "Specjalista od systemów bezpieczeństwa i mechanizmów zamkowych",
+        "avatar": "/images/team/tomasz-wisniewski.webp"
+      },
+      {
+        "name": "Jakub Zieliński",
+        "role": "Specjalista ds. konserwacji",
+        "experience": "6 lat",
+        "description": "Ekspert w zakresie konserwacji prewencyjnej i szybkich napraw",
+        "avatar": "/images/team/jakub-zielinski.webp"
+      },
+      {
+        "name": "Stanisław Dąbrowski",
+        "role": "Ekspert renowacji ram",
+        "experience": "20 lat",
+        "description": "Mistrz renowacji drewnianych ram i tradycyjnych technik",
+        "avatar": "/images/team/stanislaw-dabrowski.webp"
+      },
+      {
+        "name": "Paweł Lewandowski",
+        "role": "Technik napraw awaryjnych",
+        "experience": "7 lat",
+        "description": "Specjalista od usług awaryjnych 24/7 i szybkiej reakcji",
+        "avatar": "/images/team/pawel-lewandowski.webp"
+      },
+      {
+        "name": "Michał Wójcik",
+        "role": "Specjalista izolacji termicznej",
+        "experience": "9 lat",
+        "description": "Ekspert w zakresie efektywności energetycznej i systemów izolacji",
+        "avatar": "/images/team/michal-wojcik.webp"
+      },
+      {
+        "name": "Grzegorz Szymański",
+        "role": "Inspektor kontroli jakości",
+        "experience": "12 lat",
+        "description": "Specjalista od zapewnienia jakości i końcowych kontroli",
+        "avatar": "/images/team/grzegorz-szymanski.webp"
       }
     ]
   },
@@ -106,32 +190,60 @@
     "subtitle": "Експерти-професіонали з багаторічним досвідом та сертифікованим навчанням",
     "members": [
       {
-        "name": "Марек Ковальський",
-        "role": "Головний технік",
+        "name": "Аркадіуш Ковальчик",
+        "role": "Старший технік і керівник команди",
         "experience": "15 років",
-        "description": "Спеціаліст зі складних віконних механізмів та аварійних ремонтів",
-        "avatar": "/images/window-sealing.webp"
+        "description": "Спеціаліст зі складних ремонтів вікон та координації команди",
+        "avatar": "/images/team/arek-kowalczyk.webp"
       },
       {
-        "name": "Петро Новак",
-        "role": "Спеціаліст зі скла",
-        "experience": "12 років",
-        "description": "Експерт з заміни скла та герметизаційних рішень",
-        "avatar": "/images/window-sealing.webp"
-      },
-      {
-        "name": "Анна Вишневська",
-        "role": "Експерт дверних систем",
-        "experience": "10 років",
-        "description": "Сертифікований спеціаліст з замків безпеки та дверної фурнітури",
-        "avatar": "/images/professional-window-installation-og.webp"
-      },
-      {
-        "name": "Якуб Левандовський",
+        "name": "Катажина Новак",
         "role": "Спеціаліст з монтажу",
         "experience": "8 років",
-        "description": "Експерт з нових установок та модернізації аксесуарів",
-        "avatar": "/images/window-sealing.webp"
+        "description": "Експерт з точного монтажу та обслуговування клієнтів",
+        "avatar": "/images/team/katarzyna-nowak.webp"
+      },
+      {
+        "name": "Томаш Вішневський",
+        "role": "Експерт з замків і безпеки",
+        "experience": "10 років",
+        "description": "Спеціаліст з систем безпеки та замкових механізмів",
+        "avatar": "/images/team/tomasz-wisniewski.webp"
+      },
+      {
+        "name": "Якуб Зелінський",
+        "role": "Спеціаліст з обслуговування",
+        "experience": "6 років",
+        "description": "Експерт з профілактичного обслуговування та швидких ремонтів",
+        "avatar": "/images/team/jakub-zielinski.webp"
+      },
+      {
+        "name": "Станіслав Домбровський",
+        "role": "Експерт з реставрації рам",
+        "experience": "20 років",
+        "description": "Майстер реставрації дерев'яних рам та традиційних технік",
+        "avatar": "/images/team/stanislaw-dabrowski.webp"
+      },
+      {
+        "name": "Павел Левандовський",
+        "role": "Технік аварійних ремонтів",
+        "experience": "7 років",
+        "description": "Спеціаліст з аварійних послуг 24/7 та швидкого реагування",
+        "avatar": "/images/team/pawel-lewandowski.webp"
+      },
+      {
+        "name": "Міхал Войчик",
+        "role": "Спеціаліст з теплоізоляції",
+        "experience": "9 років",
+        "description": "Експерт з енергоефективності та ізоляційних систем",
+        "avatar": "/images/team/michal-wojcik.webp"
+      },
+      {
+        "name": "Гжегож Шиманський",
+        "role": "Інспектор контролю якості",
+        "experience": "12 років",
+        "description": "Спеціаліст з забезпечення якості та фінальних перевірок",
+        "avatar": "/images/team/grzegorz-szymanski.webp"
       }
     ]
   }

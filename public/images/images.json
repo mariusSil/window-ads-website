@@ -213,6 +213,78 @@
     },
     "totalMappings": 31
   },
+  "teamPhotos": {
+    "description": "New Eastern European team photos from design references",
+    "lastUpdated": "2025-08-28T16:11:32.501Z",
+    "count": 8,
+    "targetDirectory": "/images/team/",
+    "photos": [
+      {
+        "name": "arek-kowalczyk",
+        "role": "Senior Technician & Team Lead",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/9c3ce6fc56-f1c569aca10f6b5fddc2.png",
+        "localPath": "/images/team/arek-kowalczyk.webp",
+        "alt": "Casual Eastern European male technician, 35-40 years old, working in authentic workshop, natural smartphone photo, candid moment, wearing work clothes, tools in background, realistic lighting, not posed, everyday work setting",
+        "downloaded": true
+      },
+      {
+        "name": "katarzyna-nowak",
+        "role": "Installation Specialist",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8d70a78fc0-8db69558ff40b15023f0.png",
+        "localPath": "/images/team/katarzyna-nowak.webp",
+        "alt": "Casual Eastern European female technician, 28-32 years old, natural smartphone photo, working in workshop, wearing practical work clothes, authentic moment, not posed, everyday work environment",
+        "downloaded": true
+      },
+      {
+        "name": "tomasz-wisniewski",
+        "role": "Lock & Security Expert",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/9c3ce6fc56-b1bc4f1b997809c0ca2a.png",
+        "localPath": "/images/team/tomasz-wisniewski.webp",
+        "alt": "Casual Eastern European male technician, 30-35 years old, natural smartphone photo, working with locks, authentic workshop setting, not posed, realistic lighting, everyday work moment",
+        "downloaded": true
+      },
+      {
+        "name": "jakub-zielinski",
+        "role": "Maintenance Specialist",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/9c3ce6fc56-096ebbba0c3e69459e8b.png",
+        "localPath": "/images/team/jakub-zielinski.webp",
+        "alt": "Casual Eastern European male technician, 25-30 years old, natural smartphone photo, friendly expression, maintenance tools visible, authentic work environment, not professional photoshoot",
+        "downloaded": true
+      },
+      {
+        "name": "stanislaw-dabrowski",
+        "role": "Frame Restoration Expert",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/ae060244bc-1856fb5f1aef857a6c2a.png",
+        "localPath": "/images/team/stanislaw-dabrowski.webp",
+        "alt": "Casual Eastern European male craftsman, 40-45 years old, natural smartphone photo, working on wooden frame, authentic workshop, weathered hands, realistic moment, not posed",
+        "downloaded": true
+      },
+      {
+        "name": "pawel-lewandowski",
+        "role": "Emergency Repair Technician",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/9c3ce6fc56-7c7001b5a81255441f4a.png",
+        "localPath": "/images/team/pawel-lewandowski.webp",
+        "alt": "Casual Eastern European male technician, 28-33 years old, natural smartphone photo, emergency equipment visible, authentic work setting, alert expression, candid moment, not professional shoot",
+        "downloaded": true
+      },
+      {
+        "name": "michal-wojcik",
+        "role": "Thermal Insulation Specialist",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/9c3ce6fc56-298255a739ed3e7e0a34.png",
+        "localPath": "/images/team/michal-wojcik.webp",
+        "alt": "Casual Eastern European male technician, 32-37 years old, natural smartphone photo, insulation materials in background, authentic workshop, analytical expression, everyday work moment",
+        "downloaded": true
+      },
+      {
+        "name": "grzegorz-szymanski",
+        "role": "Quality Control Inspector",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/9c3ce6fc56-ba29dcd213af2e066121.png",
+        "localPath": "/images/team/grzegorz-szymanski.webp",
+        "alt": "Casual Eastern European male technician, 38-42 years old, natural smartphone photo, measuring tools visible, authentic work environment, meticulous expression, candid work moment",
+        "downloaded": true
+      }
+    ]
+  },
   "replacementProcess": {
     "description": "Documentation of the systematic replacement process",
     "phases": [
@@ -239,6 +311,30 @@
     "backupsCreated": [
       "./content-backup-2025-08-28T07-12-42",
       "./content-backup-2025-08-28T07-15-09"
+    ]
+  },
+  "teamPhotoReplacements": {
+    "description": "Team photo replacement process documentation",
+    "lastUpdated": "2025-08-28T16:13:05.863Z",
+    "totalReplacements": 32,
+    "filesModified": 1,
+    "backupDirectory": "/Users/mariussilenskis/Development/silotech/window-ads-website/content-backup-team-photos-2025-08-28T16-13-05-860Z",
+    "mappings": {
+      "/images/team/team-arkadiusz-kowalczyk-senior-technician.webp": "/images/team/arek-kowalczyk.webp",
+      "/images/team/team-katarzyna-nowak-installation-specialist.webp": "/images/team/katarzyna-nowak.webp",
+      "/images/team/team-tomasz-wisniewski-security-expert.webp": "/images/team/tomasz-wisniewski.webp",
+      "/images/team/team-jakub-zielinski-maintenance-specialist.webp": "/images/team/jakub-zielinski.webp",
+      "/images/team/team-stanislaw-dabrowski-restoration-expert.webp": "/images/team/stanislaw-dabrowski.webp",
+      "/images/team/team-pawel-lewandowski-emergency-technician.webp": "/images/team/pawel-lewandowski.webp",
+      "/images/team/team-michal-wojcik-insulation-specialist.webp": "/images/team/michal-wojcik.webp",
+      "/images/team/team-grzegorz-szymanski-quality-inspector.webp": "/images/team/grzegorz-szymanski.webp"
+    },
+    "processedFiles": [
+      {
+        "file": "shared/components/technicianteam.json",
+        "replacements": 32,
+        "status": "success"
+      }
     ]
   }
 }

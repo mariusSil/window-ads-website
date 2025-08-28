@@ -51,7 +51,7 @@ export default function NewsArticleContent({
             <div className="prose prose-lg max-w-none mb-12">
               <div 
                 className="text-lg text-neutral-700 leading-relaxed"
-                dangerouslySetInnerHTML={{ __html: processContentWithCallouts(introduction) }}
+                dangerouslySetInnerHTML={{ __html: processContentWithCallouts(introduction, locale) }}
               />
             </div>
           )}
@@ -69,7 +69,7 @@ export default function NewsArticleContent({
                 <div 
                   className="news-content"
                   dangerouslySetInnerHTML={{ 
-                    __html: processContentWithCallouts(section.content, {
+                    __html: processContentWithCallouts(section.content, locale, {
                       tips: section.tips,
                       benefits: section.benefits,
                       warning: section.warning,

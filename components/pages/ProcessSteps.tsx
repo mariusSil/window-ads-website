@@ -1,3 +1,7 @@
+import React from 'react';
+import { LazyImage } from '../ui/LazyImage';
+import { RequestTechnicianButton } from '../common/RequestTechnicianButton';
+import { ConsultationButton } from '../common/ConsultationButton';
 import { type Locale } from '@/lib/i18n';
 import Icon from '@/components/ui/Icon';
 
@@ -149,18 +153,16 @@ export default function ProcessSteps({ translations, locale }: ProcessStepsProps
                'Contact us today for a free consultation and accurate quote.'}
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <button className="bg-primary text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary/90 transition-colors">
-                {locale === 'lt' ? 'Kviesti meistrą' : 
-                 locale === 'pl' ? 'Wezwać technika' : 
-                 locale === 'uk' ? 'Викликати техніка' : 
-                 'Call a Technician'}
-              </button>
-              <button className="border-2 border-primary text-primary px-6 py-3 rounded-lg font-semibold hover:bg-primary hover:text-white transition-colors">
-                {locale === 'lt' ? 'Konsultacija' : 
-                 locale === 'pl' ? 'Konsultacja' : 
-                 locale === 'uk' ? 'Консультація' : 
-                 'Consultation'}
-              </button>
+              <RequestTechnicianButton
+                locale={locale}
+                variant="default"
+                size="default"
+              />
+              <ConsultationButton
+                locale={locale}
+                variant="outline-red"
+                size="default"
+              />
             </div>
           </div>
         </div>

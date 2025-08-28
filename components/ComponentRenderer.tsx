@@ -6,11 +6,7 @@ import { Hero } from './shared/Hero'
 import { ServiceCards } from './shared/ServiceCards'
 import { PageHeader } from './common/PageHeader'
 import { Content } from './Content'
-
-// Non-critical components - loaded dynamically
-const ContactForm = dynamic(() => import('./ContactForm').then(mod => ({ default: mod.ContactForm })), {
-  loading: () => <div className="animate-pulse bg-gray-200 h-96 rounded-lg" />
-});
+import ContactForm from './pages/contact/ContactForm';
 
 const CtaBanner = dynamic(() => import('./CtaBanner'), {
   loading: () => <div className="animate-pulse bg-gray-200 h-32 rounded-lg" />

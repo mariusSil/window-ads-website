@@ -1,0 +1,441 @@
+{
+  "itemId": "maintenance-service",
+  "collection": "services",
+  "template": "service-item",
+  "slugs": {
+    "en": "maintenance-service",
+    "lt": "prieziuros-paslauga",
+    "pl": "serwis-konserwacyjny",
+    "uk": "servis-obslugovuvannya"
+  },
+  "seo": {
+    "en": {
+      "title": "Window Maintenance Service | From €35 | Preventive Care",
+      "description": "Professional window maintenance service. Regular cleaning, lubrication, adjustments, and preventive care to extend window lifespan and performance.",
+      "keywords": "window maintenance, preventive maintenance, window service, regular maintenance, window care",
+      "ogImage": "/images/maintenance-schedule-calendar.webp",
+      "ogImageAlt": "Professional window maintenance service"
+    },
+    "lt": {
+      "title": "Langų priežiūros paslauga | Nuo €35 | Prevencinė priežiūra",
+      "description": "Profesionalus langų priežiūros aptarnavimas. Reguliarus valymas, tepimas, reguliavimai ir prevencinė priežiūra langų tarnavimo laikui ir veikimui pratęsti.",
+      "keywords": "langų priežiūra, prevencinė priežiūra, langų aptarnavimas, reguliari priežiūra, langų rūpyba",
+      "ogImage": "/images/window-replacement-comparison-og.webp",
+      "ogImageAlt": "Profesionalus langų priežiūros aptarnavimas"
+    },
+    "pl": {
+      "title": "Serwis konserwacyjny okien | Od €35 | Opieka prewencyjna",
+      "description": "Profesjonalny serwis konserwacyjny okien. Regularne czyszczenie, smarowanie, regulacje i opieka prewencyjna dla przedłużenia żywotności i wydajności okien.",
+      "keywords": "konserwacja okien, konserwacja prewencyjna, serwis okien, regularna konserwacja, opieka nad oknami",
+      "ogImage": "/images/window-adjustment-guide-og.webp",
+      "ogImageAlt": "Profesjonalny serwis konserwacyjny okien"
+    },
+    "uk": {
+      "title": "Сервіс обслуговування вікон | Від €35 | Профілактичний догляд",
+      "description": "Професійний сервіс обслуговування вікон. Регулярне очищення, змащування, регулювання та профілактичний догляд для продовження терміну служби та продуктивності вікон.",
+      "keywords": "обслуговування вікон, профілактичне обслуговування, сервіс вікон, регулярне обслуговування, догляд за вікнами",
+      "ogImage": "/images/maintenance-schedule-calendar.webp",
+      "ogImageAlt": "Професійний сервіс обслуговування вікон"
+    }
+  },
+  "content": {
+    "en": {
+      "hero": {
+        "title": "Window Maintenance Service",
+        "subtitle": "Keep your windows performing like new with our comprehensive maintenance program. Regular care prevents costly repairs and extends window lifespan by up to 50%.",
+        "priceFrom": "From €35",
+        "features": [
+          "Extends window lifespan 50%",
+          "Prevents costly repairs",
+          "Improves energy efficiency",
+          "Scheduled maintenance plans"
+        ],
+        "emergencyNote": "Maintenance contracts available with priority emergency service included"
+      },
+      "serviceDetails": {
+        "title": "Comprehensive Maintenance Program",
+        "subtitle": "Professional care to keep your windows operating smoothly year-round",
+        "services": [
+          {
+            "title": "Deep Cleaning",
+            "description": "Professional cleaning of glass, frames, and hardware components",
+            "icon": "Sparkles",
+            "duration": "45-60 minutes",
+            "warranty": "Service guarantee"
+          },
+          {
+            "title": "Hardware Lubrication",
+            "description": "Lubrication of hinges, locks, and moving parts for smooth operation",
+            "icon": "Droplets",
+            "duration": "20-35 minutes",
+            "warranty": "6 months"
+          },
+          {
+            "title": "Mechanism Adjustment",
+            "description": "Fine-tuning of opening mechanisms and alignment for optimal performance",
+            "icon": "Settings",
+            "duration": "30-45 minutes",
+            "warranty": "1 year"
+          },
+          {
+            "title": "Seal Inspection",
+            "description": "Thorough inspection and maintenance of weather seals and gaskets",
+            "icon": "Eye",
+            "duration": "25-40 minutes",
+            "warranty": "Service guarantee"
+          },
+          {
+            "title": "Performance Testing",
+            "description": "Comprehensive testing of all window functions and safety features",
+            "icon": "CheckCircle",
+            "duration": "15-25 minutes",
+            "warranty": "Service guarantee"
+          },
+          {
+            "title": "Preventive Repairs",
+            "description": "Minor repairs and adjustments to prevent future problems",
+            "icon": "Wrench",
+            "duration": "30-60 minutes",
+            "warranty": "2 years"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Professional Maintenance Process",
+        "subtitle": "Systematic approach to ensure optimal window performance and longevity",
+        "steps": [
+          {
+            "title": "Comprehensive Inspection",
+            "description": "Detailed assessment of all window components and performance",
+            "icon": "Search",
+            "duration": "15-25 minutes"
+          },
+          {
+            "title": "Cleaning & Preparation",
+            "description": "Thorough cleaning and preparation for maintenance procedures",
+            "icon": "Brush",
+            "duration": "20-30 minutes"
+          },
+          {
+            "title": "Maintenance Service",
+            "description": "Professional lubrication, adjustment, and preventive maintenance",
+            "icon": "Settings",
+            "duration": "45-75 minutes"
+          },
+          {
+            "title": "Quality Verification",
+            "description": "Final testing and documentation of maintenance completed",
+            "icon": "CheckCircle",
+            "duration": "10-15 minutes"
+          }
+        ]
+      }
+    },
+    "lt": {
+      "hero": {
+        "title": "Langų profilaktinė priežiūra",
+        "subtitle": "Pasirūpinkite, kad Jūsų langai veiktų nepriekaištingai. Reguliari priežiūra padeda išvengti brangaus remonto ir prailgina langų tarnavimo laiką net iki 50%.",
+        "priceFrom": "Nuo 35 €",
+        "features": [
+          "Prailgina langų tarnavimo laiką 50%",
+          "Apsaugo nuo brangaus remonto",
+          "Pagerina energinį efektyvumą",
+          "Galimi periodinės priežiūros planai"
+        ],
+        "emergencyNote": "Sudarant priežiūros sutartį, suteikiama pirmenybė skubiam iškvietimui."
+      },
+      "serviceDetails": {
+        "title": "Visapusiška langų priežiūros programa",
+        "subtitle": "Profesionali priežiūra, užtikrinanti sklandų langų veikimą ištisus metus",
+        "services": [
+          {
+            "title": "Giluminis valymas",
+            "description": "Profesionalus stiklų, rėmų ir furnitūros elementų valymas.",
+            "icon": "Sparkles",
+            "duration": "45–60 min.",
+            "warranty": "Paslaugos garantija"
+          },
+          {
+            "title": "Furnitūros sutepimas",
+            "description": "Vyrių, spynų ir kitų judančių dalių sutepimas sklandžiam veikimui.",
+            "icon": "Droplets",
+            "duration": "20–35 min.",
+            "warranty": "6 mėnesiai"
+          },
+          {
+            "title": "Mechanizmų reguliavimas",
+            "description": "Varstymo mechanizmų suderinimas ir išlygiavimas optimaliam veikimui.",
+            "icon": "Settings",
+            "duration": "30–45 min.",
+            "warranty": "1 metai"
+          },
+          {
+            "title": "Tarpinių patikra",
+            "description": "Kruopšti sandarinimo tarpinių apžiūra ir priežiūra.",
+            "icon": "Eye",
+            "duration": "25–40 min.",
+            "warranty": "Paslaugos garantija"
+          },
+          {
+            "title": "Veikimo patikrinimas",
+            "description": "Visapusiškas visų lango funkcijų ir saugumo elementų patikrinimas.",
+            "icon": "CheckCircle",
+            "duration": "15–25 min.",
+            "warranty": "Paslaugos garantija"
+          },
+          {
+            "title": "Profilaktinis remontas",
+            "description": "Smulkūs taisymai ir reguliavimas, siekiant išvengti gedimų ateityje.",
+            "icon": "Wrench",
+            "duration": "30–60 min.",
+            "warranty": "2 metai"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Profesionali priežiūros eiga",
+        "subtitle": "Sistemingas požiūris, užtikrinantis optimalų langų veikimą ir ilgaamžiškumą.",
+        "steps": [
+          {
+            "title": "Išsami apžiūra",
+            "description": "Detalus visų lango komponentų ir veikimo įvertinimas.",
+            "icon": "Search",
+            "duration": "15–25 min."
+          },
+          {
+            "title": "Valymas ir paruošimas",
+            "description": "Kruopštus valymas ir paruošimas priežiūros darbams.",
+            "icon": "Brush",
+            "duration": "20–30 min."
+          },
+          {
+            "title": "Priežiūros darbai",
+            "description": "Profesionalus sutepimas, reguliavimas ir profilaktinė priežiūra.",
+            "icon": "Settings",
+            "duration": "45–75 min."
+          },
+          {
+            "title": "Kokybės patikrinimas",
+            "description": "Galutinis patikrinimas ir atliktų priežiūros darbų fiksavimas.",
+            "icon": "CheckCircle",
+            "duration": "10–15 min."
+          }
+        ]
+      }
+    },
+    "pl": {
+      "hero": {
+        "title": "Serwis i Konserwacja Okien",
+        "subtitle": "Dzięki naszemu kompleksowemu programowi konserwacji Twoje okna będą działać jak nowe. Regularna pielęgnacja zapobiega kosztownym naprawom i wydłuża żywotność okien nawet o 50%.",
+        "priceFrom": "Już od 150 zł",
+        "features": [
+          "Wydłużenie żywotności okien o 50%",
+          "Ochrona przed kosztownymi naprawami",
+          "Poprawa efektywności energetycznej",
+          "Regularne pakiety serwisowe"
+        ],
+        "emergencyNote": "Umowy serwisowe obejmują priorytetową pomoc w awaryjnych sytuacjach."
+      },
+      "serviceDetails": {
+        "title": "Kompleksowy Program Konserwacji",
+        "subtitle": "Profesjonalna opieka, dzięki której Twoje okna będą działać bez zarzutu przez cały rok.",
+        "services": [
+          {
+            "title": "Dokładne Czyszczenie",
+            "description": "Profesjonalne czyszczenie szyb, ram okiennych oraz okuć.",
+            "icon": "Sparkles",
+            "duration": "45-60 minut",
+            "warranty": "Gwarancja na usługę"
+          },
+          {
+            "title": "Smarowanie Okuć",
+            "description": "Smarowanie zawiasów, zamków i elementów ruchomych dla zapewnienia płynnej pracy.",
+            "icon": "Droplets",
+            "duration": "20-35 minut",
+            "warranty": "6 miesięcy"
+          },
+          {
+            "title": "Regulacja Mechanizmów",
+            "description": "Precyzyjna regulacja mechanizmów otwierania i geometrii skrzydła dla optymalnego działania.",
+            "icon": "Settings",
+            "duration": "30-45 minut",
+            "warranty": "1 rok"
+          },
+          {
+            "title": "Przegląd Uszczelek",
+            "description": "Dokładna kontrola i konserwacja uszczelek zapewniających szczelność okna.",
+            "icon": "Eye",
+            "duration": "25-40 minut",
+            "warranty": "Gwarancja na usługę"
+          },
+          {
+            "title": "Testy Sprawności",
+            "description": "Kompleksowe testowanie wszystkich funkcji okna oraz jego zabezpieczeń.",
+            "icon": "CheckCircle",
+            "duration": "15-25 minut",
+            "warranty": "Gwarancja na usługę"
+          },
+          {
+            "title": "Drobne Naprawy Prewencyjne",
+            "description": "Wykonywanie drobnych napraw i regulacji, aby zapobiec poważniejszym usterkom w przyszłości.",
+            "icon": "Wrench",
+            "duration": "30-60 minut",
+            "warranty": "2 lata"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Nasz Profesjonalny Proces Serwisowy",
+        "subtitle": "Systematyczne podejście gwarantujące optymalne działanie i długą żywotność Twoich okien.",
+        "steps": [
+          {
+            "title": "Szczegółowa Inspekcja",
+            "description": "Dokładna ocena stanu wszystkich elementów okna i jego funkcjonowania.",
+            "icon": "Search",
+            "duration": "15-25 minut"
+          },
+          {
+            "title": "Czyszczenie i Przygotowanie",
+            "description": "Staranne czyszczenie i przygotowanie okna do dalszych prac konserwacyjnych.",
+            "icon": "Brush",
+            "duration": "20-30 minut"
+          },
+          {
+            "title": "Właściwe Prace Serwisowe",
+            "description": "Profesjonalne smarowanie, regulacja i konserwacja zapobiegawcza.",
+            "icon": "Settings",
+            "duration": "45-75 minut"
+          },
+          {
+            "title": "Weryfikacja Jakości",
+            "description": "Końcowe testy, sprawdzenie wykonanych prac i przygotowanie dokumentacji.",
+            "icon": "CheckCircle",
+            "duration": "10-15 minut"
+          }
+        ]
+      }
+    },
+    "uk": {
+      "hero": {
+        "title": "Сервісне обслуговування вікон",
+        "subtitle": "Підтримуйте бездоганну роботу ваших вікон з нашою комплексною програмою обслуговування. Регулярний догляд запобігає дорогому ремонту та продовжує термін служби вікон до 50%.",
+        "priceFrom": "Від 35 €",
+        "features": [
+          "Продовження терміну служби вікон на 50%",
+          "Запобігання дорогим ремонтам",
+          "Покращення енергоефективності",
+          "Планове технічне обслуговування"
+        ],
+        "emergencyNote": "Доступні договори на обслуговування, що включають пріоритетний аварійний виклик."
+      },
+      "serviceDetails": {
+        "title": "Комплексна програма обслуговування",
+        "subtitle": "Професійний догляд для безперебійної роботи ваших вікон протягом усього року",
+        "services": [
+          {
+            "title": "Професійна чистка",
+            "description": "Чищення скла, рам та всіх елементів фурнітури від бруду та пилу.",
+            "icon": "Sparkles",
+            "duration": "45-60 хвилин",
+            "warranty": "Гарантія на роботи"
+          },
+          {
+            "title": "Змащування фурнітури",
+            "description": "Змащування петель, замків та рухомих частин для плавної та легкої роботи.",
+            "icon": "Droplets",
+            "duration": "20-35 хвилин",
+            "warranty": "6 місяців"
+          },
+          {
+            "title": "Регулювання механізмів",
+            "description": "Точне налаштування механізмів відкривання та притиску для ідеальної герметичності.",
+            "icon": "Settings",
+            "duration": "30-45 хвилин",
+            "warranty": "1 рік"
+          },
+          {
+            "title": "Перевірка ущільнювачів",
+            "description": "Ретельний огляд та обробка гумових ущільнювачів для захисту від протягів та вологи.",
+            "icon": "Eye",
+            "duration": "25-40 хвилин",
+            "warranty": "Гарантія на роботи"
+          },
+          {
+            "title": "Тестування функціональності",
+            "description": "Комплексна перевірка роботи всіх режимів вікна та елементів безпеки.",
+            "icon": "CheckCircle",
+            "duration": "15-25 хвилин",
+            "warranty": "Гарантія на роботи"
+          },
+          {
+            "title": "Профілактичний ремонт",
+            "description": "Виконання дрібних налаштувань та ремонту для запобігання серйозним поломкам у майбутньому.",
+            "icon": "Wrench",
+            "duration": "30-60 хвилин",
+            "warranty": "2 роки"
+          }
+        ]
+      },
+      "processSteps": {
+        "title": "Процес професійного обслуговування",
+        "subtitle": "Наш системний підхід гарантує оптимальну роботу та довговічність ваших вікон",
+        "steps": [
+          {
+            "title": "Комплексний огляд",
+            "description": "Детальна діагностика стану всіх компонентів вікна та його функціональності.",
+            "icon": "Search",
+            "duration": "15-25 хвилин"
+          },
+          {
+            "title": "Чистка та підготовка",
+            "description": "Ретельна чистка та підготовка віконних елементів до проведення технічних робіт.",
+            "icon": "Brush",
+            "duration": "20-30 хвилин"
+          },
+          {
+            "title": "Основні роботи з обслуговування",
+            "description": "Професійне змащування, регулювання та виконання профілактичних робіт.",
+            "icon": "Settings",
+            "duration": "45-75 хвилин"
+          },
+          {
+            "title": "Перевірка якості",
+            "description": "Фінальне тестування та підтвердження якості виконаних робіт з наданням гарантії.",
+            "icon": "CheckCircle",
+            "duration": "10-15 хвилин"
+          }
+        ]
+      }
+    }
+  },
+  "components": [
+    {
+      "type": "ServiceHero",
+      "contentKey": "hero",
+      "required": true
+    },
+    {
+      "type": "ServiceDetails",
+      "contentKey": "serviceDetails",
+      "required": true
+    },
+    {
+      "type": "ProcessSteps",
+      "contentKey": "processSteps",
+      "required": true
+    }
+  ],
+  "componentOverrides": {
+    "ServiceCards": {
+      "contentKey": "shared:maintenance-services"
+    },
+    "Testimonials": {
+      "contentKey": "shared:maintenance-testimonials"
+    },
+    "Faq": {
+      "contentKey": "shared:maintenance-faq"
+    }
+  },
+  "publishDate": "2024-02-05",
+  "author": "Langu Remontas Team"
+}

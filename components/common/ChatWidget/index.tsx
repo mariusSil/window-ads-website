@@ -13,16 +13,24 @@ interface ChatWidgetTranslations {
   modal: {
     title: string
     subtitle: string
-    closeButton: string
+    minimize: string
+    close: string
   }
   form: {
+    title: string
     nameLabel: string
-    emailLabel: string
+    namePlaceholder: string
     phoneLabel: string
+    phonePlaceholder: string
+    cityLabel: string
+    cityPlaceholder: string
+    emailLabel: string
+    emailPlaceholder: string
     messageLabel: string
+    messagePlaceholder: string
+    privacyPolicyText: string
+    privacyPolicyLink: string
     submitButton: string
-    successMessage: string
-    errorMessage: string
   }
 }
 

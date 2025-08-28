@@ -1,0 +1,174 @@
+{
+  "en": {
+    "sectionTitle": "Emergency Services",
+    "sectionSubtitle": "24/7 urgent repair services for immediate assistance",
+    "buttonText": "CALL A TECHNICIAN",
+    "services": [
+      {
+        "id": "emergency-repair",
+        "title": "Emergency Repair",
+        "description": "Immediate response for urgent window and door repairs.",
+        "priceFrom": "From €80",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Emergency technician responding to urgent window repair call"
+        },
+        "isEmergency": true,
+        "prefillText": "I need emergency repair service. My window/door is damaged and requires immediate attention for security reasons."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Emergency Glass Replacement",
+        "description": "Urgent glass replacement for broken or damaged windows.",
+        "priceFrom": "From €100",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Emergency glass replacement service for broken window"
+        },
+        "isEmergency": true,
+        "prefillText": "I need emergency glass replacement. My window glass is broken and needs immediate replacement for safety."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Emergency Sealing",
+        "description": "Immediate weatherproofing for damaged seals and drafts.",
+        "priceFrom": "From €60",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Emergency sealing service for damaged window seals"
+        },
+        "isEmergency": true,
+        "prefillText": "I need emergency sealing service. My window seals are severely damaged and causing major drafts."
+      }
+    ]
+  },
+  "lt": {
+    "sectionTitle": "Skubios pagalbos paslaugos",
+    "sectionSubtitle": "24/7 skubūs remonto darbai nedelsiant pagalbai",
+    "buttonText": "KVIESTI MEISTRĄ",
+    "services": [
+      {
+        "id": "emergency-repair",
+        "title": "Skubus remontas",
+        "description": "Nedelsiantis atsiliepimas skubiems langų ir durų remontams.",
+        "priceFrom": "Nuo €80",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Skubios pagalbos technikas atsiliepiantis į skubų lango remonto iškvietimą"
+        },
+        "isEmergency": true,
+        "prefillText": "Man reikia skubaus remonto paslaugos. Mano langas/durys pažeisti ir reikia nedelsiant dėmesio saugumo sumetimais."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Skubus stiklo keitimas",
+        "description": "Skubus stiklo keitimas sudužusiems ar pažeistiems langams.",
+        "priceFrom": "Nuo €100",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Skubaus stiklo keitimo paslauga sudužusiam langui"
+        },
+        "isEmergency": true,
+        "prefillText": "Man reikia skubaus stiklo keitimo. Mano lango stiklas sudužęs ir reikia nedelsiant keisti saugumo sumetimais."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Skubus sandarinimas",
+        "description": "Nedelsiantis apsaugos nuo oro sąlygų taikymas pažeistiems sandarikliams.",
+        "priceFrom": "Nuo €60",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Skubaus sandarinimo paslauga pažeistiems lango sandarikliams"
+        },
+        "isEmergency": true,
+        "prefillText": "Man reikia skubaus sandarinimo paslaugos. Mano lango sandarikliai smarkiai pažeisti ir sukelia didelius šalčio srautus."
+      }
+    ]
+  },
+  "pl": {
+    "sectionTitle": "Usługi awaryjne",
+    "sectionSubtitle": "24/7 pilne naprawy dla natychmiastowej pomocy",
+    "buttonText": "WEZWAĆ TECHNIKA",
+    "services": [
+      {
+        "id": "emergency-repair",
+        "title": "Naprawa awaryjna",
+        "description": "Natychmiastowa reakcja na pilne naprawy okien i drzwi.",
+        "priceFrom": "Od €80",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Technik awaryjny reagujący na pilne wezwanie naprawy okna"
+        },
+        "isEmergency": true,
+        "prefillText": "Potrzebuję usługi naprawy awaryjnej. Moje okno/drzwi są uszkodzone i wymagają natychmiastowej uwagi ze względów bezpieczeństwa."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Awaryjna wymiana szyb",
+        "description": "Pilna wymiana szyb dla połamanych lub uszkodzonych okien.",
+        "priceFrom": "Od €100",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Awaryjna usługa wymiany szyb dla połamanego okna"
+        },
+        "isEmergency": true,
+        "prefillText": "Potrzebuję awaryjnej wymiany szyb. Moja szyba okienna jest połamana i wymaga natychmiastowej wymiany dla bezpieczeństwa."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Awaryjne uszczelnianie",
+        "description": "Natychmiastowe uszczelnienie przeciw warunkom atmosferycznym dla uszkodzonych uszczelek.",
+        "priceFrom": "Od €60",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Awaryjna usługa uszczelniania dla uszkodzonych uszczelek okiennych"
+        },
+        "isEmergency": true,
+        "prefillText": "Potrzebuję awaryjnej usługi uszczelniania. Moje uszczelki okienne są poważnie uszkodzone i powodują duże przeciągi."
+      }
+    ]
+  },
+  "uk": {
+    "sectionTitle": "Аварійні послуги",
+    "sectionSubtitle": "24/7 термінові ремонтні роботи для негайної допомоги",
+    "buttonText": "ВИКЛИКАТИ ТЕХНІКА",
+    "services": [
+      {
+        "id": "emergency-repair",
+        "title": "Аварійний ремонт",
+        "description": "Негайне реагування на термінові ремонти вікон та дверей.",
+        "priceFrom": "Від €80",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Аварійний технік реагує на терміновий виклик ремонту вікна"
+        },
+        "isEmergency": true,
+        "prefillText": "Мені потрібна послуга аварійного ремонту. Моє вікно/двері пошкоджені і потребують негайної уваги з міркувань безпеки."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Аварійна заміна скла",
+        "description": "Термінова заміна скла для розбитих або пошкоджених вікон.",
+        "priceFrom": "Від €100",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Аварійна послуга заміни скла для розбитого вікна"
+        },
+        "isEmergency": true,
+        "prefillText": "Мені потрібна аварійна заміна скла. Моє віконне скло розбите і потребує негайної заміни для безпеки."
+      },
+      {
+        "id": "window-sealing",
+        "title": "Аварійна герметизація",
+        "description": "Негайна герметизація від погодних умов для пошкоджених ущільнювачів.",
+        "priceFrom": "Від €60",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Аварійна послуга герметизації для пошкоджених віконних ущільнювачів"
+        },
+        "isEmergency": true,
+        "prefillText": "Мені потрібна аварійна послуга герметизації. Мої віконні ущільнювачі серйозно пошкоджені і викликають великі протяги."
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "en": {
+    "sectionTitle": "Installation Services",
+    "sectionSubtitle": "Professional installation for new windows and doors",
+    "buttonText": "CALL A TECHNICIAN",
+    "services": [
+      {
+        "id": "installation-service",
+        "title": "New Installation",
+        "description": "Complete installation of new windows and doors with warranty.",
+        "priceFrom": "From €150",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Professional installation of new window with proper tools and techniques"
+        },
+        "isEmergency": false,
+        "prefillText": "I need new installation service for windows or doors with professional warranty."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Glass Replacement",
+        "description": "Expert glass unit replacement with energy-efficient options.",
+        "priceFrom": "From €80",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Technician carefully installing new glass unit in window frame"
+        },
+        "isEmergency": false,
+        "prefillText": "I need glass replacement service for damaged or inefficient window glass."
+      },
+      {
+        "id": "frame-repair",
+        "title": "Frame Installation",
+        "description": "New frame installation and structural reinforcement.",
+        "priceFrom": "From €120",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Professional frame installation work with precision tools"
+        },
+        "isEmergency": false,
+        "prefillText": "I need frame installation service for new or replacement window frames."
+      }
+    ]
+  },
+  "lt": {
+    "sectionTitle": "Montavimo paslaugos",
+    "sectionSubtitle": "Profesionalus naujų langų ir durų montavimas",
+    "buttonText": "KVIESTI MEISTRĄ",
+    "services": [
+      {
+        "id": "installation-service",
+        "title": "Naujas montavimas",
+        "description": "Visiškas naujų langų ir durų montavimas su garantija.",
+        "priceFrom": "Nuo €150",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Profesionalus naujo lango montavimas su tinkamais įrankiais ir metodais"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia naujo montavimo paslaugos langams ar durims su profesionalia garantija."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Stiklo keitimas",
+        "description": "Ekspertų stiklo paketo keitimas su energijos taupymo variantais.",
+        "priceFrom": "Nuo €80",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Technikas atsargiai montuoja naują stiklo paketą į lango rėmą"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia stiklo keitimo paslaugos pažeistam ar neefektyviam lango stiklui."
+      },
+      {
+        "id": "frame-repair",
+        "title": "Rėmo montavimas",
+        "description": "Naujo rėmo montavimas ir konstrukcinis stiprinimas.",
+        "priceFrom": "Nuo €120",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Profesionalus rėmo montavimo darbas su tiksliais įrankiais"
+        },
+        "isEmergency": false,
+        "prefillText": "Man reikia rėmo montavimo paslaugos naujiems ar keičiamiems langų rėmams."
+      }
+    ]
+  },
+  "pl": {
+    "sectionTitle": "Usługi montażowe",
+    "sectionSubtitle": "Profesjonalny montaż nowych okien i drzwi",
+    "buttonText": "WEZWAĆ TECHNIKA",
+    "services": [
+      {
+        "id": "installation-service",
+        "title": "Nowy montaż",
+        "description": "Kompletny montaż nowych okien i drzwi z gwarancją.",
+        "priceFrom": "Od €150",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Profesjonalny montaż nowego okna z odpowiednimi narzędziami i technikami"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi nowego montażu okien lub drzwi z profesjonalną gwarancją."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Wymiana szyb",
+        "description": "Ekspercka wymiana pakietu szklanego z opcjami energooszczędnymi.",
+        "priceFrom": "Od €80",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Technik ostrożnie montuje nowy pakiet szklany w ramie okiennej"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi wymiany szyb dla uszkodzonego lub nieefektywnego szkła okiennego."
+      },
+      {
+        "id": "frame-repair",
+        "title": "Montaż ram",
+        "description": "Montaż nowych ram i wzmocnienie konstrukcyjne.",
+        "priceFrom": "Od €120",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Profesjonalna praca montażowa ram z precyzyjnymi narzędziami"
+        },
+        "isEmergency": false,
+        "prefillText": "Potrzebuję usługi montażu ram dla nowych lub wymiennych ram okiennych."
+      }
+    ]
+  },
+  "uk": {
+    "sectionTitle": "Послуги встановлення",
+    "sectionSubtitle": "Професійне встановлення нових вікон та дверей",
+    "buttonText": "ВИКЛИКАТИ ТЕХНІКА",
+    "services": [
+      {
+        "id": "installation-service",
+        "title": "Нове встановлення",
+        "description": "Повне встановлення нових вікон та дверей з гарантією.",
+        "priceFrom": "Від €150",
+        "image": {
+          "src": "/images/window-security-safety-og.webp",
+          "alt": "Професійне встановлення нового вікна з належними інструментами та методами"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга нового встановлення вікон або дверей з професійною гарантією."
+      },
+      {
+        "id": "glass-replacement",
+        "title": "Заміна скла",
+        "description": "Експертна заміна скляного пакету з енергоефективними варіантами.",
+        "priceFrom": "Від €80",
+        "image": {
+          "src": "/images/glass-unit-replacement.webp",
+          "alt": "Технік обережно встановлює новий скляний пакет у віконну раму"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга заміни скла для пошкодженого або неефективного віконного скла."
+      },
+      {
+        "id": "frame-repair",
+        "title": "Встановлення рам",
+        "description": "Встановлення нових рам та конструкційне зміцнення.",
+        "priceFrom": "Від €120",
+        "image": {
+          "src": "/images/window-maintenance-schedule.webp",
+          "alt": "Професійна робота з встановлення рам з точними інструментами"
+        },
+        "isEmergency": false,
+        "prefillText": "Мені потрібна послуга встановлення рам для нових або замінних віконних рам."
+      }
+    ]
+  }
+}
