@@ -214,73 +214,73 @@
     "totalMappings": 31
   },
   "teamPhotos": {
-    "description": "New Eastern European team photos from design references",
-    "lastUpdated": "2025-08-28T16:11:32.501Z",
+    "description": "Updated Eastern European team photos from design references",
+    "lastUpdated": "2025-08-28T16:30:25.480Z",
     "count": 8,
     "targetDirectory": "/images/team/",
     "photos": [
       {
         "name": "arek-kowalczyk",
         "role": "Senior Technician & Team Lead",
-        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/9c3ce6fc56-f1c569aca10f6b5fddc2.png",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/15f9195390-dad0b06eb4339b471017.png",
         "localPath": "/images/team/arek-kowalczyk.webp",
-        "alt": "Casual Eastern European male technician, 35-40 years old, working in authentic workshop, natural smartphone photo, candid moment, wearing work clothes, tools in background, realistic lighting, not posed, everyday work setting",
+        "alt": "Eastern European male technician, 35-40 years old, standing casually in authentic workshop, wearing work shirt, confident expression, workshop tools and window frames in background, natural daylight lighting, candid workplace moment, Polish Slavic features, hands at sides or crossed, no phone, realistic casual pose",
         "downloaded": true
       },
       {
         "name": "katarzyna-nowak",
         "role": "Installation Specialist",
-        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8d70a78fc0-8db69558ff40b15023f0.png",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/d319d3166c-4463910ff253c5ef5770.png",
         "localPath": "/images/team/katarzyna-nowak.webp",
-        "alt": "Casual Eastern European female technician, 28-32 years old, natural smartphone photo, working in workshop, wearing practical work clothes, authentic moment, not posed, everyday work environment",
+        "alt": "Eastern European female technician, 28-32 years old, standing naturally in workshop, wearing practical work clothes, confident smile, workshop tools in background, natural daylight lighting, authentic workplace moment, Polish Slavic features, hands at sides, no phone, casual professional pose",
         "downloaded": true
       },
       {
         "name": "tomasz-wisniewski",
         "role": "Lock & Security Expert",
-        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/9c3ce6fc56-b1bc4f1b997809c0ca2a.png",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/15f9195390-aca6be1d42ff1c9408ac.png",
         "localPath": "/images/team/tomasz-wisniewski.webp",
-        "alt": "Casual Eastern European male technician, 30-35 years old, natural smartphone photo, working with locks, authentic workshop setting, not posed, realistic lighting, everyday work moment",
+        "alt": "Eastern European male technician, 30-35 years old, standing naturally in workshop, focused expression, lock mechanisms and security tools visible in background, natural daylight lighting, authentic workplace moment, Polish Slavic features, arms crossed or at sides, no phone, casual work pose",
         "downloaded": true
       },
       {
         "name": "jakub-zielinski",
         "role": "Maintenance Specialist",
-        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/9c3ce6fc56-096ebbba0c3e69459e8b.png",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/15f9195390-2d7fba6f4c360789a064.png",
         "localPath": "/images/team/jakub-zielinski.webp",
-        "alt": "Casual Eastern European male technician, 25-30 years old, natural smartphone photo, friendly expression, maintenance tools visible, authentic work environment, not professional photoshoot",
+        "alt": "Eastern European male technician, 25-30 years old, standing naturally in workshop, friendly approachable expression, maintenance tools visible in background, natural daylight lighting, authentic workplace moment, Polish Slavic features, relaxed pose with hands at sides, no phone, casual stance",
         "downloaded": true
       },
       {
         "name": "stanislaw-dabrowski",
         "role": "Frame Restoration Expert",
-        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/ae060244bc-1856fb5f1aef857a6c2a.png",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/bd7fccf949-3df6acab79265b1e2451.png",
         "localPath": "/images/team/stanislaw-dabrowski.webp",
-        "alt": "Casual Eastern European male craftsman, 40-45 years old, natural smartphone photo, working on wooden frame, authentic workshop, weathered hands, realistic moment, not posed",
+        "alt": "Eastern European male craftsman, 40-45 years old, standing naturally in workshop, weathered experienced hands visible, wooden window frames in background, natural daylight lighting, authentic workplace moment, Polish Slavic features, hands clasped or at sides, no phone, mature craftsman stance",
         "downloaded": true
       },
       {
         "name": "pawel-lewandowski",
         "role": "Emergency Repair Technician",
-        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/9c3ce6fc56-7c7001b5a81255441f4a.png",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/15f9195390-df3892491854fae84399.png",
         "localPath": "/images/team/pawel-lewandowski.webp",
-        "alt": "Casual Eastern European male technician, 28-33 years old, natural smartphone photo, emergency equipment visible, authentic work setting, alert expression, candid moment, not professional shoot",
+        "alt": "Eastern European male technician, 28-33 years old, standing naturally in workshop, alert ready expression, emergency repair equipment visible in background, natural daylight lighting, authentic workplace moment, Polish Slavic features, confident stance with arms at sides, no phone, ready for action pose",
         "downloaded": true
       },
       {
         "name": "michal-wojcik",
         "role": "Thermal Insulation Specialist",
-        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/9c3ce6fc56-298255a739ed3e7e0a34.png",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/15f9195390-cd01618ea9a5b3a93b43.png",
         "localPath": "/images/team/michal-wojcik.webp",
-        "alt": "Casual Eastern European male technician, 32-37 years old, natural smartphone photo, insulation materials in background, authentic workshop, analytical expression, everyday work moment",
+        "alt": "Eastern European male technician, 32-37 years old, standing naturally in workshop, analytical focused expression, insulation materials visible in background, natural daylight lighting, authentic workplace moment, Polish Slavic features, thoughtful pose with hands at sides, no phone, professional stance",
         "downloaded": true
       },
       {
         "name": "grzegorz-szymanski",
         "role": "Quality Control Inspector",
-        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/9c3ce6fc56-ba29dcd213af2e066121.png",
+        "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/15f9195390-18f04d3e445fe4b71995.png",
         "localPath": "/images/team/grzegorz-szymanski.webp",
-        "alt": "Casual Eastern European male technician, 38-42 years old, natural smartphone photo, measuring tools visible, authentic work environment, meticulous expression, candid work moment",
+        "alt": "Eastern European male technician, 38-42 years old, standing naturally in workshop, meticulous careful expression, measuring tools visible in background, natural daylight lighting, authentic workplace moment, Polish Slavic features, professional pose with arms at sides, no phone, quality inspector stance",
         "downloaded": true
       }
     ]
