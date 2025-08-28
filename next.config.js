@@ -6,13 +6,13 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
+  output: 'standalone',
   // Enable compression for better performance
   compress: true,
   poweredByHeader: false,
   
   // Bundle optimization and compression
   experimental: {
-    optimizeCss: true,
     gzipSize: true,
     webpackBuildWorker: true,
     optimizePackageImports: ['lucide-react', '@radix-ui/react-dialog', '@radix-ui/react-select'],

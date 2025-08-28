@@ -73,9 +73,20 @@ export function ChatBubble({ onClick, isOpen, locale, translations }: ChatBubble
           ${isOpen ? 'bg-gray-600 hover:bg-gray-700' : 'bg-primary hover:bg-primary/90'}
           hover:scale-110 active:scale-95
           safe-area-bottom safe-area-right
+          focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2
         `}
         aria-label={translations.bubble.ariaLabel}
         aria-describedby="chat-tooltip"
+        aria-expanded={isOpen}
+        aria-haspopup="dialog"
+        role="button"
+        tabIndex={0}
+        onKeyDown={(e) => {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault()
+            onClick()
+          }
+        }}
       >
         {isOpen ? (
           <Icon name="X" className="w-6 h-6 text-white" />

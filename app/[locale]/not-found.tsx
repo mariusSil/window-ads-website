@@ -1,8 +1,5 @@
-'use client';
-
-import { usePathname } from 'next/navigation';
 import Link from 'next/link';
-import { type Locale, isValidLocale, defaultLocale } from '@/lib/i18n';
+import { type Locale, defaultLocale } from '@/lib/i18n';
 import { getButtonText } from '@/lib/button-constants';
 import Icon from '@/components/ui/Icon';
 import { CTAButtons } from '@/components/common/CTAButtons';
@@ -128,12 +125,8 @@ const notFoundTranslations: Record<Locale, NotFoundContent> = {
 };
 
 export default function NotFound() {
-  const pathname = usePathname();
-  
-  // Extract locale from pathname
-  const segments = pathname.split('/').filter(Boolean);
-  const detectedLocale = segments[0];
-  const locale: Locale = isValidLocale(detectedLocale) ? detectedLocale : defaultLocale;
+  // Use default locale for static generation
+  const locale: Locale = defaultLocale;
   
   // Get translations for current locale
   const content = notFoundTranslations[locale];

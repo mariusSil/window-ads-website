@@ -40,6 +40,12 @@ interface WidgetState {
   dismissedCount: number
 }
 
+interface WidgetMetrics {
+  loadTime: number
+  interactionCount: number
+  modalOpenTime: number
+}
+
 export default function ChatWidget({ locale, translations }: ChatWidgetProps) {
   const [isOpen, setIsOpen] = useState(false)
   const [widgetState, setWidgetState] = useState<WidgetState>({
@@ -48,9 +54,16 @@ export default function ChatWidget({ locale, translations }: ChatWidgetProps) {
     submissionCount: 0,
     dismissedCount: 0
   })
+  const [metrics, setMetrics] = useState<WidgetMetrics>({
+    loadTime: Date.now(),
+    interactionCount: 0,
+    modalOpenTime: 0
+  })
 
-  // Load widget state from localStorage
+  // Load widget state from localStorage and track widget load
   useEffect(() => {
+    const startTime = Date.now()
+    
     try {
       const savedState = localStorage.getItem(WIDGET_STORAGE_KEY)
       if (savedState) {
@@ -62,10 +75,17 @@ export default function ChatWidget({ locale, translations }: ChatWidgetProps) {
           return
         }
       }
+      
+      // Track widget load
+      
+      // Track load performance
+      const loadTime = Date.now() - startTime
+      setMetrics(prev => ({ ...prev, loadTime }))
+      
     } catch (error) {
       console.warn('Failed to load widget state:', error)
     }
-  }, [])
+  }, [locale])
 
   // Save widget state to localStorage
   const updateWidgetState = (updates: Partial<WidgetState>) => {
@@ -80,35 +100,54 @@ export default function ChatWidget({ locale, translations }: ChatWidgetProps) {
   }
 
   const handleBubbleClick = () => {
+    const timeOnPage = Math.floor((Date.now() - metrics.loadTime) / 1000)
+    const newInteractionCount = metrics.interactionCount + 1
+    
     setIsOpen(true)
+    setMetrics(prev => ({ 
+      ...prev, 
+      interactionCount: newInteractionCount,
+      modalOpenTime: Date.now()
+    }))
+    
     updateWidgetState({
       hasInteracted: true,
       lastInteraction: Date.now()
     })
+    
   }
 
   const handleModalClose = () => {
-    setIsOpen(false)
+    const timeOpen = metrics.modalOpenTime ? Math.floor((Date.now() - metrics.modalOpenTime) / 1000) : 0
     
-    // Track dismissal if no form data was submitted
-    const hasFormData = (() => {
+    // Calculate form completion percentage
+    const formCompletionPercentage = (() => {
       try {
         const draft = localStorage.getItem('chatWidget_formDraft')
         if (draft) {
           const parsedDraft = JSON.parse(draft)
-          return parsedDraft.name || parsedDraft.email || parsedDraft.phone || parsedDraft.message
+          const fields = ['name', 'email', 'phone', 'message']
+          const completedFields = fields.filter(field => parsedDraft[field]?.trim())
+          return Math.round((completedFields.length / fields.length) * 100)
         }
       } catch (error) {
         // Ignore localStorage errors
       }
-      return false
+      return 0
     })()
+    
+    setIsOpen(false)
+    
+    // Track dismissal if no form data was submitted
+    const hasFormData = formCompletionPercentage > 0
 
     if (!hasFormData) {
       updateWidgetState({
         dismissedCount: widgetState.dismissedCount + 1
       })
     }
+    
+    // Track modal close
   }
 
   // Don't render if dismissed too many times
