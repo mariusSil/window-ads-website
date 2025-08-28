@@ -106,6 +106,7 @@ function generateBusinessEmailTemplate(data: UnifiedEmailData): {
   text: string;
 } {
   const isRequestTechnician = data.formType === 'technician';
+  const isChatMessage = data.formType === 'chat';
   
   // Subject line with locale prefix
   const subjects = {
@@ -120,6 +121,12 @@ function generateBusinessEmailTemplate(data: UnifiedEmailData): {
       lt: `[LT] Nauja kontaktų forma - ${data.name}`,
       pl: `[PL] Nowy formularz kontaktowy - ${data.name}`,
       uk: `[UK] Нова контактна форма - ${data.name}`
+    },
+    chat: {
+      en: `[EN] New Chat Message - ${data.name}`,
+      lt: `[LT] Nauja pokalbio žinutė - ${data.name}`,
+      pl: `[PL] Nowa wiadomość z czatu - ${data.name}`,
+      uk: `[UK] Нове повідомлення з чату - ${data.name}`
     }
   };
   
@@ -149,7 +156,7 @@ function generateBusinessEmailTemplate(data: UnifiedEmailData): {
     <body>
       <div class="container">
         <div class="header">
-          <h1>🔧 ${isRequestTechnician ? 'Technician Request' : 'Contact Form'}</h1>
+          <h1>🔧 ${isRequestTechnician ? 'Technician Request' : isChatMessage ? 'Chat Message' : 'Contact Form'}</h1>
           <p>New submission from langu-remontas.com</p>
         </div>
         
@@ -157,7 +164,9 @@ function generateBusinessEmailTemplate(data: UnifiedEmailData): {
           ${isRequestTechnician && data.triggerType === 'technician' ? 
             '<div class="priority urgent"><strong>⚡ URGENT REQUEST</strong> - Customer needs immediate technician assistance</div>' : 
             isRequestTechnician && data.triggerType === 'consultation' ?
-            '<div class="priority"><strong>💬 CONSULTATION</strong> - Customer interested in consultation</div>' : ''
+            '<div class="priority"><strong>💬 CONSULTATION</strong> - Customer interested in consultation</div>' : 
+            isChatMessage ?
+            '<div class="priority urgent"><strong>💬 CHAT MESSAGE</strong> - Customer contacted via chat widget</div>' : ''
           }
           
           <div class="field">
@@ -229,7 +238,7 @@ function generateBusinessEmailTemplate(data: UnifiedEmailData): {
   
   // Generate plain text version
   const text = `
-${isRequestTechnician ? 'TECHNICIAN REQUEST' : 'CONTACT FORM'} - ${data.name}
+${isRequestTechnician ? 'TECHNICIAN REQUEST' : isChatMessage ? 'CHAT MESSAGE' : 'CONTACT FORM'} - ${data.name}
 
 Customer Details:
 - Name: ${data.name}
@@ -310,6 +319,32 @@ function generateCustomerConfirmationTemplate(data: UnifiedEmailData): {
         title: 'Дякуємо за звернення!',
         message: 'Ми отримали ваше повідомлення і відповімо протягом 24 годин.',
         next: 'Наша команда розгляне ваш запит і надасть детальну відповідь.'
+      }
+    },
+    chat: {
+      en: {
+        subject: 'Chat Message Received - Langu Remontas',
+        title: 'Thank you for your message!',
+        message: 'We have received your chat message and will contact you within 2 hours.',
+        next: 'Our team will review your question and provide a prompt response.'
+      },
+      lt: {
+        subject: 'Pokalbio žinutė gauta - Langu Remontas',
+        title: 'Ačiū už jūsų žinutę!',
+        message: 'Gavome jūsų pokalbio žinutę ir susisieksime per 2 valandas.',
+        next: 'Mūsų komanda peržiūrės jūsų klausimą ir pateiks greitą atsakymą.'
+      },
+      pl: {
+        subject: 'Wiadomość z czatu otrzymana - Langu Remontas',
+        title: 'Dziękujemy za wiadomość!',
+        message: 'Otrzymaliśmy Twoją wiadomość z czatu i skontaktujemy się w ciągu 2 godzin.',
+        next: 'Nasz zespół przeanalizuje Twoje pytanie i udzieli szybkiej odpowiedzi.'
+      },
+      uk: {
+        subject: 'Повідомлення з чату отримано - Langu Remontas',
+        title: 'Дякуємо за ваше повідомлення!',
+        message: 'Ми отримали ваше повідомлення з чату і зв\'яжемося протягом 2 годин.',
+        next: 'Наша команда розгляне ваше запитання і надасть швидку відповідь.'
       }
     }
   };

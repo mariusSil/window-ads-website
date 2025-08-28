@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from 'next/image';
+import { LazyImage } from '../ui/LazyImage';
 import dynamic from 'next/dynamic';
 import { Locale } from '@/lib/i18n';
 import { ContentLoader } from '../common/ContentLoader';

@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from 'next/image';
+import { LazyImage } from '../ui/LazyImage';
 import Icon from '@/components/ui/Icon';
 import { CTAButtons } from '../common/CTAButtons';
 import { type Locale } from '@/lib/i18n';
@@ -64,12 +64,13 @@ const Testimonials = ({ locale, translations, className = '' }: TestimonialsProp
                 </div>
                 <figcaption className="mt-6 flex items-center gap-x-4">
                   <div className="relative h-10 w-10 rounded-full overflow-hidden">
-                    <Image 
+                    <LazyImage 
                       src={testimonial.avatar} 
                       alt={testimonial.name} 
                       width={40}
                       height={40}
-                      className="object-cover"
+                      className="w-full h-full object-cover"
+                      sizes="40px"
                     />
                   </div>
                   <div>

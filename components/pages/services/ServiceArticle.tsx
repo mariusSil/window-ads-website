@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from 'next/image';
+import { LazyImage } from '../../ui/LazyImage';
 import { CTAButtons } from '@/components/common/CTAButtons';
 import { getButtonText } from '@/lib/button-constants';
 import { type Locale } from '@/lib/i18n';
@@ -80,11 +80,12 @@ export default function ServiceArticle({ translations, locale }: ServiceArticleP
           {/* Image */}
           <div className="relative">
             <div className="aspect-[4/3] relative rounded-lg overflow-hidden shadow-lg">
-              <Image
+              <LazyImage
                 src={translations.image.src}
                 alt={translations.image.alt}
-                fill
-                className="object-cover"
+                width={800}
+                height={600}
+                className="w-full h-full object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 priority
               />

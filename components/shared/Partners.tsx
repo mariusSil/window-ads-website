@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from 'next/image';
+import { LazyImage } from '../ui/LazyImage';
 
 interface Partner {
   alt: string;
@@ -32,13 +32,13 @@ const Partners = ({ content, locale }: PartnersProps) => {
               key={index}
               className="group flex items-center justify-center p-4 rounded-lg transition-all duration-300 hover:bg-gray-50 hover:shadow-md"
             >
-              <Image
+              <LazyImage
                 className="max-h-12 w-auto object-contain filter grayscale group-hover:grayscale-0 transition-all duration-300 group-hover:scale-105"
                 src={partner.src}
                 alt={partner.alt}
                 width={120}
                 height={48}
-                loading="lazy"
+                sizes="120px"
               />
             </div>
           ))}

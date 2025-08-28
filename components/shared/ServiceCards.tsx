@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from 'next/image';
+import { LazyImage } from '../ui/LazyImage';
 import { RequestTechnicianButton } from '../common/RequestTechnicianButton';
 import { type Locale } from '@/lib/i18n';
 import ContentLoader from '../common/ContentLoader';
@@ -81,11 +81,12 @@ export function ServiceCards({
             >
               {/* Service Image */}
               <div className="w-full h-48 relative bg-neutral-100 overflow-hidden">
-                <Image
+                <LazyImage
                   src={service.image.src}
                   alt={service.image.alt}
-                  fill
-                  className="object-cover hover:scale-105 transition-transform duration-300"
+                  width={400}
+                  height={300}
+                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
                 />
               </div>

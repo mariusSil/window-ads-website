@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from 'next/image';
+import { LazyImage } from '../ui/LazyImage';
 import { type Locale } from '@/lib/i18n';
 import { LearnMoreButton } from '@/components/common/LearnMoreButton';
 import Icon from '@/components/ui/Icon';
@@ -69,11 +69,12 @@ const PropertyTypes: React.FC<PropertyTypesProps> = ({
             >
               {/* Property Type Image */}
               <div className="relative h-48 overflow-hidden">
-                <Image
+                <LazyImage
                   src={propertyType.image.src}
                   alt={propertyType.image.alt}
-                  fill
-                  className="object-cover group-hover:scale-105 transition-transform duration-300"
+                  width={400}
+                  height={300}
+                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
                 />
               </div>

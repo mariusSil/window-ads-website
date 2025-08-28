@@ -2,7 +2,7 @@ import React from 'react';
 import { Button } from '@/components/ui/Button';
 import { RequestTechnicianButton } from '../common/RequestTechnicianButton';
 import Icon from '@/components/ui/Icon';
-import Image from 'next/image';
+import { LazyImage } from '../ui/LazyImage';
 import { loadSharedContent, getLocalizedSharedContent } from '@/content/lib/content-resolver';
 import { isValidLocale, type Locale } from '@/lib/i18n';
 import { generatePrefillMessageSync } from '@/lib/prefill-utils';
@@ -66,11 +66,12 @@ const AccessoryCard: React.FC<{
     <div className="bg-white rounded-card border border-neutral-200 overflow-hidden hover:shadow-lg transition-shadow duration-300">
       {/* Product Image */}
       <div className="w-full h-48 relative bg-neutral-100 rounded-t-card overflow-hidden">
-        <Image
+        <LazyImage
           src={item.image}
           alt={item.imageAlt}
-          fill
-          className="object-cover hover:scale-105 transition-transform duration-300"
+          width={300}
+          height={200}
+          className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
           sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 25vw"
         />
       </div>

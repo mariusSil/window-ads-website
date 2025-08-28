@@ -4,6 +4,7 @@ import { Header } from '@/components/common/Header';
 import { Navigation } from '@/components/common/Navigation';
 import { Footer } from '@/components/common/Footer';
 import { MobileNavigationMenu } from '@/components/common/MobileNavigationMenu';
+import ChatWidget from '@/components/common/ChatWidget';
 import { useMobileMenu } from '@/hooks/useMobileMenu';
 import { type Locale } from '@/lib/i18n';
 
@@ -67,6 +68,14 @@ export function ClientLayout({
           translations={{
             navigation: localizedNavigation || { main: [] },
             common: localizedCommon || {}
+          }}
+        />
+        <ChatWidget
+          locale={validLocale}
+          translations={localizedCommon?.chatWidget || {
+            bubble: { tooltip: 'Chat with us', ariaLabel: 'Open chat widget' },
+            modal: { title: 'How can we help you?', subtitle: 'Write to us and we\'ll try to answer your questions immediately.', closeButton: 'Close chat' },
+            form: { nameLabel: 'Full Name', emailLabel: 'Email Address', phoneLabel: 'Phone Number', messageLabel: 'Your Question', submitButton: 'Send Message', successMessage: 'Thank you! We\'ll contact you within 2 hours.', errorMessage: 'Error sending message. Please try again.' }
           }}
         />
       </div>

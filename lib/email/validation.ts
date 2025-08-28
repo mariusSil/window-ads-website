@@ -61,15 +61,34 @@ export const contactFormSchema = z.object({
   company: z.string().max(0, 'Invalid field').optional(),
 });
 
-// Unified schema that accepts both form types
+// ChatWidget form validation
+export const chatFormSchema = z.object({
+  name: nameSchema,
+  email: emailSchema,
+  phone: phoneSchema.optional(),
+  message: messageSchema.min(1, 'Message is required'),
+  triggerType: z.literal('chat').optional(),
+  locale: localeSchema,
+  formType: z.literal('chat'),
+  timestamp: z.string().datetime(),
+  
+  // Honeypot fields (should be empty)
+  website: z.string().max(0, 'Invalid field').optional(),
+  url: z.string().max(0, 'Invalid field').optional(),
+  company: z.string().max(0, 'Invalid field').optional(),
+});
+
+// Unified schema that accepts all form types
 export const unifiedEmailSchema = z.discriminatedUnion('formType', [
   requestTechnicianSchema,
-  contactFormSchema
+  contactFormSchema,
+  chatFormSchema
 ]);
 
 // Type inference
 export type RequestTechnicianData = z.infer<typeof requestTechnicianSchema>;
 export type ContactFormData = z.infer<typeof contactFormSchema>;
+export type ChatFormData = z.infer<typeof chatFormSchema>;
 export type UnifiedEmailData = z.infer<typeof unifiedEmailSchema>;
 
 // Validation function with detailed error messages

@@ -10,16 +10,19 @@ const nextConfig = {
   compress: true,
   poweredByHeader: false,
   
-  // Bundle optimization
+  // Bundle optimization and compression
   experimental: {
     optimizeCss: true,
+    gzipSize: true,
+    webpackBuildWorker: true,
+    optimizePackageImports: ['lucide-react', '@radix-ui/react-dialog', '@radix-ui/react-select'],
   },
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
   },
   
   images: {
-    formats: ['image/avif', 'image/webp'],
+    formats: ['image/webp', 'image/avif'],
     remotePatterns: [
       {
         protocol: 'https',
@@ -32,6 +35,8 @@ const nextConfig = {
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     unoptimized: false,
     minimumCacheTTL: 86400, // 24 hours cache for images
+    dangerouslyAllowSVG: false,
+    contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;",
   },
   
   // Add caching headers for better performance

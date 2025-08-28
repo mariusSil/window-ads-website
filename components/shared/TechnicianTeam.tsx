@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from 'next/image';
+import { LazyImage } from '../ui/LazyImage';
 import { type Locale } from '@/lib/i18n';
 import ContentLoader from '../common/ContentLoader';
 
@@ -47,12 +47,13 @@ const TechnicianTeam = ({ locale, translations, className = '' }: TechnicianTeam
               <div className="relative mb-6">
                 <div className="w-32 h-32 rounded-full overflow-hidden bg-neutral-200">
                   {member.avatar ? (
-                    <Image
+                    <LazyImage
                       src={member.avatar}
                       alt={member.name}
                       width={128}
                       height={128}
                       className="w-full h-full object-cover"
+                      sizes="128px"
                     />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center">

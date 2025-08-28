@@ -34,6 +34,26 @@
       "closeMenu": "Close navigation menu",
       "toggleTheme": "Toggle theme"
     },
+    "chatWidget": {
+      "bubble": {
+        "tooltip": "Chat with us",
+        "ariaLabel": "Open chat widget"
+      },
+      "modal": {
+        "title": "How can we help you?",
+        "subtitle": "Write to us and we'll try to answer your questions immediately.",
+        "closeButton": "Close chat"
+      },
+      "form": {
+        "nameLabel": "Full Name",
+        "emailLabel": "Email Address",
+        "phoneLabel": "Phone Number",
+        "messageLabel": "Your Question",
+        "submitButton": "Send Message",
+        "successMessage": "Thank you! We'll contact you within 2 hours.",
+        "errorMessage": "Error sending message. Please try again."
+      }
+    },
     "phone": "+370 644 45403",
     "telegram": "your-telegram-username",
     "whatsapp": "37064445403",
@@ -284,6 +304,26 @@
       "openMenu": "Atidaryti navigacijos meniu",
       "closeMenu": "Uždaryti navigacijos meniu",
       "toggleTheme": "Perjungti temą"
+    },
+    "chatWidget": {
+      "bubble": {
+        "tooltip": "Susisiekite su mumis",
+        "ariaLabel": "Atidaryti pokalbių valdiklį"
+      },
+      "modal": {
+        "title": "Kuo galime Jums padėti?",
+        "subtitle": "Parašykite ir pasistengsime atsakyti į Jūsų klausimus nedelsiant.",
+        "closeButton": "Uždaryti pokalbį"
+      },
+      "form": {
+        "nameLabel": "Vardas Pavardė",
+        "emailLabel": "El. pašto adresas",
+        "phoneLabel": "Telefono numeris",
+        "messageLabel": "Jūsų klausimas",
+        "submitButton": "Siųsti žinutę",
+        "successMessage": "Ačiū! Susisieksime su jumis per 2 valandas.",
+        "errorMessage": "Klaida siunčiant žinutę. Bandykite dar kartą."
+      }
     },
     "phone": "+370 644 45403",
     "telegram": "your-telegram-username",
@@ -536,6 +576,26 @@
       "closeMenu": "Zamknij menu nawigacji",
       "toggleTheme": "Zmień motyw"
     },
+    "chatWidget": {
+      "bubble": {
+        "tooltip": "Porozmawiaj z nami",
+        "ariaLabel": "Otwórz widget czatu"
+      },
+      "modal": {
+        "title": "Jak możemy Ci pomóc?",
+        "subtitle": "Napisz do nas, a postaramy się odpowiedzieć na Twoje pytania natychmiast.",
+        "closeButton": "Zamknij czat"
+      },
+      "form": {
+        "nameLabel": "Imię i Nazwisko",
+        "emailLabel": "Adres Email",
+        "phoneLabel": "Numer Telefonu",
+        "messageLabel": "Twoje Pytanie",
+        "submitButton": "Wyślij Wiadomość",
+        "successMessage": "Dziękujemy! Skontaktujemy się w ciągu 2 godzin.",
+        "errorMessage": "Błąd wysyłania wiadomości. Spróbuj ponownie."
+      }
+    },
     "phone": "+370 644 45403",
     "telegram": "your-telegram-username",
     "whatsapp": "37064445403",
@@ -786,6 +846,26 @@
       "openMenu": "Відкрити меню навігації",
       "closeMenu": "Закрити меню навігації",
       "toggleTheme": "Змінити тему"
+    },
+    "chatWidget": {
+      "bubble": {
+        "tooltip": "Поспілкуйтеся з нами",
+        "ariaLabel": "Відкрити віджет чату"
+      },
+      "modal": {
+        "title": "Як ми можемо вам допомогти?",
+        "subtitle": "Напишіть нам, і ми постараємося відповісти на ваші запитання негайно.",
+        "closeButton": "Закрити чат"
+      },
+      "form": {
+        "nameLabel": "Повне Ім'я",
+        "emailLabel": "Електронна Адреса",
+        "phoneLabel": "Номер Телефону",
+        "messageLabel": "Ваше Запитання",
+        "submitButton": "Надіслати Повідомлення",
+        "successMessage": "Дякуємо! Ми зв'яжемося протягом 2 годин.",
+        "errorMessage": "Помилка надсилання повідомлення. Спробуйте ще раз."
+      }
     },
     "phone": "+370 644 45403",
     "telegram": "your-telegram-username",

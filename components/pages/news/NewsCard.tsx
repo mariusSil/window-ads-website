@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import Image from 'next/image';
+import { LazyImage } from '../../ui/LazyImage';
 import { type Locale } from '@/lib/i18n';
 import { Button } from '@/components/ui/Button';
 import Icon from '@/components/ui/Icon';
@@ -35,11 +35,12 @@ export default function NewsCard({ article, locale, translations, articleUrl }: 
       {/* Featured Image */}
       <div className="aspect-video bg-neutral-100 relative overflow-hidden">
         {localizedSEO.ogImage ? (
-          <Image
+          <LazyImage
             src={localizedSEO.ogImage}
             alt={localizedSEO.ogImageAlt || localizedSEO.title}
-            fill
-            className="object-cover group-hover:scale-105 transition-transform duration-300"
+            width={600}
+            height={400}
+            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
             sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
           />
         ) : (
