@@ -14,7 +14,7 @@ const nextConfig = {
   // Bundle optimization and compression
   experimental: {
     gzipSize: true,
-    webpackBuildWorker: false, // Disable to prevent stack overflow
+    webpackBuildWorker: true, // Disable to prevent stack overflow
     optimizePackageImports: ['lucide-react', '@radix-ui/react-dialog', '@radix-ui/react-select'],
   },
   compiler: {
@@ -65,6 +65,7 @@ const nextConfig = {
     minimumCacheTTL: 86400, // 24 hours cache for images
     dangerouslyAllowSVG: false,
     contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;",
+    loader: 'default', // Use Next.js built-in image optimization
   },
   
   // Add caching headers for better performance

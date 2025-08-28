@@ -13,3 +13,6 @@ scripts/
 content-translation-output/
 *.md
 !README.md
+
+# Sharp is only needed for local image processing scripts
+# Next.js will use its built-in image optimization on Vercel
