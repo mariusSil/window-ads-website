@@ -1,0 +1,234 @@
+{
+  "en": {
+    "title": "Why Choose Us?",
+    "subtitle": "The advantages of working with our team of professionals",
+    "items": [
+      {
+        "icon": "Search",
+        "title": "FREE Diagnostics & Visit",
+        "description": "No-cost initial assessment to identify the problem."
+      },
+      {
+        "icon": "Award",
+        "title": "Work Guarantee",
+        "description": "We stand by the quality of our repairs with a comprehensive warranty."
+      },
+      {
+        "icon": "Zap",
+        "title": "Fast Arrival",
+        "description": "Our technicians arrive promptly to address your needs quickly."
+      },
+      {
+        "icon": "Wrench",
+        "title": "On-Site Repairs",
+        "description": "Most repairs can be completed during the initial visit."
+      },
+      {
+        "icon": "Leaf",
+        "title": "Tidy Work Area",
+        "description": "We respect your home and always leave our workspace clean."
+      },
+      {
+        "icon": "Users",
+        "title": "All Profiles & Brands",
+        "description": "We work with all types of window and door profiles and manufacturers."
+      },
+      {
+        "icon": "CreditCard",
+        "title": "Convenient Payment",
+        "description": "We accept cards, invoices, and cash for your convenience."
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Satisfied Clients",
+        "description": "Our goal is your complete satisfaction with our work."
+      }
+    ],
+    "cta": [
+      {
+        "text": "CALL A TECHNICIAN",
+        "action": "modal",
+        "variant": "default"
+      },
+      {
+        "text": "CONSULTATION",
+        "link": "/contact",
+        "variant": "outline-red"
+      }
+    ]
+  },
+  "lt": {
+    "title": "Kodėl Verta Rinktis Mus?",
+    "subtitle": "Pranašumai dirbant su mūsų profesionalų komanda",
+    "items": [
+      {
+        "icon": "Search",
+        "title": "NEMOKAMA Diagnostika ir Vizitas",
+        "description": "Nemokamas pradinis vertinimas problemos identifikavimui."
+      },
+      {
+        "icon": "Award",
+        "title": "Darbo Garantija",
+        "description": "Mes garantuojame mūsų remonto kokybę su išsamia garantija."
+      },
+      {
+        "icon": "Zap",
+        "title": "Greitas Atvykimas",
+        "description": "Mūsų technikai atvyksta punktualiai, kad greitai išspręstų jūsų problemas."
+      },
+      {
+        "icon": "Wrench",
+        "title": "Remontas Vietoje",
+        "description": "Dauguma remontų gali būti atlikti per pirmą vizitą."
+      },
+      {
+        "icon": "Leaf",
+        "title": "Tvarkinga Darbo Vieta",
+        "description": "Mes gerbiame jūsų namus ir visada paliekame darbo vietą švarią."
+      },
+      {
+        "icon": "Users",
+        "title": "Visi Profiliai ir Prekės Ženklai",
+        "description": "Dirbame su visų tipų langų ir durų profiliais bei gamintojais."
+      },
+      {
+        "icon": "CreditCard",
+        "title": "Patogus Atsiskaitymas",
+        "description": "Priimame korteles, sąskaitas ir grynuosius jūsų patogumui."
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Patenkinti Klientai",
+        "description": "Mūsų tikslas - jūsų pilnas pasitenkinimas mūsų darbu."
+      }
+    ],
+    "cta": [
+      {
+        "text": "KVIESTI MEISTRĄ",
+        "action": "modal",
+        "variant": "default"
+      },
+      {
+        "text": "KONSULTACIJA",
+        "link": "/contact",
+        "variant": "outline-red"
+      }
+    ]
+  },
+  "pl": {
+    "title": "Dlaczego Warto Nas Wybrać?",
+    "subtitle": "Korzyści z pracy z naszym zespołem profesjonalistów",
+    "items": [
+      {
+        "icon": "Search",
+        "title": "DARMOWA Diagnostyka i Wizyta",
+        "description": "Bezpłatna wstępna ocena w celu zidentyfikowania problemu."
+      },
+      {
+        "icon": "Award",
+        "title": "Gwarancja Pracy",
+        "description": "Gwarantujemy jakość naszych napraw z kompleksową gwarancją."
+      },
+      {
+        "icon": "Zap",
+        "title": "Szybki Dojazd",
+        "description": "Nasi technicy przyjeżdżają punktualnie, aby szybko rozwiązać Twoje problemy."
+      },
+      {
+        "icon": "Wrench",
+        "title": "Naprawy na Miejscu",
+        "description": "Większość napraw można wykonać podczas pierwszej wizyty."
+      },
+      {
+        "icon": "Leaf",
+        "title": "Czyste Miejsce Pracy",
+        "description": "Szanujemy Twój dom i zawsze pozostawiamy miejsce pracy w czystości."
+      },
+      {
+        "icon": "Users",
+        "title": "Wszystkie Profile i Marki",
+        "description": "Pracujemy ze wszystkimi typami profili okien i drzwi oraz producentami."
+      },
+      {
+        "icon": "CreditCard",
+        "title": "Wygodna Płatność",
+        "description": "Akceptujemy karty, faktury i gotówkę dla Twojej wygody."
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Zadowoleni Klienci",
+        "description": "Naszym celem jest Twoje pełne zadowolenie z naszej pracy."
+      }
+    ],
+    "cta": [
+      {
+        "text": "WEZWAĆ TECHNIKA",
+        "action": "modal",
+        "variant": "default"
+      },
+      {
+        "text": "KONSULTACJA",
+        "link": "/contact",
+        "variant": "outline-red"
+      }
+    ]
+  },
+  "uk": {
+    "title": "Чому Варто Обрати Нас?",
+    "subtitle": "Переваги роботи з нашою командою професіоналів",
+    "items": [
+      {
+        "icon": "Search",
+        "title": "БЕЗКОШТОВНА Діагностика та Візит",
+        "description": "Безкоштовна початкова оцінка для виявлення проблеми."
+      },
+      {
+        "icon": "Award",
+        "title": "Гарантія Роботи",
+        "description": "Ми гарантуємо якість наших ремонтів з комплексною гарантією."
+      },
+      {
+        "icon": "Zap",
+        "title": "Швидке Прибуття",
+        "description": "Наші техніки прибувають пунктуально, щоб швидко вирішити ваші проблеми."
+      },
+      {
+        "icon": "Wrench",
+        "title": "Ремонт на Місці",
+        "description": "Більшість ремонтів можна виконати під час першого візиту."
+      },
+      {
+        "icon": "Leaf",
+        "title": "Охайне Робоче Місце",
+        "description": "Ми поважаємо ваш дім і завжди залишаємо робоче місце чистим."
+      },
+      {
+        "icon": "Users",
+        "title": "Всі Профілі та Бренди",
+        "description": "Працюємо з усіма типами профілів вікон і дверей та виробниками."
+      },
+      {
+        "icon": "CreditCard",
+        "title": "Зручна Оплата",
+        "description": "Приймаємо картки, рахунки та готівку для вашої зручності."
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Задоволені Клієнти",
+        "description": "Наша мета - ваше повне задоволення нашою роботою."
+      }
+    ],
+    "cta": [
+      {
+        "text": "ВИКЛИКАТИ ТЕХНІКА",
+        "action": "modal",
+        "variant": "default"
+      },
+      {
+        "text": "КОНСУЛЬТАЦІЯ",
+        "link": "/contact",
+        "variant": "outline-red"
+      }
+    ]
+  }
+}

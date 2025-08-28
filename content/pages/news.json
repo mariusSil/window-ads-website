@@ -6,7 +6,7 @@
       "title": "Latest News & Updates - Window & Door Repair Services",
       "description": "Stay updated with the latest news, tips, and insights about window and door repair services, maintenance advice, and industry updates.",
       "keywords": "window repair news, door repair updates, maintenance tips, repair insights, home improvement news",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+      "ogImage": "/images/winter-window-care.webp",
       "ogImageAlt": "Latest News & Updates - Window & Door Repair Services",
       "structuredData": {
         "@context": "https://schema.org",
@@ -19,21 +19,21 @@
       "title": "Naujausi straipsniai ir atnaujinimai - Langų ir durų remontas",
       "description": "Sekite naujausius straipsnius, patarimus ir įžvalgas apie langų ir durų remonto paslaugas.",
       "keywords": "langų remonto naujienos, durų remonto atnaujinimai, priežiūros patarimai",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+      "ogImage": "/images/window-security-safety-og.webp",
       "ogImageAlt": "Naujausi straipsniai ir atnaujinimai"
     },
     "pl": {
       "title": "Najnowsze aktualności - Serwis okien i drzwi",
       "description": "Bądź na bieżąco z najnowszymi aktualnościami, poradami i spostrzeżeniami dotyczącymi usług naprawy okien i drzwi.",
       "keywords": "aktualności naprawy okien, aktualizacje serwisu drzwi, porady konserwacyjne",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+      "ogImage": "/images/window-adjustment-frequency-og.webp",
       "ogImageAlt": "Najnowsze aktualności - Serwis okien i drzwi"
     },
     "uk": {
       "title": "Останні новини та оновлення - Послуги ремонту вікон та дверей",
       "description": "Слідкуйте за останніми новинами, порадами та ідеями щодо послуг ремонту вікон та дверей, порадами з обслуговування та оновленнями галузі.",
       "keywords": "новини ремонту вікон, оновлення ремонту дверей, поради з обслуговування, ідеї ремонту, новини покращення дому",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+      "ogImage": "/images/window-adjustment-frequency-og.webp",
       "ogImageAlt": "Останні новини та оновлення - Послуги ремонту вікон та дверей",
       "structuredData": {
         "@context": "https://schema.org",

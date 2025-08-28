@@ -9,13 +9,13 @@
       {
         "id": "double-glazing-lodz",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Old window with damaged frame and poor insulation before repair",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png", 
+          "src": "/images/winter-window-care.webp",
           "alt": "Modern double-glazed window with new frame after professional repair",
           "width": 800,
           "height": 600
@@ -29,13 +29,13 @@
       {
         "id": "frame-modernization-warsaw",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+          "src": "/images/window-adjustment-frequency-og.webp",
           "alt": "Old window frame with worn hardware before modernization",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Modern window frame with new insulation and hardware after upgrade",
           "width": 800,
           "height": 600
@@ -49,13 +49,13 @@
       {
         "id": "balcony-door-sealing",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Balcony door with poor sealing and weather damage before repair",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+          "src": "/images/window-sealing.webp",
           "alt": "Properly sealed balcony door with new weatherproofing after repair",
           "width": 800,
           "height": 600
@@ -69,13 +69,13 @@
       {
         "id": "window-hardware-upgrade",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+          "src": "/images/window-maintenance-schedule.webp",
           "alt": "Window with old, malfunctioning hardware before upgrade",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/4fd55c0734-cf15265bac353682e426.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Window with modern multi-point locking system after hardware upgrade",
           "width": 800,
           "height": 600
@@ -89,13 +89,13 @@
       {
         "id": "emergency-glass-repair",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/72193ccad7-2f88b0d6ca955b0727e7.png",
+          "src": "/images/maintenance-calendar.webp",
           "alt": "Broken window glass after storm damage before emergency repair",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "src": "/images/winter-maintenance-og.webp",
           "alt": "New reinforced safety glass installed after emergency repair",
           "width": 800,
           "height": 600
@@ -109,13 +109,13 @@
       {
         "id": "historic-window-restoration",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Historic wooden window with deteriorated frame before restoration",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "src": "/images/smart-window-technology.webp",
           "alt": "Beautifully restored historic window maintaining original character",
           "width": 800,
           "height": 600
@@ -138,13 +138,13 @@
       {
         "id": "double-glazing-lodz",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Senas langas su pažeista rama ir prasta izoliacija prieš remontą",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Šiuolaikiškas dvigubų stiklų langas su nauja rama po profesionalaus remonto",
           "width": 800,
           "height": 600
@@ -158,13 +158,13 @@
       {
         "id": "frame-modernization-warsaw",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+          "src": "/images/window-adjustment-frequency-og.webp",
           "alt": "Sena lango rama su nusidėvėjusia furnitūra prieš modernizavimą",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Šiuolaikinė lango rama su nauja izoliacija ir furnitūra po atnaujinimo",
           "width": 800,
           "height": 600
@@ -178,13 +178,13 @@
       {
         "id": "balcony-door-sealing",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Balkono durys su prasta sandara ir oro pažeidimais prieš remontą",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+          "src": "/images/window-sealing.webp",
           "alt": "Tinkamai sandarintos balkono durys su nauja apsauga nuo oro po remonto",
           "width": 800,
           "height": 600
@@ -198,13 +198,13 @@
       {
         "id": "window-hardware-upgrade",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+          "src": "/images/window-maintenance-schedule.webp",
           "alt": "Langas su sena, neveikiančia furnitūra prieš atnaujinimą",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/4fd55c0734-cf15265bac353682e426.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Langas su šiuolaikine daugiataške užrakto sistema po furnitūros atnaujinimo",
           "width": 800,
           "height": 600
@@ -218,13 +218,13 @@
       {
         "id": "emergency-glass-repair",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/72193ccad7-2f88b0d6ca955b0727e7.png",
+          "src": "/images/maintenance-calendar.webp",
           "alt": "Sudužęs lango stiklas po audros žalos prieš skubų remontą",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "src": "/images/winter-maintenance-og.webp",
           "alt": "Naujas sustiprintas saugos stiklas įstatytas po skubaus remonto",
           "width": 800,
           "height": 600
@@ -238,13 +238,13 @@
       {
         "id": "historic-window-restoration",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Istorinis medinis langas su pablogėjusia rama prieš restauravimą",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "src": "/images/smart-window-technology.webp",
           "alt": "Gražiai restauruotas istorinis langas išlaikant originalų charakterį",
           "width": 800,
           "height": 600
@@ -267,13 +267,13 @@
       {
         "id": "double-glazing-lodz",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Stare okno z uszkodzoną ramą i słabą izolacją przed naprawą",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Nowoczesne okno z podwójnymi szybami i nową ramą po profesjonalnej naprawie",
           "width": 800,
           "height": 600
@@ -287,13 +287,13 @@
       {
         "id": "frame-modernization-warsaw",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+          "src": "/images/window-adjustment-frequency-og.webp",
           "alt": "Stara rama okienna z zużytą armaturą przed modernizacją",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Nowoczesna rama okienna z nową izolacją i armaturą po modernizacji",
           "width": 800,
           "height": 600
@@ -307,13 +307,13 @@
       {
         "id": "balcony-door-sealing",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Drzwi balkonowe ze słabym uszczelnieniem i uszkodzeniami pogodowymi przed naprawą",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+          "src": "/images/window-sealing.webp",
           "alt": "Prawidłowo uszczelnione drzwi balkonowe z nową ochroną przed warunkami atmosferycznymi po naprawie",
           "width": 800,
           "height": 600
@@ -327,13 +327,13 @@
       {
         "id": "window-hardware-upgrade",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+          "src": "/images/window-maintenance-schedule.webp",
           "alt": "Okno ze starą, niesprawnie działającą armaturą przed modernizacją",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/4fd55c0734-cf15265bac353682e426.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Okno z nowoczesnym wielopunktowym systemem zamkowym po modernizacji armatury",
           "width": 800,
           "height": 600
@@ -347,13 +347,13 @@
       {
         "id": "emergency-glass-repair",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/72193ccad7-2f88b0d6ca955b0727e7.png",
+          "src": "/images/maintenance-calendar.webp",
           "alt": "Rozbita szyba okienna po uszkodzeniach burzowych przed naprawą awaryjną",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "src": "/images/winter-maintenance-og.webp",
           "alt": "Nowe wzmocnione szkło bezpieczne zainstalowane po naprawie awaryjnej",
           "width": 800,
           "height": 600
@@ -367,13 +367,13 @@
       {
         "id": "historic-window-restoration",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Zabytkowe drewniane okno z pogorszoną ramą przed restauracją",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "src": "/images/smart-window-technology.webp",
           "alt": "Pięknie odrestaurowane zabytkowe okno zachowujące oryginalny charakter",
           "width": 800,
           "height": 600
@@ -396,13 +396,13 @@
       {
         "id": "double-glazing-lodz",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Старе вікно з пошкодженою рамою та поганою ізоляцією до ремонту",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Сучасне вікно з подвійним склінням та новою рамою після професійного ремонту",
           "width": 800,
           "height": 600
@@ -416,13 +416,13 @@
       {
         "id": "frame-modernization-warsaw",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+          "src": "/images/window-adjustment-frequency-og.webp",
           "alt": "Стара віконна рама зі зношеною фурнітурою до модернізації",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Сучасна віконна рама з новою ізоляцією та фурнітурою після модернізації",
           "width": 800,
           "height": 600
@@ -436,13 +436,13 @@
       {
         "id": "balcony-door-sealing",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Балконні двері з поганою герметизацією та погодними пошкодженнями до ремонту",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+          "src": "/images/window-sealing.webp",
           "alt": "Правильно герметизовані балконні двері з новим захистом від погодних умов після ремонту",
           "width": 800,
           "height": 600
@@ -456,13 +456,13 @@
       {
         "id": "window-hardware-upgrade",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+          "src": "/images/window-maintenance-schedule.webp",
           "alt": "Вікно зі старою, несправною фурнітурою до модернізації",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/4fd55c0734-cf15265bac353682e426.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Вікно з сучасною багатоточковою системою замків після модернізації фурнітури",
           "width": 800,
           "height": 600
@@ -476,13 +476,13 @@
       {
         "id": "emergency-glass-repair",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/72193ccad7-2f88b0d6ca955b0727e7.png",
+          "src": "/images/maintenance-calendar.webp",
           "alt": "Розбите віконне скло після пошкоджень бурею до екстреного ремонту",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "src": "/images/winter-maintenance-og.webp",
           "alt": "Нове посилене безпечне скло встановлене після екстреного ремонту",
           "width": 800,
           "height": 600
@@ -496,13 +496,13 @@
       {
         "id": "historic-window-restoration",
         "beforeImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "src": "/images/winter-window-care.webp",
           "alt": "Історичне дерев'яне вікно з погіршеною рамою до реставрації",
           "width": 800,
           "height": 600
         },
         "afterImage": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "src": "/images/smart-window-technology.webp",
           "alt": "Красиво відреставроване історичне вікно зі збереженням оригінального характеру",
           "width": 800,
           "height": 600

@@ -1,0 +1,18 @@
+{
+  "en": {
+    "requestTechnician": "CALL A TECHNICIAN",
+    "freeConsultation": "CONSULTATION"
+  },
+  "lt": {
+    "requestTechnician": "KVIESTI MEISTRĄ",
+    "freeConsultation": "KONSULTACIJA"
+  },
+  "pl": {
+    "requestTechnician": "WEZWAĆ TECHNIKA",
+    "freeConsultation": "KONSULTACIJA"
+  },
+  "uk": {
+    "requestTechnician": "ВИКЛИКАТИ ТЕХНІКА",
+    "freeConsultation": "КОНСУЛЬТАЦІЯ"
+  }
+}

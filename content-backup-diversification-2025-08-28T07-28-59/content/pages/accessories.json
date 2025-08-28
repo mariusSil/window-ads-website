@@ -1,0 +1,83 @@
+{
+  "pageId": "accessories",
+  "template": "accessories",
+  "seo": {
+    "en": {
+      "title": "Premium Window & Door Accessories & Upgrades",
+      "description": "Enhance your windows and doors with premium accessories, security upgrades, and modern features. Quality handles, locks, ventilation systems and more.",
+      "keywords": "window accessories, door upgrades, premium handles, security locks, ventilation systems, mosquito nets",
+      "ogImage": "/images/glass-unit-replacement.webp",
+      "ogImageAlt": "Premium Window & Door Accessories & Upgrades",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Window & Door Accessories",
+        "description": "Premium accessories and upgrades for windows and doors"
+      }
+    },
+    "lt": {
+      "title": "Aukščiausios kokybės langų ir durų priedai ir atnaujinimai",
+      "description": "Pagerinkite savo langus ir duris su aukščiausios kokybės priedais, saugos atnaujinimais ir šiuolaikinėmis funkcijomis.",
+      "keywords": "langų priedai, durų atnaujinimai, aukštos kokybės rankenėlės, saugumo spynos",
+      "ogImage": "/images/window-adjustment-frequency-og.webp",
+      "ogImageAlt": "Aukščiausios kokybės langų ir durų priedai"
+    },
+    "pl": {
+      "title": "Premium akcesoria i modernizacje okien i drzwi",
+      "description": "Ulepsz swoje okna i drzwi dzięki premium akcesoriom, modernizacjom bezpieczeństwa i nowoczesnym funkcjom.",
+      "keywords": "akcesoria okienne, modernizacje drzwi, premium klamki, zamki bezpieczeństwa",
+      "ogImage": "/images/glass-unit-replacement.webp",
+      "ogImageAlt": "Premium akcesoria i modernizacje okien i drzwi"
+    },
+    "uk": {
+      "title": "Преміум аксесуари та модернізація вікон та дверей",
+      "description": "Покращте свої вікна та двері з преміум аксесуарами, модернізацією безпеки та сучасними функціями. Якісні ручки, замки, системи вентиляції та багато іншого.",
+      "keywords": "аксесуари для вікон, модернізація дверей, преміум ручки, замки безпеки, системи вентиляції, москітні сітки",
+      "ogImage": "/images/window-maintenance-schedule.webp",
+      "ogImageAlt": "Преміум аксесуари та модернізація вікон та дверей",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Аксесуари для вікон та дверей",
+        "description": "Преміум аксесуари та модернізація для вікон та дверей"
+      }
+    }
+  },
+  "content": {
+    "en": {
+      "pageHeader": {
+        "title": "Premium Accessories & Upgrades",
+        "subtitle": "Enhance your windows and doors with quality accessories for improved functionality and style"
+      }
+    },
+    "lt": {
+      "pageHeader": {
+        "title": "Aukščiausios kokybės priedai ir atnaujinimai",
+        "subtitle": "Pagerinkite savo langus ir duris kokybiškomis detalėmis funkcionalumui ir stiliui"
+      }
+    },
+    "pl": {
+      "pageHeader": {
+        "title": "Akcesoria i modernizacje premium",
+        "subtitle": "Ulepsz swoje okna i drzwi wysokiej jakości akcesoriami dla lepszej funkcjonalności i stylu"
+      }
+    },
+    "uk": {
+      "pageHeader": {
+        "title": "Преміум аксесуари та модернізація",
+        "subtitle": "Покращте свої вікна та двері якісними аксесуарами для кращої функціональності та стилю"
+      }
+    }
+  },
+  "components": [
+    {
+      "type": "PageHeader",
+      "contentKey": "pageHeader",
+      "required": true
+    },
+    {
+      "type": "AccessoriesGrid",
+      "required": true
+    }
+  ]
+}

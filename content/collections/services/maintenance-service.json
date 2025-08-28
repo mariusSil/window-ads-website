@@ -13,28 +13,28 @@
       "title": "Window Maintenance Service | From €35 | Preventive Care",
       "description": "Professional window maintenance service. Regular cleaning, lubrication, adjustments, and preventive care to extend window lifespan and performance.",
       "keywords": "window maintenance, preventive maintenance, window service, regular maintenance, window care",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/c8c69828a1-d8edbc2ff80d41521467.png",
+      "ogImage": "/images/maintenance-schedule-calendar.webp",
       "ogImageAlt": "Professional window maintenance service"
     },
     "lt": {
       "title": "Langų priežiūros paslauga | Nuo €35 | Prevencinė priežiūra",
       "description": "Profesionalus langų priežiūros aptarnavimas. Reguliarus valymas, tepimas, reguliavimai ir prevencinė priežiūra langų tarnavimo laikui ir veikimui pratęsti.",
       "keywords": "langų priežiūra, prevencinė priežiūra, langų aptarnavimas, reguliari priežiūra, langų rūpyba",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "ogImage": "/images/window-replacement-comparison-og.webp",
       "ogImageAlt": "Profesionalus langų priežiūros aptarnavimas"
     },
     "pl": {
       "title": "Serwis konserwacyjny okien | Od €35 | Opieka prewencyjna",
       "description": "Profesjonalny serwis konserwacyjny okien. Regularne czyszczenie, smarowanie, regulacje i opieka prewencyjna dla przedłużenia żywotności i wydajności okien.",
       "keywords": "konserwacja okien, konserwacja prewencyjna, serwis okien, regularna konserwacja, opieka nad oknami",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+      "ogImage": "/images/window-adjustment-guide-og.webp",
       "ogImageAlt": "Profesjonalny serwis konserwacyjny okien"
     },
     "uk": {
       "title": "Сервіс обслуговування вікон | Від €35 | Профілактичний догляд",
       "description": "Професійний сервіс обслуговування вікон. Регулярне очищення, змащування, регулювання та профілактичний догляд для продовження терміну служби та продуктивності вікон.",
       "keywords": "обслуговування вікон, профілактичне обслуговування, сервіс вікон, регулярне обслуговування, догляд за вікнами",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "ogImage": "/images/maintenance-schedule-calendar.webp",
       "ogImageAlt": "Професійний сервіс обслуговування вікон"
     }
   },
@@ -433,7 +433,7 @@
       "contentKey": "shared:maintenance-testimonials"
     },
     "Faq": {
-       "contentKey": "shared:maintenance-faq"
+      "contentKey": "shared:maintenance-faq"
     }
   },
   "publishDate": "2024-02-05",

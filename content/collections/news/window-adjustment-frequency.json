@@ -18,14 +18,14 @@
       "title": "How Often Should You Adjust Your Windows? Seasonal Adjustment Guide",
       "description": "Learn when and how often to adjust your windows for optimal performance. Complete seasonal adjustment guide with professional tips for smooth operation.",
       "keywords": "window adjustment frequency, seasonal window adjustment, window hardware maintenance, how often adjust windows, window mechanism care",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+      "ogImage": "/images/window-adjustment-guide-og.webp",
       "ogImageAlt": "Window Adjustment Frequency Guide",
       "structuredData": {
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "How Often Should You Adjust Your Windows? Seasonal Adjustment Guide",
         "description": "Professional guide on window adjustment frequency with seasonal recommendations for optimal performance.",
-        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+        "image": "/images/window-adjustment-guide-og.webp",
         "datePublished": "2024-01-20",
         "dateModified": "2024-01-20",
         "author": {
@@ -35,7 +35,7 @@
         "publisher": {
           "@type": "Organization",
           "name": "Langu-Remontas",
-          "logo": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png"
+          "logo": "/images/window-adjustment-guide-og.webp"
         }
       }
     },
@@ -43,21 +43,21 @@
       "title": "Kaip Dažnai Reguliuoti Langus? Sezoninis Reguliavimo Vadovas",
       "description": "Sužinokite, kada ir kaip dažnai reguliuoti langus optimaliam veikimui. Išsamus sezoninis reguliavimo vadovas su profesionaliais patarimais.",
       "keywords": "langų reguliavimo dažnumas, sezoninis langų reguliavimas, langų furnitūros priežiūra, kaip dažnai reguliuoti langus",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+      "ogImage": "/images/window-adjustment-guide-og.webp",
       "ogImageAlt": "Langų Reguliavimo Dažnumo Vadovas"
     },
     "pl": {
       "title": "Jak Często Regulować Okna? Sezonowy Przewodnik Regulacji",
       "description": "Dowiedz się, kiedy i jak często regulować okna dla optymalnej wydajności. Kompletny sezonowy przewodnik regulacji z profesjonalnymi wskazówkami.",
       "keywords": "częstotliwość regulacji okien, sezonowa regulacja okien, pielęgnacja okuć okiennych, jak często regulować okna",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+      "ogImage": "/images/window-adjustment-guide-og.webp",
       "ogImageAlt": "Przewodnik Częstotliwości Regulacji Okien"
     },
     "uk": {
       "title": "Як Часто Регулювати Вікна? Сезонний Посібник Регулювання",
       "description": "Дізнайтеся, коли і як часто регулювати вікна для оптимальної роботи. Повний сезонний посібник регулювання з професійними порадами.",
       "keywords": "частота регулювання вікон, сезонне регулювання вікон, догляд за віконною фурнітурою, як часто регулювати вікна",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+      "ogImage": "/images/window-adjustment-guide-og.webp",
       "ogImageAlt": "Посібник Частоти Регулювання Вікон"
     }
   },
@@ -65,7 +65,7 @@
     "en": {
       "title": "How Often Should You Adjust Your Windows? Seasonal Adjustment Guide",
       "excerpt": "Proper window adjustment frequency depends on usage, weather conditions, and window age. Learn the optimal schedule for keeping your windows operating smoothly year-round.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+      "featuredImage": "/images/window-adjustment-guide-og.webp",
       "featuredImageAlt": "Professional technician adjusting window hinges with tools, close-up repair work",
       "introduction": "Window adjustment is one of the most overlooked aspects of home maintenance, yet it's crucial for proper operation, energy efficiency, and longevity. Many homeowners only think about adjusting their windows when they start sticking or won't close properly. However, proactive adjustment based on seasonal changes and usage patterns can prevent most operational issues and extend your windows' lifespan significantly.",
       "sections": [
@@ -133,7 +133,7 @@
     "lt": {
       "title": "Kaip Dažnai Reguliuoti Langus? Sezoninis Reguliavimo Vadovas",
       "excerpt": "Tinkamas langų reguliavimo dažnumas priklauso nuo naudojimo, oro sąlygų ir langų amžiaus. Sužinokite optimalų grafiką, kad langai veiktų sklandžiai ištisus metus.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+      "featuredImage": "/images/window-adjustment-guide-og.webp",
       "featuredImageAlt": "Profesionalus technikas reguliuoja langų vyrius su įrankiais, artimas remonto darbų vaizdas",
       "introduction": "Langų reguliavimas yra vienas iš labiausiai nepaisomų namų priežiūros aspektų, tačiau jis yra labai svarbus tinkamam veikimui, energijos efektyvumui ir ilgaamžiškumui. Daugelis namų savininkų apie langų reguliavimą galvoja tik tada, kai jie pradeda kliūti ar neprisidaro tinkamai.",
       "sections": [
@@ -174,7 +174,7 @@
     "pl": {
       "title": "Jak Często Regulować Okna? Sezonowy Przewodnik Regulacji",
       "excerpt": "Właściwa częstotliwość regulacji okien zależy od użytkowania, warunków pogodowych i wieku okien. Poznaj optymalny harmonogram utrzymania okien w sprawności przez cały rok.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+      "featuredImage": "/images/window-adjustment-guide-og.webp",
       "featuredImageAlt": "Profesjonalny technik reguluje zawiasy okienne narzędziami, zbliżenie prac naprawczych",
       "introduction": "Regulacja okien to jeden z najbardziej zaniedbywanych aspektów konserwacji domu, a jednak jest kluczowa dla właściwego działania, efektywności energetycznej i trwałości.",
       "conclusion": "Regularna regulacja okien to niewielka inwestycja, która przynosi znaczące korzyści w komforcie, efektywności energetycznej i trwałości okien.",
@@ -192,7 +192,7 @@
     "uk": {
       "title": "Як Часто Регулювати Вікна? Сезонний Посібник Регулювання",
       "excerpt": "Правильна частота регулювання вікон залежить від використання, погодних умов та віку вікон. Дізнайтеся оптимальний графік для підтримання вікон у робочому стані цілий рік.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+      "featuredImage": "/images/window-adjustment-guide-og.webp",
       "featuredImageAlt": "Професійний технік регулює віконні петлі інструментами, крупний план ремонтних робіт",
       "introduction": "Регулювання вікон - це один з найбільш ігнорованих аспектів обслуговування будинку, проте він є вирішальним для правильної роботи, енергоефективності та довговічності.",
       "conclusion": "Регулярне регулювання вікон - це невелика інвестиція, яка окупається комфортом, енергоефективністю та довговічністю вікон.",

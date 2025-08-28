@@ -1,0 +1,42 @@
+{
+  "en": {
+    "copyright": "© {year} Langu Remontas. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "followUs": "Follow Us",
+    "links": [
+      { "label": "Privacy Policy", "href": "/privacy-policy", "key": "privacy" },
+      { "label": "Terms of Service", "href": "/terms", "key": "terms" }
+    ]
+  },
+  "lt": {
+    "copyright": "© {year} Langu Remontas. Visos teisės saugomos.",
+    "privacyPolicy": "Privatumo politika",
+    "termsOfService": "Naudojimo sąlygos",
+    "followUs": "Sekite mus",
+    "links": [
+      { "label": "Privatumo politika", "href": "/privatumo-politika", "key": "privacy" },
+      { "label": "Naudojimo sąlygos", "href": "/salygos", "key": "terms" }
+    ]
+  },
+  "pl": {
+    "copyright": "© {year} Langu Remontas. Wszelkie prawa zastrzeżone.",
+    "privacyPolicy": "Polityka prywatności",
+    "termsOfService": "Warunki korzystania",
+    "followUs": "Śledź nas",
+    "links": [
+      { "label": "Polityka prywatności", "href": "/polityka-prywatnosci", "key": "privacy" },
+      { "label": "Warunki korzystania", "href": "/warunki", "key": "terms" }
+    ]
+  },
+  "uk": {
+    "copyright": "© {year} Langu Remontas. Усі права захищені.",
+    "privacyPolicy": "Політика конфіденційності",
+    "termsOfService": "Умови використання",
+    "followUs": "Слідкуйте за нами",
+    "links": [
+      { "label": "Політика конфіденційності", "href": "/polityka-konfidentsiynosti", "key": "privacy" },
+      { "label": "Умови використання", "href": "/umovy", "key": "terms" }
+    ]
+  }
+}

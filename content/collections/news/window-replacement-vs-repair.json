@@ -18,14 +18,14 @@
       "title": "Window Replacement vs Repair: Making the Right Decision",
       "description": "Complete guide to deciding between window replacement and repair. Learn cost analysis, when to repair vs replace, and how to make the best choice for your home.",
       "keywords": "window replacement vs repair, window repair cost, when to replace windows, window renovation decision, home improvement guide",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "ogImage": "/images/smart-technology-og.webp",
       "ogImageAlt": "Window Replacement vs Repair Decision Guide",
       "structuredData": {
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "Window Replacement vs Repair: Making the Right Decision",
         "description": "Comprehensive decision-making guide for homeowners choosing between window replacement and repair options.",
-        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+        "image": "/images/smart-technology-og.webp",
         "datePublished": "2024-02-15",
         "dateModified": "2024-02-15",
         "author": {
@@ -35,7 +35,7 @@
         "publisher": {
           "@type": "Organization",
           "name": "Langu-Remontas",
-          "logo": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png"
+          "logo": "/images/window-replacement-comparison.webp"
         }
       }
     },
@@ -43,21 +43,21 @@
       "title": "Langų Keitimas ar Remontas: Teisingas Sprendimas",
       "description": "Išsamus vadovas, kaip nuspręsti tarp langų keitimo ir remonto. Sužinokite apie išlaidų analizę ir kaip priimti geriausią sprendimą savo namams.",
       "keywords": "langų keitimas ar remontas, langų remonto kaina, kada keisti langus, langų renovacijos sprendimas",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "ogImage": "/images/smart-technology-og.webp",
       "ogImageAlt": "Langų Keitimo ar Remonto Sprendimo Vadovas"
     },
     "pl": {
       "title": "Wymiana vs Naprawa Okien: Podejmowanie Właściwej Decyzji",
       "description": "Kompletny przewodnik decyzyjny między wymianą a naprawą okien. Poznaj analizę kosztów i jak podjąć najlepszą decyzję dla swojego domu.",
       "keywords": "wymiana vs naprawa okien, koszt naprawy okien, kiedy wymieniać okna, decyzja o renowacji okien",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "ogImage": "/images/smart-technology-og.webp",
       "ogImageAlt": "Przewodnik Decyzyjny Wymiana vs Naprawa Okien"
     },
     "uk": {
       "title": "Заміна чи Ремонт Вікон: Прийняття Правильного Рішення",
       "description": "Повний посібник для прийняття рішення між заміною та ремонтом вікон. Дізнайтеся про аналіз витрат та як зробити найкращий вибір для вашого дому.",
       "keywords": "заміна чи ремонт вікон, вартість ремонту вікон, коли міняти вікна, рішення про реновацію вікон",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "ogImage": "/images/smart-technology-og.webp",
       "ogImageAlt": "Посібник з Прийняття Рішення Заміна чи Ремонт Вікон"
     }
   },
@@ -65,7 +65,7 @@
     "en": {
       "title": "Window Replacement vs Repair: Making the Right Decision",
       "excerpt": "Facing window problems and unsure whether to repair or replace? This comprehensive guide helps homeowners make informed decisions based on cost analysis, energy efficiency, and long-term value considerations.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "featuredImage": "/images/smart-technology-og.webp",
       "featuredImageAlt": "Side-by-side comparison of window repair and replacement options",
       "introduction": "When your windows start showing signs of wear, damage, or inefficiency, you're faced with a critical decision: should you repair the existing windows or invest in complete replacement? This choice can significantly impact your home's comfort, energy bills, and property value. Understanding the factors that influence this decision will help you make the most cost-effective and beneficial choice for your specific situation.",
       "sections": [
@@ -147,7 +147,7 @@
     "lt": {
       "title": "Langų Keitimas ar Remontas: Teisingas Sprendimas",
       "excerpt": "Susiduriate su langų problemomis ir nežinote, ar remontuoti, ar keisti? Šis išsamus vadovas padės namų savininkams priimti pagrįstus sprendimus.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "featuredImage": "/images/smart-technology-og.webp",
       "featuredImageAlt": "Langų remonto ir keitimo variantų palyginimas",
       "introduction": "Kai jūsų langai pradeda rodyti nusidėvėjimo, pažeidimų ar neefektyvumo požymius, susiduriate su svarbiu sprendimu: ar remontuoti esamus langus, ar investuoti į visišką keitimą? Šis sprendimas gali turėti reikšmingą poveikį jūsų namų komfortui, energijos efektyvumui ir biudžetui.",
       "sections": [
@@ -188,7 +188,7 @@
     "pl": {
       "title": "Wymiana vs Naprawa Okien: Podejmowanie Właściwej Decyzji",
       "excerpt": "Masz problemy z oknami i nie wiesz, czy naprawiać czy wymieniać? Ten kompleksowy przewodnik pomoże właścicielom domów podjąć świadome decyzje.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "featuredImage": "/images/smart-technology-og.webp",
       "featuredImageAlt": "Porównanie opcji naprawy i wymiany okien",
       "introduction": "Kiedy twoje okna zaczynają wykazywać oznaki zużycia, uszkodzenia lub nieefektywności, stoisz przed krytyczną decyzją: czy naprawiać istniejące okna, czy zainwestować w całkowitą wymianę?",
       "conclusion": "Decyzja między naprawą a wymianą okien zależy od wielu czynników, w tym kosztu, stanu, efektywności energetycznej i okoliczności osobistych.",
@@ -206,7 +206,7 @@
     "uk": {
       "title": "Заміна чи Ремонт Вікон: Прийняття Правильного Рішення",
       "excerpt": "Маєте проблеми з вікнами і не знаєте, чи ремонтувати, чи замінювати? Цей комплексний посібник допоможе власникам будинків прийняти обґрунтовані рішення.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "featuredImage": "/images/smart-technology-og.webp",
       "featuredImageAlt": "Порівняння варіантів ремонту та заміни вікон",
       "introduction": "Коли ваші вікна починають показувати ознаки зносу, пошкодження або неефективності, ви стикаєтеся з критичним рішенням: чи ремонтувати існуючі вікна, чи інвестувати в повну заміну?",
       "conclusion": "Рішення між ремонтом та заміною вікон залежить від багатьох факторів, включаючи вартість, стан, енергоефективність та особисті обставини.",

@@ -5,28 +5,28 @@
       "title": "Contact Us - Professional Window & Door Repair",
       "description": "Get in touch with our expert team. Visit our office, call us, or send a message for professional window and door repair services.",
       "keywords": "contact, window repair, door repair, office location, business hours",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/092074e752-1185ce1516e031aa1a73.png",
+      "ogImage": "/images/window-maintenance-schedule-og.webp",
       "ogImageAlt": "Contact Us - Professional Window & Door Repair Services"
     },
     "lt": {
       "title": "Kontaktai - Profesionalus Langų ir Durų Remontas",
       "description": "Susisiekite su mūsų ekspertų komanda. Aplankykite mūsų biurą, paskambinkite arba parašykite dėl profesionalių langų ir durų remonto paslaugų.",
       "keywords": "kontaktai, langų remontas, durų remontas, biuro vieta, darbo laikas",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+      "ogImage": "/images/window-maintenance-schedule-og.webp",
       "ogImageAlt": "Kontaktai - Profesionalus Langų ir Durų Remontas"
     },
     "pl": {
       "title": "Kontakt - Profesjonalny Remont Okien i Drzwi",
       "description": "Skontaktuj się z naszym zespołem ekspertów. Odwiedź nasze biuro, zadzwoń lub napisz w sprawie profesjonalnych usług naprawy okien i drzwi.",
       "keywords": "kontakt, naprawa okien, naprawa drzwi, lokalizacja biura, godziny pracy",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
+      "ogImage": "/images/window-maintenance-schedule.webp",
       "ogImageAlt": "Kontakt - Profesjonalny Remont Okien i Drzwi"
     },
     "uk": {
       "title": "Контакти - Професійний Ремонт Вікон та Дверей",
       "description": "Зв'яжіться з нашою командою експертів. Відвідайте наш офіс, подзвоніть або напишіть для професійних послуг ремонту вікон та дверей.",
       "keywords": "контакти, ремонт вікон, ремонт дверей, розташування офісу, робочі години",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "ogImage": "/images/maintenance-calendar.webp",
       "ogImageAlt": "Контакти - Професійний Ремонт Вікон та Дверей"
     }
   },

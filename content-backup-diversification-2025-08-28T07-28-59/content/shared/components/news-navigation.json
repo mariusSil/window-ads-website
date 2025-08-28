@@ -1,0 +1,46 @@
+{
+  "en": {
+    "backToNews": "Back to News",
+    "previousArticle": "Previous Article",
+    "nextArticle": "Next Article",
+    "relatedArticles": "Related Articles",
+    "readMore": "Read More",
+    "shareArticle": "Share Article",
+    "printArticle": "Print Article",
+    "noRelatedArticles": "No related articles found",
+    "loading": "Loading..."
+  },
+  "lt": {
+    "backToNews": "Grįžti į naujienas",
+    "previousArticle": "Ankstesnis straipsnis",
+    "nextArticle": "Kitas straipsnis",
+    "relatedArticles": "Susiję straipsniai",
+    "readMore": "Skaityti daugiau",
+    "shareArticle": "Dalintis straipsniu",
+    "printArticle": "Spausdinti straipsnį",
+    "noRelatedArticles": "Susijusių straipsnių nerasta",
+    "loading": "Kraunama..."
+  },
+  "pl": {
+    "backToNews": "Powrót do aktualności",
+    "previousArticle": "Poprzedni artykuł",
+    "nextArticle": "Następny artykuł",
+    "relatedArticles": "Powiązane artykuły",
+    "readMore": "Czytaj więcej",
+    "shareArticle": "Udostępnij artykuł",
+    "printArticle": "Drukuj artykuł",
+    "noRelatedArticles": "Nie znaleziono powiązanych artykułów",
+    "loading": "Ładowanie..."
+  },
+  "uk": {
+    "backToNews": "Повернутися до новин",
+    "previousArticle": "Попередня стаття",
+    "nextArticle": "Наступна стаття",
+    "relatedArticles": "Схожі статті",
+    "readMore": "Читати далі",
+    "shareArticle": "Поділитися статтею",
+    "printArticle": "Роздрукувати статтю",
+    "noRelatedArticles": "Схожих статей не знайдено",
+    "loading": "Завантаження..."
+  }
+}

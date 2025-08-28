@@ -13,28 +13,28 @@
       "title": "Emergency Window Repair | 24/7 Service | Immediate Response",
       "description": "24/7 emergency window repair service. Broken glass, security issues, weather damage. Immediate response within 2 hours. Professional emergency repairs.",
       "keywords": "emergency window repair, 24/7 window service, broken window repair, urgent window fix, emergency glazing",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImage": "/images/professional-installation-og.webp",
       "ogImageAlt": "24/7 emergency window repair service"
     },
     "lt": {
       "title": "Skubus langų remontas | 24/7 paslauga | Nedelsiant",
       "description": "24/7 skubaus langų remonto paslauga. Sudužę stiklai, saugumo problemos, oro pažeidimai. Nedelsiant per 2 valandas. Profesionalūs skubūs remontai.",
       "keywords": "skubus langų remontas, 24/7 langų paslauga, sudužusių langų remontas, skubus langų taisymas, skubūs stiklai",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+      "ogImage": "/images/professional-tools.webp",
       "ogImageAlt": "24/7 skubaus langų remonto aptarnavimas"
     },
     "pl": {
       "title": "Awaryjna naprawa okien | Serwis 24/7 | Natychmiastowa reakcja",
       "description": "Serwis awaryjnej naprawy okien 24/7. Rozbite szkło, problemy bezpieczeństwa, uszkodzenia pogodowe. Natychmiastowa reakcja w ciągu 2 godzin.",
       "keywords": "awaryjna naprawa okien, serwis okien 24/7, naprawa rozbitych okien, pilna naprawa okien, awaryjna szklarnia",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+      "ogImage": "/images/professional-installation-og.webp",
       "ogImageAlt": "Serwis awaryjnej naprawy okien 24/7"
     },
     "uk": {
       "title": "Екстрений ремонт вікон | Сервіс 24/7 | Негайна реакція",
       "description": "Сервіс екстреного ремонту вікон 24/7. Розбите скло, проблеми безпеки, погодні пошкодження. Негайна реакція протягом 2 годин.",
       "keywords": "екстрений ремонт вікон, сервіс вікон 24/7, ремонт розбитих вікон, терміновий ремонт вікон, екстрене скління",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/1219efa6c2-1eebe76d8698624cc69b.png",
+      "ogImage": "/images/window-replacement-comparison.webp",
       "ogImageAlt": "Сервіс екстреного ремонту вікон 24/7"
     }
   },

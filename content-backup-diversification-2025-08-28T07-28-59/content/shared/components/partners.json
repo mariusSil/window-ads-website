@@ -1,0 +1,90 @@
+{
+  "en": {
+    "title": "Our Trusted Partners",
+    "subtitle": "Working with leading manufacturers to ensure the highest quality",
+    "logos": [
+      {
+        "src": "/images/maintenance-schedule-calendar.webp",
+        "alt": "Schüco logo"
+      },
+      {
+        "src": "/images/professional-installation-og.webp",
+        "alt": "Rehau logo"
+      },
+      {
+        "src": "/images/smart-window-technology.webp",
+        "alt": "Veka logo"
+      },
+      {
+        "src": "/images/window-security-safety-og.webp",
+        "alt": "Siegenia logo"
+      }
+    ]
+  },
+  "lt": {
+    "title": "Mūsų Patikimi Partneriai",
+    "subtitle": "Bendradarbiaujame su pirmaujančiais gamintojais, kad užtikrintume aukščiausią kokybę",
+    "logos": [
+      {
+        "src": "/images/maintenance-schedule-calendar.webp",
+        "alt": "Schüco logotipas"
+      },
+      {
+        "src": "/images/professional-installation-og.webp",
+        "alt": "Rehau logotipas"
+      },
+      {
+        "src": "/images/smart-window-technology.webp",
+        "alt": "Veka logotipas"
+      },
+      {
+        "src": "/images/window-security-safety-og.webp",
+        "alt": "Siegenia logotipas"
+      }
+    ]
+  },
+  "pl": {
+    "title": "Nasi Zaufani Partnerzy",
+    "subtitle": "Współpracujemy z wiodącymi producentami, aby zapewnić najwyższą jakość",
+    "logos": [
+      {
+        "src": "/images/maintenance-schedule-calendar.webp",
+        "alt": "Logo Schüco"
+      },
+      {
+        "src": "/images/professional-installation-og.webp",
+        "alt": "Logo Rehau"
+      },
+      {
+        "src": "/images/smart-window-technology.webp",
+        "alt": "Logo Veka"
+      },
+      {
+        "src": "/images/window-security-safety-og.webp",
+        "alt": "Logo Siegenia"
+      }
+    ]
+  },
+  "uk": {
+    "title": "Наші Надійні Партнери",
+    "subtitle": "Співпрацюємо з провідними виробниками, щоб забезпечити найвищу якість",
+    "logos": [
+      {
+        "src": "/images/maintenance-schedule-calendar.webp",
+        "alt": "Логотип Schüco"
+      },
+      {
+        "src": "/images/professional-installation-og.webp",
+        "alt": "Логотип Rehau"
+      },
+      {
+        "src": "/images/smart-window-technology.webp",
+        "alt": "Логотип Veka"
+      },
+      {
+        "src": "/images/window-security-safety-og.webp",
+        "alt": "Логотип Siegenia"
+      }
+    ]
+  }
+}

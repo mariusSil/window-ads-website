@@ -6,7 +6,7 @@
       "title": "Premium Window & Door Accessories & Upgrades",
       "description": "Enhance your windows and doors with premium accessories, security upgrades, and modern features. Quality handles, locks, ventilation systems and more.",
       "keywords": "window accessories, door upgrades, premium handles, security locks, ventilation systems, mosquito nets",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "ogImage": "/images/maintenance-schedule-calendar.webp",
       "ogImageAlt": "Premium Window & Door Accessories & Upgrades",
       "structuredData": {
         "@context": "https://schema.org",
@@ -19,21 +19,21 @@
       "title": "Aukščiausios kokybės langų ir durų priedai ir atnaujinimai",
       "description": "Pagerinkite savo langus ir duris su aukščiausios kokybės priedais, saugos atnaujinimais ir šiuolaikinėmis funkcijomis.",
       "keywords": "langų priedai, durų atnaujinimai, aukštos kokybės rankenėlės, saugumo spynos",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png",
+      "ogImage": "/images/window-replacement-comparison-og.webp",
       "ogImageAlt": "Aukščiausios kokybės langų ir durų priedai"
     },
     "pl": {
       "title": "Premium akcesoria i modernizacje okien i drzwi",
       "description": "Ulepsz swoje okna i drzwi dzięki premium akcesoriom, modernizacjom bezpieczeństwa i nowoczesnym funkcjom.",
       "keywords": "akcesoria okienne, modernizacje drzwi, premium klamki, zamki bezpieczeństwa",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b6c70e45f0-2c1b36f8da0dcd3867f4.png",
+      "ogImage": "/images/maintenance-schedule-calendar.webp",
       "ogImageAlt": "Premium akcesoria i modernizacje okien i drzwi"
     },
     "uk": {
       "title": "Преміум аксесуари та модернізація вікон та дверей",
       "description": "Покращте свої вікна та двері з преміум аксесуарами, модернізацією безпеки та сучасними функціями. Якісні ручки, замки, системи вентиляції та багато іншого.",
       "keywords": "аксесуари для вікон, модернізація дверей, преміум ручки, замки безпеки, системи вентиляції, москітні сітки",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+      "ogImage": "/images/winter-maintenance-og.webp",
       "ogImageAlt": "Преміум аксесуари та модернізація вікон та дверей",
       "structuredData": {
         "@context": "https://schema.org",

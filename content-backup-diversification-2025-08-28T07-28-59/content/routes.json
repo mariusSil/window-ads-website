@@ -1,0 +1,140 @@
+{
+  "routes": [
+    {
+      "pageId": "homepage",
+      "urls": {
+        "en": "",
+        "lt": "",
+        "pl": "",
+        "uk": ""
+      },
+      "priority": 1.0,
+      "changefreq": "weekly"
+    },
+    {
+      "pageId": "about",
+      "urls": {
+        "en": "about",
+        "lt": "apie-mus",
+        "pl": "o-nas",
+        "uk": "pro-nas"
+      },
+      "priority": 0.8,
+      "changefreq": "monthly"
+    },
+    {
+      "pageId": "services",
+      "urls": {
+        "en": "services",
+        "lt": "paslaugos",
+        "pl": "uslugi",
+        "uk": "poslugy"
+      },
+      "priority": 0.9,
+      "changefreq": "weekly"
+    },
+    {
+      "pageId": "accessories",
+      "urls": {
+        "en": "accessories",
+        "lt": "priedai",
+        "pl": "akcesoria",
+        "uk": "aksesuary"
+      },
+      "priority": 0.7,
+      "changefreq": "monthly"
+    },
+    {
+      "pageId": "news",
+      "urls": {
+        "en": "news",
+        "lt": "naujienos",
+        "pl": "aktualnosci",
+        "uk": "novyny"
+      },
+      "priority": 0.6,
+      "changefreq": "weekly"
+    },
+    {
+      "pageId": "business",
+      "urls": {
+        "en": "business-clients",
+        "lt": "verslo-klientui",
+        "pl": "klienci-biznesowi",
+        "uk": "biznes-klienty"
+      },
+      "priority": 0.8,
+      "changefreq": "monthly"
+    },
+    {
+      "pageId": "contact",
+      "urls": {
+        "en": "contact",
+        "lt": "kontaktai",
+        "pl": "kontakt",
+        "uk": "kontakty"
+      },
+      "priority": 0.7,
+      "changefreq": "monthly"
+    },
+    {
+      "pageId": "privacy-policy",
+      "urls": {
+        "en": "privacy-policy",
+        "lt": "privatumo-politika",
+        "pl": "polityka-prywatnosci",
+        "uk": "polityka-konfidentsiynosti"
+      },
+      "priority": 0.3,
+      "changefreq": "yearly"
+    }
+  ],
+  "collections": {
+    "services": {
+      "basePath": {
+        "en": "services",
+        "lt": "paslaugos", 
+        "pl": "uslugi",
+        "uk": "poslugy"
+      },
+      "itemRoute": "{basePath}/{slug}",
+      "priority": 0.8,
+      "changefreq": "monthly"
+    },
+    "news": {
+      "basePath": {
+        "en": "news",
+        "lt": "naujienos",
+        "pl": "aktualnosci",
+        "uk": "novyny"
+      },
+      "itemRoute": "{basePath}/{slug}",
+      "priority": 0.6,
+      "changefreq": "weekly"
+    },
+    "accessories": {
+      "basePath": {
+        "en": "accessories",
+        "lt": "priedai",
+        "pl": "akcesoria",
+        "uk": "aksesuary"
+      },
+      "itemRoute": "{basePath}/{slug}",
+      "priority": 0.7,
+      "changefreq": "monthly"
+    },
+    "business": {
+      "basePath": {
+        "en": "business-clients",
+        "lt": "verslo-klientui", 
+        "pl": "klienci-biznesowi",
+        "uk": "biznes-klienty"
+      },
+      "itemRoute": "{basePath}/{slug}",
+      "priority": 0.7,
+      "changefreq": "monthly"
+    }
+  },
+  "defaultLocale": "en",
+  "supportedLocales": ["en", "lt", "pl", "uk"]
+}

@@ -98,7 +98,7 @@
         "items": [
           {
             "id": "service-1",
-            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+            "image": "/images/adjustment-tools.webp",
             "title": "Window Repair",
             "description": "Comprehensive repair for all types of windows, restoring functionality and appearance.",
             "price": "From €50",
@@ -109,7 +109,7 @@
           },
           {
             "id": "service-2",
-            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+            "image": "/images/glass-unit-replacement.webp",
             "title": "Door Adjustment",
             "description": "Expert adjustment for misaligned or difficult-to-close doors.",
             "price": "From €40",
@@ -120,7 +120,7 @@
           },
           {
             "id": "service-3",
-            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/1219efa6c2-1eebe76d8698624cc69b.png",
+            "image": "/images/adjustment-tools.webp",
             "title": "Seal Replacement",
             "description": "Improve insulation and prevent drafts with new, high-quality seals.",
             "price": "From €30",
@@ -139,21 +139,21 @@
             "quote": "The team was professional and fixed our windows in no time. Highly recommended!",
             "name": "John Doe",
             "location": "Warsaw, Poland",
-            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+            "avatar": "/images/maintenance-schedule-og.webp",
             "rating": 5
           },
           {
             "quote": "Excellent service from start to finish. Our doors work perfectly now.",
             "name": "Jane Smith",
             "location": "Kraków, Poland",
-            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+            "avatar": "/images/maintenance-schedule-og.webp",
             "rating": 5
           },
           {
             "quote": "A very reliable and transparent company. The quality of work is exceptional.",
             "name": "Peter Jones",
             "location": "Łódź, Poland",
-            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+            "avatar": "/images/glass-unit-replacement.webp",
             "rating": 5
           }
         ]
@@ -349,7 +349,7 @@
         "items": [
           {
             "id": "service-1",
-            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+            "image": "/images/adjustment-tools.webp",
             "title": "Langų Remontas",
             "description": "Išsamus visų tipų langų remontas, atkuriant funkcionalumą ir išvaizdą.",
             "price": "Nuo 50 €",
@@ -360,7 +360,7 @@
           },
           {
             "id": "service-2",
-            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+            "image": "/images/glass-unit-replacement.webp",
             "title": "Durų Reguliavimas",
             "description": "Profesionalus netinkamai suderintų ar sunkiai užsidarančių durų reguliavimas.",
             "price": "Nuo 40 €",
@@ -371,7 +371,7 @@
           },
           {
             "id": "service-3",
-            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/1219efa6c2-1eebe76d8698624cc69b.png",
+            "image": "/images/adjustment-tools.webp",
             "title": "Tarpinių Keitimas",
             "description": "Pagerinkite izoliaciją ir išvenkite skersvėjų su naujomis, aukštos kokybės tarpinėmis.",
             "price": "Nuo 30 €",
@@ -390,21 +390,21 @@
             "quote": "Komanda buvo profesionali ir greitai sutvarkė mūsų langus. Labai rekomenduoju!",
             "name": "Jonas Jonaitis",
             "location": "Vilnius, Lietuva",
-            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+            "avatar": "/images/maintenance-schedule-og.webp",
             "rating": 5
           },
           {
             "quote": "Puikus aptarnavimas nuo pradžios iki pabaigos. Mūsų durys dabar veikia puikiai.",
             "name": "Ona Onaitė",
             "location": "Kaunas, Lietuva",
-            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+            "avatar": "/images/maintenance-schedule-og.webp",
             "rating": 5
           },
           {
             "quote": "Labai patikima ir skaidri įmonė. Darbų kokybė išskirtinė.",
             "name": "Petras Petraitis",
             "location": "Klaipėda, Lietuva",
-            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+            "avatar": "/images/glass-unit-replacement.webp",
             "rating": 5
           }
         ]
@@ -600,7 +600,7 @@
         "items": [
           {
             "id": "service-1",
-            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+            "image": "/images/adjustment-tools.webp",
             "title": "Naprawa Okien",
             "description": "Kompleksowa naprawa wszystkich typów okien, przywracająca funkcjonalność i wygląd.",
             "price": "Od 200 zł",
@@ -611,7 +611,7 @@
           },
           {
             "id": "service-2",
-            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+            "image": "/images/glass-unit-replacement.webp",
             "title": "Regulacja Drzwi",
             "description": "Ekspercka regulacja źle dopasowanych lub trudno zamykających się drzwi.",
             "price": "Od 150 zł",
@@ -622,7 +622,7 @@
           },
           {
             "id": "service-3",
-            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/1219efa6c2-1eebe76d8698624cc69b.png",
+            "image": "/images/adjustment-tools.webp",
             "title": "Wymiana Uszczelek",
             "description": "Popraw izolację i zapobiegaj przeciągom dzięki nowym, wysokiej jakości uszczelkom.",
             "price": "Od 120 zł",
@@ -641,21 +641,21 @@
             "quote": "Zespół był profesjonalny i naprawił nasze okna w mgnieniu oka. Gorąco polecam!",
             "name": "Jan Kowalski",
             "location": "Warszawa, Polska",
-            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+            "avatar": "/images/maintenance-schedule-og.webp",
             "rating": 5
           },
           {
             "quote": "Doskonała obsługa od początku do końca. Nasze drzwi działają teraz idealnie.",
             "name": "Anna Nowak",
             "location": "Kraków, Polska",
-            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+            "avatar": "/images/maintenance-schedule-og.webp",
             "rating": 5
           },
           {
             "quote": "Bardzo rzetelna i przejrzysta firma. Jakość pracy jest wyjątkowa.",
             "name": "Piotr Wiśniewski",
             "location": "Łódź, Polska",
-            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+            "avatar": "/images/glass-unit-replacement.webp",
             "rating": 5
           }
         ]
@@ -851,7 +851,7 @@
         "items": [
           {
             "id": "service-1",
-            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+            "image": "/images/adjustment-tools.webp",
             "title": "Ремонт Вікон",
             "description": "Комплексний ремонт усіх типів вікон, відновлення функціональності та зовнішнього вигляду.",
             "price": "Від 1500 грн",
@@ -862,7 +862,7 @@
           },
           {
             "id": "service-2",
-            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+            "image": "/images/glass-unit-replacement.webp",
             "title": "Регулювання Дверей",
             "description": "Експертне регулювання неправильно виставлених або важко закриваються дверей.",
             "price": "Від 1200 грн",
@@ -873,7 +873,7 @@
           },
           {
             "id": "service-3",
-            "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/1219efa6c2-1eebe76d8698624cc69b.png",
+            "image": "/images/adjustment-tools.webp",
             "title": "Заміна Ущільнювачів",
             "description": "Покращіть ізоляцію та запобігайте протягам за допомогою нових, високоякісних ущільнювачів.",
             "price": "Від 900 грн",
@@ -892,21 +892,21 @@
             "quote": "Команда була професійною і швидко полагодила наші вікна. Дуже рекомендую!",
             "name": "Іван Петренко",
             "location": "Київ, Україна",
-            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+            "avatar": "/images/maintenance-schedule-og.webp",
             "rating": 5
           },
           {
             "quote": "Відмінний сервіс від початку до кінця. Наші двері тепер працюють ідеально.",
             "name": "Марія Коваленко",
             "location": "Львів, Україна",
-            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+            "avatar": "/images/maintenance-schedule-og.webp",
             "rating": 5
           },
           {
             "quote": "Дуже надійна та прозора компанія. Якість роботи виняткова.",
             "name": "Олександр Мельник",
             "location": "Харків, Україна",
-            "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+            "avatar": "/images/glass-unit-replacement.webp",
             "rating": 5
           }
         ]

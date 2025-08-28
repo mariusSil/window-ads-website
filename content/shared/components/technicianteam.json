@@ -8,28 +8,28 @@
         "role": "Lead Technician",
         "experience": "15 Years",
         "description": "Specialist in complex window mechanisms and emergency repairs",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-2.jpg"
+        "avatar": "/images/window-sealing.webp"
       },
       {
         "name": "Piotr Nowak",
         "role": "Glass Specialist",
         "experience": "12 Years",
         "description": "Expert in glass replacement and sealing solutions",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-3.jpg"
+        "avatar": "/images/window-sealing.webp"
       },
       {
         "name": "Anna Wiśniewska",
         "role": "Door Systems Expert",
         "experience": "10 Years",
         "description": "Certified in security locks and door hardware",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-1.jpg"
+        "avatar": "/images/professional-window-installation-og.webp"
       },
       {
         "name": "Jakub Lewandowski",
         "role": "Installation Specialist",
         "experience": "8 Years",
         "description": "Expert in new installations and accessory upgrades",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-8.jpg"
+        "avatar": "/images/window-sealing.webp"
       }
     ]
   },
@@ -42,28 +42,28 @@
         "role": "Vyriausiasis technikas",
         "experience": "15 metų",
         "description": "Specialistas sudėtingų langų mechanizmų ir skubių remontų srityje",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-2.jpg"
+        "avatar": "/images/window-sealing.webp"
       },
       {
         "name": "Piotr Nowak",
         "role": "Stiklo specialistas",
         "experience": "12 metų",
         "description": "Ekspertas stiklo keitimo ir sandarinimo sprendimų srityje",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-3.jpg"
+        "avatar": "/images/window-sealing.webp"
       },
       {
         "name": "Anna Wiśniewska",
         "role": "Durų sistemų ekspertė",
         "experience": "10 metų",
         "description": "Sertifikuota saugumo spynų ir durų furnitūros specialistė",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-1.jpg"
+        "avatar": "/images/professional-window-installation-og.webp"
       },
       {
         "name": "Jakub Lewandowski",
         "role": "Montavimo specialistas",
         "experience": "8 metai",
         "description": "Ekspertas naujų įrengimų ir aksesuarų modernizavimo srityje",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-8.jpg"
+        "avatar": "/images/window-sealing.webp"
       }
     ]
   },
@@ -76,28 +76,28 @@
         "role": "Główny technik",
         "experience": "15 lat",
         "description": "Specjalista od złożonych mechanizmów okiennych i napraw awaryjnych",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-2.jpg"
+        "avatar": "/images/window-sealing.webp"
       },
       {
         "name": "Piotr Nowak",
         "role": "Specjalista od szkła",
         "experience": "12 lat",
         "description": "Ekspert w zakresie wymiany szkła i rozwiązań uszczelniających",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-3.jpg"
+        "avatar": "/images/window-sealing.webp"
       },
       {
         "name": "Anna Wiśniewska",
         "role": "Ekspert systemów drzwiowych",
         "experience": "10 lat",
         "description": "Certyfikowana w zakresie zamków bezpieczeństwa i okuć drzwiowych",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-1.jpg"
+        "avatar": "/images/professional-window-installation-og.webp"
       },
       {
         "name": "Jakub Lewandowski",
         "role": "Specjalista od instalacji",
         "experience": "8 lat",
         "description": "Ekspert w zakresie nowych instalacji i modernizacji akcesoriów",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-8.jpg"
+        "avatar": "/images/window-sealing.webp"
       }
     ]
   },
@@ -110,28 +110,28 @@
         "role": "Головний технік",
         "experience": "15 років",
         "description": "Спеціаліст зі складних віконних механізмів та аварійних ремонтів",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-2.jpg"
+        "avatar": "/images/window-sealing.webp"
       },
       {
         "name": "Петро Новак",
         "role": "Спеціаліст зі скла",
         "experience": "12 років",
         "description": "Експерт з заміни скла та герметизаційних рішень",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-3.jpg"
+        "avatar": "/images/window-sealing.webp"
       },
       {
         "name": "Анна Вишневська",
         "role": "Експерт дверних систем",
         "experience": "10 років",
         "description": "Сертифікований спеціаліст з замків безпеки та дверної фурнітури",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-1.jpg"
+        "avatar": "/images/professional-window-installation-og.webp"
       },
       {
         "name": "Якуб Левандовський",
         "role": "Спеціаліст з монтажу",
         "experience": "8 років",
         "description": "Експерт з нових установок та модернізації аксесуарів",
-        "avatar": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-8.jpg"
+        "avatar": "/images/window-sealing.webp"
       }
     ]
   }

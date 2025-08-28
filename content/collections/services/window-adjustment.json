@@ -13,28 +13,28 @@
       "title": "Professional Window Adjustment Services | From €45 | Same-Day Service",
       "description": "Expert window alignment and mechanism adjustment for smooth operation. Professional technicians, 5-year warranty. Book same-day service in Vilnius.",
       "keywords": "window adjustment, window alignment, window mechanism repair, window service Vilnius",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+      "ogImage": "/images/professional-installation-og.webp",
       "ogImageAlt": "Professional window adjustment service"
     },
     "lt": {
       "title": "Profesionalus langų reguliavimas | Nuo €45 | Tos pačios dienos aptarnavimas",
       "description": "Ekspertų langų suderinimas ir mechanizmų reguliavimas sklandžiam veikimui. Profesionalūs specialistai, 5 metų garantija. Užsisakykite tos pačios dienos paslaugą Vilniuje.",
       "keywords": "langų reguliavimas, langų suderinimas, langų mechanizmų remontas, langų aptarnavimas Vilnius",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImage": "/images/weather-seals.webp",
       "ogImageAlt": "Profesionalus langų reguliavimo aptarnavimas"
     },
     "pl": {
       "title": "Profesjonalna regulacja okien | Od €45 | Serwis tego samego dnia",
       "description": "Eksperckie wyrównanie okien i regulacja mechanizmów dla płynnego działania. Profesjonalni technicy, 5-letnia gwarancja. Zamów serwis tego samego dnia w Wilnie.",
       "keywords": "regulacja okien, wyrównanie okien, naprawa mechanizmów okiennych, serwis okien Wilno",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png",
+      "ogImage": "/images/maintenance-schedule-og.webp",
       "ogImageAlt": "Profesjonalny serwis regulacji okien"
     },
     "uk": {
       "title": "Професійне регулювання вікон | Від €45 | Обслуговування в той же день",
       "description": "Експертне вирівнювання вікон та регулювання механізмів для плавної роботи. Професійні техніки, 5-річна гарантія. Замовте обслуговування в той же день у Вільнюсі.",
       "keywords": "регулювання вікон, вирівнювання вікон, ремонт віконних механізмів, обслуговування вікон Вільнюс",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+      "ogImage": "/images/maintenance-schedule-og.webp",
       "ogImageAlt": "Професійне обслуговування регулювання вікон"
     }
   },

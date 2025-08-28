@@ -13,28 +13,28 @@
       "title": "Window Insulation Improvement | From €45 | Energy Efficiency",
       "description": "Professional window insulation upgrade services. Reduce energy costs, eliminate drafts, improve comfort. Weather stripping, sealing, thermal efficiency.",
       "keywords": "window insulation, energy efficiency, draft sealing, weather stripping, thermal improvement",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12d0f3f353-a6d4b0eef6a0168d1974.png",
+      "ogImage": "/images/professional-tools.webp",
       "ogImageAlt": "Professional window insulation improvement service"
     },
     "lt": {
       "title": "Langų izoliacijos gerinimas | Nuo €45 | Energijos efektyvumas",
       "description": "Profesionalios langų izoliacijos gerinimo paslaugos. Sumažinkite energijos sąnaudas, pašalinkite vėjų pūtimą, pagerinkite komfortą.",
       "keywords": "langų izoliacija, energijos efektyvumas, vėjų sandarinimas, oro tarpinės, šiluminė izoliacija",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png",
+      "ogImage": "/images/smart-windows-og.webp",
       "ogImageAlt": "Profesionalus langų izoliacijos gerinimo aptarnavimas"
     },
     "pl": {
       "title": "Poprawa izolacji okien | Od €45 | Efektywność energetyczna",
       "description": "Profesjonalne usługi poprawy izolacji okien. Zmniejsz koszty energii, wyeliminuj przeciągi, popraw komfort.",
       "keywords": "izolacja okien, efektywność energetyczna, uszczelnianie przeciągów, uszczelki pogodowe, poprawa termiczna",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+      "ogImage": "/images/smart-windows-og.webp",
       "ogImageAlt": "Profesjonalny serwis poprawy izolacji okien"
     },
     "uk": {
       "title": "Покращення ізоляції вікон | Від €45 | Енергоефективність",
       "description": "Професійні послуги покращення ізоляції вікон. Зменшіть витрати на енергію, усуньте протяги, покращте комфорт.",
       "keywords": "ізоляція вікон, енергоефективність, герметизація протягів, ущільнювачі, теплова ізоляція",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/f5eb646de5-ebbb4355ecccb9a69282.png",
+      "ogImage": "/images/weather-seals.webp",
       "ogImageAlt": "Професійне обслуговування покращення ізоляції вікон"
     }
   },

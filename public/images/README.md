@@ -1,12 +1,5 @@
 # Image Optimization Guidelines
 
-## Folder Structure
-- `hero/` - Above-the-fold hero images (use HeroImage component)
-- `gallery/` - Gallery and content images (use GalleryImage component)  
-- `thumbnails/` - Small preview images (use ThumbnailImage component)
-
-## Image Specifications
-
 ### Hero Images
 - **Dimensions**: 1920x1080 (16:9 ratio) maximum
 - **Format**: WebP preferred, JPEG fallback

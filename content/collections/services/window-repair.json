@@ -4,7 +4,7 @@
   "template": "service-item",
   "slugs": {
     "en": "window-repair",
-    "lt": "langu-remontas", 
+    "lt": "langu-remontas",
     "pl": "naprawa-okien",
     "uk": "remont-vikon"
   },
@@ -13,33 +13,36 @@
       "title": "Professional Window Repair Services | Expert Fixes",
       "description": "Expert window repair services for all window types. Fast diagnosis, quality repairs, and satisfaction guaranteed.",
       "keywords": "window repair, window fix, broken window, window maintenance, window service",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+      "ogImage": "/images/energy-efficient-windows-og.webp",
       "ogImageAlt": "Professional Window Repair Services"
     },
     "lt": {
       "title": "Profesionalus langų remontas | Ekspertų sprendimai",
       "description": "Ekspertų langų remonto paslaugos visų tipų langams. Greita diagnozė, kokybiški remonto darbai.",
       "keywords": "langų remontas, langų taisymas, sugedę langai, langų priežiūra",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "ogImage": "/images/adjustment-tools.webp",
       "ogImageAlt": "Profesionalus langų remontas"
     },
     "pl": {
       "title": "Profesjonalna naprawa okien | Eksperci w naprawie",
       "description": "Eksperckie usługi naprawy okien dla wszystkich typów okien. Szybka diagnoza, wysokiej jakości naprawy.",
       "keywords": "naprawa okien, naprawianie okien, uszkodzone okna, serwis okien",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImage": "/images/professional-tools.webp",
       "ogImageAlt": "Profesjonalna naprawa okien"
     },
     "uk": {
       "title": "Професійні послуги ремонту вікон | Експертний ремонт",
       "description": "Експертні послуги ремонту вікон для всіх типів вікон. Швидка діагностика, якісний ремонт та гарантія задоволення.",
       "keywords": "ремонт вікон, виправлення вікон, зламані вікна, обслуговування вікон, сервіс вікон",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/092074e752-1185ce1516e031aa1a73.png",
+      "ogImage": "/images/professional-tools.webp",
       "ogImageAlt": "Професійні послуги ремонту вікон"
     }
   },
   "components": [
-    { "type": "ServiceArticle", "contentKey": "article" }
+    {
+      "type": "ServiceArticle",
+      "contentKey": "article"
+    }
   ],
   "content": {
     "en": {

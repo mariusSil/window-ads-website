@@ -13,28 +13,28 @@
       "title": "Window Installation Service | From €150 | Professional Installation",
       "description": "Expert window installation service. New construction, replacement windows, custom installations. Professional fitting with lifetime warranty.",
       "keywords": "window installation, new window installation, replacement windows, professional installation, window fitting",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImage": "/images/energy-efficient-windows-og.webp",
       "ogImageAlt": "Professional window installation service"
     },
     "lt": {
       "title": "Langų montavimo paslauga | Nuo €150 | Profesionalus montavimas",
       "description": "Ekspertų langų montavimo aptarnavimas. Nauja statyba, keičiami langai, individualūs montavimai. Profesionalus pritaikymas su visam gyvenimui garantija.",
       "keywords": "langų montavimas, naujų langų montavimas, keičiami langai, profesionalus montavimas, langų pritaikymas",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/496c0289a9-c854d7dd73faaf1e44b4.png",
+      "ogImage": "/images/smart-window-technology-og.webp",
       "ogImageAlt": "Profesionalus langų montavimo aptarnavimas"
     },
     "pl": {
       "title": "Usługa montażu okien | Od €150 | Profesjonalny montaż",
       "description": "Ekspercka usługa montażu okien. Nowe budownictwo, wymiana okien, instalacje niestandardowe. Profesjonalne dopasowanie z dożywotnią gwarancją.",
       "keywords": "montaż okien, montaż nowych okien, wymiana okien, profesjonalny montaż, dopasowanie okien",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+      "ogImage": "/images/window-replacement-comparison.webp",
       "ogImageAlt": "Profesjonalna usługa montażu okien"
     },
     "uk": {
       "title": "Послуга встановлення вікон | Від €150 | Професійне встановлення",
       "description": "Експертна послуга встановлення вікон. Нове будівництво, заміна вікон, індивідуальні встановлення. Професійне підгонка з довічною гарантією.",
       "keywords": "встановлення вікон, встановлення нових вікон, заміна вікон, професійне встановлення, підгонка вікон",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/1219efa6c2-1eebe76d8698624cc69b.png",
+      "ogImage": "/images/window-replacement-comparison.webp",
       "ogImageAlt": "Професійна послуга встановлення вікон"
     }
   },

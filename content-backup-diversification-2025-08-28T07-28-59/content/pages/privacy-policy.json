@@ -1,0 +1,964 @@
+{
+  "pageId": "privacy-policy",
+  "template": "standard-page",
+  "seo": {
+    "en": {
+      "title": "Privacy Policy - Langu Remontas",
+      "description": "Learn how Langu Remontas collects, uses, and protects your personal information. Our comprehensive privacy policy ensures transparency and data protection.",
+      "keywords": "privacy policy, data protection, personal information, GDPR compliance, data security",
+      "ogImage": "/images/smart-window-technology.webp",
+      "ogImageAlt": "Privacy Policy - Langu Remontas data protection and privacy"
+    },
+    "lt": {
+      "title": "Privatumo politika - Langu Remontas",
+      "description": "Sužinokite, kaip Langu Remontas renka, naudoja ir saugo jūsų asmens duomenis. Mūsų išsami privatumo politika užtikrina skaidrumą ir duomenų apsaugą.",
+      "keywords": "privatumo politika, duomenų apsauga, asmens duomenys, BDAR atitiktis, duomenų saugumas",
+      "ogImage": "/images/window-sealing.webp",
+      "ogImageAlt": "Privatumo politika - Langu Remontas duomenų apsauga ir privatumas"
+    },
+    "pl": {
+      "title": "Polityka Prywatności - Langu Remontas",
+      "description": "Dowiedz się, jak Langu Remontas zbiera, wykorzystuje i chroni Twoje dane osobowe. Nasza kompleksowa polityka prywatności zapewnia przejrzystość i ochronę danych.",
+      "keywords": "polityka prywatności, ochrona danych, dane osobowe, zgodność RODO, bezpieczeństwo danych",
+      "ogImage": "/images/window-security-safety-og.webp",
+      "ogImageAlt": "Polityka Prywatności - Langu Remontas ochrona danych i prywatność"
+    },
+    "uk": {
+      "title": "Політика конфіденційності - Langu Remontas",
+      "description": "Дізнайтеся, як Langu Remontas збирає, використовує та захищає вашу особисту інформацію. Наша комплексна політика конфіденційності забезпечує прозорість та захист даних.",
+      "keywords": "політика конфіденційності, захист даних, особиста інформація, відповідність GDPR, безпека даних",
+      "ogImage": "/images/glass-unit-replacement.webp",
+      "ogImageAlt": "Політика конфіденційності - Langu Remontas захист даних та конфіденційність"
+    }
+  },
+  "content": {
+    "en": {
+      "hero": {
+        "title": "Privacy Policy",
+        "subtitle": "How we collect, use, and protect your personal information",
+        "lastUpdated": "Last updated: August 26, 2025"
+      },
+      "sections": [
+        {
+          "title": "1. Data Controller Information",
+          "content": [
+            {
+              "subtitle": "Who We Are",
+              "text": "Langu Remontas is the data controller responsible for your personal information. We are located in Vilnius, Lithuania, and provide professional window and door repair services across Lithuania, Poland, and Ukraine."
+            },
+            {
+              "subtitle": "Contact Information",
+              "text": "Data Protection Officer: privacy@langu-remontas.lt\nAddress: Vilnius, Lithuania\nBusiness Registration: [Registration Number]"
+            }
+          ]
+        },
+        {
+          "title": "2. Information We Collect",
+          "content": [
+            {
+              "subtitle": "Personal Information You Provide",
+              "text": "When you contact us for window and door repair services, we collect: your name, phone number, email address, property address, preferred appointment times, description of repair needs, and any special requirements or accessibility needs."
+            },
+            {
+              "subtitle": "Information Collected Automatically",
+              "text": "Our website automatically collects technical information through Google Tag Manager and cookies, including: IP address (anonymized), browser type and version, device information, pages visited, time spent on pages, referring website, and user interactions with our website."
+            },
+            {
+              "subtitle": "Google Tag Manager Data",
+              "text": "We use Google Tag Manager to manage tracking codes and collect analytics data. This includes website usage patterns, conversion tracking, and performance metrics. All data collection through GTM requires your explicit consent and can be controlled through our cookie preferences."
+            }
+          ]
+        },
+        {
+          "title": "3. Legal Basis for Processing",
+          "content": [
+            {
+              "subtitle": "Consent",
+              "text": "We process your personal data based on your explicit consent for marketing communications, website analytics through Google Tag Manager, and non-essential cookies. You can withdraw consent at any time."
+            },
+            {
+              "subtitle": "Contract Performance",
+              "text": "We process your data to fulfill our service contract, including scheduling appointments, providing repair services, processing payments, and post-service follow-up."
+            },
+            {
+              "subtitle": "Legitimate Interest",
+              "text": "We may process data for legitimate business interests such as improving our services, website security, fraud prevention, and business analytics, always balanced against your privacy rights."
+            },
+            {
+              "subtitle": "Legal Obligation",
+              "text": "We process data to comply with legal requirements including tax obligations, business registration requirements, and consumer protection laws."
+            }
+          ]
+        },
+        {
+          "title": "4. How We Use Your Information",
+          "content": [
+            {
+              "subtitle": "Service Provision",
+              "text": "We use your personal information to schedule and provide repair services, communicate about appointments, process payments, and ensure service quality and customer satisfaction."
+            },
+            {
+              "subtitle": "Website Analytics",
+              "text": "Through Google Tag Manager, we analyze website usage to improve user experience, optimize our services, and understand customer needs. This includes tracking page views, user journeys, and conversion rates."
+            },
+            {
+              "subtitle": "Marketing Communications",
+              "text": "With your consent, we may send you information about our services, maintenance tips, special offers, and relevant updates. You can opt out at any time."
+            },
+            {
+              "subtitle": "Business Operations",
+              "text": "We use aggregated, anonymized data to improve our business operations, develop new services, and ensure compliance with legal and regulatory requirements."
+            }
+          ]
+        },
+        {
+          "title": "5. Data Sharing and Disclosure",
+          "content": [
+            {
+              "subtitle": "Service Partners",
+              "text": "We may share necessary information with trusted service partners, suppliers, or subcontractors who assist in providing repair services. All partners are bound by data protection agreements and GDPR compliance requirements."
+            },
+            {
+              "subtitle": "Google Services",
+              "text": "We share anonymized data with Google Analytics and other Google services through Google Tag Manager for website analytics and advertising purposes. This data is processed according to Google's privacy policies and GDPR compliance measures."
+            },
+            {
+              "subtitle": "Legal Requirements",
+              "text": "We may disclose your information if required by law, court order, or government regulation, or to protect our rights, property, or safety, or that of our customers or others."
+            },
+            {
+              "subtitle": "No Sale of Data",
+              "text": "We do not sell, rent, or trade your personal information to third parties for marketing purposes. Any data sharing is limited to the purposes outlined in this policy."
+            }
+          ]
+        },
+        {
+          "title": "6. International Data Transfers",
+          "content": [
+            {
+              "subtitle": "EU-US Data Transfers",
+              "text": "Some of our service providers, including Google, may transfer your data outside the European Economic Area (EEA). We ensure all transfers are protected by appropriate safeguards such as Standard Contractual Clauses or adequacy decisions."
+            },
+            {
+              "subtitle": "Data Protection Measures",
+              "text": "All international data transfers are subject to GDPR-compliant safeguards, including encryption in transit and at rest, access controls, and regular security assessments."
+            }
+          ]
+        },
+        {
+          "title": "7. Data Retention",
+          "content": [
+            {
+              "subtitle": "Service Data",
+              "text": "We retain your personal information for as long as necessary to provide our services and fulfill legal obligations. Service records are typically kept for 7 years for warranty and legal compliance purposes."
+            },
+            {
+              "subtitle": "Website Analytics Data",
+              "text": "Google Analytics data is automatically deleted after 26 months. Cookie data expires according to the specific cookie's purpose, typically between 1 month and 2 years."
+            },
+            {
+              "subtitle": "Marketing Data",
+              "text": "Marketing consent and communication preferences are retained until you withdraw consent or request deletion. Inactive marketing contacts are automatically removed after 3 years."
+            }
+          ]
+        },
+        {
+          "title": "8. Your GDPR Rights",
+          "content": [
+            {
+              "subtitle": "Right of Access",
+              "text": "You have the right to request copies of your personal data. We may charge a reasonable fee for multiple copies or excessive requests."
+            },
+            {
+              "subtitle": "Right to Rectification",
+              "text": "You have the right to request correction of inaccurate or incomplete personal data."
+            },
+            {
+              "subtitle": "Right to Erasure (Right to be Forgotten)",
+              "text": "You have the right to request deletion of your personal data under certain conditions, such as when the data is no longer necessary or you withdraw consent."
+            },
+            {
+              "subtitle": "Right to Restrict Processing",
+              "text": "You have the right to request restriction of processing under certain conditions, such as when you contest the accuracy of the data."
+            },
+            {
+              "subtitle": "Right to Data Portability",
+              "text": "You have the right to receive your personal data in a structured, commonly used format and transmit it to another controller."
+            },
+            {
+              "subtitle": "Right to Object",
+              "text": "You have the right to object to processing based on legitimate interests or for direct marketing purposes."
+            },
+            {
+              "subtitle": "Rights Related to Automated Decision Making",
+              "text": "You have the right not to be subject to decisions based solely on automated processing that significantly affects you."
+            }
+          ]
+        },
+        {
+          "title": "9. Cookies and Google Tag Manager",
+          "content": [
+            {
+              "subtitle": "What Are Cookies",
+              "text": "Cookies are small text files stored on your device when you visit our website. They help us provide a better user experience and analyze website performance."
+            },
+            {
+              "subtitle": "Google Tag Manager",
+              "text": "We use Google Tag Manager (GTM) to manage website tags and tracking codes. GTM itself doesn't collect personal data but enables other services like Google Analytics to function. All GTM-related data collection requires your consent."
+            },
+            {
+              "subtitle": "Types of Cookies We Use",
+              "text": "Essential cookies (required for website functionality), Analytics cookies (Google Analytics for usage statistics), Marketing cookies (for advertising and remarketing), and Preference cookies (to remember your settings)."
+            },
+            {
+              "subtitle": "Cookie Consent",
+              "text": "We obtain your explicit consent before placing non-essential cookies. You can manage your cookie preferences through our cookie banner or browser settings."
+            },
+            {
+              "subtitle": "Google Consent Mode",
+              "text": "We use Google Consent Mode to adjust Google tag behavior based on your consent choices, ensuring GDPR compliance while maintaining measurement capabilities."
+            }
+          ]
+        },
+        {
+          "title": "10. Data Security",
+          "content": [
+            {
+              "subtitle": "Security Measures",
+              "text": "We implement appropriate technical and organizational security measures including encryption, access controls, regular security assessments, staff training on data protection, and incident response procedures."
+            },
+            {
+              "subtitle": "Data Breach Notification",
+              "text": "In the event of a data breach that poses a risk to your rights and freedoms, we will notify the relevant supervisory authority within 72 hours and inform affected individuals without undue delay."
+            }
+          ]
+        },
+        {
+          "title": "11. Children's Privacy",
+          "content": [
+            {
+              "subtitle": "Age Restrictions",
+              "text": "Our services are not directed at children under 16. We do not knowingly collect personal data from children under 16 without parental consent. If you believe we have collected data from a child, please contact us immediately."
+            }
+          ]
+        },
+        {
+          "title": "12. Changes to This Policy",
+          "content": [
+            {
+              "subtitle": "Policy Updates",
+              "text": "We may update this privacy policy to reflect changes in our practices or legal requirements. We will notify you of significant changes by email or prominent website notice."
+            },
+            {
+              "subtitle": "Effective Date",
+              "text": "This policy is effective from August 26, 2025. Continued use of our services after changes constitutes acceptance of the updated policy."
+            }
+          ]
+        },
+        {
+          "title": "13. Contact Us and Supervisory Authority",
+          "content": [
+            {
+              "subtitle": "Data Protection Inquiries",
+              "text": "For questions about this privacy policy or to exercise your GDPR rights, contact our Data Protection Officer at privacy@langu-remontas.lt."
+            },
+            {
+              "subtitle": "Response Time",
+              "text": "We will respond to your requests within one month. For complex requests, we may extend this period by two months and will inform you of any delay."
+            },
+            {
+              "subtitle": "Supervisory Authority",
+              "text": "You have the right to lodge a complaint with your local data protection authority. In Lithuania, this is the State Data Protection Inspectorate (https://vdai.lrv.lt/)."
+            }
+          ]
+        }
+      ]
+    },
+    "lt": {
+      "hero": {
+        "title": "Privatumo politika",
+        "subtitle": "Kaip renkame, naudojame ir saugome jūsų asmens duomenis",
+        "lastUpdated": "Paskutinį kartą atnaujinta: 2025 m. rugpjūčio 26 d."
+      },
+      "sections": [
+        {
+          "title": "1. Duomenų valdytojo informacija",
+          "content": [
+            {
+              "subtitle": "Kas mes esame",
+              "text": "Langu Remontas yra duomenų valdytojas, atsakingas už jūsų asmens duomenis. Esame įsikūrę Vilniuje, Lietuvoje, ir teikiame profesionalias langų ir durų remonto paslaugas Lietuvoje, Lenkijoje ir Ukrainoje."
+            },
+            {
+              "subtitle": "Kontaktinė informacija",
+              "text": "Duomenų apsaugos pareigūnas: privatumas@langu-remontas.lt\nAdresas: Vilnius, Lietuva\nĮmonės kodas: [Registracijos numeris]"
+            }
+          ]
+        },
+        {
+          "title": "2. Kokią informaciją renkame",
+          "content": [
+            {
+              "subtitle": "Jūsų pateikiami asmens duomenys",
+              "text": "Kai kreipiates dėl langų ir durų remonto paslaugų, renkame: jūsų vardą, telefono numerį, el. pašto adresą, nuosavybės adresą, pageidaujamus vizito laikus, remonto poreikių aprašymą ir specialius reikalavimus."
+            },
+            {
+              "subtitle": "Automatiškai renkami duomenys",
+              "text": "Mūsų svetainė automatiškai renka techninius duomenis per Google Tag Manager ir slapukus: IP adresą (anoniminį), naršyklės tipą, įrenginio informaciją, aplankytus puslapius, svetainėje praleistą laiką ir sąveikas."
+            },
+            {
+              "subtitle": "Google Tag Manager duomenys",
+              "text": "Naudojame Google Tag Manager sekimo kodų valdymui ir analitikos duomenų rinkimui. Tai apima svetainės naudojimo šablonus, konversijų sekimą ir veiklos metrikas. Visi duomenų rinkimo procesai reikalauja jūsų aiškaus sutikimo."
+            }
+          ]
+        },
+        {
+          "title": "3. Teisiniai duomenų tvarkymo pagrindai",
+          "content": [
+            {
+              "subtitle": "Sutikimas",
+              "text": "Tvarkome jūsų asmens duomenis gavę aiškų sutikimą rinkodaros komunikacijai, svetainės analitikai per Google Tag Manager ir nebūtiniems slapukams. Galite atšaukti sutikimą bet kada."
+            },
+            {
+              "subtitle": "Sutarties vykdymas",
+              "text": "Tvarkome duomenis paslaugų sutarčiai įvykdyti: vizitų planavimui, remonto paslaugų teikimui, mokėjimų tvarkymui ir popaslauginiam bendravimui."
+            },
+            {
+              "subtitle": "Teisėti interesai",
+              "text": "Galime tvarkyti duomenis teisėtiems verslo interesams: paslaugų gerinimui, svetainės saugumui, sukčiavimo prevencijai, visada atsižvelgdami į jūsų privatumo teises."
+            },
+            {
+              "subtitle": "Teisinė prievolė",
+              "text": "Tvarkome duomenis laikydamiesi teisinių reikalavimų: mokesčių įsipareigojimų, verslo registracijos reikalavimų ir vartotojų apsaugos įstatymų."
+            }
+          ]
+        },
+        {
+          "title": "4. Kaip naudojame jūsų informaciją",
+          "content": [
+            {
+              "subtitle": "Paslaugų teikimas",
+              "text": "Naudojame jūsų asmens duomenis vizitų planavimui ir remonto paslaugų teikimui, bendravimui dėl susitikimų, mokėjimų tvarkymui ir paslaugų kokybės užtikrinimui."
+            },
+            {
+              "subtitle": "Svetainės analitika",
+              "text": "Per Google Tag Manager analizuojame svetainės naudojimą, kad pagerintume naudotojo patirtį, optimizuotume paslaugas ir suprastume klientų poreikius. Tai apima puslapių peržiūras, naudotojų keliones ir konversijų rodiklius."
+            },
+            {
+              "subtitle": "Rinkodaros komunikacija",
+              "text": "Gavę jūsų sutikimą, galime siųsti informaciją apie mūsų paslaugas, priežiūros patarimus, specialius pasiūlymus ir aktualius atnaujinimus. Galite atsisakyti bet kada."
+            },
+            {
+              "subtitle": "Verslo operacijos",
+              "text": "Naudojame sujungtus, anoniminius duomenis verslo operacijų gerinimui, naujų paslaugų kūrimui ir teisės aktų reikalavimų laikymosi užtikrinimui."
+            }
+          ]
+        },
+        {
+          "title": "5. Duomenų dalijimasis ir atskleidimas",
+          "content": [
+            {
+              "subtitle": "Paslaugų partneriai",
+              "text": "Galime dalintis reikalinga informacija su patikimais paslaugų partneriais, tiekėjais ar subrangovais, kurie padeda teikti remonto paslaugas. Visi partneriai yra įpareigoti duomenų apsaugos sutartimis ir BDAR atitikties reikalavimais."
+            },
+            {
+              "subtitle": "Google paslaugos",
+              "text": "Dalinamės anoniminiais duomenimis su Google Analytics ir kitomis Google paslaugomis per Google Tag Manager svetainės analitikos ir reklamos tikslais. Šie duomenys tvarkomi pagal Google privatumo politikas ir BDAR atitikties priemones."
+            },
+            {
+              "subtitle": "Teisiniai reikalavimai",
+              "text": "Galime atskleisti jūsų informaciją, jei to reikalauja įstatymas, teismo sprendimas ar vyriausybės reglamentas, arba siekiant apsaugoti mūsų, klientų ar kitų teises, nuosavybę ar saugumą."
+            },
+            {
+              "subtitle": "Duomenų nepardavimas",
+              "text": "Neparduodame, nenuomojame ir nekeičiame jūsų asmens duomenų tretiesiems asmenims rinkodaros tikslais. Bet koks duomenų dalijimasis apsiriboja šioje politikoje nurodytais tikslais."
+            }
+          ]
+        },
+        {
+          "title": "6. Tarptautiniai duomenų perdavimai",
+          "content": [
+            {
+              "subtitle": "ES-JAV duomenų perdavimai",
+              "text": "Kai kurie mūsų paslaugų teikėjai, įskaitant Google, gali perduoti jūsų duomenis už Europos ekonominės erdvės (EEE) ribų. Užtikriname, kad visi perdavimai būtų apsaugoti tinkamomis apsaugos priemonėmis, tokiomis kaip standartinės sutartinės sąlygos ar adekvatumo sprendimai."
+            },
+            {
+              "subtitle": "Duomenų apsaugos priemonės",
+              "text": "Visi tarptautiniai duomenų perdavimai atitinka BDAR apsaugos priemones, įskaitant šifravimą perdavimo ir saugojimo metu, prieigos kontrolę ir reguliarius saugumo vertinimus."
+            }
+          ]
+        },
+        {
+          "title": "7. Duomenų saugojimas",
+          "content": [
+            {
+              "subtitle": "Paslaugų duomenys",
+              "text": "Saugome jūsų asmens duomenis tiek, kiek reikia paslaugoms teikti ir teisinėms prievolėms vykdyti. Paslaugų įrašai paprastai saugomi 7 metus garantijos ir teisės aktų laikymosi tikslais."
+            },
+            {
+              "subtitle": "Svetainės analitikos duomenys",
+              "text": "Google Analytics duomenys automatiškai ištrinami po 26 mėnesių. Slapukų duomenys baigiasi pagal konkretaus slapuko paskirtį, paprastai nuo 1 mėnesio iki 2 metų."
+            },
+            {
+              "subtitle": "Rinkodaros duomenys",
+              "text": "Rinkodaros sutikimas ir komunikacijos nuostatos saugomos, kol neatšaukiate sutikimo ar neprašote ištrinti. Neaktyvūs rinkodaros kontaktai automatiškai pašalinami po 3 metų."
+            }
+          ]
+        },
+        {
+          "title": "8. Jūsų BDAR teisės",
+          "content": [
+            {
+              "subtitle": "Teisė į prieigą",
+              "text": "Turite teisę prašyti savo asmens duomenų kopijų. Galime imti pagrįstą mokestį už kelias kopijas ar per didelius prašymus."
+            },
+            {
+              "subtitle": "Teisė į ištaisymą",
+              "text": "Turite teisę prašyti ištaisyti neteisingus ar neišsamius asmens duomenis."
+            },
+            {
+              "subtitle": "Teisė būti pamirštam",
+              "text": "Turite teisę prašyti ištrinti savo asmens duomenis tam tikromis sąlygomis, pavyzdžiui, kai duomenys nebereikalingi arba atšaukiate sutikimą."
+            },
+            {
+              "subtitle": "Teisė apriboti tvarkymą",
+              "text": "Turite teisę prašyti apriboti duomenų tvarkymą tam tikromis sąlygomis, pavyzdžiui, ginčijant duomenų tikslumą."
+            },
+            {
+              "subtitle": "Teisė į duomenų perkeliamumą",
+              "text": "Turite teisę gauti savo asmens duomenis struktūrizuotu formatu ir perduoti kitam valdytojui."
+            },
+            {
+              "subtitle": "Teisė nesutikti",
+              "text": "Turite teisę nesutikti su duomenų tvarkymu, grindžiamu teisėtais interesais ar tiesioginės rinkodaros tikslais."
+            }
+          ]
+        },
+        {
+          "title": "10. Duomenų saugumas",
+          "content": [
+            {
+              "subtitle": "Saugumo priemonės",
+              "text": "Įgyvendiname atitinkamas technines ir organizacines saugumo priemones, įskaitant šifravimą, prieigos kontrolę, reguliarius saugumo vertinimus, personalo mokymą duomenų apsaugos klausimais ir incidentų reagavimo procedūras."
+            },
+            {
+              "subtitle": "Duomenų pažeidimų pranešimas",
+              "text": "Duomenų pažeidimo, keliančio riziką jūsų teisėms ir laisvėms, atveju informuosime atitinkamą priežiūros instituciją per 72 valandas ir informuosime paveiktus asmenis nedelsiant."
+            }
+          ]
+        },
+        {
+          "title": "11. Vaikų privatumas",
+          "content": [
+            {
+              "subtitle": "Amžiaus apribojimai",
+              "text": "Mūsų paslaugos nėra skirtos vaikams iki 16 metų. Sąmoningai nerenkame asmens duomenų iš vaikų iki 16 metų be tėvų sutikimo. Jei manote, kad surinkome vaiko duomenis, nedelsiant susisiekite su mumis."
+            }
+          ]
+        },
+        {
+          "title": "12. Šios politikos pakeitimai",
+          "content": [
+            {
+              "subtitle": "Politikos atnaujinimai",
+              "text": "Galime atnaujinti šią privatumo politiką, kad atspindėtume mūsų praktikos ar teisinių reikalavimų pokyčius. Apie reikšmingus pakeitimus informuosime el. paštu arba ryškiu pranešimu svetainėje."
+            },
+            {
+              "subtitle": "Įsigaliojimo data",
+              "text": "Ši politika galioja nuo 2025 m. rugpjūčio 26 d. Toliau naudojantis mūsų paslaugomis po pakeitimų reiškia sutikimą su atnaujinta politika."
+            }
+          ]
+        },
+        {
+          "title": "9. Slapukai ir Google Tag Manager",
+          "content": [
+            {
+              "subtitle": "Kas yra slapukai",
+              "text": "Slapukai yra maži tekstiniai failai, saugomi jūsų įrenginyje apsilankius mūsų svetainėje. Jie padeda teikti geresnę naudotojo patirtį ir analizuoti svetainės veikimą."
+            },
+            {
+              "subtitle": "Google Tag Manager",
+              "text": "Naudojame Google Tag Manager svetainės žymų ir sekimo kodų valdymui. GTM pats nerenka asmens duomenų, bet leidžia veikti kitoms paslaugoms kaip Google Analytics. Visas GTM duomenų rinkimas reikalauja jūsų sutikimo."
+            },
+            {
+              "subtitle": "Google sutikimo režimas",
+              "text": "Naudojame Google Consent Mode, kad pritaikytume Google žymų elgesį pagal jūsų sutikimo pasirinkimus, užtikrindami BDAR atitiktį."
+            }
+          ]
+        },
+        {
+          "title": "13. Susisiekite su mumis ir priežiūros institucija",
+          "content": [
+            {
+              "subtitle": "Duomenų apsaugos klausimai",
+              "text": "Klausimais apie šią privatumo politiką ar norėdami pasinaudoti BDAR teisėmis, kreipkitės į mūsų duomenų apsaugos pareigūną: privatumas@langu-remontas.lt."
+            },
+            {
+              "subtitle": "Atsakymo laikas",
+              "text": "Į jūsų prašymus atsakysime per vieną mėnesį. Sudėtingų prašymų atveju galime pratęsti šį laikotarpį dviem mėnesiais ir informuosime apie vėlavimą."
+            },
+            {
+              "subtitle": "Priežiūros institucija",
+              "text": "Turite teisę pateikti skundą savo šalies duomenų apsaugos institucijai. Lietuvoje tai yra Valstybinė duomenų apsaugos inspekcija (https://vdai.lrv.lt/)."
+            }
+          ]
+        }
+      ]
+    },
+    "pl": {
+      "hero": {
+        "title": "Polityka Prywatności",
+        "subtitle": "Jak zbieramy, wykorzystujemy i chronimy Twoje dane osobowe",
+        "lastUpdated": "Ostatnia aktualizacja: 26 sierpnia 2025"
+      },
+      "sections": [
+        {
+          "title": "1. Informacje o administratorze danych",
+          "content": [
+            {
+              "subtitle": "Kim jesteśmy",
+              "text": "Langu Remontas jest administratorem danych odpowiedzialnym za Twoje dane osobowe. Mamy siedzibę w Wilnie na Litwie i świadczymy profesjonalne usługi naprawy okien i drzwi na Litwie, w Polsce i na Ukrainie."
+            },
+            {
+              "subtitle": "Informacje kontaktowe",
+              "text": "Inspektor ochrony danych: prywatnosc@langu-remontas.lt\nAdres: Wilno, Litwa\nNumer rejestracyjny: [Numer rejestracyjny]"
+            }
+          ]
+        },
+        {
+          "title": "2. Jakie informacje zbieramy",
+          "content": [
+            {
+              "subtitle": "Dane osobowe, które podajesz",
+              "text": "Gdy kontaktujesz się z nami w sprawie usług naprawy okien i drzwi, zbieramy: Twoje imię i nazwisko, numer telefonu, adres e-mail, adres nieruchomości, preferowane terminy wizyt, opis potrzeb naprawczych i specjalne wymagania."
+            },
+            {
+              "subtitle": "Informacje zbierane automatycznie",
+              "text": "Nasza strona internetowa automatycznie zbiera informacje techniczne przez Google Tag Manager i pliki cookie: adres IP (zanonimizowany), typ przeglądarki, informacje o urządzeniu, odwiedzone strony, czas spędzony na stronach i interakcje użytkownika."
+            },
+            {
+              "subtitle": "Dane Google Tag Manager",
+              "text": "Używamy Google Tag Manager do zarządzania kodami śledzenia i zbierania danych analitycznych. Obejmuje to wzorce użytkowania strony, śledzenie konwersji i metryki wydajności. Wszystkie procesy zbierania danych wymagają Twojej wyraźnej zgody."
+            }
+          ]
+        },
+        {
+          "title": "3. Podstawy prawne przetwarzania",
+          "content": [
+            {
+              "subtitle": "Zgoda",
+              "text": "Przetwarzamy Twoje dane osobowe na podstawie wyraźnej zgody na komunikację marketingową, analitykę strony przez Google Tag Manager i nieistotne pliki cookie. Możesz wycofać zgodę w dowolnym momencie."
+            },
+            {
+              "subtitle": "Wykonanie umowy",
+              "text": "Przetwarzamy dane w celu wykonania umowy o świadczenie usług: planowania wizyt, świadczenia usług naprawczych, przetwarzania płatności i komunikacji po usłudze."
+            },
+            {
+              "subtitle": "Prawnie uzasadniony interes",
+              "text": "Możemy przetwarzać dane dla prawnie uzasadnionych interesów biznesowych: ulepszania usług, bezpieczeństwa strony, zapobiegania oszustwom, zawsze równoważąc z Twoimi prawami do prywatności."
+            }
+          ]
+        },
+        {
+          "title": "4. Jak wykorzystujemy Twoje informacje",
+          "content": [
+            {
+              "subtitle": "Świadczenie usług",
+              "text": "Wykorzystujemy Twoje dane osobowe do planowania i świadczenia usług naprawczych, komunikacji dotyczącej wizyt, przetwarzania płatności oraz zapewnienia jakości i satysfakcji klienta."
+            },
+            {
+              "subtitle": "Analityka strony internetowej",
+              "text": "Poprzez Google Tag Manager analizujemy użytkowanie strony w celu poprawy doświadczenia użytkownika, optymalizacji naszych usług i zrozumienia potrzeb klientów. obejmuje to wyświetlenia stron, ścieżki użytkowników i wskaźniki konwersji."
+            },
+            {
+              "subtitle": "Komunikacja marketingowa",
+              "text": "Za Twoją zgodą możemy wysyłać informacje o naszych usługach, porady dotyczące konserwacji, oferty specjalne i istotne aktualizacje. Możesz zrezygnować w dowolnym momencie."
+            },
+            {
+              "subtitle": "Operacje biznesowe",
+              "text": "Wykorzystujemy zagregowane, anonimowe dane do poprawy naszych operacji biznesowych, rozwoju nowych usług i zapewnienia zgodności z wymogami prawnymi i regulacyjnymi."
+            }
+          ]
+        },
+        {
+          "title": "5. Udostępnianie i ujawnianie danych",
+          "content": [
+            {
+              "subtitle": "Partnerzy usługowi",
+              "text": "Możemy udostępniać niezbędne informacje zaufanym partnerom usługowym, dostawcom lub podwykonawcom, którzy pomagają w świadczeniu usług naprawczych. Wszyscy partnerzy są związani umowami o ochronie danych i wymogami zgodności z RODO."
+            },
+            {
+              "subtitle": "Usługi Google",
+              "text": "Udostępniamy anonimowe dane Google Analytics i innym usługom Google poprzez Google Tag Manager w celach analityki strony i reklamowych. Te dane są przetwarzane zgodnie z politykami prywatności Google i środkami zgodności z RODO."
+            },
+            {
+              "subtitle": "Wymogi prawne",
+              "text": "Możemy ujawnić Twoje informacje, jeśli wymaga tego prawo, nakaz sądowy lub rozporządzenie rządowe, lub w celu ochrony naszych praw, własności lub bezpieczeństwa, lub naszych klientów lub innych."
+            },
+            {
+              "subtitle": "Brak sprzedaży danych",
+              "text": "Nie sprzedajemy, nie wynajmujemy ani nie wymieniamy Twoich danych osobowych stronom trzecim w celach marketingowych. Wszelkie udostępnianie danych ogranicza się do celów określonych w tej polityce."
+            }
+          ]
+        },
+        {
+          "title": "6. Międzynarodowe transfery danych",
+          "content": [
+            {
+              "subtitle": "Transfery danych UE-USA",
+              "text": "Niektórzy z naszych dostawców usług, w tym Google, mogą przekazywać Twoje dane poza Europejski Obszar Gospodarczy (EOG). Zapewniamy, że wszystkie transfery są chronione odpowiednimi zabezpieczeniami, takimi jak Standardowe Klauzule Umowne lub decyzje o adekwatności."
+            },
+            {
+              "subtitle": "Środki ochrony danych",
+              "text": "Wszystkie międzynarodowe transfery danych podlegają zabezpieczeniom zgodnym z RODO, w tym szyfrowaniu w tranzycie i spoczynku, kontroli dostępu i regularnym ocenom bezpieczeństwa."
+            }
+          ]
+        },
+        {
+          "title": "7. Przechowywanie danych",
+          "content": [
+            {
+              "subtitle": "Dane usługowe",
+              "text": "Przechowujemy Twoje dane osobowe tak długo, jak jest to konieczne do świadczenia naszych usług i wypełniania obowiązków prawnych. Zapisy usług są zazwyczaj przechowywane przez 7 lat w celach gwarancyjnych i zgodności prawnej."
+            },
+            {
+              "subtitle": "Dane analityki strony",
+              "text": "Dane Google Analytics są automatycznie usuwane po 26 miesiącach. Dane plików cookie wygasają zgodnie z przeznaczeniem konkretnego pliku cookie, zazwyczaj od 1 miesiąca do 2 lat."
+            },
+            {
+              "subtitle": "Dane marketingowe",
+              "text": "Zgoda marketingowa i preferencje komunikacyjne są przechowywane do momentu wycofania zgody lub żądania usunięcia. Nieaktywne kontakty marketingowe są automatycznie usuwane po 3 latach."
+            }
+          ]
+        },
+        {
+          "title": "8. Twoje prawa RODO",
+          "content": [
+            {
+              "subtitle": "Prawo dostępu",
+              "text": "Masz prawo żądać kopii swoich danych osobowych. Możemy pobrać rozsądną opłatę za wiele kopii lub nadmierne żądania."
+            },
+            {
+              "subtitle": "Prawo do sprostowania",
+              "text": "Masz prawo żądać korekty nieprawidłowych lub niekompletnych danych osobowych."
+            },
+            {
+              "subtitle": "Prawo do zapomnienia",
+              "text": "Masz prawo żądać usunięcia swoich danych osobowych w określonych warunkach, takich jak gdy dane nie są już potrzebne lub wycofujesz zgodę."
+            },
+            {
+              "subtitle": "Prawo do ograniczenia przetwarzania",
+              "text": "Masz prawo żądać ograniczenia przetwarzania danych w określonych warunkach, na przykład gdy kwestionujesz dokładność danych."
+            },
+            {
+              "subtitle": "Prawo do przenoszenia danych",
+              "text": "Masz prawo otrzymać swoje dane osobowe w ustrukturyzowanym formacie i przekazać je innemu administratorowi."
+            }
+          ]
+        },
+        {
+          "title": "10. Bezpieczeństwo danych",
+          "content": [
+            {
+              "subtitle": "Środki bezpieczeństwa",
+              "text": "Wdrażamy odpowiednie techniczne i organizacyjne środki bezpieczeństwa, w tym szyfrowanie, kontrolę dostępu, regularne oceny bezpieczeństwa, szkolenia personelu w zakresie ochrony danych i procedury reagowania na incydenty."
+            },
+            {
+              "subtitle": "Powiadomienie o naruszeniu danych",
+              "text": "W przypadku naruszenia danych, które stwarza ryzyko dla Twoich praw i wolności, powiadomimy odpowiedni organ nadzorczy w ciągu 72 godzin i poinformujemy osoby dotknięte bez zbędnej zwłoki."
+            }
+          ]
+        },
+        {
+          "title": "11. Prywatność dzieci",
+          "content": [
+            {
+              "subtitle": "Ograniczenia wiekowe",
+              "text": "Nasze usługi nie są skierowane do dzieci poniżej 16 roku życia. Nie zbieramy świadomie danych osobowych od dzieci poniżej 16 roku życia bez zgody rodziców. Jeśli uważasz, że zebraliśmy dane od dziecka, skontaktuj się z nami natychmiast."
+            }
+          ]
+        },
+        {
+          "title": "12. Zmiany w tej polityce",
+          "content": [
+            {
+              "subtitle": "Aktualizacje polityki",
+              "text": "Możemy aktualizować tę politykę prywatności, aby odzwierciedlić zmiany w naszych praktykach lub wymogach prawnych. O znaczących zmianach powiadomimy e-mailem lub widocznym powiadomieniem na stronie."
+            },
+            {
+              "subtitle": "Data wejścia w życie",
+              "text": "Ta polityka obowiązuje od 26 sierpnia 2025 roku. Dalsze korzystanie z naszych usług po zmianach oznacza akceptację zaktualizowanej polityki."
+            }
+          ]
+        },
+        {
+          "title": "9. Pliki cookie i Google Tag Manager",
+          "content": [
+            {
+              "subtitle": "Czym są pliki cookie",
+              "text": "Pliki cookie to małe pliki tekstowe przechowywane na Twoim urządzeniu podczas odwiedzania naszej strony. Pomagają nam zapewnić lepsze doświadczenie użytkownika i analizować wydajność strony."
+            },
+            {
+              "subtitle": "Google Tag Manager",
+              "text": "Używamy Google Tag Manager do zarządzania tagami i kodami śledzenia strony. GTM sam nie zbiera danych osobowych, ale umożliwia działanie innych usług jak Google Analytics. Wszystkie procesy zbierania danych GTM wymagają Twojej zgody."
+            },
+            {
+              "subtitle": "Tryb zgody Google",
+              "text": "Używamy Google Consent Mode, aby dostosować zachowanie tagów Google na podstawie Twoich wyborów zgody, zapewniając zgodność z RODO."
+            }
+          ]
+        },
+        {
+          "title": "13. Skontaktuj się z nami i organ nadzorczy",
+          "content": [
+            {
+              "subtitle": "Zapytania o ochronę danych",
+              "text": "W przypadku pytań dotyczących tej polityki prywatności lub korzystania z praw RODO, skontaktuj się z naszym Inspektorem Ochrony Danych: prywatnosc@langu-remontas.lt."
+            },
+            {
+              "subtitle": "Czas odpowiedzi",
+              "text": "Odpowiemy na Twoje żądania w ciągu jednego miesiąca. W przypadku złożonych żądań możemy przedłużyć ten okres o dwa miesiące i poinformujemy o opóźnieniu."
+            },
+            {
+              "subtitle": "Organ nadzorczy",
+              "text": "Masz prawo złożyć skargę do lokalnego organu ochrony danych. W Polsce jest to Urząd Ochrony Danych Osobowych (https://uodo.gov.pl/)."
+            }
+          ]
+        }
+      ]
+    },
+    "uk": {
+      "hero": {
+        "title": "Політика конфіденційності",
+        "subtitle": "Як ми збираємо, використовуємо та захищаємо вашу особисту інформацію",
+        "lastUpdated": "Останнє оновлення: 26 серпня 2025 року"
+      },
+      "sections": [
+        {
+          "title": "1. Інформація про контролера даних",
+          "content": [
+            {
+              "subtitle": "Хто ми",
+              "text": "Langu Remontas є контролером даних, відповідальним за вашу особисту інформацію. Ми розташовані у Вільнюсі, Литва, та надаємо професійні послуги ремонту вікон та дверей у Литві, Польщі та Україні."
+            },
+            {
+              "subtitle": "Контактна інформація",
+              "text": "Інспектор з захисту даних: konfidentsijnist@langu-remontas.lt\nАдреса: Вільнюс, Литва\nРеєстраційний номер: [Номер реєстрації]"
+            }
+          ]
+        },
+        {
+          "title": "2. Яку інформацію ми збираємо",
+          "content": [
+            {
+              "subtitle": "Особиста інформація, яку ви надаєте",
+              "text": "Коли ви звертаєтеся до нас за послугами ремонту вікон та дверей, ми збираємо: ваше ім'я, номер телефону, адресу електронної пошти, адресу нерухомості, бажані часи візитів, опис потреб ремонту та особливі вимоги."
+            },
+            {
+              "subtitle": "Інформація, що збирається автоматично",
+              "text": "Наш веб-сайт автоматично збирає технічну інформацію через Google Tag Manager та файли cookie: IP-адресу (анонімізовану), тип браузера, інформацію про пристрій, відвідані сторінки, час, проведений на сторінках, та взаємодії користувача."
+            },
+            {
+              "subtitle": "Дані Google Tag Manager",
+              "text": "Ми використовуємо Google Tag Manager для управління кодами відстеження та збору аналітичних даних. Це включає шаблони використання веб-сайту, відстеження конверсій та метрики продуктивності. Всі процеси збору даних вимагають вашої явної згоди."
+            }
+          ]
+        },
+        {
+          "title": "3. Правові підстави для обробки",
+          "content": [
+            {
+              "subtitle": "Згода",
+              "text": "Ми обробляємо ваші особисті дані на основі вашої явної згоди на маркетингові комунікації, аналітику веб-сайту через Google Tag Manager та несуттєві файли cookie. Ви можете відкликати згоду в будь-який час."
+            },
+            {
+              "subtitle": "Виконання договору",
+              "text": "Ми обробляємо дані для виконання нашого договору про надання послуг: планування зустрічей, надання ремонтних послуг, обробки платежів та подальшого спілкування."
+            },
+            {
+              "subtitle": "Законні інтереси",
+              "text": "Ми можемо обробляти дані для законних бізнес-інтересів: покращення послуг, безпеки веб-сайту, запобігання шахрайству, завжди збалансовуючи з вашими правами на конфіденційність."
+            }
+          ]
+        },
+        {
+          "title": "4. Як ми використовуємо вашу інформацію",
+          "content": [
+            {
+              "subtitle": "Надання послуг",
+              "text": "Ми використовуємо вашу особисту інформацію для планування та надання ремонтних послуг, спілкування щодо зустрічей, обробки платежів та забезпечення якості послуг і задоволення клієнтів."
+            },
+            {
+              "subtitle": "Аналітика веб-сайту",
+              "text": "Через Google Tag Manager ми аналізуємо використання веб-сайту для покращення користувацького досвіду, оптимізації наших послуг та розуміння потреб клієнтів. Це включає перегляди сторінок, шляхи користувачів та показники конверсії."
+            },
+            {
+              "subtitle": "Маркетингові комунікації",
+              "text": "З вашої згоди ми можемо надсилати інформацію про наші послуги, поради з обслуговування, спеціальні пропозиції та відповідні оновлення. Ви можете відмовитися в будь-який час."
+            },
+            {
+              "subtitle": "Бізнес-операції",
+              "text": "Ми використовуємо агреговані, анонімні дані для покращення наших бізнес-операцій, розробки нових послуг та забезпечення відповідності правовим та регуляторним вимогам."
+            }
+          ]
+        },
+        {
+          "title": "5. Обмін та розкриття даних",
+          "content": [
+            {
+              "subtitle": "Сервісні партнери",
+              "text": "Ми можемо ділитися необхідною інформацією з надійними сервісними партнерами, постачальниками або субпідрядниками, які допомагають у наданні ремонтних послуг. Всі партнери зв'язані угодами про захист даних та вимогами відповідності GDPR."
+            },
+            {
+              "subtitle": "Сервіси Google",
+              "text": "Ми ділимося анонімними даними з Google Analytics та іншими сервісами Google через Google Tag Manager для аналітики веб-сайту та рекламних цілей. Ці дані обробляються відповідно до політик конфіденційності Google та заходів відповідності GDPR."
+            },
+            {
+              "subtitle": "Правові вимоги",
+              "text": "Ми можемо розкрити вашу інформацію, якщо це вимагається законом, судовим наказом або урядовим регулюванням, або для захисту наших прав, власності чи безпеки, або наших клієнтів чи інших."
+            },
+            {
+              "subtitle": "Відсутність продажу даних",
+              "text": "Ми не продаємо, не здаємо в оренду та не обмінюємо вашу особисту інформацію третім сторонам для маркетингових цілей. Будь-який обмін даними обмежується цілями, викладеними в цій політиці."
+            }
+          ]
+        },
+        {
+          "title": "6. Міжнародні передачі даних",
+          "content": [
+            {
+              "subtitle": "Передачі даних ЄС-США",
+              "text": "Деякі з наших постачальників послуг, включаючи Google, можуть передавати ваші дані за межі Європейської економічної зони (ЄЕЗ). Ми забезпечуємо, щоб усі передачі були захищені відповідними гарантіями, такими як Стандартні договірні положення або рішення про адекватність."
+            },
+            {
+              "subtitle": "Заходи захисту даних",
+              "text": "Всі міжнародні передачі даних підлягають гарантіям, що відповідають GDPR, включаючи шифрування при передачі та зберіганні, контроль доступу та регулярні оцінки безпеки."
+            }
+          ]
+        },
+        {
+          "title": "7. Зберігання даних",
+          "content": [
+            {
+              "subtitle": "Дані послуг",
+              "text": "Ми зберігаємо вашу особисту інформацію стільки, скільки необхідно для надання наших послуг та виконання правових зобов'язань. Записи послуг зазвичай зберігаються протягом 7 років для гарантійних та правових цілей відповідності."
+            },
+            {
+              "subtitle": "Дані аналітики веб-сайту",
+              "text": "Дані Google Analytics автоматично видаляються через 26 місяців. Дані файлів cookie закінчуються відповідно до призначення конкретного файлу cookie, зазвичай від 1 місяця до 2 років."
+            },
+            {
+              "subtitle": "Маркетингові дані",
+              "text": "Маркетингова згода та комунікаційні переваги зберігаються до тих пір, поки ви не відкличете згоду або не попросите видалення. Неактивні маркетингові контакти автоматично видаляються через 3 роки."
+            }
+          ]
+        },
+        {
+          "title": "8. Ваші права GDPR",
+          "content": [
+            {
+              "subtitle": "Право на доступ",
+              "text": "Ви маєте право запитувати копії ваших особистих даних. Ми можемо стягувати розумну плату за кілька копій або надмірні запити."
+            },
+            {
+              "subtitle": "Право на виправлення",
+              "text": "Ви маєте право запитувати виправлення неточних або неповних особистих даних."
+            },
+            {
+              "subtitle": "Право на забуття",
+              "text": "Ви маєте право запитувати видалення ваших особистих даних за певних умов, наприклад, коли дані більше не потрібні або ви відкликаєте згоду."
+            },
+            {
+              "subtitle": "Право на обмеження обробки",
+              "text": "Ви маєте право запитувати обмеження обробки даних за певних умов, наприклад, коли ви оспорюєте точність даних."
+            },
+            {
+              "subtitle": "Право на портативність даних",
+              "text": "Ви маєте право отримати ваші особисті дані у структурованому форматі та передати їх іншому контролеру."
+            }
+          ]
+        },
+        {
+          "title": "10. Безпека даних",
+          "content": [
+            {
+              "subtitle": "Заходи безпеки",
+              "text": "Ми впроваджуємо відповідні технічні та організаційні заходи безпеки, включаючи шифрування, контроль доступу, регулярні оцінки безпеки, навчання персоналу з захисту даних та процедури реагування на інциденти."
+            },
+            {
+              "subtitle": "Повідомлення про порушення даних",
+              "text": "У випадку порушення даних, що становить ризик для ваших прав та свобод, ми повідомимо відповідний наглядовий орган протягом 72 годин та інформуємо постраждалих осіб без зайвої затримки."
+            }
+          ]
+        },
+        {
+          "title": "11. Конфіденційність дітей",
+          "content": [
+            {
+              "subtitle": "Вікові обмеження",
+              "text": "Наші послуги не призначені для дітей віком до 16 років. Ми свідомо не збираємо особисті дані від дітей віком до 16 років без згоди батьків. Якщо ви вважаєте, що ми зібрали дані від дитини, негайно зв'яжіться з нами."
+            }
+          ]
+        },
+        {
+          "title": "12. Зміни в цій політиці",
+          "content": [
+            {
+              "subtitle": "Оновлення політики",
+              "text": "Ми можемо оновлювати цю політику конфіденційності, щоб відобразити зміни в наших практиках або правових вимогах. Ми повідомимо вас про значні зміни електронною поштою або помітним повідомленням на веб-сайті."
+            },
+            {
+              "subtitle": "Дата набрання чинності",
+              "text": "Ця політика набирає чинності з 26 серпня 2025 року. Продовження використання наших послуг після змін означає прийняття оновленої політики."
+            }
+          ]
+        },
+        {
+          "title": "9. Файли cookie та Google Tag Manager",
+          "content": [
+            {
+              "subtitle": "Що таке файли cookie",
+              "text": "Файли cookie - це невеликі текстові файли, що зберігаються на вашому пристрої при відвідуванні нашого веб-сайту. Вони допомагають нам забезпечити кращий користувацький досвід та аналізувати продуктивність сайту."
+            },
+            {
+              "subtitle": "Google Tag Manager",
+              "text": "Ми використовуємо Google Tag Manager для управління тегами та кодами відстеження веб-сайту. GTM сам не збирає особисті дані, але дозволяє функціонувати іншим сервісам, таким як Google Analytics. Всі процеси збору даних GTM вимагають вашої згоди."
+            },
+            {
+              "subtitle": "Режим згоди Google",
+              "text": "Ми використовуємо Google Consent Mode для налаштування поведінки тегів Google на основі ваших виборів згоди, забезпечуючи відповідність GDPR."
+            }
+          ]
+        },
+        {
+          "title": "13. Зв'яжіться з нами та наглядовий орган",
+          "content": [
+            {
+              "subtitle": "Запити щодо захисту даних",
+              "text": "З питань щодо цієї політики конфіденційності або для реалізації ваших прав GDPR зверніться до нашого Інспектора з захисту даних: konfidentsijnist@langu-remontas.lt."
+            },
+            {
+              "subtitle": "Час відповіді",
+              "text": "Ми відповімо на ваші запити протягом одного місяця. Для складних запитів ми можемо продовжити цей період на два місяці та повідомимо про затримку."
+            },
+            {
+              "subtitle": "Наглядовий орган",
+              "text": "Ви маєте право подати скаргу до місцевого органу захисту даних. В Україні це Уповноважений Верховної Ради України з прав людини."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "components": [
+    {
+      "type": "PageHeader",
+      "contentKey": "hero",
+      "required": true
+    },
+    {
+      "type": "PrivacyPolicy",
+      "contentKey": "sections",
+      "required": true
+    }
+  ]
+}

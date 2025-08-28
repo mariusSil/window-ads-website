@@ -14,13 +14,13 @@
         "description": "Apartments, houses, condominiums, and residential complexes",
         "icon": "House",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "src": "/images/smart-window-technology.webp",
           "alt": "modern residential apartment building, home windows and doors, family housing",
           "placeholder": "Residential Property - Modern apartment building"
         },
         "features": [
           "Private homes",
-          "Apartment buildings", 
+          "Apartment buildings",
           "Condominiums",
           "Residential complexes"
         ],
@@ -32,7 +32,7 @@
         "description": "Office buildings, retail spaces, restaurants, and business centers",
         "icon": "Building",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "src": "/images/professional-installation-og.webp",
           "alt": "modern office building, commercial property, business district windows",
           "placeholder": "Commercial Property - Modern office building"
         },
@@ -50,7 +50,7 @@
         "description": "Warehouses, factories, manufacturing facilities, and storage units",
         "icon": "Factory",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "src": "/images/window-security-safety-og.webp",
           "alt": "industrial facility, warehouse building, manufacturing plant windows",
           "placeholder": "Industrial Property - Manufacturing facility"
         },
@@ -68,7 +68,7 @@
         "description": "Schools, hospitals, government buildings, and public facilities",
         "icon": "Building2",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/39e181f992-e3c2c18069cde55140c9.png",
+          "src": "/images/professional-tools.webp",
           "alt": "public institution building, school hospital government building",
           "placeholder": "Institutional Property - Public building"
         },
@@ -97,7 +97,7 @@
         "description": "Butai, namai, kondominiumai ir gyvenamieji kompleksai",
         "icon": "House",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "src": "/images/smart-window-technology.webp",
           "alt": "šiuolaikinis gyvenamasis daugiabučių pastatas, namų langai ir durys, šeimos būstas",
           "placeholder": "Gyvenamasis turtas - Šiuolaikinis daugiabučių pastatas"
         },
@@ -115,7 +115,7 @@
         "description": "Biurų pastatai, prekybos erdvės, restoranai ir verslo centrai",
         "icon": "Building",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "src": "/images/professional-installation-og.webp",
           "alt": "šiuolaikinis biurų pastatas, komercinis turtas, verslo rajono langai",
           "placeholder": "Komercinis turtas - Šiuolaikinis biurų pastatas"
         },
@@ -133,7 +133,7 @@
         "description": "Sandėliai, gamyklos, gamybos objektai ir saugojimo patalpos",
         "icon": "Factory",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "src": "/images/window-security-safety-og.webp",
           "alt": "pramonės objektas, sandėlio pastatas, gamybos įmonės langai",
           "placeholder": "Pramonės turtas - Gamybos objektas"
         },
@@ -151,7 +151,7 @@
         "description": "Mokyklos, ligoninės, vyriausybės pastatai ir viešieji objektai",
         "icon": "Building2",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/39e181f992-e3c2c18069cde55140c9.png",
+          "src": "/images/professional-tools.webp",
           "alt": "viešosios institucijos pastatas, mokykla ligoninė vyriausybės pastatas",
           "placeholder": "Institucinis turtas - Viešasis pastatas"
         },
@@ -180,7 +180,7 @@
         "description": "Mieszkania, domy, kondominia i kompleksy mieszkaniowe",
         "icon": "House",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "src": "/images/smart-window-technology.webp",
           "alt": "nowoczesny budynek mieszkalny, okna i drzwi domowe, mieszkania rodzinne",
           "placeholder": "Nieruchomość mieszkaniowa - Nowoczesny budynek mieszkalny"
         },
@@ -198,7 +198,7 @@
         "description": "Budynki biurowe, przestrzenie handlowe, restauracje i centra biznesowe",
         "icon": "Building",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "src": "/images/professional-installation-og.webp",
           "alt": "nowoczesny budynek biurowy, nieruchomość komercyjna, okna dzielnicy biznesowej",
           "placeholder": "Nieruchomość komercyjna - Nowoczesny budynek biurowy"
         },
@@ -216,7 +216,7 @@
         "description": "Magazyny, fabryki, obiekty produkcyjne i jednostki magazynowe",
         "icon": "Factory",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "src": "/images/window-security-safety-og.webp",
           "alt": "obiekt przemysłowy, budynek magazynowy, okna zakładu produkcyjnego",
           "placeholder": "Nieruchomość przemysłowa - Obiekt produkcyjny"
         },
@@ -234,7 +234,7 @@
         "description": "Szkoły, szpitale, budynki rządowe i obiekty publiczne",
         "icon": "Building2",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/39e181f992-e3c2c18069cde55140c9.png",
+          "src": "/images/professional-tools.webp",
           "alt": "budynek instytucji publicznej, szkoła szpital budynek rządowy",
           "placeholder": "Nieruchomość instytucjonalna - Budynek publiczny"
         },
@@ -263,7 +263,7 @@
         "description": "Квартири, будинки, кондомініуми та житлові комплекси",
         "icon": "House",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/0d8a544662-8b5922d5b412b3eeb565.png",
+          "src": "/images/smart-window-technology.webp",
           "alt": "сучасний житловий багатоповерховий будинок, домашні вікна та двері, сімейне житло",
           "placeholder": "Житлова нерухомість - Сучасний багатоповерховий будинок"
         },
@@ -281,7 +281,7 @@
         "description": "Офісні будівлі, торгові приміщення, ресторани та бізнес-центри",
         "icon": "Building",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/183e1f2976-63b4926aab9f8067746d.png",
+          "src": "/images/professional-installation-og.webp",
           "alt": "сучасна офісна будівля, комерційна нерухомість, вікна бізнес-району",
           "placeholder": "Комерційна нерухомість - Сучасна офісна будівля"
         },
@@ -299,7 +299,7 @@
         "description": "Склади, фабрики, виробничі об'єкти та складські приміщення",
         "icon": "Factory",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8c8614ff02-1526458be854ba0e51ea.png",
+          "src": "/images/window-security-safety-og.webp",
           "alt": "промисловий об'єкт, складська будівля, вікна виробничого підприємства",
           "placeholder": "Промислова нерухомість - Виробничий об'єкт"
         },
@@ -317,7 +317,7 @@
         "description": "Школи, лікарні, урядові будівлі та громадські об'єкти",
         "icon": "Building2",
         "image": {
-          "src": "https://storage.googleapis.com/uxpilot-auth.appspot.com/39e181f992-e3c2c18069cde55140c9.png",
+          "src": "/images/professional-tools.webp",
           "alt": "будівля громадської установи, школа лікарня урядова будівля",
           "placeholder": "Інституційна нерухомість - Громадська будівля"
         },

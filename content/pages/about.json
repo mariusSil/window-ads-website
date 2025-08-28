@@ -6,28 +6,28 @@
       "title": "About Us - Professional Window & Door Repair Services",
       "description": "Experienced team providing window repair and maintenance services. Quality solutions from simple to complex repairs with warranty.",
       "keywords": "window repair, door repair, maintenance, professional service, Lithuania",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b7d9ea4f4c-30d25a8a023b2960ba16.png",
+      "ogImage": "/images/window-maintenance-schedule-og.webp",
       "ogImageAlt": "About Us - Professional window and door repair team"
     },
     "lt": {
       "title": "Apie mus - Profesionalūs langų ir durų remonto specialistai",
       "description": "Patyrusi komanda, teikianti langų remonto ir profilaktiško aptarnavimo paslaugas visoje Lietuvoje. Kokybė ir ilgaamžiškumas.",
       "keywords": "langų remontas, durų remontas, aptarnavimas, profesionalūs specialistai, Lietuva",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImage": "/images/winter-window-care-og.webp",
       "ogImageAlt": "Apie mus - Profesionalūs langų ir durų remonto specialistai"
     },
     "pl": {
       "title": "O nas - Profesjonalne naprawy okien i drzwi",
       "description": "Doświadczony zespół świadczący usługi naprawy okien i konserwacji. Jakość i trwałość od prostych do złożonych rozwiązań.",
       "keywords": "naprawa okien, naprawa drzwi, konserwacja, profesjonalna obsługa, Litwa",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/092074e752-1185ce1516e031aa1a73.png",
+      "ogImage": "/images/winter-window-care-og.webp",
       "ogImageAlt": "O nas - Profesjonalny zespół napraw okien i drzwi"
     },
     "uk": {
       "title": "Про нас - Професійний ремонт вікон та дверей",
       "description": "Досвідчена команда, що надає послуги з ремонту вікон та профілактичного обслуговування. Якість та довговічність.",
       "keywords": "ремонт вікон, ремонт дверей, обслуговування, професійний сервіс, Литва",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/12a6c44cf3-fcbe09748e6b2d45f416.png",
+      "ogImage": "/images/smart-window-technology-og.webp",
       "ogImageAlt": "Про нас - Професійна команда з ремонту вікон та дверей"
     }
   },
@@ -36,7 +36,7 @@
       "hero": {
         "title": "Apie mus",
         "subtitle": "Esame patyrusi komanda, teikianti langų remonto, profilaktiško aptarnavimo paslaugas visoje Lietuvoje. Atsakome į kiekvieno kliento poreikius, nuo paprastų iki sudėtingiausių sprendimų, užtikriname kokybę ir ilgaamžiškumą, taip pat montuojame langų priedus, įskaitant ventiliacijos sistemas ir kitus išmaniuosius sprendimus.",
-        "backgroundImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png"
+        "backgroundImage": "/images/smart-window-technology-og.webp"
       },
       "team": {
         "title": "Mūsų komanda",
@@ -82,7 +82,7 @@
       "hero": {
         "title": "About Us",
         "subtitle": "We are an experienced team providing window repair and maintenance services throughout Lithuania. We respond to every client's needs, from simple to the most complex solutions, ensuring quality and durability, as well as installing window accessories, including ventilation systems and other smart solutions.",
-        "backgroundImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png"
+        "backgroundImage": "/images/smart-window-technology-og.webp"
       },
       "team": {
         "title": "Our Team",
@@ -128,7 +128,7 @@
       "hero": {
         "title": "O nas",
         "subtitle": "Jesteśmy doświadczonym zespołem świadczącym usługi naprawy okien i konserwacji w całej Litwie. Odpowiadamy na potrzeby każdego klienta, od prostych po najbardziej złożone rozwiązania, zapewniając jakość i trwałość, a także montujemy akcesoria okienne, w tym systemy wentylacyjne i inne inteligentne rozwiązania.",
-        "backgroundImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png"
+        "backgroundImage": "/images/smart-window-technology-og.webp"
       },
       "team": {
         "title": "Nasz zespół",
@@ -174,7 +174,7 @@
       "hero": {
         "title": "Про нас",
         "subtitle": "Ми досвідчена команда, що надає послуги з ремонту вікон та профілактичного обслуговування по всій Литві. Відповідаємо на потреби кожного клієнта, від простих до найскладніших рішень, забезпечуючи якість та довговічність, а також встановлюємо віконні аксесуари, включаючи вентиляційні системи та інші розумні рішення.",
-        "backgroundImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/70b3568b74-2d9df149b9102ab95292.png"
+        "backgroundImage": "/images/smart-window-technology-og.webp"
       },
       "team": {
         "title": "Наша команда",

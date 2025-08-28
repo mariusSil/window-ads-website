@@ -6,28 +6,28 @@
       "title": "Privacy Policy - Langu Remontas",
       "description": "Learn how Langu Remontas collects, uses, and protects your personal information. Our comprehensive privacy policy ensures transparency and data protection.",
       "keywords": "privacy policy, data protection, personal information, GDPR compliance, data security",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
+      "ogImage": "/images/winter-care-og.webp",
       "ogImageAlt": "Privacy Policy - Langu Remontas data protection and privacy"
     },
     "lt": {
       "title": "Privatumo politika - Langu Remontas",
       "description": "Sužinokite, kaip Langu Remontas renka, naudoja ir saugo jūsų asmens duomenis. Mūsų išsami privatumo politika užtikrina skaidrumą ir duomenų apsaugą.",
       "keywords": "privatumo politika, duomenų apsauga, asmens duomenys, BDAR atitiktis, duomenų saugumas",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "ogImage": "/images/winter-care-og.webp",
       "ogImageAlt": "Privatumo politika - Langu Remontas duomenų apsauga ir privatumas"
     },
     "pl": {
       "title": "Polityka Prywatności - Langu Remontas",
       "description": "Dowiedz się, jak Langu Remontas zbiera, wykorzystuje i chroni Twoje dane osobowe. Nasza kompleksowa polityka prywatności zapewnia przejrzystość i ochronę danych.",
       "keywords": "polityka prywatności, ochrona danych, dane osobowe, zgodność RODO, bezpieczeństwo danych",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/6a72bd996e-d8d1d6ae365d8fe10a72.png",
+      "ogImage": "/images/winter-maintenance-og.webp",
       "ogImageAlt": "Polityka Prywatności - Langu Remontas ochrona danych i prywatność"
     },
     "uk": {
       "title": "Політика конфіденційності - Langu Remontas",
       "description": "Дізнайтеся, як Langu Remontas збирає, використовує та захищає вашу особисту інформацію. Наша комплексна політика конфіденційності забезпечує прозорість та захист даних.",
       "keywords": "політика конфіденційності, захист даних, особиста інформація, відповідність GDPR, безпека даних",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "ogImage": "/images/window-maintenance-schedule.webp",
       "ogImageAlt": "Політика конфіденційності - Langu Remontas захист даних та конфіденційність"
     }
   },

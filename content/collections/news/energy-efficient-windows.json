@@ -18,14 +18,14 @@
       "title": "Energy Efficient Windows Guide: Reduce Heating Costs & Improve Comfort",
       "description": "Complete guide to energy efficient windows. Learn about U-values, SHGC ratings, window technologies, and how to choose the best energy-saving windows for your home.",
       "keywords": "energy efficient windows, window U-value, SHGC rating, triple glazing, window energy savings, reduce heating costs, thermal performance",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "ogImage": "/images/smart-technology-og.webp",
       "ogImageAlt": "Energy Efficient Windows Performance Guide",
       "structuredData": {
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "Energy Efficient Windows Guide: Reduce Heating Costs & Improve Comfort",
         "description": "Comprehensive guide to understanding and choosing energy efficient windows for maximum savings and comfort.",
-        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+        "image": "/images/smart-window-technology-og.webp",
         "datePublished": "2024-01-30",
         "dateModified": "2024-01-30",
         "author": {
@@ -35,7 +35,7 @@
         "publisher": {
           "@type": "Organization",
           "name": "Langu-Remontas",
-          "logo": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png"
+          "logo": "/images/smart-technology-og.webp"
         }
       }
     },
@@ -43,21 +43,21 @@
       "title": "Energijos Efektyvūs Langai: Vadovas Šildymo Išlaidų Mažinimui",
       "description": "Išsamus vadovas apie energijos efektyvius langus. Sužinokite apie U-vertes, technologijas ir kaip pasirinkti geriausius energiją taupančius langus.",
       "keywords": "energijos efektyvūs langai, langų U-vertė, trigubas stiklinimas, energijos taupymas, šildymo išlaidų mažinimas",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "ogImage": "/images/smart-technology-og.webp",
       "ogImageAlt": "Energijos Efektyvių Langų Vadovas"
     },
     "pl": {
       "title": "Energooszczędne Okna: Przewodnik Redukcji Kosztów Ogrzewania",
       "description": "Kompletny przewodnik po energooszczędnych oknach. Poznaj wartości U, technologie i jak wybrać najlepsze okna oszczędzające energię.",
       "keywords": "energooszczędne okna, wartość U okien, potrójne szyby, oszczędność energii, redukcja kosztów ogrzewania",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "ogImage": "/images/smart-technology-og.webp",
       "ogImageAlt": "Przewodnik Energooszczędnych Okien"
     },
     "uk": {
       "title": "Енергоефективні Вікна: Посібник Зменшення Витрат на Опалення",
       "description": "Повний посібник з енергоефективних вікон. Дізнайтеся про U-значення, технології та як обрати найкращі енергозберігаючі вікна.",
       "keywords": "енергоефективні вікна, U-значення вікон, потрійне скління, енергозбереження, зменшення витрат опалення",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "ogImage": "/images/smart-technology-og.webp",
       "ogImageAlt": "Посібник Енергоефективних Вікон"
     }
   },
@@ -65,7 +65,7 @@
     "en": {
       "title": "Energy Efficient Windows Guide: Reduce Heating Costs & Improve Comfort",
       "excerpt": "Energy efficient windows can reduce your heating costs by up to 40% while dramatically improving indoor comfort. Learn about the latest window technologies, performance ratings, and how to choose the perfect energy-saving windows for your home.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "featuredImage": "/images/smart-window-technology-og.webp",
       "featuredImageAlt": "Technicians installing new double-glazed glass unit into window frame, professional glass replacement",
       "introduction": "In Lithuania's climate, where heating costs can account for up to 60% of household energy bills, choosing energy efficient windows isn't just an environmental choice—it's a smart financial investment. Modern window technology has advanced dramatically, offering homeowners unprecedented opportunities to reduce energy consumption while improving comfort. This comprehensive guide will help you understand window energy ratings, technologies, and make informed decisions that can save thousands of euros over the lifetime of your windows.",
       "sections": [
@@ -147,7 +147,7 @@
     "lt": {
       "title": "Energijos Efektyvūs Langai: Vadovas Šildymo Išlaidų Mažinimui",
       "excerpt": "Energijos efektyvūs langai gali sumažinti šildymo išlaidas iki 40% ir drastiškai pagerinti patalpų komfortą. Sužinokite apie naujausias langų technologijas ir kaip pasirinkti idealius energiją taupančius langus.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "featuredImage": "/images/smart-window-technology-og.webp",
       "featuredImageAlt": "Technikai įrengia naują dvigubai stiklinį langų bloką į langų rėmą, profesionalus stiklo keitimas",
       "introduction": "Lietuvos klimate, kur šildymo išlaidos gali sudaryti iki 60% namų ūkio energijos sąskaitų, energijos efektyvių langų pasirinkimas yra ne tik aplinkosauginis sprendimas, bet ir protinga finansinė investicija. Šiuolaikinė langų technologija pažengė dramatiškai, suteikdama namų savininkams neprecedentines galimybes sumažinti energijos suvartojimą ir pagerinti komfortą.",
       "sections": [
@@ -188,7 +188,7 @@
     "pl": {
       "title": "Energooszczędne Okna: Przewodnik Redukcji Kosztów Ogrzewania",
       "excerpt": "Energooszczędne okna mogą zmniejszyć koszty ogrzewania o 40% i dramatycznie poprawić komfort wnętrz. Poznaj najnowsze technologie okienne i jak wybrać idealne energooszczędne okna.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "featuredImage": "/images/smart-window-technology-og.webp",
       "featuredImageAlt": "Technicy instalują nową dwuszybową jednostkę szklaną w ramie okiennej, profesjonalna wymiana szkła",
       "introduction": "W klimacie Litwy, gdzie koszty ogrzewania mogą stanowić do 60% rachunków za energię gospodarstwa domowego, wybór energooszczędnych okien to nie tylko wybór ekologiczny, ale także mądra inwestycja finansowa. Nowoczesna technologia okien rozwinęła się dramatycznie, oferując właścicielom domów bezprecedensowe możliwości redukcji zużycia energii przy jednoczesnej poprawie komfortu.",
       "sections": [
@@ -229,7 +229,7 @@
     "uk": {
       "title": "Енергоефективні Вікна: Посібник Зменшення Витрат на Опалення",
       "excerpt": "Енергоефективні вікна можуть зменшити витрати на опалення до 40% та кардинально покращити комфорт приміщень. Дізнайтеся про найновіші віконні технології та як обрати ідеальні енергозберігаючі вікна.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b974bc17a2-38c41de1f061104e55fb.png",
+      "featuredImage": "/images/smart-window-technology-og.webp",
       "featuredImageAlt": "Техніки встановлюють новий двокамерний склопакет у віконну раму, професійна заміна скла",
       "introduction": "У кліматі Литви, де витрати на опалення можуть становити до 60% рахунків за енергію домогосподарства, вибір енергоефективних вікон - це не лише екологічний вибір, а й розумна фінансова інвестиція. Сучасна технологія вікон розвинулася драматично, пропонуючи власникам будинків безпрецедентні можливості для зменшення споживання енергії при покращенні комфорту.",
       "sections": [

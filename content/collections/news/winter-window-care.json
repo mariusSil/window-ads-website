@@ -18,14 +18,14 @@
       "title": "Winter Window Care: Protecting Your Windows from Cold Weather Damage",
       "description": "Essential winter window care guide. Learn how to protect your windows from cold weather damage, prevent ice formation, and maintain efficiency during winter months.",
       "keywords": "winter window care, cold weather window protection, window winterizing, prevent window ice damage, winter window maintenance",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImage": "/images/winter-care-og.webp",
       "ogImageAlt": "Winter Window Care Protection Guide",
       "structuredData": {
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "Winter Window Care: Protecting Your Windows from Cold Weather Damage",
         "description": "Comprehensive guide to protecting windows from cold weather damage and maintaining efficiency during winter.",
-        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+        "image": "/images/winter-care-og.webp",
         "datePublished": "2024-01-25",
         "dateModified": "2024-01-25",
         "author": {
@@ -35,7 +35,7 @@
         "publisher": {
           "@type": "Organization",
           "name": "Langu-Remontas",
-          "logo": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png"
+          "logo": "/images/window-adjustment-guide-og.webp"
         }
       }
     },
@@ -43,21 +43,21 @@
       "title": "Žiemos Langų Priežiūra: Apsauga nuo Šalčio Pažeidimų",
       "description": "Būtinas žiemos langų priežiūros vadovas. Sužinokite, kaip apsaugoti langus nuo šalčio pažeidimų ir išlaikyti efektyvumą žiemos mėnesiais.",
       "keywords": "žiemos langų priežiūra, langų apsauga nuo šalčio, langų paruošimas žiemai, apsauga nuo ledo pažeidimų",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImage": "/images/winter-care-og.webp",
       "ogImageAlt": "Žiemos Langų Priežiūros Vadovas"
     },
     "pl": {
       "title": "Zimowa Pielęgnacja Okien: Ochrona przed Uszkodzeniami Zimowymi",
       "description": "Niezbędny przewodnik zimowej pielęgnacji okien. Dowiedz się, jak chronić okna przed uszkodzeniami zimowymi i utrzymać efektywność w miesiącach zimowych.",
       "keywords": "zimowa pielęgnacja okien, ochrona okien przed zimnem, przygotowanie okien na zimę, ochrona przed uszkodzeniami lodem",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImage": "/images/winter-care-og.webp",
       "ogImageAlt": "Przewodnik Zimowej Pielęgnacji Okien"
     },
     "uk": {
       "title": "Зимовий Догляд за Вікнами: Захист від Холодних Ушкоджень",
       "description": "Важливий посібник зимового догляду за вікнами. Дізнайтеся, як захистити вікна від холодних ушкоджень та підтримати ефективність взимку.",
       "keywords": "зимовий догляд за вікнами, захист вікон від холоду, підготовка вікон до зими, захист від льодових ушкоджень",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
+      "ogImage": "/images/winter-care-og.webp",
       "ogImageAlt": "Посібник Зимового Догляду за Вікнами"
     }
   },
@@ -65,7 +65,7 @@
     "en": {
       "title": "Winter Window Care: Protecting Your Windows from Cold Weather Damage",
       "excerpt": "Winter weather poses unique challenges for window maintenance. Learn essential protection strategies, prevention techniques, and emergency care to keep your windows functioning optimally through the coldest months.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "featuredImage": "/images/window-adjustment-guide-og.webp",
       "featuredImageAlt": "Professional window sealing application for winter protection",
       "introduction": "Winter weather can be particularly harsh on windows, causing everything from condensation problems to ice damage and thermal stress. In Lithuania's continental climate, where temperatures can drop well below freezing for extended periods, proper winter window care isn't just about maintenance—it's about protecting your investment and ensuring your home remains comfortable and energy-efficient throughout the cold season.",
       "sections": [
@@ -143,7 +143,7 @@
     "lt": {
       "title": "Žiemos Langų Priežiūra: Apsauga nuo Šalčio Pažeidimų",
       "excerpt": "Žiemos orai kelia unikalius iššūkius langų priežiūrai. Sužinokite esminius apsaugos metodus ir prevencijos technikas, kad langai veiktų optimaliai šalčiausiais mėnesiais.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "featuredImage": "/images/window-adjustment-guide-og.webp",
       "featuredImageAlt": "Profesionalus langų sandarinimas žiemos apsaugai",
       "introduction": "Žiemos orai gali būti ypač žalingi langams, sukeliant viską nuo kondensacijos problemų iki ledo pažeidimų ir šiluminio streso. Lietuvos kontinentiniame klimate, kur temperatūros gali kristi žymiai žemiau nulio ilgiems laikotarpiams, tinkama žiemos langų priežiūra yra ne tik apie priežiūrą - tai apie investicijos apsaugą.",
       "sections": [
@@ -184,7 +184,7 @@
     "pl": {
       "title": "Zimowa Pielęgnacja Okien: Ochrona przed Uszkodzeniami Zimowymi",
       "excerpt": "Zimowa pogoda stwarza unikalne wyzwania dla pielęgnacji okien. Poznaj podstawowe strategie ochrony i techniki zapobiegania, aby okna działały optymalnie przez najzimniejsze miesiące.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "featuredImage": "/images/window-adjustment-guide-og.webp",
       "featuredImageAlt": "Profesjonalne uszczelnianie okien na ochronę zimową",
       "introduction": "Zimowa pogoda może być szczególnie surowa dla okien, powodując wszystko od problemów z kondensacją po uszkodzenia lodem i stres termiczny.",
       "conclusion": "Właściwa zimowa pielęgnacja okien jest niezbędna dla utrzymania komfortu, efektywności i zapobiegania kosztownym uszkodzeniom podczas surowych zimowych miesięcy.",
@@ -202,7 +202,7 @@
     "uk": {
       "title": "Зимовий Догляд за Вікнами: Захист від Холодних Ушкоджень",
       "excerpt": "Зимова погода створює унікальні виклики для догляду за вікнами. Вивчіть основні стратегії захисту та техніки запобігання, щоб вікна працювали оптимально протягом найхолодніших місяців.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png",
+      "featuredImage": "/images/window-adjustment-guide-og.webp",
       "featuredImageAlt": "Професійне ущільнення вікон для зимового захисту",
       "introduction": "Зимова погода може бути особливо суворою для вікон, викликаючи все від проблем з конденсацією до льодових пошкоджень та теплового стресу.",
       "conclusion": "Правильний зимовий догляд за вікнами є важливим для підтримання комфорту, ефективності та запобігання дорогим пошкодженням протягом суворих зимових місяців.",

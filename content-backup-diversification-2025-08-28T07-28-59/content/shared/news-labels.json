@@ -1,0 +1,194 @@
+{
+  "en": {
+    "metadata": {
+      "publishedLabel": "Published",
+      "authorLabel": "By",
+      "readTimeLabel": "min read",
+      "updatedLabel": "Updated"
+    },
+    "navigation": {
+      "breadcrumbHome": "Home",
+      "breadcrumbNews": "News",
+      "backToNews": "← Back to News",
+      "nextArticle": "Next Article",
+      "previousArticle": "Previous Article"
+    },
+    "content": {
+      "loadingText": "Loading article...",
+      "errorText": "Failed to load article content",
+      "shareLabel": "Share this article",
+      "copyLinkLabel": "Copy link",
+      "printLabel": "Print article"
+    },
+    "sections": {
+      "tipsLabel": "Tips",
+      "benefitsLabel": "Benefits",
+      "warningLabel": "Important",
+      "calloutLabel": "Note",
+      "introductionLabel": "Introduction",
+      "conclusionLabel": "Conclusion"
+    },
+    "cta": {
+      "defaultPrimary": "Get Expert Help",
+      "defaultSecondary": "Learn More",
+      "scheduleService": "Schedule Service",
+      "getQuote": "Get Quote",
+      "contactExpert": "Contact Expert",
+      "freeConsultation": "Free Consultation",
+      "scheduleWinterService": "Schedule Winter Service",
+      "getMaintenanceQuote": "Get Maintenance Quote",
+      "emergencyRepair": "Emergency Repair",
+      "bookInspection": "Book Inspection"
+    },
+    "authors": {
+      "expertTeam": "Expert Team",
+      "maintenanceSpecialist": "Maintenance Specialist",
+      "windowExpert": "Window Expert",
+      "technicalTeam": "Technical Team"
+    }
+  },
+  "lt": {
+    "metadata": {
+      "publishedLabel": "Paskelbta",
+      "authorLabel": "Autorius",
+      "readTimeLabel": "min skaitymas",
+      "updatedLabel": "Atnaujinta"
+    },
+    "navigation": {
+      "breadcrumbHome": "Pagrindinis",
+      "breadcrumbNews": "Naujienos",
+      "backToNews": "← Grįžti į naujienas",
+      "nextArticle": "Kitas straipsnis",
+      "previousArticle": "Ankstesnis straipsnis"
+    },
+    "content": {
+      "loadingText": "Kraunamas straipsnis...",
+      "errorText": "Nepavyko įkelti straipsnio turinio",
+      "shareLabel": "Dalintis straipsniu",
+      "copyLinkLabel": "Kopijuoti nuorodą",
+      "printLabel": "Spausdinti straipsnį"
+    },
+    "sections": {
+      "tipsLabel": "Patarimai",
+      "benefitsLabel": "Privalumai",
+      "warningLabel": "Svarbu",
+      "calloutLabel": "Pastaba",
+      "introductionLabel": "Įvadas",
+      "conclusionLabel": "Išvados"
+    },
+    "cta": {
+      "defaultPrimary": "Gauti ekspertų pagalbą",
+      "defaultSecondary": "Sužinoti daugiau",
+      "scheduleService": "Užsakyti paslaugą",
+      "getQuote": "Gauti pasiūlymą",
+      "contactExpert": "Susisiekti su ekspertu",
+      "freeConsultation": "Nemokama konsultacija",
+      "scheduleWinterService": "Užsakyti žiemos paslaugą",
+      "getMaintenanceQuote": "Gauti priežiūros pasiūlymą",
+      "emergencyRepair": "Skubus remontas",
+      "bookInspection": "Užsakyti apžiūrą"
+    },
+    "authors": {
+      "expertTeam": "Ekspertų komanda",
+      "maintenanceSpecialist": "Priežiūros specialistas",
+      "windowExpert": "Langų ekspertas",
+      "technicalTeam": "Techninė komanda"
+    }
+  },
+  "pl": {
+    "metadata": {
+      "publishedLabel": "Opublikowano",
+      "authorLabel": "Autor",
+      "readTimeLabel": "min czytania",
+      "updatedLabel": "Zaktualizowano"
+    },
+    "navigation": {
+      "breadcrumbHome": "Strona główna",
+      "breadcrumbNews": "Aktualności",
+      "backToNews": "← Powrót do aktualności",
+      "nextArticle": "Następny artykuł",
+      "previousArticle": "Poprzedni artykuł"
+    },
+    "content": {
+      "loadingText": "Ładowanie artykułu...",
+      "errorText": "Nie udało się załadować treści artykułu",
+      "shareLabel": "Udostępnij artykuł",
+      "copyLinkLabel": "Kopiuj link",
+      "printLabel": "Drukuj artykuł"
+    },
+    "sections": {
+      "tipsLabel": "Wskazówki",
+      "benefitsLabel": "Korzyści",
+      "warningLabel": "Ważne",
+      "calloutLabel": "Uwaga",
+      "introductionLabel": "Wprowadzenie",
+      "conclusionLabel": "Podsumowanie"
+    },
+    "cta": {
+      "defaultPrimary": "Uzyskaj pomoc eksperta",
+      "defaultSecondary": "Dowiedz się więcej",
+      "scheduleService": "Zaplanuj serwis",
+      "getQuote": "Uzyskaj wycenę",
+      "contactExpert": "Skontaktuj się z ekspertem",
+      "freeConsultation": "Bezpłatna konsultacja",
+      "scheduleWinterService": "Zaplanuj serwis zimowy",
+      "getMaintenanceQuote": "Uzyskaj wycenę konserwacji",
+      "emergencyRepair": "Naprawa awaryjna",
+      "bookInspection": "Zarezerwuj inspekcję"
+    },
+    "authors": {
+      "expertTeam": "Zespół ekspertów",
+      "maintenanceSpecialist": "Specjalista ds. konserwacji",
+      "windowExpert": "Ekspert od okien",
+      "technicalTeam": "Zespół techniczny"
+    }
+  },
+  "uk": {
+    "metadata": {
+      "publishedLabel": "Опубліковано",
+      "authorLabel": "Автор",
+      "readTimeLabel": "хв читання",
+      "updatedLabel": "Оновлено"
+    },
+    "navigation": {
+      "breadcrumbHome": "Головна",
+      "breadcrumbNews": "Новини",
+      "backToNews": "← Повернутися до новин",
+      "nextArticle": "Наступна стаття",
+      "previousArticle": "Попередня стаття"
+    },
+    "content": {
+      "loadingText": "Завантаження статті...",
+      "errorText": "Не вдалося завантажити вміст статті",
+      "shareLabel": "Поділитися статтею",
+      "copyLinkLabel": "Копіювати посилання",
+      "printLabel": "Друкувати статтю"
+    },
+    "sections": {
+      "tipsLabel": "Поради",
+      "benefitsLabel": "Переваги",
+      "warningLabel": "Важливо",
+      "calloutLabel": "Примітка",
+      "introductionLabel": "Вступ",
+      "conclusionLabel": "Висновки"
+    },
+    "cta": {
+      "defaultPrimary": "Отримати допомогу експерта",
+      "defaultSecondary": "Дізнатися більше",
+      "scheduleService": "Запланувати сервіс",
+      "getQuote": "Отримати пропозицію",
+      "contactExpert": "Зв'язатися з експертом",
+      "freeConsultation": "Безкоштовна консультація",
+      "scheduleWinterService": "Запланувати зимовий сервіс",
+      "getMaintenanceQuote": "Отримати пропозицію з обслуговування",
+      "emergencyRepair": "Екстрений ремонт",
+      "bookInspection": "Замовити огляд"
+    },
+    "authors": {
+      "expertTeam": "Команда експертів",
+      "maintenanceSpecialist": "Спеціаліст з обслуговування",
+      "windowExpert": "Експерт з вікон",
+      "technicalTeam": "Технічна команда"
+    }
+  }
+}

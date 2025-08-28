@@ -18,14 +18,14 @@
       "title": "Professional Window Installation Guide: Avoid Costly Mistakes & Ensure Quality",
       "description": "Complete professional window installation guide. Learn about proper techniques, common mistakes, quality standards, and why professional installation is crucial for performance and warranty.",
       "keywords": "professional window installation, window installation guide, proper window fitting, installation mistakes, window warranty, installation quality standards",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/c8c69828a1-d8edbc2ff80d41521467.png",
+      "ogImage": "/images/smart-windows-og.webp",
       "ogImageAlt": "Professional Window Installation Quality Guide",
       "structuredData": {
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "Professional Window Installation Guide: Avoid Costly Mistakes & Ensure Quality",
         "description": "Comprehensive guide to professional window installation techniques, quality standards, and avoiding common installation mistakes.",
-        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8350ce1494-6f9003f08601d6a4a546.png",
+        "image": "/images/energy-efficient-windows-og.webp",
         "datePublished": "2024-02-10",
         "dateModified": "2024-02-10",
         "author": {
@@ -35,7 +35,7 @@
         "publisher": {
           "@type": "Organization",
           "name": "Langu-Remontas",
-          "logo": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png"
+          "logo": "/images/smart-technology.webp"
         }
       }
     },
@@ -43,21 +43,21 @@
       "title": "Profesionalus Langų Montažas: Klaidų Vengimas ir Kokybės Užtikrinimas",
       "description": "Išsamus profesionalaus langų montažo vadovas. Sužinokite apie tinkamas technikas, dažnas klaidas ir kodėl profesionalus montažas yra būtinas.",
       "keywords": "profesionalus langų montažas, langų montažo vadovas, tinkamas langų įstatymas, montažo klaidos, langų garantija",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/c8c69828a1-d8edbc2ff80d41521467.png",
+      "ogImage": "/images/smart-windows-og.webp",
       "ogImageAlt": "Profesionalaus Langų Montažo Vadovas"
     },
     "pl": {
       "title": "Profesjonalna Instalacja Okien: Unikanie Błędów i Zapewnienie Jakości",
       "description": "Kompletny przewodnik profesjonalnej instalacji okien. Poznaj właściwe techniki, częste błędy i dlaczego profesjonalna instalacja jest kluczowa.",
       "keywords": "profesjonalna instalacja okien, przewodnik instalacji okien, właściwe osadzanie okien, błędy instalacji, gwarancja okien",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/c8c69828a1-d8edbc2ff80d41521467.png",
+      "ogImage": "/images/smart-windows-og.webp",
       "ogImageAlt": "Przewodnik Profesjonalnej Instalacji Okien"
     },
     "uk": {
       "title": "Професійний Монтаж Вікон: Уникнення Помилок та Забезпечення Якості",
       "description": "Повний посібник професійного монтажу вікон. Дізнайтеся про правильні техніки, поширені помилки та чому професійний монтаж є критичним.",
       "keywords": "професійний монтаж вікон, посібник монтажу вікон, правильне встановлення вікон, помилки монтажу, гарантія вікон",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/c8c69828a1-d8edbc2ff80d41521467.png",
+      "ogImage": "/images/smart-windows-og.webp",
       "ogImageAlt": "Посібник Професійного Монтажу Вікон"
     }
   },
@@ -65,7 +65,7 @@
     "en": {
       "title": "Professional Window Installation Guide: Avoid Costly Mistakes & Ensure Quality",
       "excerpt": "Poor window installation can reduce energy efficiency by up to 50% and void warranties completely. Learn why professional installation is essential, what to expect from quality installers, and how to avoid the costly mistakes that plague DIY and amateur installations.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8350ce1494-6f9003f08601d6a4a546.png",
+      "featuredImage": "/images/energy-efficient-windows-og.webp",
       "featuredImageAlt": "Professional technicians working on windows, team of skilled workers, modern workshop environment",
       "introduction": "Window installation is where even the highest-quality windows can fail. A €1,000 premium window installed incorrectly performs worse than a €300 standard window installed properly. In Lithuania's challenging climate, where thermal performance and weather sealing are critical, professional installation isn't just recommended—it's essential for achieving rated performance, maintaining warranties, and ensuring long-term satisfaction. This comprehensive guide reveals the critical aspects of professional window installation and why cutting corners on installation is the most expensive mistake homeowners make.",
       "sections": [
@@ -153,7 +153,7 @@
     "lt": {
       "title": "Profesionalus Langų Montažas: Klaidų Vengimas ir Kokybės Užtikrinimas",
       "excerpt": "Prastas langų montažas gali sumažinti energijos efektyvumą iki 50% ir visiškai panaikinti garantijas. Sužinokite, kodėl profesionalus montažas yra būtinas.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8350ce1494-6f9003f08601d6a4a546.png",
+      "featuredImage": "/images/energy-efficient-windows-og.webp",
       "featuredImageAlt": "Profesionalūs technikai dirba su langais, kvalifikuotų darbuotojų komanda, šiuolaikinė dirbtuvių aplinka",
       "introduction": "Langų montažas yra vieta, kur net aukščiausios kokybės langai gali nepavykti. €1,000 vertės premium langas, netinkamai sumontuotas, veiks blogiau nei €300 standartinis langas, tinkamai sumontuotas. Lietuvos sudėtingame klimate, kur šiluminės savybės ir apsauga nuo oro yra kritinės, profesionalus montažas nėra tik rekomenduojamas—jis būtinas norint pasiekti nominalų veikimą, išlaikyti garantijas ir užtikrinti ilgalaikį pasitenkinimą.",
       "sections": [
@@ -221,7 +221,7 @@
     "pl": {
       "title": "Profesjonalna Instalacja Okien: Unikanie Błędów i Zapewnienie Jakości",
       "excerpt": "Zła instalacja okien może zmniejszyć efektywność energetyczną o 50% i całkowicie unieważnić gwarancje. Dowiedz się, dlaczego profesjonalna instalacja jest niezbędna.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8350ce1494-6f9003f08601d6a4a546.png",
+      "featuredImage": "/images/energy-efficient-windows-og.webp",
       "featuredImageAlt": "Profesjonalni technicy pracujący przy oknach, zespół wykwalifikowanych pracowników, nowoczesne środowisko warsztatowe",
       "introduction": "Instalacja okien to miejsce, gdzie nawet najwyższej jakości okna mogą zawieść. Okno premium za €1,000 nieprawidłowo zainstalowane działa gorzej niż standardowe okno za €300 prawidłowo zainstalowane. W wymagającym klimacie Litwy, gdzie wydajność termiczna i uszczelnienie są krytyczne, profesjonalna instalacja nie jest tylko zalecana—jest niezbędna do osiągnięcia nominalnej wydajności, utrzymania gwarancji i zapewnienia długoterminowej satysfakcji.",
       "sections": [
@@ -289,7 +289,7 @@
     "uk": {
       "title": "Професійний Монтаж Вікон: Уникнення Помилок та Забезпечення Якості",
       "excerpt": "Поганий монтаж вікон може зменшити енергоефективність до 50% та повністю скасувати гарантії. Дізнайтеся, чому професійний монтаж є необхідним.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8350ce1494-6f9003f08601d6a4a546.png",
+      "featuredImage": "/images/energy-efficient-windows-og.webp",
       "featuredImageAlt": "Професійні техніки працюють з вікнами, команда кваліфікованих працівників, сучасне робоче середовище майстерні",
       "introduction": "Монтаж вікон - це місце, де навіть найякісніші вікна можуть підвести. Преміум вікно за €1,000, неправильно встановлене, працює гірше, ніж стандартне вікно за €300, правильно встановлене. У складному кліматі Литви, де теплові характеристики та герметизація є критичними, професійний монтаж не просто рекомендується—він необхідний для досягнення номінальної продуктивності, збереження гарантій та забезпечення довгострокового задоволення.",
       "sections": [

@@ -13,28 +13,28 @@
       "title": "Window Mechanism Replacement | From €65 | Expert Installation",
       "description": "Professional replacement of window handles, hinges, locks and opening mechanisms. Original parts, expert installation, 5-year warranty.",
       "keywords": "window mechanism replacement, window handle repair, hinge replacement, lock mechanism",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
+      "ogImage": "/images/window-maintenance-schedule-og.webp",
       "ogImageAlt": "Professional window mechanism replacement service"
     },
     "lt": {
       "title": "Langų mechanizmų keitimas | Nuo €65 | Ekspertų montavimas",
       "description": "Profesionalus langų rankenų, lankstų, spynų ir atidarymo mechanizmų keitimas. Originalios dalys, ekspertų montavimas, 5 metų garantija.",
       "keywords": "langų mechanizmų keitimas, langų rankenų remontas, lankstų keitimas, spynos mechanizmas",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/092074e752-1185ce1516e031aa1a73.png",
+      "ogImage": "/images/winter-care-og.webp",
       "ogImageAlt": "Profesionalus langų mechanizmų keitimo aptarnavimas"
     },
     "pl": {
       "title": "Wymiana mechanizmów okiennych | Od €65 | Ekspercki montaż",
       "description": "Profesjonalna wymiana klamek, zawiasów, zamków i mechanizmów otwierających okien. Oryginalne części, ekspercki montaż, 5-letnia gwarancja.",
       "keywords": "wymiana mechanizmów okiennych, naprawa klamek okiennych, wymiana zawiasów, mechanizm zamka",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/b6c70e45f0-2c1b36f8da0dcd3867f4.png",
+      "ogImage": "/images/winter-window-care-og.webp",
       "ogImageAlt": "Profesjonalny serwis wymiany mechanizmów okiennych"
     },
     "uk": {
       "title": "Заміна віконних механізмів | Від €65 | Експертне встановлення",
       "description": "Професійна заміна віконних ручок, петель, замків та механізмів відкривання. Оригінальні деталі, експертне встановлення, 5-річна гарантія.",
       "keywords": "заміна віконних механізмів, ремонт віконних ручок, заміна петель, замковий механізм",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+      "ogImage": "/images/window-sealing.webp",
       "ogImageAlt": "Професійне обслуговування заміни віконних механізмів"
     }
   },

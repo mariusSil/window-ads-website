@@ -18,14 +18,14 @@
       "title": "Window Security & Safety Guide: Protect Your Home & Family from Break-ins",
       "description": "Complete window security guide. Learn about security glass, reinforced frames, smart locks, and safety features to protect your home from burglary and ensure family safety.",
       "keywords": "window security, home security windows, burglary prevention, security glass, window locks, home safety, break-in prevention, reinforced windows",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+      "ogImage": "/images/smart-technology-og.webp",
       "ogImageAlt": "Window Security and Safety Protection Guide",
       "structuredData": {
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "Window Security & Safety Guide: Protect Your Home & Family from Break-ins",
         "description": "Comprehensive guide to window security features, safety technologies, and protection strategies for home and family safety.",
-        "image": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+        "image": "/images/smart-technology-og.webp",
         "datePublished": "2024-02-05",
         "dateModified": "2024-02-05",
         "author": {
@@ -35,7 +35,7 @@
         "publisher": {
           "@type": "Organization",
           "name": "Langu-Remontas",
-          "logo": "https://storage.googleapis.com/uxpilot-auth.appspot.com/52cec45fd9-0bb2094feddef88f1bd9.png"
+          "logo": "/images/maintenance-schedule-calendar.webp"
         }
       }
     },
@@ -43,21 +43,21 @@
       "title": "Langų Saugumas ir Apsauga: Namų ir Šeimos Apsauga nuo Įsilaužimų",
       "description": "Išsamus langų saugumo vadovas. Sužinokite apie saugumo stiklą, sustiprintus rėmus, išmaniuosius užraktus ir saugumo funkcijas namų apsaugai.",
       "keywords": "langų saugumas, namų saugumo langai, apsauga nuo įsilaužimų, saugumo stiklas, langų užraktai, namų sauga",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+      "ogImage": "/images/smart-technology-og.webp",
       "ogImageAlt": "Langų Saugumo ir Apsaugos Vadovas"
     },
     "pl": {
       "title": "Bezpieczeństwo Okien: Ochrona Domu i Rodziny przed Włamaniami",
       "description": "Kompletny przewodnik bezpieczeństwa okien. Poznaj szkło bezpieczne, wzmocnione ramy, inteligentne zamki i funkcje bezpieczeństwa dla ochrony domu.",
       "keywords": "bezpieczeństwo okien, okna zabezpieczające dom, zapobieganie włamaniom, szkło bezpieczne, zamki okienne, bezpieczeństwo domu",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+      "ogImage": "/images/smart-technology-og.webp",
       "ogImageAlt": "Przewodnik Bezpieczeństwa Okien"
     },
     "uk": {
       "title": "Безпека Вікон: Захист Дому та Сім'ї від Зламу",
       "description": "Повний посібник з безпеки вікон. Дізнайтеся про захисне скло, посилені рами, розумні замки та функції безпеки для захисту дому.",
       "keywords": "безпека вікон, захисні вікна для дому, запобігання зламу, захисне скло, віконні замки, безпека дому",
-      "ogImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+      "ogImage": "/images/smart-technology-og.webp",
       "ogImageAlt": "Посібник Безпеки Вікон"
     }
   },
@@ -65,7 +65,7 @@
     "en": {
       "title": "Window Security & Safety Guide: Protect Your Home & Family from Break-ins",
       "excerpt": "Windows are often the weakest security point in homes, accounting for 23% of break-ins. Learn about advanced security technologies, safety features, and protection strategies to transform your windows from vulnerabilities into strong security barriers.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+      "featuredImage": "/images/smart-technology-og.webp",
       "featuredImageAlt": "Security locks, multi-point locking system",
       "introduction": "Home security starts with your windows. While they provide natural light, ventilation, and views, windows can also be the most vulnerable entry points for intruders. In Lithuania, where property crime statistics show that 23% of break-ins occur through windows, investing in proper window security isn't just about protecting possessions—it's about ensuring your family's safety and peace of mind. Modern window security technology offers sophisticated solutions that maintain aesthetics while providing robust protection against intrusion attempts.",
       "sections": [
@@ -147,7 +147,7 @@
     "lt": {
       "title": "Langų Saugumas ir Apsauga: Namų ir Šeimos Apsauga nuo Įsilauzimų",
       "excerpt": "Langai dažnai yra silpniausias saugumo taškas namuose, sudarantis 23% įsilauzimų. Sužinokite apie pažangias saugumo technologijas ir apsaugos strategijas.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+      "featuredImage": "/images/smart-technology-og.webp",
       "featuredImageAlt": "Saugumo užraktai, daugiataškė užrakto sistema",
       "introduction": "Namų saugumas prasideda nuo langų. Nors jie suteikia natūralų apšvietimą, vėdinimą ir vaizdus, langai taip pat gali būti pažeidžiamiausiai įėjimo taškai įsilauzėliams. Statistikos duomenimis, 23% visų įsilauzimų įvyksta per langus, todėl jų apsauga yra kritinė namų saugumo dalis.",
       "sections": [
@@ -188,7 +188,7 @@
     "pl": {
       "title": "Bezpieczeństwo Okien: Ochrona Domu i Rodziny przed Włamaniami",
       "excerpt": "Okna są często najsłabszym punktem bezpieczeństwa w domach, stanowiąc 23% włamań. Poznaj zaawansowane technologie bezpieczeństwa i strategie ochrony.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+      "featuredImage": "/images/smart-technology-og.webp",
       "featuredImageAlt": "Zamki bezpieczeństwa, wielopunktowy system zamkowy",
       "introduction": "Bezpieczeństwo domu zaczyna się od okien. Chociaż zapewniają naturalne światło, wentylację i widoki, okna mogą być również najbardziej podatnymi punktami wejścia dla intruzów.",
       "conclusion": "Bezpieczeństwo okien to krytyczny komponent kompleksowej ochrony domu, wymagający starannego planowania, wysokiej jakości produktów i profesjonalnej instalacji.",
@@ -206,7 +206,7 @@
     "uk": {
       "title": "Безпека Вікон: Захист Дому та Сім'ї від Зламу",
       "excerpt": "Вікна часто є найслабшою точкою безпеки в будинках, становлячи 23% зламів. Дізнайтеся про передові технології безпеки та стратегії захисту.",
-      "featuredImage": "https://storage.googleapis.com/uxpilot-auth.appspot.com/a06e033362-36b1ff53422ae50d1eba.png",
+      "featuredImage": "/images/smart-technology-og.webp",
       "featuredImageAlt": "Замки безпеки, багатоточкова система замків",
       "introduction": "Безпека дому починається з вікон. Хоча вони забезпечують природне освітлення, вентиляцію та види, вікна також можуть бути найуразливішими точками входу для зловмисників.",
       "conclusion": "Безпека вікон - це критичний компонент комплексного захисту дому, що вимагає ретельного планування, якісних продуктів та професійного монтажу.",

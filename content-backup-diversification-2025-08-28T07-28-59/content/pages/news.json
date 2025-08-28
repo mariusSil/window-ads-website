@@ -1,0 +1,91 @@
+{
+  "pageId": "news",
+  "template": "news",
+  "seo": {
+    "en": {
+      "title": "Latest News & Updates - Window & Door Repair Services",
+      "description": "Stay updated with the latest news, tips, and insights about window and door repair services, maintenance advice, and industry updates.",
+      "keywords": "window repair news, door repair updates, maintenance tips, repair insights, home improvement news",
+      "ogImage": "/images/window-security-safety-og.webp",
+      "ogImageAlt": "Latest News & Updates - Window & Door Repair Services",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Blog",
+        "name": "Window & Door Repair News",
+        "description": "Latest news and updates about window and door repair services"
+      }
+    },
+    "lt": {
+      "title": "Naujausi straipsniai ir atnaujinimai - Langų ir durų remontas",
+      "description": "Sekite naujausius straipsnius, patarimus ir įžvalgas apie langų ir durų remonto paslaugas.",
+      "keywords": "langų remonto naujienos, durų remonto atnaujinimai, priežiūros patarimai",
+      "ogImage": "/images/smart-window-technology.webp",
+      "ogImageAlt": "Naujausi straipsniai ir atnaujinimai"
+    },
+    "pl": {
+      "title": "Najnowsze aktualności - Serwis okien i drzwi",
+      "description": "Bądź na bieżąco z najnowszymi aktualnościami, poradami i spostrzeżeniami dotyczącymi usług naprawy okien i drzwi.",
+      "keywords": "aktualności naprawy okien, aktualizacje serwisu drzwi, porady konserwacyjne",
+      "ogImage": "/images/adjustment-tools.webp",
+      "ogImageAlt": "Najnowsze aktualności - Serwis okien i drzwi"
+    },
+    "uk": {
+      "title": "Останні новини та оновлення - Послуги ремонту вікон та дверей",
+      "description": "Слідкуйте за останніми новинами, порадами та ідеями щодо послуг ремонту вікон та дверей, порадами з обслуговування та оновленнями галузі.",
+      "keywords": "новини ремонту вікон, оновлення ремонту дверей, поради з обслуговування, ідеї ремонту, новини покращення дому",
+      "ogImage": "/images/winter-maintenance-og.webp",
+      "ogImageAlt": "Останні новини та оновлення - Послуги ремонту вікон та дверей",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Blog",
+        "name": "Новини ремонту вікон та дверей",
+        "description": "Останні новини та оновлення про послуги ремонту вікон та дверей"
+      }
+    }
+  },
+  "content": {
+    "en": {
+      "newsListing": {
+        "sectionTitle": "Latest News & Updates",
+        "sectionSubtitle": "Stay informed with our latest insights, tips, and company updates about window and door services.",
+        "noArticlesTitle": "No Articles Found",
+        "noArticlesDescription": "We're working on bringing you fresh content. Check back soon for the latest updates!",
+        "readMoreText": "Read More"
+      }
+    },
+    "lt": {
+      "newsListing": {
+        "sectionTitle": "Naujausi straipsniai ir atnaujinimai",
+        "sectionSubtitle": "Būkite informuoti apie naujausius įžvalgas, patarimus ir įmonės atnaujinimus apie langų ir durų paslaugas.",
+        "noArticlesTitle": "Straipsnių nerasta",
+        "noArticlesDescription": "Dirbame, kad pateiktume jums šviežio turinio. Netrukus tikrinkitės dėl naujausių atnaujinimų!",
+        "readMoreText": "Skaityti daugiau"
+      }
+    },
+    "pl": {
+      "newsListing": {
+        "sectionTitle": "Najnowsze aktualności i aktualizacje",
+        "sectionSubtitle": "Bądź na bieżąco z naszymi najnowszymi spostrzeżeniami, poradami i aktualizacjami firmy dotyczącymi usług okien i drzwi.",
+        "noArticlesTitle": "Nie znaleziono artykułów",
+        "noArticlesDescription": "Pracujemy nad dostarczeniem świeżych treści. Sprawdź wkrótce najnowsze aktualizacje!",
+        "readMoreText": "Czytaj więcej"
+      }
+    },
+    "uk": {
+      "newsListing": {
+        "sectionTitle": "Останні новини та оновлення",
+        "sectionSubtitle": "Будьте в курсі наших останніх ідей, порад та оновлень компанії щодо послуг вікон та дверей.",
+        "noArticlesTitle": "Статей не знайдено",
+        "noArticlesDescription": "Ми працюємо над тим, щоб надати вам свіжий контент. Незабаром перевірте останні оновлення!",
+        "readMoreText": "Читати далі"
+      }
+    }
+  },
+  "components": [
+    {
+      "type": "NewsListing",
+      "contentKey": "newsListing",
+      "required": true
+    }
+  ]
+}

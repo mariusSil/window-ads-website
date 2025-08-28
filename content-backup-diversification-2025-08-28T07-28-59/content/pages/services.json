@@ -1,0 +1,68 @@
+{
+  "pageId": "services",
+  "template": "services",
+  "seo": {
+    "en": {
+      "title": "Professional Window & Door Repair Services",
+      "description": "Expert window and door repair services with guaranteed quality and fast response times. Serving Warsaw, Łódź, Kraków, Katowice and surrounding areas.",
+      "keywords": "window repair, door repair, window service, door service, professional repair, guaranteed quality",
+      "ogImage": "/images/adjustment-tools.webp",
+      "ogImageAlt": "Professional Window & Door Repair Services",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Window & Door Repair Services",
+        "description": "Professional repair services for windows and doors",
+        "provider": {
+          "@type": "Organization",
+          "name": "Langu Remontas"
+        }
+      }
+    },
+    "lt": {
+      "title": "Profesionalūs langų ir durų remonto darbai",
+      "description": "Ekspertų langų ir durų remonto paslaugos su kokybės garantija ir greitu atsaku.",
+      "keywords": "langų remontas, durų remontas, langų servisas, durų servisas, profesionalus remontas",
+      "ogImage": "/images/winter-maintenance-og.webp",
+      "ogImageAlt": "Profesionalūs langų ir durų remonto darbai"
+    },
+    "pl": {
+      "title": "Profesjonalny serwis okien i drzwi",
+      "description": "Eksperckie usługi naprawy okien i drzwi z gwarancją jakości i szybkim czasem reakcji.",
+      "keywords": "naprawa okien, naprawa drzwi, serwis okien, serwis drzwi, profesjonalna naprawa",
+      "ogImage": "/images/maintenance-schedule-og.webp",
+      "ogImageAlt": "Profesjonalny serwis okien i drzwi"
+    },
+    "uk": {
+      "title": "Професійні послуги ремонту вікон та дверей",
+      "description": "Експертні послуги ремонту вікон та дверей з гарантією якості та швидким часом реагування. Обслуговуємо Варшаву, Лодзь, Краків, Катовіце та прилеглі райони.",
+      "keywords": "ремонт вікон, ремонт дверей, сервіс вікон, сервіс дверей, професійний ремонт, гарантована якість",
+      "ogImage": "/images/professional-window-installation-og.webp",
+      "ogImageAlt": "Професійні послуги ремонту вікон та дверей",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Послуги ремонту вікон та дверей",
+        "description": "Професійні послуги ремонту вікон та дверей",
+        "provider": {
+          "@type": "Organization",
+          "name": "Langu Remontas"
+        }
+      }
+    }
+  },
+  "content": {
+    "en": {
+      "components": []
+    },
+    "lt": {
+      "components": []
+    },
+    "pl": {
+      "components": []
+    },
+    "uk": {
+      "components": []
+    }
+  }
+}

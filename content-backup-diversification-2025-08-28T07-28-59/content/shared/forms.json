@@ -1,0 +1,86 @@
+{
+  "en": {
+    "requestTechnician": {
+      "title": "Request a Technician Visit",
+      "nameLabel": "Name",
+      "namePlaceholder": "Enter your name",
+      "phoneLabel": "Phone Number",
+      "phonePlaceholder": "Enter your phone number",
+      "cityLabel": "City",
+      "cityPlaceholder": "Enter your city",
+      "emailLabel": "Email (Optional)",
+      "emailPlaceholder": "Enter your email address",
+      "messageLabel": "Message (Optional)",
+      "messagePlaceholder": "Describe your issue",
+      "privacyPolicyText": "I agree to the",
+      "privacyPolicyLink": "privacy policy",
+      "submitButton": "Submit Request"
+    },
+    "consultation": {
+      "prefillMessage": "I would like to schedule a free consultation to discuss my window/door needs and get professional advice on the best solutions."
+    }
+  },
+  "lt": {
+    "requestTechnician": {
+      "title": "Meistro iškvietimas",
+      "nameLabel": "Vardas",
+      "namePlaceholder": "Įveskite savo vardą",
+      "phoneLabel": "Telefono numeris",
+      "phonePlaceholder": "Įveskite savo telefono numerį",
+      "cityLabel": "Miestas",
+      "cityPlaceholder": "Įveskite savo miestą",
+      "emailLabel": "El. paštas (neprivaloma)",
+      "emailPlaceholder": "Įveskite savo el. pašto adresą",
+      "messageLabel": "Pranešimas (neprivaloma)",
+      "messagePlaceholder": "Aprašykite savo problemą",
+      "privacyPolicyText": "Sutinku su",
+      "privacyPolicyLink": "privatumo politika",
+      "submitButton": "Siųsti užklausą"
+    },
+    "consultation": {
+      "prefillMessage": "Norėčiau suplanuoti nemokamą konsultaciją aptarti savo langų/durų poreikius ir gauti profesionalų patarimą dėl geriausių sprendimų."
+    }
+  },
+  "pl": {
+    "requestTechnician": {
+      "title": "Wezwanie technika",
+      "nameLabel": "Imię",
+      "namePlaceholder": "Wpisz swoje imię",
+      "phoneLabel": "Numer telefonu",
+      "phonePlaceholder": "Wpisz swój numer telefonu",
+      "cityLabel": "Miasto",
+      "cityPlaceholder": "Wpisz swoje miasto",
+      "emailLabel": "E-mail (opcjonalnie)",
+      "emailPlaceholder": "Wpisz swój adres e-mail",
+      "messageLabel": "Wiadomość (opcjonalnie)",
+      "messagePlaceholder": "Opisz swój problem",
+      "privacyPolicyText": "Zgadzam się z",
+      "privacyPolicyLink": "polityką prywatności",
+      "submitButton": "Wyślij zgłoszenie"
+    },
+    "consultation": {
+      "prefillMessage": "Chciałbym umówić się na bezpłatną konsultację, aby omówić moje potrzeby dotyczące okien/drzwi i otrzymać profesjonalne porady na temat najlepszych rozwiązań."
+    }
+  },
+  "uk": {
+    "requestTechnician": {
+      "title": "Виклик техніка",
+      "nameLabel": "Ім'я",
+      "namePlaceholder": "Введіть ваше ім'я",
+      "phoneLabel": "Номер телефону",
+      "phonePlaceholder": "Введіть ваш номер телефону",
+      "cityLabel": "Місто",
+      "cityPlaceholder": "Введіть ваше місто",
+      "emailLabel": "Електронна пошта (необов'язково)",
+      "emailPlaceholder": "Введіть вашу електронну адресу",
+      "messageLabel": "Повідомлення (необов'язково)",
+      "messagePlaceholder": "Опишіть вашу проблему",
+      "privacyPolicyText": "Я погоджуюся з",
+      "privacyPolicyLink": "політикою конфіденційності",
+      "submitButton": "Надіслати запит"
+    },
+    "consultation": {
+      "prefillMessage": "Я хотів би запланувати безкоштовну консультацію, щоб обговорити мої потреби щодо вікон/дверей та отримати професійні поради щодо найкращих рішень."
+    }
+  }
+}
