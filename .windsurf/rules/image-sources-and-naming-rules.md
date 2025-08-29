@@ -36,7 +36,7 @@ When creating content for the window-ads-website, you MUST ONLY use images from 
     "/images/professional-tools.webp"
   ],
   "installation_work": [
-    "/images/professional-installation-og.webp",
+    "/images/smart-window-technology-og.webp",
     "/images/professional-window-installation-og.webp",
     "/images/glass-unit-replacement.webp"
   ],
@@ -59,7 +59,7 @@ When creating content for the window-ads-website, you MUST ONLY use images from 
   ],
   "seasonal_care": [
     "/images/maintenance-calendar.webp",
-    "/images/professional-installation-og.webp",
+    "/images/smart-window-technology-og.webp",
     "/images/winter-care-og.webp",
     "/images/winter-maintenance-og.webp"
   ]
@@ -122,7 +122,7 @@ When creating content for the window-ads-website, you MUST ONLY use images from 
 #### Repair Topics
 - **Primary**: `/images/adjustment-tools.webp`
 - **Secondary**: `/images/professional-tools.webp`
-- **OG Image**: `/images/professional-installation-og.webp`
+- **OG Image**: `/images/smart-window-technology-og.webp`
 
 #### Seasonal Topics
 - **Primary**: `/images/maintenance-calendar.webp`
@@ -138,8 +138,8 @@ When creating content for the window-ads-website, you MUST ONLY use images from 
 
 #### Installation Services
 - **Hero**: `/images/professional-window-installation-og.webp`
-- **Process**: `/images/professional-installation-og.webp`
-- **OG Image**: `/images/professional-installation-og.webp`
+- **Process**: `/images/smart-window-technology-og.webp`
+- **OG Image**: `/images/smart-window-technology-og.webp`
 
 #### Repair Services
 - **Hero**: `/images/adjustment-tools.webp`
@@ -163,20 +163,20 @@ When creating content for the window-ads-website, you MUST ONLY use images from 
 - **Hero Background**: `/images/professional-window-installation-og.webp`
 - **Services**: `/images/professional-tools.webp`
 - **Technology**: `/images/smart-technology.webp`
-- **OG Image**: `/images/professional-installation-og.webp`
+- **OG Image**: `/images/smart-window-technology-og.webp`
 
 #### About Page
 - **Hero**: `/images/professional-tools.webp`
-- **Team**: `/images/professional-installation-og.webp`
+- **Team**: `/images/smart-window-technology-og.webp`
 - **OG Image**: `/images/professional-window-installation-og.webp`
 
 #### Contact Page
 - **Hero**: `/images/professional-tools.webp`
 - **Services**: `/images/maintenance-calendar.webp`
-- **OG Image**: `/images/professional-installation-og.webp`
+- **OG Image**: `/images/smart-window-technology-og.webp`
 
 #### Business Page
-- **Hero**: `/images/professional-installation-og.webp`
+- **Hero**: `/images/smart-window-technology-og.webp`
 - **Services**: `/images/professional-tools.webp`
 - **OG Image**: `/images/professional-window-installation-og.webp`
 
@@ -214,7 +214,7 @@ Examples:
 ```json
 {
   "/images/professional-tools.webp": "Professional window repair tools and equipment",
-  "/images/professional-installation-og.webp": "Professional window installation service in progress",
+  "/images/smart-window-technology-og.webp": "Professional window installation service in progress",
   "/images/adjustment-tools.webp": "Window adjustment tools for professional repair work"
 }
 ```

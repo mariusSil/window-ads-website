@@ -121,7 +121,7 @@ const allDiscoveredMappings = [
   },
   {
     googleUrl: "https://storage.googleapis.com/uxpilot-auth.appspot.com/8f7efd5c4d-99bd65ca305ca7ae0c48.png",
-    localPath: "/images/professional-installation-og.webp",
+    localPath: "/images/smart-window-technology-og.webp",
     source: "intelligent"
   },
   {

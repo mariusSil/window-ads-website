@@ -392,7 +392,7 @@ All standard pages include these 9 default components:
 {
   "professional": [
     "/images/professional-tools.webp",
-    "/images/professional-installation-og.webp", 
+    "/images/smart-window-technology-og.webp", 
     "/images/professional-window-installation-og.webp"
   ],
   "technical": [

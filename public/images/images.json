@@ -14,7 +14,7 @@
     "/images/maintenance-calendar.webp",
     "/images/maintenance-schedule-calendar.webp",
     "/images/maintenance-schedule-og.webp",
-    "/images/professional-installation-og.webp",
+    "/images/smart-window-technology-og.webp",
     "/images/professional-tools.webp",
     "/images/professional-window-installation-og.webp",
     "/images/smart-technology-og.webp",
@@ -33,7 +33,7 @@
     "/images/window-security-safety-og.webp",
     "/images/winter-care-og.webp",
     "/images/winter-maintenance-og.webp",
-    "/images/professional-installation-og.webp",
+    "/images/smart-window-technology-og.webp",
     "/images/maintenance-calendar.webp"
   ],
   "googleStorageReplacements": {
@@ -145,7 +145,7 @@
         },
         {
           "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/8f7efd5c4d-99bd65ca305ca7ae0c48.png",
-          "localPath": "/images/professional-installation-og.webp",
+          "localPath": "/images/smart-window-technology-og.webp",
           "replaced": true
         },
         {

@@ -141,7 +141,7 @@ Create professional service pages for window-ads-website with conversion-optimiz
 ## 6. Image Mapping
 
 **Repair:** `/images/adjustment-tools.webp`, `/images/professional-tools.webp`
-**Installation:** `/images/professional-installation-og.webp`, `/images/window-replacement-comparison.webp`
+**Installation:** `/images/smart-window-technology-og.webp`, `/images/window-replacement-comparison.webp`
 **Maintenance:** `/images/maintenance-calendar.webp`, `/images/maintenance-calendar.webp`
 **Technology:** `/images/smart-technology.webp`, `/images/energy-efficient-windows-og.webp`
 

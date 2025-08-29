@@ -23,7 +23,7 @@
       "title": "Verslo ir komercinių objektų langų bei durų paslaugos",
       "description": "Profesionalios langų ir durų remonto paslaugos verslui, komerciniams objektams ir institucijoms.",
       "keywords": "komercinių langų remontas, verslo durų servisas, komercinių objektų priežiūra",
-      "ogImage": "/images/professional-installation-og.webp",
+      "ogImage": "/images/smart-window-technology-og.webp",
       "ogImageAlt": "Verslo ir komercinių objektų paslaugos"
     },
     "pl": {
@@ -37,7 +37,7 @@
       "title": "Бізнес та комерційні послуги вікон та дверей",
       "description": "Професійні послуги ремонту вікон та дверей для бізнесу, комерційних об'єктів та інституційних клієнтів. Оптові послуги, контракти на обслуговування та пріоритетна підтримка.",
       "keywords": "ремонт комерційних вікон, сервіс бізнес дверей, обслуговування комерційної нерухомості, ремонт вікон інституцій, оптові послуги ремонту",
-      "ogImage": "/images/professional-installation-og.webp",
+      "ogImage": "/images/smart-window-technology-og.webp",
       "ogImageAlt": "Бізнес та комерційні послуги вікон та дверей",
       "structuredData": {
         "@context": "https://schema.org",
@@ -58,7 +58,7 @@
         "subtext": "From residential homes to large commercial facilities, we provide expert window and door solutions across all sectors with the same commitment to quality and reliability.",
         "keyMessage": "Our experienced team handles projects of any scale - from single-family homes to multi-story office buildings, industrial warehouses, and institutional facilities.",
         "image": {
-          "src": "/images/professional-installation-og.webp",
+          "src": "/images/smart-window-technology-og.webp",
           "alt": "Professional team of window repair technicians working in modern workshop"
         }
       },
@@ -97,7 +97,7 @@
         "subtext": "Nuo gyvenamųjų namų iki didelių komercinių objektų - teikiame ekspertų langų ir durų sprendimus visuose sektoriuose su tuo pačiu kokybės ir patikimumo įsipareigojimu.",
         "keyMessage": "Mūsų patyrusi komanda atlieka bet kokio masto projektus - nuo vienos šeimos namų iki daugiaauksčių biurų pastatų, pramonės sandėlių ir institucinių objektų.",
         "image": {
-          "src": "/images/professional-installation-og.webp",
+          "src": "/images/smart-window-technology-og.webp",
           "alt": "Profesionalūs langų remonto technikai dirba šiuolaikinėje dirbtuvėje"
         }
       },
@@ -136,7 +136,7 @@
         "subtext": "Od domów mieszkalnych po duże obiekty komercyjne - zapewniamy eksperckie rozwiązania okien i drzwi we wszystkich sektorach z tym samym zobowiązaniem do jakości i niezawodności.",
         "keyMessage": "Nasz doświadczony zespół realizuje projekty w każdej skali - od domów jednorodzinnych po wielopiętrowe budynki biurowe, magazyny przemysłowe i obiekty instytucjonalne.",
         "image": {
-          "src": "/images/professional-installation-og.webp",
+          "src": "/images/smart-window-technology-og.webp",
           "alt": "Profesjonalny zespół techników naprawy okien pracujący w nowoczesnym warsztacie"
         }
       },
@@ -175,7 +175,7 @@
         "subtext": "Від житлових будинків до великих комерційних об'єктів - ми надаємо експертні рішення для вікон та дверей у всіх секторах з тим самим зобов'язанням щодо якості та надійності.",
         "keyMessage": "Наша досвідчена команда виконує проекти будь-якого масштабу - від односімейних будинків до багатоповерхових офісних будівель, промислових складів та інституційних об'єктів.",
         "image": {
-          "src": "/images/professional-installation-og.webp",
+          "src": "/images/smart-window-technology-og.webp",
           "alt": "Професійна команда техніків з ремонту вікон працює в сучасній майстерні"
         }
       },
