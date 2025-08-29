@@ -71,16 +71,6 @@ const nextConfig = {
         },
       };
 
-      // Add compression plugin for webpack
-      const CompressionPlugin = require('compression-webpack-plugin');
-      config.plugins.push(
-        new CompressionPlugin({
-          algorithm: 'gzip',
-          test: /\.(js|css|html|svg)$/,
-          threshold: 8192,
-          minRatio: 0.8,
-        })
-      );
     }
 
     return config;
