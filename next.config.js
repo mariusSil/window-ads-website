@@ -11,24 +11,33 @@ const nextConfig = {
   compress: true,
   poweredByHeader: false,
   
+  // Additional compression and performance settings
+  swcMinify: true,
+  productionBrowserSourceMaps: false,
+  
   // Bundle optimization and compression
   experimental: {
     gzipSize: true,
-    webpackBuildWorker: true, // Disable to prevent stack overflow
+    webpackBuildWorker: false, // Disabled to prevent stack overflow
     optimizePackageImports: ['lucide-react', '@radix-ui/react-dialog', '@radix-ui/react-select'],
+    optimizeCss: true,
   },
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
   },
   
-  // Webpack configuration to prevent stack overflow
+  // Webpack configuration to prevent stack overflow and optimize compression
   webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
     // Only apply optimizations in production to avoid dev issues
     if (!dev) {
+      // Enhanced compression and optimization
       config.optimization = {
         ...config.optimization,
+        minimize: true,
         splitChunks: {
           chunks: 'all',
+          minSize: 20000,
+          maxSize: 244000,
           cacheGroups: {
             default: {
               minChunks: 2,
@@ -41,9 +50,26 @@ const nextConfig = {
               priority: -10,
               chunks: 'all',
             },
+            common: {
+              name: 'common',
+              minChunks: 2,
+              priority: -5,
+              reuseExistingChunk: true,
+            },
           },
         },
       };
+
+      // Add compression plugin for webpack
+      const CompressionPlugin = require('compression-webpack-plugin');
+      config.plugins.push(
+        new CompressionPlugin({
+          algorithm: 'gzip',
+          test: /\.(js|css|html|svg)$/,
+          threshold: 8192,
+          minRatio: 0.8,
+        })
+      );
     }
 
     return config;
@@ -103,6 +129,23 @@ const nextConfig = {
         ],
       },
       {
+        source: '/(.*\\.(js|css|html|json|xml|txt))',
+        headers: [
+          {
+            key: 'Content-Encoding',
+            value: 'gzip',
+          },
+          {
+            key: 'Vary',
+            value: 'Accept-Encoding',
+          },
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=86400',
+          },
+        ],
+      },
+      {
         source: '/(.*)',
         headers: [
           {
@@ -116,6 +159,10 @@ const nextConfig = {
           {
             key: 'X-XSS-Protection',
             value: '1; mode=block',
+          },
+          {
+            key: 'Vary',
+            value: 'Accept-Encoding',
           },
         ],
       },
