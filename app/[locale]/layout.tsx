@@ -45,14 +45,18 @@ export default async function RootLayout({
   const localizedFooter = getLocalizedSharedContent(footerContent, validLocale);
 
   return (
-    <ClientLayout
-      validLocale={validLocale}
-      structuredData={structuredData}
-      localizedNavigation={localizedNavigation}
-      localizedCommon={localizedCommon}
-      localizedFooter={localizedFooter}
-    >
-      {children}
-    </ClientLayout>
+    <html lang={validLocale}>
+      <body>
+        <ClientLayout
+          validLocale={validLocale}
+          structuredData={structuredData}
+          localizedNavigation={localizedNavigation}
+          localizedCommon={localizedCommon}
+          localizedFooter={localizedFooter}
+        >
+          {children}
+        </ClientLayout>
+      </body>
+    </html>
   );
 }

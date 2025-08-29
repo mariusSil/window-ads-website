@@ -167,7 +167,7 @@ const Faq = ({ translations, locale, showSearch = false, showCategories = false,
         )}
         
         <div className="mt-12 mx-auto max-w-4xl">
-          <div className="divide-y divide-gray-200">
+          <dl className="divide-y divide-gray-200">
             {filteredItems.map((item: FaqItem, index: number) => {
               const isVisible = showAll || index < maxInitialItems;
               return (
@@ -188,6 +188,8 @@ const Faq = ({ translations, locale, showSearch = false, showCategories = false,
                     <button
                       onClick={() => toggleFaq(index)}
                       className="flex w-full items-start justify-between text-left text-gray-900 hover:text-primary transition-colors"
+                      aria-expanded={openIndex === index}
+                      aria-controls={`faq-answer-${index}`}
                     >
                       <div className="flex items-start gap-3">
                         {item.category && (
@@ -215,7 +217,10 @@ const Faq = ({ translations, locale, showSearch = false, showCategories = false,
                     </button>
                   </dt>
                   {openIndex === index && (
-                    <dd className="mt-4 pr-12 animate-in slide-in-from-top-2 duration-200">
+                    <dd 
+                      id={`faq-answer-${index}`}
+                      className="mt-4 pr-12 animate-in slide-in-from-top-2 duration-200"
+                    >
                       <div className="space-y-4">
                         <p className="text-base leading-7 text-gray-600">{item.answer}</p>
                       </div>
@@ -224,7 +229,7 @@ const Faq = ({ translations, locale, showSearch = false, showCategories = false,
                 </div>
               );
             })}
-          </div>
+          </dl>
           
           {hasMoreItems && !showAll && (
             <div className="flex justify-center mt-2">

@@ -31,9 +31,13 @@ export function RequestTechnicianModal({
 
   return (
     <Dialog open={isOpen} onOpenChange={onClose}>
-      <DialogContent className="sm:max-w-[425px]">
+      <DialogContent 
+        className="sm:max-w-[425px]"
+        aria-labelledby="modal-title"
+        aria-describedby="modal-description"
+      >
         <DialogHeader>
-          <DialogTitle>
+          <DialogTitle id="modal-title">
             {translations?.title || 
              (locale === 'lt' ? 'Kviesti meistrą' : 
               locale === 'pl' ? 'Wezwać technika' : 

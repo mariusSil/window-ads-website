@@ -102,6 +102,10 @@ export function MobileNavigationMenu({
         ${isOpen ? 'translate-x-0' : 'translate-x-full'}
       `}
         style={{ height: 'calc(100vh - env(safe-area-inset-top))' }}
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="mobile-nav-title"
+        aria-describedby="mobile-nav-description"
       >
         <div className="h-full flex flex-col overflow-hidden">
           {/* Fixed Header - Close Button */}
@@ -119,8 +123,12 @@ export function MobileNavigationMenu({
 
           {/* Scrollable Content Area */}
           <div className="flex-1 overflow-y-auto px-6" style={{ scrollBehavior: 'smooth', WebkitOverflowScrolling: 'touch' }}>
+            {/* Hidden title for screen readers */}
+            <h2 id="mobile-nav-title" className="sr-only">Mobile Navigation Menu</h2>
+            <p id="mobile-nav-description" className="sr-only">Navigate to different sections of the website</p>
+            
             {/* Navigation Links */}
-            <nav className="space-y-6 mb-8">
+            <nav className="space-y-6 mb-8" role="navigation" aria-label="Main navigation">
               {navItems.map((item) => {
                 const isSmartNavItem = ['services', 'accessories'].includes(item.key);
                 

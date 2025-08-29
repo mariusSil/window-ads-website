@@ -67,7 +67,7 @@ module.exports = {
         },
         muted: {
           DEFAULT: '#f1f5f9',
-          foreground: '#64748b',
+          foreground: '#475569', // Improved contrast from #64748b to #475569
         },
         neutral: {
           50: '#fafafa',

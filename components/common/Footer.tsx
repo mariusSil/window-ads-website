@@ -139,14 +139,16 @@ export function Footer({ translations, locale, className = '' }: FooterProps) {
               <li className="flex items-center">
                 <Icon name="Phone" className="h-4 w-4 text-primary mr-3" />
                 <a href={`tel:${translations.common?.phone?.replace(/\s/g, '') || footer.contactInfo.phone}`} 
-                   className="text-gray-400 hover:text-white">
+                   className="text-gray-400 hover:text-white"
+                   aria-label={`Call us at ${translations.common?.phone || footer.contactInfo.phone}`}>
                   {translations.common?.phone || footer.contactInfo.phone}
                 </a>
               </li>
               <li className="flex items-center">
                 <Icon name="Mail" className="h-4 w-4 text-primary mr-3" />
                 <a href={`mailto:${translations.common?.email || footer.contactInfo.email}`} 
-                   className="text-gray-400 hover:text-white">
+                   className="text-gray-400 hover:text-white"
+                   aria-label={`Send email to ${translations.common?.email || footer.contactInfo.email}`}>
                   {translations.common?.email || footer.contactInfo.email}
                 </a>
               </li>
@@ -156,12 +158,18 @@ export function Footer({ translations, locale, className = '' }: FooterProps) {
             <div className="flex space-x-2 mb-4">
               <a href={`https://t.me/${translations.common?.redesign?.header?.contactIcons?.telegram || footer.contactInfo.telegram}`} 
                  className="p-2 bg-gray-700 rounded-lg hover:bg-primary transition-colors"
-                 title="Contact via Telegram">
+                 title="Contact via Telegram"
+                 aria-label="Contact us via Telegram"
+                 target="_blank"
+                 rel="noopener noreferrer">
                 <Icon name="Send" className="w-4 h-4 text-white" />
               </a>
               <a href={`https://wa.me/${translations.common?.redesign?.header?.contactIcons?.whatsapp || footer.contactInfo.whatsapp}`} 
                  className="p-2 bg-gray-700 rounded-lg hover:bg-primary transition-colors"
-                 title="Contact via WhatsApp">
+                 title="Contact via WhatsApp"
+                 aria-label="Contact us via WhatsApp"
+                 target="_blank"
+                 rel="noopener noreferrer">
                 <Icon name="MessageSquare" className="w-4 h-4 text-white" />
               </a>
             </div>
@@ -188,7 +196,8 @@ export function Footer({ translations, locale, className = '' }: FooterProps) {
             {/* Privacy Policy Link */}
             <div className="text-center">
               <Link href={`/${locale}/privacy-policy`} 
-                    className="text-gray-400 hover:text-white transition-colors duration-200 text-sm">
+                    className="text-gray-400 hover:text-white transition-colors duration-200 text-sm"
+                    aria-label={`Read our ${footer.legal.privacyPolicy}`}>
                 {footer.legal.privacyPolicy}
               </Link>
             </div>

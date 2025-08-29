@@ -13,17 +13,26 @@ const nextConfig = {
   
   // Additional compression and performance settings
   swcMinify: true,
-  productionBrowserSourceMaps: false,
+  productionBrowserSourceMaps: true,
   
   // Bundle optimization and compression
   experimental: {
     gzipSize: true,
     webpackBuildWorker: false, // Disabled to prevent stack overflow
-    optimizePackageImports: ['lucide-react', '@radix-ui/react-dialog', '@radix-ui/react-select'],
+    optimizePackageImports: [
+      'lucide-react',
+      '@radix-ui/react-dialog',
+      '@radix-ui/react-select',
+      'react-hook-form',
+      'zod'
+    ],
     optimizeCss: true,
+    legacyBrowsers: false,
+    browsersListForSwc: true,
   },
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
+    styledComponents: true,
   },
   
   // Webpack configuration to prevent stack overflow and optimize compression
@@ -76,7 +85,7 @@ const nextConfig = {
   },
   
   images: {
-    formats: ['image/webp', 'image/avif'],
+    formats: ['image/avif', 'image/webp'], // AVIF first for better compression
     remotePatterns: [
       {
         protocol: 'https',
@@ -85,13 +94,13 @@ const nextConfig = {
         pathname: '/**',
       },
     ],
-    deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
+    deviceSizes: [640, 750, 828, 1080, 1200, 1920],
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     unoptimized: false,
-    minimumCacheTTL: 86400, // 24 hours cache for images
+    minimumCacheTTL: 31536000, // 1 year cache
     dangerouslyAllowSVG: false,
     contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;",
-    // loader: 'default', // Invalid property - removed
+    quality: 85, // Optimal balance between quality and size
   },
   
   // Add caching headers for better performance
@@ -129,19 +138,11 @@ const nextConfig = {
         ],
       },
       {
-        source: '/(.*\\.(js|css|html|json|xml|txt))',
+        source: '/api/(.*)',
         headers: [
           {
-            key: 'Content-Encoding',
-            value: 'gzip',
-          },
-          {
-            key: 'Vary',
-            value: 'Accept-Encoding',
-          },
-          {
             key: 'Cache-Control',
-            value: 'public, max-age=86400',
+            value: 'public, max-age=3600, stale-while-revalidate=86400',
           },
         ],
       },

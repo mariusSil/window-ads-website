@@ -51,7 +51,11 @@ export function Header({
         <div className="flex items-center justify-between h-16">
           {/* Logo/Company Name */}
           <div className="flex-shrink-0">
-            <Link href={logo.href || `/${locale}`} className="flex items-center space-x-3">
+            <Link 
+              href={logo.href || `/${locale}`} 
+              className="flex items-center space-x-3"
+              aria-label={`Go to homepage - ${logo.text || translations.common.redesign.logoText}`}
+            >
               {/* Logo Icon */}
               <div className="w-8 h-8 bg-primary/20 rounded-lg flex items-center justify-center">
                 <Icon name="Wrench" className="w-5 h-5 text-primary" />
