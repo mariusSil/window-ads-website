@@ -69,7 +69,7 @@ const allDiscoveredMappings = [
   },
   {
     googleUrl: "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
-    localPath: "/images/winter-window-care.webp",
+    localPath: "/images/maintenance-calendar.webp",
     source: "original"
   },
   
@@ -102,11 +102,6 @@ const allDiscoveredMappings = [
   {
     googleUrl: "https://storage.googleapis.com/uxpilot-auth.appspot.com/a5851dd79c-59e36d06b5fd722dce6a.png",
     localPath: "/images/smart-window-technology.webp",
-    source: "intelligent"
-  },
-  {
-    googleUrl: "https://storage.googleapis.com/uxpilot-auth.appspot.com/092074e752-1185ce1516e031aa1a73.png",
-    localPath: "/images/winter-window-care.webp",
     source: "intelligent"
   },
   {
@@ -158,7 +153,7 @@ const allDiscoveredMappings = [
   // Avatar mappings
   {
     googleUrl: "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-1.jpg",
-    localPath: "/images/winter-window-care.webp",
+    localPath: "/images/maintenance-calendar.webp",
     source: "avatar"
   },
   {

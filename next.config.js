@@ -18,7 +18,7 @@ const nextConfig = {
   // Bundle optimization and compression
   experimental: {
     gzipSize: true,
-    webpackBuildWorker: false, // Disabled to prevent stack overflow
+    webpackBuildWorker: true, // Disabled to prevent stack overflow
     optimizePackageImports: [
       'lucide-react',
       '@radix-ui/react-dialog',

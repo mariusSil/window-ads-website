@@ -403,7 +403,7 @@ All standard pages include these 9 default components:
   "maintenance": [
     "/images/maintenance-calendar.webp",
     "/images/window-maintenance-schedule.webp",
-    "/images/winter-window-care.webp"
+    "/images/maintenance-calendar.webp"
   ],
   "technology": [
     "/images/smart-technology.webp",

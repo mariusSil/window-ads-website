@@ -58,7 +58,7 @@ When creating content for the window-ads-website, you MUST ONLY use images from 
     "/images/window-maintenance-schedule-og.webp"
   ],
   "seasonal_care": [
-    "/images/winter-window-care.webp",
+    "/images/maintenance-calendar.webp",
     "/images/professional-installation-og.webp",
     "/images/winter-care-og.webp",
     "/images/winter-maintenance-og.webp"
@@ -125,7 +125,7 @@ When creating content for the window-ads-website, you MUST ONLY use images from 
 - **OG Image**: `/images/professional-installation-og.webp`
 
 #### Seasonal Topics
-- **Primary**: `/images/winter-window-care.webp`
+- **Primary**: `/images/maintenance-calendar.webp`
 - **Secondary**: `/images/winter-maintenance-og.webp`
 - **OG Image**: `/images/winter-care-og.webp`
 
@@ -232,7 +232,7 @@ Examples:
 ```json
 {
   "/images/maintenance-calendar.webp": "Window maintenance schedule and calendar planning",
-  "/images/winter-window-care.webp": "Winter window care and maintenance procedures",
+  "/images/maintenance-calendar.webp": "Winter window care and maintenance procedures",
   "/images/window-maintenance-schedule.webp": "Professional window maintenance schedule"
 }
 ```

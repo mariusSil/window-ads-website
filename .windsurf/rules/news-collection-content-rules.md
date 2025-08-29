@@ -188,7 +188,7 @@ Create a comprehensive news article for the window-ads-website following the exa
 - `/images/maintenance-calendar.webp`
 - `/images/maintenance-schedule-calendar.webp`
 - `/images/window-maintenance-schedule.webp`
-- `/images/winter-window-care.webp`
+- `/images/maintenance-calendar.webp`
 
 **Technology/Efficiency:**
 - `/images/smart-technology.webp`

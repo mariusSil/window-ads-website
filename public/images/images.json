@@ -34,7 +34,7 @@
     "/images/winter-care-og.webp",
     "/images/winter-maintenance-og.webp",
     "/images/professional-installation-og.webp",
-    "/images/winter-window-care.webp"
+    "/images/maintenance-calendar.webp"
   ],
   "googleStorageReplacements": {
     "description": "Complete record of all Google Storage URLs that were replaced with local WebP images",
@@ -84,7 +84,7 @@
         },
         {
           "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/3a4d7cba09-4bde6cf2e23ae16afc24.png",
-          "localPath": "/images/winter-window-care.webp",
+          "localPath": "/images/maintenance-calendar.webp",
           "replaced": true
         }
       ]
@@ -125,7 +125,7 @@
         },
         {
           "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/092074e752-1185ce1516e031aa1a73.png",
-          "localPath": "/images/winter-window-care.webp",
+          "localPath": "/images/maintenance-calendar.webp",
           "replaced": true
         },
         {
@@ -181,7 +181,7 @@
       "mappings": [
         {
           "googleUrl": "https://storage.googleapis.com/uxpilot-auth.appspot.com/avatars/avatar-1.jpg",
-          "localPath": "/images/winter-window-care.webp",
+          "localPath": "/images/maintenance-calendar.webp",
           "replaced": true
         },
         {
