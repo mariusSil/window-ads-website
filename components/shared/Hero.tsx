@@ -110,7 +110,7 @@ export function Hero({
           transform: transform,
           willChange: 'transform'
         }}
-      />
+        />
       
       {/* Gradient Overlay */}
       <div 

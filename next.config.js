@@ -26,7 +26,7 @@ const nextConfig = {
       'react-hook-form',
       'zod'
     ],
-    optimizeCss: true,
+    optimizeCss: false,
   },
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',

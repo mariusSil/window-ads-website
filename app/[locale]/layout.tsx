@@ -28,6 +28,9 @@ export const metadata: Metadata = {
     ],
   },
   manifest: '/manifest.webmanifest',
+  other: {
+    'content-language': 'en,lt,pl,uk',
+  },
 };
 
 
@@ -52,11 +55,19 @@ export default async function RootLayout({
   const localizedFooter = getLocalizedSharedContent(footerContent, validLocale);
 
   return (
-    <html lang={validLocale}>
+    <html lang={validLocale} dir="ltr">
       <head>
+        <meta charSet="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         <link rel="dns-prefetch" href="https://storage.googleapis.com" />
+        <link 
+          rel="preload" 
+          as="image" 
+          href="https://storage.googleapis.com/uxpilot-auth.appspot.com/d13f0792a2-b2486b2cccf0c1039aa4.png"
+          fetchPriority="high"
+        />
       </head>
       <body className={inter.className}>
         <ClientLayout

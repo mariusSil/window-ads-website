@@ -113,10 +113,11 @@ export function MobileNavigationMenu({
             <div className="flex justify-end mb-4">
               <button
                 onClick={onClose}
-                className="p-2 text-gray-600 hover:text-primary transition-colors rounded-md"
+                className="p-2 text-gray-600 hover:text-primary transition-colors rounded-md focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
                 aria-label="Close navigation menu"
+                autoFocus
               >
-                <Icon name="X" className="w-6 h-6" />
+                <Icon name="X" className="w-6 h-6" aria-hidden="true" />
               </button>
             </div>
           </div>
@@ -137,7 +138,7 @@ export function MobileNavigationMenu({
                     <button
                       key={item.key}
                       onClick={() => handleSmartNavigation(item.key, item.href)}
-                      className="block w-full text-left text-lg font-medium text-gray-700 hover:text-primary transition-colors py-2 border-b border-gray-100 last:border-b-0"
+                      className="block w-full text-left text-lg font-medium text-gray-700 hover:text-primary focus:text-primary focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 transition-colors py-2 border-b border-gray-100 last:border-b-0 rounded-sm"
                       aria-label={`Navigate to ${item.label}`}
                     >
                       {item.label}
