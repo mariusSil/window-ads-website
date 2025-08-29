@@ -6,7 +6,7 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
-  output: 'standalone',
+  // output: 'standalone', // Disabled for Vercel deployment
   // Enable compression for better performance
   compress: true,
   poweredByHeader: false,
@@ -65,7 +65,7 @@ const nextConfig = {
     minimumCacheTTL: 86400, // 24 hours cache for images
     dangerouslyAllowSVG: false,
     contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;",
-    loader: 'default', // Use Next.js built-in image optimization
+    // loader: 'default', // Invalid property - removed
   },
   
   // Add caching headers for better performance
