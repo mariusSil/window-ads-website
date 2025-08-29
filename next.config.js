@@ -27,13 +27,15 @@ const nextConfig = {
       'zod'
     ],
     optimizeCss: true,
-    legacyBrowsers: false,
-    browsersListForSwc: true,
   },
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
-    styledComponents: true,
   },
+  
+  // Performance optimizations
+  reactStrictMode: true,
+  swcMinify: true,
+  generateEtags: false,
   
   // Webpack configuration to prevent stack overflow and optimize compression
   webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
@@ -100,7 +102,8 @@ const nextConfig = {
     minimumCacheTTL: 31536000, // 1 year cache
     dangerouslyAllowSVG: false,
     contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;",
-    quality: 85, // Optimal balance between quality and size
+    loader: 'default',
+    // quality: 85, // Not supported in Next.js 14
   },
   
   // Add caching headers for better performance
