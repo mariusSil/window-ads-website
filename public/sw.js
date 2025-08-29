@@ -1,15 +1,20 @@
 const CACHE_NAME = 'window-ads-v1';
 const urlsToCache = [
   '/',
+  '/favicon.ico',
+  '/icon.svg',
   '/images/logo.webp',
-  '/_next/static/css/',
-  '/_next/static/chunks/',
 ];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME)
-      .then((cache) => cache.addAll(urlsToCache))
+      .then((cache) => {
+        return cache.addAll(urlsToCache).catch((error) => {
+          console.warn('Cache addAll failed:', error);
+          // Continue installation even if caching fails
+        });
+      })
   );
 });
 
