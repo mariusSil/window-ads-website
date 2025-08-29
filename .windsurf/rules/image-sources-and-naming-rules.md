@@ -59,7 +59,7 @@ When creating content for the window-ads-website, you MUST ONLY use images from 
   ],
   "seasonal_care": [
     "/images/winter-window-care.webp",
-    "/images/winter-window-care-og.webp",
+    "/images/professional-installation-og.webp",
     "/images/winter-care-og.webp",
     "/images/winter-maintenance-og.webp"
   ]
