@@ -18,26 +18,7 @@ interface EmailResult {
 
 // Create transporter with fallback configuration
 function createTransporter() {
-  // Log environment variable presence (not values for security)
-  console.log('[EMAIL] Environment check:', {
-    SMTP_HOST: !!process.env.SMTP_HOST,
-    SMTP_PORT: !!process.env.SMTP_PORT,
-    SMTP_SECURE: process.env.SMTP_SECURE,
-    SMTP_USER: !!process.env.SMTP_USER,
-    SMTP_PASS: !!process.env.SMTP_PASS,
-    FROM_EMAIL: !!process.env.FROM_EMAIL,
-    BUSINESS_EMAIL: !!process.env.BUSINESS_EMAIL,
-  });
-
   const useSmtp = !!process.env.SMTP_HOST;
-
-  console.log('[EMAIL] Transporter config:', {
-    mode: useSmtp ? 'SMTP' : 'sendmail',
-    host: useSmtp ? process.env.SMTP_HOST : 'N/A',
-    port: useSmtp ? parseInt(process.env.SMTP_PORT || '587') : 'N/A',
-    secure: useSmtp ? process.env.SMTP_SECURE === 'true' : 'N/A',
-    hasAuth: useSmtp ? !!process.env.SMTP_USER : false,
-  });
 
   if (useSmtp) {
     return nodemailer.createTransport({
@@ -59,18 +40,8 @@ function createTransporter() {
 }
 
 export async function sendEmail(options: EmailOptions): Promise<EmailResult> {
-  console.log('[EMAIL] sendEmail called:', {
-    to: options.to,
-    subject: options.subject,
-    hasHtml: !!options.html,
-    hasText: !!options.text,
-    replyTo: options.replyTo,
-  });
-
   try {
-    console.log('[EMAIL] Creating transporter...');
     const transporter = createTransporter();
-    console.log('[EMAIL] Transporter created successfully');
     
     const mailOptions = {
       from: process.env.FROM_EMAIL || 'noreply@langu-remontas.lt',
@@ -87,33 +58,14 @@ export async function sendEmail(options: EmailOptions): Promise<EmailResult> {
       }
     };
 
-    console.log('[EMAIL] Sending email with options:', {
-      from: mailOptions.from,
-      to: mailOptions.to,
-      subject: mailOptions.subject,
-    });
-
     const result = await (transporter.sendMail as (options: typeof mailOptions) => Promise<{ messageId: string; response?: string; accepted?: string[]; rejected?: string[] }>)(mailOptions);
-    
-    console.log('[EMAIL] Email sent successfully:', {
-      messageId: result.messageId,
-      response: result.response,
-      accepted: result.accepted,
-      rejected: result.rejected,
-    });
 
     return {
       success: true,
       messageId: result.messageId
     };
   } catch (error) {
-    console.error('[EMAIL] Email send FAILED:', {
-      errorName: error instanceof Error ? error.name : 'Unknown',
-      errorMessage: error instanceof Error ? error.message : String(error),
-      errorStack: error instanceof Error ? error.stack : undefined,
-      errorCode: (error as NodeJS.ErrnoException).code,
-      errorResponse: (error as { response?: string }).response,
-    });
+    console.error('Email send failed:', error);
     return {
       success: false,
       error: error instanceof Error ? error.message : 'Unknown email error'
@@ -123,34 +75,16 @@ export async function sendEmail(options: EmailOptions): Promise<EmailResult> {
 
 // Send business notification email
 export async function sendBusinessNotification(data: UnifiedEmailData): Promise<EmailResult> {
-  console.log('[EMAIL] sendBusinessNotification called:', {
-    formType: data.formType,
-    locale: data.locale,
-    hasEmail: !!data.email,
-    hasPhone: !!data.phone,
-    name: data.name,
-  });
-
   const businessEmail = process.env.BUSINESS_EMAIL || 'info@langu-remontas.lt';
-  console.log('[EMAIL] Business email target:', businessEmail);
-
   const template = generateBusinessEmailTemplate(data);
-  console.log('[EMAIL] Template generated:', {
-    subject: template.subject,
-    htmlLength: template.html.length,
-    textLength: template.text.length,
-  });
   
-  const result = await sendEmail({
+  return sendEmail({
     to: businessEmail,
     subject: template.subject,
     html: template.html,
     text: template.text,
     replyTo: data.email || undefined
   });
-
-  console.log('[EMAIL] sendBusinessNotification result:', result);
-  return result;
 }
 
 // Send customer confirmation email (optional)
