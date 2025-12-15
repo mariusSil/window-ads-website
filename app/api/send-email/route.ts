@@ -4,6 +4,9 @@ import { checkForSpam, checkForDuplicate } from '@/lib/email/spam-protection';
 import { processFormData } from '@/lib/email/validation';
 import { sendBusinessNotification, sendCustomerConfirmation } from '@/lib/email/email-service';
 
+// Force dynamic execution to ensure logs appear in Vercel
+export const dynamic = 'force-dynamic';
+
 // Helper to get client IP
 function getClientIP(request: NextRequest): string {
   const forwarded = request.headers.get('x-forwarded-for');

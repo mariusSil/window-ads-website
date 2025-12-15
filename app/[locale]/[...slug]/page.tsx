@@ -344,12 +344,12 @@ export default async function DynamicPage({ params }: PageProps) {
           "name": "Langu Remontas",
           "logo": {
             "@type": "ImageObject",
-            "url": `${process.env.NEXT_PUBLIC_BASE_URL || 'https://langu-remontas.com'}/images/logo.png`
+            "url": `${process.env.NEXT_PUBLIC_BASE_URL || 'https://langu-remontas.lt'}/images/logo.png`
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": `${process.env.NEXT_PUBLIC_BASE_URL || 'https://langu-remontas.com'}/${locale}/${content.slugs?.[locale] || ''}`
+          "@id": `${process.env.NEXT_PUBLIC_BASE_URL || 'https://langu-remontas.lt'}/${locale}/${content.slugs?.[locale] || ''}`
         }
       };
 
@@ -432,7 +432,7 @@ export default async function DynamicPage({ params }: PageProps) {
       "provider": {
         "@type": "Organization",
         "name": "Langu Remontas",
-        "url": process.env.NEXT_PUBLIC_BASE_URL || 'https://langu-remontas.com'
+        "url": process.env.NEXT_PUBLIC_BASE_URL || 'https://langu-remontas.lt'
       }
     } : null;
 

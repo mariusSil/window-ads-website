@@ -73,7 +73,7 @@ export async function sendEmail(options: EmailOptions): Promise<EmailResult> {
     console.log('[EMAIL] Transporter created successfully');
     
     const mailOptions = {
-      from: process.env.FROM_EMAIL || 'noreply@langu-remontas.com',
+      from: process.env.FROM_EMAIL || 'noreply@langu-remontas.lt',
       to: options.to,
       subject: options.subject,
       html: options.html,
@@ -131,7 +131,7 @@ export async function sendBusinessNotification(data: UnifiedEmailData): Promise<
     name: data.name,
   });
 
-  const businessEmail = process.env.BUSINESS_EMAIL || 'info@langu-remontas.com';
+  const businessEmail = process.env.BUSINESS_EMAIL || 'info@langu-remontas.lt';
   console.log('[EMAIL] Business email target:', businessEmail);
 
   const template = generateBusinessEmailTemplate(data);
@@ -227,7 +227,7 @@ function generateBusinessEmailTemplate(data: UnifiedEmailData): {
       <div class="container">
         <div class="header">
           <h1>🔧 ${isRequestTechnician ? 'Technician Request' : isChatMessage ? 'Chat Message' : 'Contact Form'}</h1>
-          <p>New submission from langu-remontas.com</p>
+          <p>New submission from langu-remontas.lt</p>
         </div>
         
         <div class="content">
@@ -298,7 +298,7 @@ function generateBusinessEmailTemplate(data: UnifiedEmailData): {
         </div>
         
         <div class="footer">
-          <p>This email was automatically generated from the langu-remontas.com website.</p>
+          <p>This email was automatically generated from the langu-remontas.lt website.</p>
           <p>Please respond to the customer within 2 hours for best conversion rates.</p>
         </div>
       </div>
@@ -325,7 +325,7 @@ Submission Details:
 ${isRequestTechnician ? `- Privacy Policy: ${data.privacy ? 'Accepted' : 'Not accepted'}` : ''}
 
 ---
-This email was automatically generated from langu-remontas.com
+This email was automatically generated from langu-remontas.lt
 Please respond to the customer within 2 hours for best conversion rates.
   `.trim();
   
@@ -451,8 +451,8 @@ function generateCustomerConfirmationTemplate(data: UnifiedEmailData): {
           <div class="contact-info">
             <h3>Contact Information:</h3>
             <p>📞 Phone: +370 123 456 789</p>
-            <p>📧 Email: info@langu-remontas.com</p>
-            <p>🌐 Website: langu-remontas.com</p>
+            <p>📧 Email: info@langu-remontas.lt</p>
+            <p>🌐 Website: langu-remontas.lt</p>
           </div>
           
           <p>Best regards,<br>
@@ -478,8 +478,8 @@ ${messages.next}
 
 Contact Information:
 Phone: +370 123 456 789
-Email: info@langu-remontas.com
-Website: langu-remontas.com
+Email: info@langu-remontas.lt
+Website: langu-remontas.lt
 
 Best regards,
 Langu Remontas Team
