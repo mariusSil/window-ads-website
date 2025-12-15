@@ -62,8 +62,8 @@ function logRequest(data: {
     ...data
   };
   
-  // In production, you might want to use a proper logging service
-  // Email API Request logged
+  // Log to console for Vercel logs visibility
+  console.log('[EMAIL-API]', JSON.stringify(logEntry));
 }
 
 export async function POST(request: NextRequest) {
@@ -189,14 +189,23 @@ export async function POST(request: NextRequest) {
     }
     
     // Send business notification email
+    console.log('[EMAIL-API] Attempting to send business notification...');
     const businessEmailResult = await sendBusinessNotification(validatedData);
+    console.log('[EMAIL-API] Business notification result:', JSON.stringify(businessEmailResult));
+    
     if (!businessEmailResult.success) {
+      console.error('[EMAIL-API] Business email FAILED:', {
+        error: businessEmailResult.error,
+        formType: validatedData.formType,
+        locale: validatedData.locale,
+      });
+      
       logRequest({
         ip: clientIP,
         formType: validatedData.formType,
         locale: validatedData.locale,
         success: false,
-        error: 'Email delivery failed',
+        error: `Email delivery failed: ${businessEmailResult.error}`,
         spamScore: spamCheck.score,
         processingTime: Date.now() - startTime
       });
